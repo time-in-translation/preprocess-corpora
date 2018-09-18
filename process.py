@@ -28,15 +28,23 @@ def fix_hyphenization(line):
 def replace_quotes(language, line):
     """Replaces quote symbols with the ones suited for parsing"""
     if language == 'de':
-        line = line.replace(u'\u00AB', '"')  # left-pointing double guillemet
-        line = line.replace(u'\u00BB', '"')  # right-pointing double guillemet
-        line = line.replace(u'\u2039', '\'')  # left-pointing single guillemet
-        line = line.replace(u'\u203A', '\'')  # right-pointing single guillemet
+        line = line.replace(u'\u00AB', '"')  # left-pointing double guillemet (replace with quotation mark)
+        line = line.replace(u'\u00BB', '"')  # right-pointing double guillemet (replace with quotation mark)
+        line = line.replace(u'\u2039', '\'')  # left-pointing single guillemet (replace with apostrophe)
+        line = line.replace(u'\u203A', '\'')  # right-pointing single guillemet (replace with apostrophe)
+    if language == 'nl':
+        line = line.replace(u'\u2018', '\'')  # left single quotation mark (replace with apostrophe)
+        line = line.replace(u'\u2019', '\'')  # left single quotation mark (replace with apostrophe)
+        line = line.replace(u'\'\'', '\'')  # double apostrophe (replace with single apostrophe)
+        # apostrophe followed by a capital, dot, space or end of the line (replace with quotation mark)
+        line = re.sub(r'\'([A-Z]|\.|\s|$)', r'"\1', line)
+        line = re.sub(r'(,\s)\'', r'\1"', line)  # apostrophe preceded by a comma (replace with quotation mark)
     return line
 
 
 def replace_common_errors(language, line):
     """Replaces some common errors that occurred during OCR"""
+    line = line.replace(u'—', '-')
     if language == 'it':
         line = line.replace('E\'', u'È')
     return line
