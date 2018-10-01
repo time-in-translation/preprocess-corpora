@@ -11,10 +11,11 @@ from docx import Document
 # Languages
 GERMAN = 'de'
 ENGLISH = 'en'
-DUTCH = 'nl'
-ITALIAN = 'it'
+SPANISH = 'es'
 FRENCH = 'fr'
-LANGUAGES = [GERMAN, ENGLISH, DUTCH, ITALIAN, FRENCH]
+ITALIAN = 'it'
+DUTCH = 'nl'
+LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH]
 
 
 def normalize_apostrophes(line):
@@ -51,6 +52,8 @@ def replace_quotes(language, line):
         line = line.replace(u'\u00BB', '"')  # right-pointing double guillemet (replace with quotation mark)
         line = line.replace(u'\u2039', '\'')  # left-pointing single guillemet (replace with apostrophe)
         line = line.replace(u'\u203A', '\'')  # right-pointing single guillemet (replace with apostrophe)
+        line = line.replace('<', '\'')  # less-than sign (replace with apostrophe)
+        line = line.replace('>', '\'')  # greater-than sign (replace with apostrophe)
     if language in [DUTCH, FRENCH]:
         line = line.replace(u'\u2018', '\'')  # left single quotation mark (replace with apostrophe)
         line = line.replace(u'\u2019', '\'')  # left single quotation mark (replace with apostrophe)
