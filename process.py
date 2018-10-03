@@ -33,6 +33,11 @@ def remove_double_spaces(line):
     return re.sub(r'\s+', ' ', line).strip()
 
 
+def fix_period_spacing(line):
+    """Fixes spacing for periods"""
+    return re.sub(r'(\w)\s?\.(\w)', r'\1. \2', line).strip()
+
+
 def fix_hyphenization(language, line):
     """Remove superfluous spaces in hyphenized words"""
     line = re.sub(r'(\w)-\s(\w)', r'\1-\2', line)
@@ -82,6 +87,7 @@ def process_file(file_in, file_out, language):
             if line.strip():
                 line = remove_double_spaces(line)
                 line = remove_soft_hyphens(line)
+                line = fix_period_spacing(line)
                 line = fix_hyphenization(language, line)
                 line = replace_quotes(language, line)
                 line = replace_common_errors(language, line)
