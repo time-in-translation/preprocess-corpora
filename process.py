@@ -15,7 +15,8 @@ SPANISH = 'es'
 FRENCH = 'fr'
 ITALIAN = 'it'
 DUTCH = 'nl'
-LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH]
+RUSSIAN = 'ru'
+LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH, RUSSIAN]
 
 
 def normalize_apostrophes(line):
@@ -68,12 +69,22 @@ def replace_quotes(language, line):
         line = re.sub(r'\'([A-Z]|\.|\s|$)', r'"\1', line)
         line = re.sub(r'(,\s)\'', r'\1"', line)  # apostrophe preceded by a comma (replace with quotation mark)
         line = line.replace('"t ', '\'t ')  # "t should be converted back to 't
+    if language == RUSSIAN:
+        line = line.replace('""', '"')  # Replace double quotation marks by a single one
+        line = re.sub(r'(^|\.\s?)-\s?', r'\1', line)  # Remove hyphens at the start of the line or after punctuation
+        line = re.sub(r'([.,?!])\s(\"(?:\s|$))', r'\1\2', line)  # Remove spaces between punctuation and quotation mark
+        line = re.sub(r'([.,?!])\s?(\")-', r'\1\2 -', line)  # Switch (or create) spacing between quotation and hyphens
+        line = re.sub(r'(^\")\s', r'\1', line)  # Replace superfluous spaces at the start of the line
     return line
 
 
 def replace_common_errors(language, line):
     """Replaces some common errors that occurred during OCR"""
-    line = line.replace(u'—', '-')
+    # Replace unicode dashes to hyphen-minus
+    line = line.replace(u'\u2012', '-')  # figure dash
+    line = line.replace(u'\u2013', '-')  # en dash
+    line = line.replace(u'\u2014', '-')  # em dash
+
     line = line.replace(u'…', '...')
     if language == ITALIAN:
         line = line.replace('E\'', u'È')
@@ -87,10 +98,10 @@ def process_file(file_in, file_out, language):
             if line.strip():
                 line = remove_double_spaces(line)
                 line = remove_soft_hyphens(line)
+                line = replace_common_errors(language, line)
                 line = fix_period_spacing(line)
                 line = fix_hyphenization(language, line)
                 line = replace_quotes(language, line)
-                line = replace_common_errors(language, line)
                 if language in [ENGLISH, DUTCH, GERMAN]:
                     line = normalize_apostrophes(line)
 
