@@ -63,6 +63,8 @@ def replace_quotes(language, line):
     if language in [DUTCH, FRENCH]:
         line = line.replace(u'\u2018', '\'')  # left single quotation mark (replace with apostrophe)
         line = line.replace(u'\u2019', '\'')  # left single quotation mark (replace with apostrophe)
+    if language == FRENCH:
+        line = re.sub(r'\s\'', '\'', line)  # Remove superfluous spacing before apostrophes
     if language == DUTCH:
         line = line.replace(u'\'\'', '\'')  # double apostrophe (replace with single apostrophe)
         # apostrophe followed by a capital, dot, space or end of the line (replace with quotation mark)
