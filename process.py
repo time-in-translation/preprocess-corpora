@@ -17,7 +17,8 @@ ITALIAN = 'it'
 DUTCH = 'nl'
 RUSSIAN = 'ru'
 CATALAN = 'ca'
-LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN]
+SWEDISH = 'sv'
+LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN, SWEDISH]
 
 
 def normalize_apostrophes(line):
@@ -63,7 +64,7 @@ def replace_quotes(language, line):
         line = line.replace(u'\u203A', '\'')  # right-pointing single guillemet (replace with apostrophe)
         line = line.replace('<', '\'')  # less-than sign (replace with apostrophe)
         line = line.replace('>', '\'')  # greater-than sign (replace with apostrophe)
-    if language in [DUTCH, FRENCH, CATALAN]:
+    if language in [DUTCH, FRENCH, CATALAN, SWEDISH]:
         line = line.replace(u'\u201C', '"')  # left double quotation mark (replace with quotation mark)
         line = line.replace(u'\u201D', '"')  # right double quotation mark (replace with quotation mark)
         line = line.replace(u'\u2018', '\'')  # left single quotation mark (replace with apostrophe)
