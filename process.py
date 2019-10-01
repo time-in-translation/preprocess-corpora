@@ -102,6 +102,9 @@ def replace_common_errors(language, line):
     line = line.replace(u'…', '...')
     if language == ITALIAN:
         line = line.replace('E\'', u'È')
+        line = line.replace('Be\'', u'Bè')
+        line = line.replace('be\'', u'bè')
+        line = line.replace('po\'', u'pò')
     return line
 
 
@@ -150,8 +153,8 @@ def process_folder(folder_in, folder_out, language, from_word=False, tokenize=Fa
         process_file(file_in, file_out, language)
 
         if tokenize:
-            file_xml = os.path.join(folder_out, os.path.splitext(os.path.basename(file_in))[0] + '.xml')
-            command = UPLUG_TOKENIZE.format(language=language, file_in=file_in, file_xml=file_xml)
+            file_xml = os.path.join(folder_out, os.path.splitext(os.path.basename(file_out))[0] + '.xml')
+            command = UPLUG_TOKENIZE.format(language=language, file_in=file_out, file_xml=file_xml)
             subprocess.call(command, shell=True, stdout=open(os.devnull, 'w'), stderr=subprocess.STDOUT)
 
 
