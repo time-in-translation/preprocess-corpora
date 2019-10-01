@@ -4,6 +4,7 @@ import codecs
 import glob
 import os
 import re
+import subprocess
 
 import click
 from docx import Document
@@ -20,10 +21,13 @@ CATALAN = 'ca'
 SWEDISH = 'sv'
 LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN, SWEDISH]
 
+# Uplug tokenize command
+UPLUG_TOKENIZE = 'uplug -f pre/basic pre/{language}/basic -in {file_in} > {file_xml}'
+
 
 def normalize_apostrophes(line):
     """Converts left single quotation marks to apostrophes if there's a lowercase letter behind it"""
-    return re.sub(ur'\u2019(\w)', ur'\u0027\1', line)
+    return re.sub(r'\u2019(\w)', r'\u0027\1', line)
 
 
 def remove_soft_hyphens(line):
@@ -91,9 +95,9 @@ def replace_quotes(language, line):
 def replace_common_errors(language, line):
     """Replaces some common errors that occurred during OCR"""
     # Replace unicode dashes to hyphen-minus
-    line = re.sub(ur'\s?\u2012\s?', ' - ', line)  # figure dash
-    line = re.sub(ur'\s?\u2013\s?', ' - ', line)  # en dash
-    line = re.sub(ur'\s?\u2014\s?', ' - ', line)  # em dash
+    line = re.sub(r'\s?\u2012\s?', ' - ', line)  # figure dash
+    line = re.sub(r'\s?\u2013\s?', ' - ', line)  # en dash
+    line = re.sub(r'\s?\u2014\s?', ' - ', line)  # em dash
 
     line = line.replace(u'…', '...')
     if language == ITALIAN:
@@ -129,7 +133,8 @@ def process_file(file_in, file_out, language):
 @click.argument('folder_out', type=click.Path(exists=True))
 @click.argument('language', type=click.Choice(LANGUAGES))
 @click.option('--from_word', is_flag=True)
-def process_folder(folder_in, folder_out, language, from_word=False):
+@click.option('--tokenize', is_flag=True)
+def process_folder(folder_in, folder_out, language, from_word=False, tokenize=False):
     if from_word:
         for file_in in glob.glob(os.path.join(folder_in, '*.docx')):
             document = Document(file_in)
@@ -143,6 +148,11 @@ def process_folder(folder_in, folder_out, language, from_word=False):
     for file_in in glob.glob(os.path.join(folder_in, '*.txt')):
         file_out = os.path.join(folder_out, os.path.basename(file_in))
         process_file(file_in, file_out, language)
+
+        if tokenize:
+            file_xml = os.path.join(folder_out, os.path.splitext(os.path.basename(file_in))[0] + '.xml')
+            command = UPLUG_TOKENIZE.format(language=language, file_in=file_in, file_xml=file_xml)
+            subprocess.call(command, shell=True, stdout=open(os.devnull, 'w'), stderr=subprocess.STDOUT)
 
 
 if __name__ == "__main__":
