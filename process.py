@@ -19,7 +19,8 @@ DUTCH = 'nl'
 RUSSIAN = 'ru'
 CATALAN = 'ca'
 SWEDISH = 'sv'
-LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN, SWEDISH]
+PORTUGUESE = 'pt'
+LANGUAGES = [GERMAN, ENGLISH, SPANISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN, SWEDISH, PORTUGUESE]
 
 # Uplug tokenize command
 UPLUG_TOKENIZE = 'uplug -f pre/basic pre/{language}/basic -in {file_in} > {file_xml}'
