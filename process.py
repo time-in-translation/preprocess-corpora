@@ -4,6 +4,7 @@ import codecs
 import glob
 import os
 import re
+import shlex
 import subprocess
 
 import click
@@ -155,7 +156,9 @@ def process_folder(folder_in, folder_out, language, from_word=False, tokenize=Fa
 
         if tokenize:
             file_xml = os.path.join(folder_out, os.path.splitext(os.path.basename(file_out))[0] + '.xml')
-            command = UPLUG_TOKENIZE.format(language=language, file_in=file_out, file_xml=file_xml)
+            command = UPLUG_TOKENIZE.format(language=language,
+                                            file_in=shlex.quote(file_out),
+                                            file_xml=shlex.quote(file_xml))
             subprocess.call(command, shell=True, stdout=open(os.devnull, 'w'), stderr=subprocess.STDOUT)
 
 
