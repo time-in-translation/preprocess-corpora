@@ -1,5 +1,6 @@
 # preprocess-corpora
-Python script to preprocess raw text. Requires Python 3.
+
+Python script to preprocess raw text and then to tokenize and tag the text in the [XML format used in OPUS](http://opus.nlpl.eu/). Requires Python 3.
 
 ## Usage
 
@@ -12,10 +13,12 @@ Usage:
 Options:
 
 - `--from_word` to use .docx-files as input, rather than .txt-files.
-- `--tokenize` to tokenize the files (requires installation of Uplug (and language support in Uplug)).  
+- `--tokenize` to tokenize the files (requires installation of Uplug (and language support in Uplug)).
+- `--tag` to tag the files (requires installation of TreeTagger (and language support in TreeTagger))
 
 ## Supported languages
 
+### Full support
 - German (de)
 - English (en)
 - Spanish (es)
@@ -23,5 +26,7 @@ Options:
 - Italian (it)
 - Dutch (nl)
 - Russian (ru)
-- Catalan (ca)
-- Swedish (sv)
+
+### Limited support
+- Catalan (ca) [not supported in Uplug/TreeTagger]
+- Swedish (sv) [not supported in Uplug/TreeTagger]
