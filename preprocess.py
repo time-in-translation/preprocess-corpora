@@ -10,7 +10,7 @@ from constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN,
 
 def normalize_apostrophes(line):
     """Converts left single quotation marks to apostrophes if there's a lowercase letter behind it"""
-    return re.sub(r'\u2019(\w)', r'\u0027\1', line)
+    return re.sub(r'\u2019(\w)', r"'\1", line)
 
 
 def remove_soft_hyphens(line):
@@ -93,7 +93,7 @@ def replace_common_errors(language, line):
 
 def preprocess_single(file_in, file_out, language):
     lines = []
-    with codecs.open(file_in, 'rb', 'utf-8') as f_in:
+    with codecs.open(file_in, 'r', 'utf-8') as f_in:
         for line in f_in:
             if line.strip():
                 line = remove_double_spaces(line)
@@ -107,7 +107,7 @@ def preprocess_single(file_in, file_out, language):
 
                 lines.append(line)
 
-    with codecs.open(file_out, 'wb', 'utf-8') as f_out:
+    with codecs.open(file_out, 'w', 'utf-8') as f_out:
         for line in lines:
             f_out.write(line)
             f_out.write('\n')
@@ -118,7 +118,7 @@ def word2txt(folder_in):
     for file_in in glob.glob(os.path.join(folder_in, '*.docx')):
         document = Document(file_in)
         file_txt = os.path.splitext(file_in)[0] + '.txt'
-        with codecs.open(file_txt, 'wb', 'utf-8') as f_out:
+        with codecs.open(file_txt, 'w', 'utf-8') as f_out:
             full_text = []
             for paragraph in document.paragraphs:
                 full_text.append(paragraph.text)
