@@ -1,14 +1,17 @@
 # preprocess-corpora
 
-This repository contains scripts to preprocess and sentence-align (parallel) corpora.
+This repository contains Python scripts to preprocess and sentence-align parallel (or monolingual) corpora. 
+The repository heavily relies upon [Uplug](https://bitbucket.org/tiedemann/uplug/src/master/) and (in lesser respect) [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) to work. 
 
 ## Installation
 
-First, install the requirements via:
+First, make sure to have installed [Uplug](https://bitbucket.org/tiedemann/uplug/src/master/) and [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/).
+
+Then, install the requirements via:
 
     $ pip install -r requirements.txt
 
-Then, create the executables `preprocess` and `align` via:    
+Finally, create the executables `preprocess` and `align` via:    
  
     $ pip install --editable .
 
@@ -16,7 +19,7 @@ Then, create the executables `preprocess` and `align` via:
 
 ### Preprocessing
 
-Python script to preprocess raw text and then to tokenize and tag the text in the [XML format used in OPUS](http://opus.nlpl.eu/). Requires Python 3.
+The `preprocess` script allows to preprocess raw text and then to tokenize and tag the text in the [XML format used in OPUS](http://opus.nlpl.eu/).
 
 Run `preprocess` to process all unformatted .txt-files in a folder. 
 
@@ -33,7 +36,7 @@ Options:
 
 ### Alignment
 
-Run `align` to align .xml-files in a working directory. Requires installation of Uplug.
+Run `align` to sentence-align .xml-files in a working directory. Requires installation of Uplug.
 
 Usage:
 
@@ -54,3 +57,13 @@ Usage:
 #### Limited support
 - Catalan (ca) [not supported in Uplug/TreeTagger]
 - Swedish (sv) [not supported in Uplug/TreeTagger]
+
+## Tests
+
+Run the tests via
+
+`python -m unittest discover`
+
+In `preprocess_corpora/tests/data/alice`, you can find the example corpus used in the tests.
+This corpus was compiled from Lewis Carroll's Alice in Wonderland and its translations into German, French, and Italian.
+The source files are available through [Project Gutenberg](http://www.gutenberg.org/).
