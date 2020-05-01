@@ -5,7 +5,7 @@ import re
 
 from docx import Document
 
-from constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN, SWEDISH
+from ..core.constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN, SWEDISH
 
 
 def normalize_apostrophes(line):

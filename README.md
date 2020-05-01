@@ -2,17 +2,27 @@
 
 This repository contains scripts to preprocess and sentence-align (parallel) corpora.
 
+## Installation
+
+First, install the requirements via:
+
+    $ pip install -r requirements.txt
+
+Then, create the executables `preprocess` and `align` via:    
+ 
+    $ pip install --editable .
+
 ## Usage
 
 ### Preprocessing
 
 Python script to preprocess raw text and then to tokenize and tag the text in the [XML format used in OPUS](http://opus.nlpl.eu/). Requires Python 3.
 
-Run `python process.py` to process all unformatted .txt-files in a folder. 
+Run `preprocess` to process all unformatted .txt-files in a folder. 
 
 Usage:
 
-`process.py [OPTIONS] FOLDER_IN FOLDER_OUT [de|en|es|fr|it|nl|ru|ca|sv|pt]`
+`process [OPTIONS] FOLDER_IN FOLDER_OUT [de|en|es|fr|it|nl|ru|ca|sv|pt]`
 
 Options:
 
@@ -23,11 +33,11 @@ Options:
 
 ### Alignment
 
-Run `python align.py` to align .xml-files in a working directory. Requires installation of Uplug.
+Run `align` to align .xml-files in a working directory. Requires installation of Uplug.
 
 Usage:
 
-`align.py [OPTIONS] WORKING_DIR [[de|en|es|fr|it|nl|ru|ca|sv|pt]]...`
+`align [OPTIONS] WORKING_DIR [[de|en|es|fr|it|nl|ru|ca|sv|pt]]...`
 
 ### Supported languages
 

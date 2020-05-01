@@ -3,8 +3,8 @@ import unittest
 
 from click.testing import CliRunner
 
-from process import process_folder
-from constants import ENGLISH, GERMAN, FRENCH, ITALIAN
+from ..preprocessing.process import process_folder
+from ..core.constants import ENGLISH, GERMAN, FRENCH, ITALIAN
 
 
 class TestPreprocessing(unittest.TestCase):
@@ -12,7 +12,7 @@ class TestPreprocessing(unittest.TestCase):
         self.runner = CliRunner()
 
     def setUpFolders(self, language):
-        data_dir = 'tests/data'
+        data_dir = 'preprocess_corpora/tests/data'
         self.folder_in = os.path.join(os.getcwd(), data_dir, 'alice', language)
         self.folder_out = os.path.join(os.getcwd(), data_dir, 'alice-out', language)
         self.folder_cmp = os.path.join(os.getcwd(), data_dir, 'alice-cmp', language)

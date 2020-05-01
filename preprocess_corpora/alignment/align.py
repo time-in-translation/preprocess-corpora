@@ -5,8 +5,8 @@ import subprocess
 
 import click
 
-from constants import LANGUAGES
-from merge_alignments import merge
+from ..core.constants import LANGUAGES
+from .merge_alignments import merge
 
 
 UPLUG_ALIGN = 'uplug align/hun -src {src} -trg {trg} -s {sl} -t {tl}'

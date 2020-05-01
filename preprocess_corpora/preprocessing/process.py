@@ -5,10 +5,10 @@ import os
 
 import click
 
-from constants import LANGUAGES
-from preprocess import preprocess_single, word2txt
-from tag import treetag_single
-from tok import tokenize_single
+from ..core.constants import LANGUAGES
+from .preprocess import preprocess_single, word2txt
+from .tag import treetag_single
+from .tok import tokenize_single
 
 
 @click.command()
