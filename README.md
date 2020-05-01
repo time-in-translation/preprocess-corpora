@@ -47,7 +47,7 @@ Usage:
 #### Full support
 - German (de)
 - English (en)
-- Spanish (es)
+- Spanish (es) (+ variants Rioplatense (ar) and Mexican (mx) Spanish)
 - French (fr)
 - Italian (it)
 - Dutch (nl)

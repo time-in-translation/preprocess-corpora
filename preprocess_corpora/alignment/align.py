@@ -5,11 +5,18 @@ import subprocess
 
 import click
 
-from ..core.constants import LANGUAGES
+from ..core.constants import LANGUAGES, VARIETIES
 from .merge_alignments import merge
 
 
 UPLUG_ALIGN = 'uplug align/hun -src {src} -trg {trg} -s {sl} -t {tl}'
+
+
+def check_variety(language):
+    result = language
+    if language in VARIETIES:
+        result = VARIETIES.get(language)
+    return result
 
 
 @click.command()
@@ -26,7 +33,11 @@ def sentence_align(working_dir, languages):
         for src in glob.glob(os.path.join(sl, '*.xml')):
             src_base = os.path.splitext(os.path.basename(src))[0]
             trg = os.path.join(tl, '{}.xml'.format(src_base))
-            command = UPLUG_ALIGN.format(src=src, trg=trg, sl=sl, tl=tl)
+
+            sl_align = check_variety(sl)
+            tl_align = check_variety(tl)
+
+            command = UPLUG_ALIGN.format(src=src, trg=trg, sl=sl_align, tl=tl_align)
             out_file = '{sl}-{tl}-{base}.xml'.format(sl=sl, tl=tl, base=src_base)
             with open(out_file, 'w') as out:
                 subprocess.call(command, stdout=out, stderr=open(os.devnull, 'w'), shell=True)
