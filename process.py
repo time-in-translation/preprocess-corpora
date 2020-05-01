@@ -8,7 +8,7 @@ import click
 from constants import LANGUAGES
 from preprocess import preprocess_single, word2txt
 from tag import treetag_single
-from tokenize import tokenize_single
+from tok import tokenize_single
 
 
 @click.command()
@@ -28,7 +28,6 @@ def process_folder(folder_in, folder_out, language, from_word=False, tokenize=Fa
     for file_in in glob.glob(os.path.join(folder_in, '*.txt')):
         file_out = os.path.join(folder_out, os.path.basename(file_in))
         preprocess_single(file_in, file_out, language)
-
 
         if tokenize:
             file_xml = os.path.join(folder_out, os.path.splitext(os.path.basename(file_out))[0] + '.xml')

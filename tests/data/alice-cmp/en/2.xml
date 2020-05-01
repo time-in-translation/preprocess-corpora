@@ -1,0 +1,3003 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text>
+<head id="1">
+<s id="s1.1">
+ <w id="w1.1.1" tree="DT" lem="the">The</w> 
+ <w id="w1.1.2" tree="NN" lem="pool">Pool</w> 
+ <w id="w1.1.3" tree="IN" lem="of">of</w> 
+ <w id="w1.1.4" tree="NP" lem="Tears">Tears</w>
+</s></head>
+
+<p id="2">
+<s id="s2.1">
+ <w id="w2.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w2.1.2" tree="NP" lem="Curiouser">Curiouser</w> 
+ <w id="w2.1.3" tree="CC" lem="and">and</w> 
+ <w id="w2.1.4" tree="JJR" lem="curious">curiouser</w>
+ <w id="w2.1.5" tree="SENT" lem="!">!</w>
+ <w id="w2.1.6" tree="''" lem="&quot;">”</w> 
+ <w id="w2.1.7" tree="VVN" lem="cry">cried</w> 
+ <w id="w2.1.8" tree="NP" lem="Alice">Alice</w> 
+ <w id="w2.1.9" tree="(" lem="(">(</w>
+ <w id="w2.1.10" tree="PP" lem="she">she</w> 
+ <w id="w2.1.11" tree="VBD" lem="be">was</w> 
+ <w id="w2.1.12" tree="RB" lem="so">so</w> 
+ <w id="w2.1.13" tree="RB" lem="much">much</w> 
+ <w id="w2.1.14" tree="VVN" lem="surprise">surprised</w>
+ <w id="w2.1.15" tree="," lem=",">,</w> 
+ <w id="w2.1.16" tree="IN/that" lem="that">that</w> 
+ <w id="w2.1.17" tree="IN" lem="for">for</w> 
+ <w id="w2.1.18" tree="DT" lem="the">the</w> 
+ <w id="w2.1.19" tree="NN" lem="moment">moment</w> 
+ <w id="w2.1.20" tree="PP" lem="she">she</w> 
+ <w id="w2.1.21" tree="RB" lem="quite">quite</w> 
+ <w id="w2.1.22" tree="VVD" lem="forget">forgot</w> 
+ <w id="w2.1.23" tree="WRB" lem="how">how</w> 
+ <w id="w2.1.24" tree="TO" lem="to">to</w> 
+ <w id="w2.1.25" tree="VV" lem="speak">speak</w> 
+ <w id="w2.1.26" tree="JJ" lem="good">good</w> 
+ <w id="w2.1.27" tree="NNS" lem="English">English</w>
+ <w id="w2.1.28" tree=")" lem=")">)</w>
+ <w id="w2.1.29" tree=":" lem=";">;</w> 
+ <w id="w2.1.30" tree="``" lem="&quot;">“</w>
+ <w id="w2.1.31" tree="RB" lem="now">now</w> 
+ <w id="w2.1.32" tree="PP" lem="I">I</w>
+ <w id="w2.1.33" tree="VBP" lem="be">'m</w> 
+ <w id="w2.1.34" tree="VVG" lem="open">opening</w> 
+ <w id="w2.1.35" tree="RP" lem="out">out</w> 
+ <w id="w2.1.36" tree="IN" lem="like">like</w> 
+ <w id="w2.1.37" tree="DT" lem="the">the</w> 
+ <w id="w2.1.38" tree="JJS" lem="large">largest</w> 
+ <w id="w2.1.39" tree="NN" lem="telescope">telescope</w> 
+ <w id="w2.1.40" tree="WDT" lem="that">that</w> 
+ <w id="w2.1.41" tree="RB" lem="ever">ever</w> 
+ <w id="w2.1.42" tree="VBD" lem="be">was</w>
+ <w id="w2.1.43" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s2.2">
+ <w id="w2.2.1" tree="NN" lem="Good-bye">Good-bye</w>
+ <w id="w2.2.2" tree="," lem=",">,</w> 
+ <w id="w2.2.3" tree="NNS" lem="foot">feet</w>
+ <w id="w2.2.4" tree="SENT" lem="!">!</w>
+ <w id="w2.2.5" tree="''" lem="&quot;">”</w> 
+ <w id="w2.2.6" tree="(" lem="(">(</w>
+ <w id="w2.2.7" tree="IN" lem="for">for</w> 
+ <w id="w2.2.8" tree="WRB" lem="when">when</w> 
+ <w id="w2.2.9" tree="PP" lem="she">she</w> 
+ <w id="w2.2.10" tree="VVD" lem="look">looked</w> 
+ <w id="w2.2.11" tree="RP" lem="down">down</w> 
+ <w id="w2.2.12" tree="IN" lem="at">at</w> 
+ <w id="w2.2.13" tree="PP$" lem="her">her</w> 
+ <w id="w2.2.14" tree="NNS" lem="foot">feet</w>
+ <w id="w2.2.15" tree="," lem=",">,</w> 
+ <w id="w2.2.16" tree="PP" lem="they">they</w> 
+ <w id="w2.2.17" tree="VVD" lem="seem">seemed</w> 
+ <w id="w2.2.18" tree="TO" lem="to">to</w> 
+ <w id="w2.2.19" tree="VB" lem="be">be</w> 
+ <w id="w2.2.20" tree="RB" lem="almost">almost</w> 
+ <w id="w2.2.21" tree="RP" lem="out">out</w> 
+ <w id="w2.2.22" tree="IN" lem="of">of</w> 
+ <w id="w2.2.23" tree="NN" lem="sight">sight</w>
+ <w id="w2.2.24" tree="," lem=",">,</w> 
+ <w id="w2.2.25" tree="PP" lem="they">they</w> 
+ <w id="w2.2.26" tree="VBD" lem="be">were</w> 
+ <w id="w2.2.27" tree="VVG" lem="get">getting</w> 
+ <w id="w2.2.28" tree="RB" lem="so">so</w> 
+ <w id="w2.2.29" tree="RB" lem="far">far</w> 
+ <w id="w2.2.30" tree="RB" lem="off">off</w>
+ <w id="w2.2.31" tree=")" lem=")">)</w>
+ <w id="w2.2.32" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s2.3">
+ <w id="w2.3.1" tree="``" lem="&quot;">“</w>
+ <w id="w2.3.2" tree="UH" lem="oh">Oh</w>
+ <w id="w2.3.3" tree="," lem=",">,</w> 
+ <w id="w2.3.4" tree="PP$" lem="my">my</w> 
+ <w id="w2.3.5" tree="JJ" lem="poor">poor</w> 
+ <w id="w2.3.6" tree="JJ" lem="little">little</w> 
+ <w id="w2.3.7" tree="NNS" lem="foot">feet</w>
+ <w id="w2.3.8" tree="," lem=",">,</w> 
+ <w id="w2.3.9" tree="PP" lem="I">I</w> 
+ <w id="w2.3.10" tree="VVP" lem="wonder">wonder</w> 
+ <w id="w2.3.11" tree="WP" lem="who">who</w> 
+ <w id="w2.3.12" tree="MD" lem="will">will</w> 
+ <w id="w2.3.13" tree="VV" lem="put">put</w> 
+ <w id="w2.3.14" tree="IN" lem="on">on</w> 
+ <w id="w2.3.15" tree="PP$" lem="your">your</w> 
+ <w id="w2.3.16" tree="NNS" lem="shoe">shoes</w> 
+ <w id="w2.3.17" tree="CC" lem="and">and</w> 
+ <w id="w2.3.18" tree="NNS" lem="stocking">stockings</w> 
+ <w id="w2.3.19" tree="IN" lem="for">for</w> 
+ <w id="w2.3.20" tree="PP" lem="you">you</w> 
+ <w id="w2.3.21" tree="RB" lem="now">now</w>
+ <w id="w2.3.22" tree="," lem=",">,</w> 
+ <w id="w2.3.23" tree="NNS" lem="dear">dears</w>
+ <w id="w2.3.24" tree="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s2.4">
+ <w id="w2.4.1" tree="PP" lem="I">I</w>
+ <w id="w2.4.2" tree="VBP" lem="be">'m</w> 
+ <w id="w2.4.3" tree="RB" lem="sure">sure</w> 
+ <w id="w2.4.4" tree="SYM" lem="_">_</w>
+ <w id="w2.4.5" tree="CD" lem="@card@">I</w>
+ <w id="w2.4.6" tree="SYM" lem="_">_</w> 
+ <w id="w2.4.7" tree="NN" lem="sha">shan</w>
+ <w id="w2.4.8" tree="RB" lem="n't">'t</w> 
+ <w id="w2.4.9" tree="VB" lem="be">be</w> 
+ <w id="w2.4.10" tree="JJ" lem="able">able</w>
+ <w id="w2.4.11" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s2.5">
+ <w id="w2.5.1" tree="PP" lem="I">I</w> 
+ <w id="w2.5.2" tree="MD" lem="shall">shall</w> 
+ <w id="w2.5.3" tree="VB" lem="be">be</w> 
+ <w id="w2.5.4" tree="DT" lem="a">a</w> 
+ <w id="w2.5.5" tree="JJ" lem="great">great</w> 
+ <w id="w2.5.6" tree="NN" lem="deal">deal</w> 
+ <w id="w2.5.7" tree="RB" lem="too">too</w> 
+ <w id="w2.5.8" tree="RB" lem="far">far</w> 
+ <w id="w2.5.9" tree="RB" lem="off">off</w> 
+ <w id="w2.5.10" tree="TO" lem="to">to</w> 
+ <w id="w2.5.11" tree="VV" lem="trouble">trouble</w> 
+ <w id="w2.5.12" tree="PP" lem="myself">myself</w> 
+ <w id="w2.5.13" tree="IN" lem="about">about</w> 
+ <w id="w2.5.14" tree="PP" lem="you">you</w>
+ <w id="w2.5.15" tree=":" lem=":">:</w> 
+ <w id="w2.5.16" tree="PP" lem="you">you</w> 
+ <w id="w2.5.17" tree="MD" lem="must">must</w> 
+ <w id="w2.5.18" tree="VV" lem="manage">manage</w> 
+ <w id="w2.5.19" tree="DT" lem="the">the</w> 
+ <w id="w2.5.20" tree="JJS" lem="good">best</w> 
+ <w id="w2.5.21" tree="NN" lem="way">way</w> 
+ <w id="w2.5.22" tree="PP" lem="you">you</w> 
+ <w id="w2.5.23" tree="MD" lem="can">can</w>
+ <w id="w2.5.24" tree=":" lem=";">;</w> 
+ <w id="w2.5.25" tree=":" lem="-">-</w> 
+ <w id="w2.5.26" tree="CC" lem="but">but</w> 
+ <w id="w2.5.27" tree="PP" lem="I">I</w> 
+ <w id="w2.5.28" tree="MD" lem="must">must</w> 
+ <w id="w2.5.29" tree="VB" lem="be">be</w> 
+ <w id="w2.5.30" tree="JJ" lem="kind">kind</w> 
+ <w id="w2.5.31" tree="TO" lem="to">to</w> 
+ <w id="w2.5.32" tree="PP" lem="them">them</w>
+ <w id="w2.5.33" tree="," lem=",">,</w>
+ <w id="w2.5.34" tree="''" lem="&quot;">”</w> 
+ <w id="w2.5.35" tree="VVD" lem="think">thought</w> 
+ <w id="w2.5.36" tree="NP" lem="Alice">Alice</w>
+ <w id="w2.5.37" tree="," lem=",">,</w> 
+ <w id="w2.5.38" tree="``" lem="&quot;">“</w>
+ <w id="w2.5.39" tree="CC" lem="or">or</w> 
+ <w id="w2.5.40" tree="RB" lem="perhaps">perhaps</w> 
+ <w id="w2.5.41" tree="PP" lem="they">they</w> 
+ <w id="w2.5.42" tree="MD" lem="wo">won</w>
+ <w id="w2.5.43" tree="RB" lem="n't">'t</w> 
+ <w id="w2.5.44" tree="VV" lem="walk">walk</w> 
+ <w id="w2.5.45" tree="DT" lem="the">the</w> 
+ <w id="w2.5.46" tree="NN" lem="way">way</w> 
+ <w id="w2.5.47" tree="PP" lem="I">I</w> 
+ <w id="w2.5.48" tree="VVP" lem="want">want</w> 
+ <w id="w2.5.49" tree="TO" lem="to">to</w> 
+ <w id="w2.5.50" tree="VV" lem="go">go</w>
+ <w id="w2.5.51" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s2.6">
+ <w id="w2.6.1" tree="VV" lem="let">Let</w> 
+ <w id="w2.6.2" tree="PP" lem="me">me</w> 
+ <w id="w2.6.3" tree="VV" lem="see">see</w>
+ <w id="w2.6.4" tree=":" lem=":">:</w> 
+ <w id="w2.6.5" tree="PP" lem="I">I</w>
+ <w id="w2.6.6" tree="MD" lem="will">'ll</w> 
+ <w id="w2.6.7" tree="VV" lem="give">give</w> 
+ <w id="w2.6.8" tree="PP" lem="them">them</w> 
+ <w id="w2.6.9" tree="DT" lem="a">a</w> 
+ <w id="w2.6.10" tree="JJ" lem="new">new</w> 
+ <w id="w2.6.11" tree="NN" lem="pair">pair</w> 
+ <w id="w2.6.12" tree="IN" lem="of">of</w> 
+ <w id="w2.6.13" tree="NNS" lem="boot">boots</w> 
+ <w id="w2.6.14" tree="DT" lem="every">every</w> 
+ <w id="w2.6.15" tree="NN" lem="Christmas">Christmas</w>
+ <w id="w2.6.16" tree="SENT" lem=".">.</w>
+ <w id="w2.6.17" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="3">
+<s id="s3.1">
+ <w id="w3.1.1" tree="CC" lem="and">And</w> 
+ <w id="w3.1.2" tree="PP" lem="she">she</w> 
+ <w id="w3.1.3" tree="VVD" lem="go">went</w> 
+ <w id="w3.1.4" tree="IN" lem="on">on</w> 
+ <w id="w3.1.5" tree="VVG" lem="plan">planning</w> 
+ <w id="w3.1.6" tree="TO" lem="to">to</w> 
+ <w id="w3.1.7" tree="PP" lem="herself">herself</w> 
+ <w id="w3.1.8" tree="WRB" lem="how">how</w> 
+ <w id="w3.1.9" tree="PP" lem="she">she</w> 
+ <w id="w3.1.10" tree="MD" lem="would">would</w> 
+ <w id="w3.1.11" tree="VV" lem="manage">manage</w> 
+ <w id="w3.1.12" tree="PP" lem="it">it</w>
+ <w id="w3.1.13" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s3.2">
+ <w id="w3.2.1" tree="``" lem="&quot;">“</w>
+ <w id="w3.2.2" tree="PP" lem="they">They</w> 
+ <w id="w3.2.3" tree="MD" lem="must">must</w> 
+ <w id="w3.2.4" tree="VV" lem="go">go</w> 
+ <w id="w3.2.5" tree="IN" lem="by">by</w> 
+ <w id="w3.2.6" tree="DT" lem="the">the</w> 
+ <w id="w3.2.7" tree="NN" lem="carrier">carrier</w>
+ <w id="w3.2.8" tree="," lem=",">,</w>
+ <w id="w3.2.9" tree="''" lem="&quot;">”</w> 
+ <w id="w3.2.10" tree="PP" lem="she">she</w> 
+ <w id="w3.2.11" tree="VVD" lem="think">thought</w>
+ <w id="w3.2.12" tree=":" lem=";">;</w> 
+ <w id="w3.2.13" tree="``" lem="&quot;">“</w>
+ <w id="w3.2.14" tree="CC" lem="and">and</w> 
+ <w id="w3.2.15" tree="WRB" lem="how">how</w> 
+ <w id="w3.2.16" tree="JJ" lem="funny">funny</w> 
+ <w id="w3.2.17" tree="PP" lem="it">it</w>
+ <w id="w3.2.18" tree="MD" lem="will">'ll</w> 
+ <w id="w3.2.19" tree="VV" lem="seem">seem</w>
+ <w id="w3.2.20" tree="," lem=",">,</w> 
+ <w id="w3.2.21" tree="VVG" lem="send">sending</w> 
+ <w id="w3.2.22" tree="NNS" lem="present">presents</w> 
+ <w id="w3.2.23" tree="TO" lem="to">to</w> 
+ <w id="w3.2.24" tree="CD" lem="one">one</w>
+ <w id="w3.2.25" tree="POS" lem="'s">'s</w> 
+ <w id="w3.2.26" tree="JJ" lem="own">own</w> 
+ <w id="w3.2.27" tree="NNS" lem="foot">feet</w>
+ <w id="w3.2.28" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s3.3">
+ <w id="w3.3.1" tree="CC" lem="and">And</w> 
+ <w id="w3.3.2" tree="WRB" lem="how">how</w> 
+ <w id="w3.3.3" tree="JJ" lem="odd">odd</w> 
+ <w id="w3.3.4" tree="DT" lem="the">the</w> 
+ <w id="w3.3.5" tree="NNS" lem="direction">directions</w> 
+ <w id="w3.3.6" tree="MD" lem="will">will</w> 
+ <w id="w3.3.7" tree="VV" lem="look">look</w>
+ <w id="w3.3.8" tree="SENT" lem="!">!</w>
+</s></p>
+
+<p id="4">
+<s id="s4.1">
+ <w id="w4.1.1" tree="SYM" lem="_">_</w>
+ <w id="w4.1.2" tree="NP" lem="Alice">Alice</w>
+ <w id="w4.1.3" tree="POS" lem="'s">'s</w> 
+ <w id="w4.1.4" tree="NP" lem="Right">Right</w> 
+ <w id="w4.1.5" tree="NP" lem="Foot">Foot</w>
+ <w id="w4.1.6" tree="," lem=",">,</w> 
+ <w id="w4.1.7" tree="NN" lem="Esq">Esq</w>
+ <w id="w4.1.8" tree="SENT" lem=".">.</w>
+ <w id="w4.1.9" tree="," lem=",">,</w> 
+ <w id="w4.1.10" tree="NP" lem="Hearthrug">Hearthrug</w>
+ <w id="w4.1.11" tree="," lem=",">,</w> 
+ <w id="w4.1.12" tree="IN" lem="near">near</w> 
+ <w id="w4.1.13" tree="DT" lem="the">the</w> 
+ <w id="w4.1.14" tree="NP" lem="Fender">Fender</w>
+ <w id="w4.1.15" tree="," lem=",">,</w>
+ <w id="w4.1.16" tree="SYM" lem="_">_</w> 
+ <w id="w4.1.17" tree="(" lem="(">(</w>
+ <w id="w4.1.18" tree="SYM" lem="_">_</w>
+ <w id="w4.1.19" tree="IN" lem="with">with</w> 
+ <w id="w4.1.20" tree="NP" lem="Alice">Alice</w>
+ <w id="w4.1.21" tree="POS" lem="'s">'s</w> 
+ <w id="w4.1.22" tree="NN" lem="love">love</w>
+ <w id="w4.1.23" tree="SYM" lem="_">_</w>
+ <w id="w4.1.24" tree=")" lem=")">)</w>
+ <w id="w4.1.25" tree="SENT" lem=".">.</w>
+</s></p>
+
+<head id="5">
+<s id="s5.1">
+ <w id="w5.1.1" tree="UH" lem="oh">Oh</w> 
+ <w id="w5.1.2" tree="RB" lem="dear">dear</w>
+ <w id="w5.1.3" tree="," lem=",">,</w> 
+ <w id="w5.1.4" tree="WP" lem="what">what</w> 
+ <w id="w5.1.5" tree="NN" lem="nonsense">nonsense</w> 
+ <w id="w5.1.6" tree="PP" lem="I">I</w>
+ <w id="w5.1.7" tree="VBP" lem="be">'m</w> 
+ <w id="w5.1.8" tree="VVG" lem="talk">talking</w>
+ <w id="w5.1.9" tree="SENT" lem="!">!</w>
+ <w id="w5.1.10" tree="''" lem="&quot;">”</w>
+</s></head>
+
+<p id="6">
+<s id="s6.1">
+ <w id="w6.1.1" tree="RB" lem="just">Just</w> 
+ <w id="w6.1.2" tree="RB" lem="then">then</w> 
+ <w id="w6.1.3" tree="PP$" lem="her">her</w> 
+ <w id="w6.1.4" tree="NN" lem="head">head</w> 
+ <w id="w6.1.5" tree="VVD" lem="strike">struck</w> 
+ <w id="w6.1.6" tree="IN" lem="against">against</w> 
+ <w id="w6.1.7" tree="DT" lem="the">the</w> 
+ <w id="w6.1.8" tree="NN" lem="roof">roof</w> 
+ <w id="w6.1.9" tree="IN" lem="of">of</w> 
+ <w id="w6.1.10" tree="DT" lem="the">the</w> 
+ <w id="w6.1.11" tree="NN" lem="hall">hall</w>
+ <w id="w6.1.12" tree=":" lem=":">:</w> 
+ <w id="w6.1.13" tree="IN" lem="in">in</w> 
+ <w id="w6.1.14" tree="NN" lem="fact">fact</w> 
+ <w id="w6.1.15" tree="PP" lem="she">she</w> 
+ <w id="w6.1.16" tree="VBD" lem="be">was</w> 
+ <w id="w6.1.17" tree="RB" lem="now">now</w> 
+ <w id="w6.1.18" tree="JJR" lem="more">more</w> 
+ <w id="w6.1.19" tree="IN" lem="than">than</w> 
+ <w id="w6.1.20" tree="CD" lem="nine">nine</w> 
+ <w id="w6.1.21" tree="NNS" lem="foot">feet</w> 
+ <w id="w6.1.22" tree="JJ" lem="high">high</w>
+ <w id="w6.1.23" tree="," lem=",">,</w> 
+ <w id="w6.1.24" tree="CC" lem="and">and</w> 
+ <w id="w6.1.25" tree="PP" lem="she">she</w> 
+ <w id="w6.1.26" tree="IN" lem="at">at</w> 
+ <w id="w6.1.27" tree="RB" lem="once">once</w> 
+ <w id="w6.1.28" tree="VVD" lem="take">took</w> 
+ <w id="w6.1.29" tree="RP" lem="up">up</w> 
+ <w id="w6.1.30" tree="DT" lem="the">the</w> 
+ <w id="w6.1.31" tree="JJ" lem="little">little</w> 
+ <w id="w6.1.32" tree="JJ" lem="golden">golden</w> 
+ <w id="w6.1.33" tree="NN" lem="key">key</w> 
+ <w id="w6.1.34" tree="CC" lem="and">and</w> 
+ <w id="w6.1.35" tree="VVD" lem="hurry">hurried</w> 
+ <w id="w6.1.36" tree="RP" lem="off">off</w> 
+ <w id="w6.1.37" tree="TO" lem="to">to</w> 
+ <w id="w6.1.38" tree="DT" lem="the">the</w> 
+ <w id="w6.1.39" tree="NN" lem="garden">garden</w> 
+ <w id="w6.1.40" tree="NN" lem="door">door</w>
+ <w id="w6.1.41" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="7">
+<s id="s7.1">
+ <w id="w7.1.1" tree="NP" lem="Poor">Poor</w> 
+ <w id="w7.1.2" tree="NP" lem="Alice">Alice</w>
+ <w id="w7.1.3" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s7.2">
+ <w id="w7.2.1" tree="PP" lem="it">It</w> 
+ <w id="w7.2.2" tree="VBD" lem="be">was</w> 
+ <w id="w7.2.3" tree="RB" lem="as">as</w> 
+ <w id="w7.2.4" tree="JJ" lem="much">much</w> 
+ <w id="w7.2.5" tree="IN" lem="as">as</w> 
+ <w id="w7.2.6" tree="PP" lem="she">she</w> 
+ <w id="w7.2.7" tree="MD" lem="could">could</w> 
+ <w id="w7.2.8" tree="VV" lem="do">do</w>
+ <w id="w7.2.9" tree="," lem=",">,</w> 
+ <w id="w7.2.10" tree="VVG" lem="lie">lying</w> 
+ <w id="w7.2.11" tree="RB" lem="down">down</w> 
+ <w id="w7.2.12" tree="IN" lem="on">on</w> 
+ <w id="w7.2.13" tree="CD" lem="one">one</w> 
+ <w id="w7.2.14" tree="NN" lem="side">side</w>
+ <w id="w7.2.15" tree="," lem=",">,</w> 
+ <w id="w7.2.16" tree="TO" lem="to">to</w> 
+ <w id="w7.2.17" tree="VV" lem="look">look</w> 
+ <w id="w7.2.18" tree="RP" lem="through">through</w> 
+ <w id="w7.2.19" tree="IN" lem="into">into</w> 
+ <w id="w7.2.20" tree="DT" lem="the">the</w> 
+ <w id="w7.2.21" tree="NN" lem="garden">garden</w> 
+ <w id="w7.2.22" tree="IN" lem="with">with</w> 
+ <w id="w7.2.23" tree="CD" lem="one">one</w> 
+ <w id="w7.2.24" tree="NN" lem="eye">eye</w>
+ <w id="w7.2.25" tree=":" lem=";">;</w> 
+ <w id="w7.2.26" tree="CC" lem="but">but</w> 
+ <w id="w7.2.27" tree="TO" lem="to">to</w> 
+ <w id="w7.2.28" tree="VV" lem="get">get</w> 
+ <w id="w7.2.29" tree="IN" lem="through">through</w> 
+ <w id="w7.2.30" tree="VBD" lem="be">was</w> 
+ <w id="w7.2.31" tree="RBR" lem="more">more</w> 
+ <w id="w7.2.32" tree="JJ" lem="hopeless">hopeless</w> 
+ <w id="w7.2.33" tree="IN" lem="than">than</w> 
+ <w id="w7.2.34" tree="RB" lem="ever">ever</w>
+ <w id="w7.2.35" tree=":" lem=":">:</w> 
+ <w id="w7.2.36" tree="PP" lem="she">she</w> 
+ <w id="w7.2.37" tree="VVD" lem="sit">sat</w> 
+ <w id="w7.2.38" tree="RB" lem="down">down</w> 
+ <w id="w7.2.39" tree="CC" lem="and">and</w> 
+ <w id="w7.2.40" tree="VVD" lem="begin">began</w> 
+ <w id="w7.2.41" tree="TO" lem="to">to</w> 
+ <w id="w7.2.42" tree="VV" lem="cry">cry</w> 
+ <w id="w7.2.43" tree="RB" lem="again">again</w>
+ <w id="w7.2.44" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="8">
+<s id="s8.1">
+ <w id="w8.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w8.1.2" tree="PP" lem="you">You</w> 
+ <w id="w8.1.3" tree="MD" lem="ought">ought</w> 
+ <w id="w8.1.4" tree="TO" lem="to">to</w> 
+ <w id="w8.1.5" tree="VB" lem="be">be</w> 
+ <w id="w8.1.6" tree="JJ" lem="ashamed">ashamed</w> 
+ <w id="w8.1.7" tree="IN" lem="of">of</w> 
+ <w id="w8.1.8" tree="PP" lem="yourself">yourself</w>
+ <w id="w8.1.9" tree="," lem=",">,</w>
+ <w id="w8.1.10" tree="''" lem="&quot;">”</w> 
+ <w id="w8.1.11" tree="VVD" lem="say">said</w> 
+ <w id="w8.1.12" tree="NP" lem="Alice">Alice</w>
+ <w id="w8.1.13" tree="," lem=",">,</w> 
+ <w id="w8.1.14" tree="``" lem="&quot;">“</w>
+ <w id="w8.1.15" tree="DT" lem="a">a</w> 
+ <w id="w8.1.16" tree="JJ" lem="great">great</w> 
+ <w id="w8.1.17" tree="NN" lem="girl">girl</w> 
+ <w id="w8.1.18" tree="IN" lem="like">like</w> 
+ <w id="w8.1.19" tree="PP" lem="you">you</w>
+ <w id="w8.1.20" tree="," lem=",">,</w>
+ <w id="w8.1.21" tree="''" lem="&quot;">”</w> 
+ <w id="w8.1.22" tree="(" lem="(">(</w>
+ <w id="w8.1.23" tree="PP" lem="she">she</w> 
+ <w id="w8.1.24" tree="MD" lem="might">might</w> 
+ <w id="w8.1.25" tree="RB" lem="well">well</w> 
+ <w id="w8.1.26" tree="VV" lem="say">say</w> 
+ <w id="w8.1.27" tree="DT" lem="this">this</w>
+ <w id="w8.1.28" tree=")" lem=")">)</w>
+ <w id="w8.1.29" tree="," lem=",">,</w> 
+ <w id="w8.1.30" tree="``" lem="&quot;">“</w>
+ <w id="w8.1.31" tree="TO" lem="to">to</w> 
+ <w id="w8.1.32" tree="VV" lem="go">go</w> 
+ <w id="w8.1.33" tree="IN" lem="on">on</w> 
+ <w id="w8.1.34" tree="VVG" lem="cry">crying</w> 
+ <w id="w8.1.35" tree="IN" lem="in">in</w> 
+ <w id="w8.1.36" tree="DT" lem="this">this</w> 
+ <w id="w8.1.37" tree="NN" lem="way">way</w>
+ <w id="w8.1.38" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s8.2">
+ <w id="w8.2.1" tree="VV" lem="stop">Stop</w> 
+ <w id="w8.2.2" tree="DT" lem="this">this</w> 
+ <w id="w8.2.3" tree="NN" lem="moment">moment</w>
+ <w id="w8.2.4" tree="," lem=",">,</w> 
+ <w id="w8.2.5" tree="PP" lem="I">I</w> 
+ <w id="w8.2.6" tree="VVP" lem="tell">tell</w> 
+ <w id="w8.2.7" tree="PP" lem="you">you</w>
+ <w id="w8.2.8" tree="SENT" lem="!">!</w>
+ <w id="w8.2.9" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s8.3">
+ <w id="w8.3.1" tree="CC" lem="but">But</w> 
+ <w id="w8.3.2" tree="PP" lem="she">she</w> 
+ <w id="w8.3.3" tree="VVD" lem="go">went</w> 
+ <w id="w8.3.4" tree="IN" lem="on">on</w> 
+ <w id="w8.3.5" tree="PDT" lem="all">all</w> 
+ <w id="w8.3.6" tree="DT" lem="the">the</w> 
+ <w id="w8.3.7" tree="JJ" lem="same">same</w>
+ <w id="w8.3.8" tree="," lem=",">,</w> 
+ <w id="w8.3.9" tree="VVG" lem="shed">shedding</w> 
+ <w id="w8.3.10" tree="NNS" lem="gallon">gallons</w> 
+ <w id="w8.3.11" tree="IN" lem="of">of</w> 
+ <w id="w8.3.12" tree="NNS" lem="tear">tears</w>
+ <w id="w8.3.13" tree="," lem=",">,</w> 
+ <w id="w8.3.14" tree="IN" lem="until">until</w> 
+ <w id="w8.3.15" tree="EX" lem="there">there</w> 
+ <w id="w8.3.16" tree="VBD" lem="be">was</w> 
+ <w id="w8.3.17" tree="DT" lem="a">a</w> 
+ <w id="w8.3.18" tree="JJ" lem="large">large</w> 
+ <w id="w8.3.19" tree="NN" lem="pool">pool</w> 
+ <w id="w8.3.20" tree="DT" lem="all">all</w> 
+ <w id="w8.3.21" tree="NN" lem="round">round</w> 
+ <w id="w8.3.22" tree="PP" lem="her">her</w>
+ <w id="w8.3.23" tree="," lem=",">,</w> 
+ <w id="w8.3.24" tree="RB" lem="about">about</w> 
+ <w id="w8.3.25" tree="CD" lem="four">four</w> 
+ <w id="w8.3.26" tree="NNS" lem="inch">inches</w> 
+ <w id="w8.3.27" tree="JJ" lem="deep">deep</w> 
+ <w id="w8.3.28" tree="CC" lem="and">and</w> 
+ <w id="w8.3.29" tree="VVG" lem="reach">reaching</w> 
+ <w id="w8.3.30" tree="NN" lem="half">half</w> 
+ <w id="w8.3.31" tree="IN" lem="down">down</w> 
+ <w id="w8.3.32" tree="DT" lem="the">the</w> 
+ <w id="w8.3.33" tree="NN" lem="hall">hall</w>
+ <w id="w8.3.34" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="9">
+<s id="s9.1">
+ <w id="w9.1.1" tree="IN" lem="after">After</w> 
+ <w id="w9.1.2" tree="DT" lem="a">a</w> 
+ <w id="w9.1.3" tree="NN" lem="time">time</w> 
+ <w id="w9.1.4" tree="PP" lem="she">she</w> 
+ <w id="w9.1.5" tree="VVD" lem="hear">heard</w> 
+ <w id="w9.1.6" tree="DT" lem="a">a</w> 
+ <w id="w9.1.7" tree="JJ" lem="little">little</w> 
+ <w id="w9.1.8" tree="VVG" lem="patter">pattering</w> 
+ <w id="w9.1.9" tree="IN" lem="of">of</w> 
+ <w id="w9.1.10" tree="NNS" lem="foot">feet</w> 
+ <w id="w9.1.11" tree="IN" lem="in">in</w> 
+ <w id="w9.1.12" tree="DT" lem="the">the</w> 
+ <w id="w9.1.13" tree="NN" lem="distance">distance</w>
+ <w id="w9.1.14" tree="," lem=",">,</w> 
+ <w id="w9.1.15" tree="CC" lem="and">and</w> 
+ <w id="w9.1.16" tree="PP" lem="she">she</w> 
+ <w id="w9.1.17" tree="RB" lem="hastily">hastily</w> 
+ <w id="w9.1.18" tree="VVD" lem="dry">dried</w> 
+ <w id="w9.1.19" tree="PP$" lem="her">her</w> 
+ <w id="w9.1.20" tree="NNS" lem="eye">eyes</w> 
+ <w id="w9.1.21" tree="TO" lem="to">to</w> 
+ <w id="w9.1.22" tree="VV" lem="see">see</w> 
+ <w id="w9.1.23" tree="WP" lem="what">what</w> 
+ <w id="w9.1.24" tree="VBD" lem="be">was</w> 
+ <w id="w9.1.25" tree="VVG" lem="come">coming</w>
+ <w id="w9.1.26" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s9.2">
+ <w id="w9.2.1" tree="PP" lem="it">It</w> 
+ <w id="w9.2.2" tree="VBD" lem="be">was</w> 
+ <w id="w9.2.3" tree="DT" lem="the">the</w> 
+ <w id="w9.2.4" tree="NP" lem="White">White</w> 
+ <w id="w9.2.5" tree="NP" lem="Rabbit">Rabbit</w> 
+ <w id="w9.2.6" tree="VVG" lem="return">returning</w>
+ <w id="w9.2.7" tree="," lem=",">,</w> 
+ <w id="w9.2.8" tree="RB" lem="splendidly">splendidly</w> 
+ <w id="w9.2.9" tree="VVN" lem="dress">dressed</w>
+ <w id="w9.2.10" tree="," lem=",">,</w> 
+ <w id="w9.2.11" tree="IN" lem="with">with</w> 
+ <w id="w9.2.12" tree="DT" lem="a">a</w> 
+ <w id="w9.2.13" tree="NN" lem="pair">pair</w> 
+ <w id="w9.2.14" tree="IN" lem="of">of</w> 
+ <w id="w9.2.15" tree="JJ" lem="white">white</w> 
+ <w id="w9.2.16" tree="NN" lem="kid">kid</w> 
+ <w id="w9.2.17" tree="NNS" lem="glove">gloves</w> 
+ <w id="w9.2.18" tree="IN" lem="in">in</w> 
+ <w id="w9.2.19" tree="CD" lem="one">one</w> 
+ <w id="w9.2.20" tree="NN" lem="hand">hand</w> 
+ <w id="w9.2.21" tree="CC" lem="and">and</w> 
+ <w id="w9.2.22" tree="DT" lem="a">a</w> 
+ <w id="w9.2.23" tree="JJ" lem="large">large</w> 
+ <w id="w9.2.24" tree="NN" lem="fan">fan</w> 
+ <w id="w9.2.25" tree="IN" lem="in">in</w> 
+ <w id="w9.2.26" tree="DT" lem="the">the</w> 
+ <w id="w9.2.27" tree="JJ" lem="other">other</w>
+ <w id="w9.2.28" tree=":" lem=":">:</w> 
+ <w id="w9.2.29" tree="PP" lem="he">he</w> 
+ <w id="w9.2.30" tree="VVD" lem="come">came</w> 
+ <w id="w9.2.31" tree="VVG" lem="trot">trotting</w> 
+ <w id="w9.2.32" tree="RP" lem="along">along</w> 
+ <w id="w9.2.33" tree="IN" lem="in">in</w> 
+ <w id="w9.2.34" tree="DT" lem="a">a</w> 
+ <w id="w9.2.35" tree="JJ" lem="great">great</w> 
+ <w id="w9.2.36" tree="NN" lem="hurry">hurry</w>
+ <w id="w9.2.37" tree="," lem=",">,</w> 
+ <w id="w9.2.38" tree="VVG" lem="mutter">muttering</w> 
+ <w id="w9.2.39" tree="TO" lem="to">to</w> 
+ <w id="w9.2.40" tree="PP" lem="himself">himself</w> 
+ <w id="w9.2.41" tree="IN" lem="as">as</w> 
+ <w id="w9.2.42" tree="PP" lem="he">he</w> 
+ <w id="w9.2.43" tree="VVD" lem="come">came</w>
+ <w id="w9.2.44" tree="," lem=",">,</w> 
+ <w id="w9.2.45" tree="``" lem="&quot;">“</w>
+ <w id="w9.2.46" tree="UH" lem="oh">Oh</w>
+ <w id="w9.2.47" tree="SENT" lem="!">!</w> 
+ <w id="w9.2.48" tree="DT" lem="the">the</w> 
+ <w id="w9.2.49" tree="NP" lem="Duchess">Duchess</w>
+ <w id="w9.2.50" tree="," lem=",">,</w> 
+ <w id="w9.2.51" tree="DT" lem="the">the</w> 
+ <w id="w9.2.52" tree="NP" lem="Duchess">Duchess</w>
+ <w id="w9.2.53" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s9.3">
+ <w id="w9.3.1" tree="UH" lem="oh">Oh</w>
+ <w id="w9.3.2" tree="SENT" lem="!">!</w> 
+ <w id="w9.3.3" tree="MD" lem="wo">won</w>
+ <w id="w9.3.4" tree="RB" lem="n't">'t</w> 
+ <w id="w9.3.5" tree="PP" lem="she">she</w> 
+ <w id="w9.3.6" tree="VB" lem="be">be</w> 
+ <w id="w9.3.7" tree="JJ" lem="savage">savage</w> 
+ <w id="w9.3.8" tree="IN" lem="if">if</w> 
+ <w id="w9.3.9" tree="PP" lem="I">I</w>
+ <w id="w9.3.10" tree="VHP" lem="have">'ve</w> 
+ <w id="w9.3.11" tree="VVN" lem="keep">kept</w> 
+ <w id="w9.3.12" tree="PP$" lem="her">her</w> 
+ <w id="w9.3.13" tree="NN" lem="waiting">waiting</w>
+ <w id="w9.3.14" tree="SENT" lem="!">!</w>
+ <w id="w9.3.15" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s9.4">
+ <w id="w9.4.1" tree="NP" lem="Alice">Alice</w> 
+ <w id="w9.4.2" tree="VVD" lem="feel">felt</w> 
+ <w id="w9.4.3" tree="RB" lem="so">so</w> 
+ <w id="w9.4.4" tree="JJ" lem="desperate">desperate</w> 
+ <w id="w9.4.5" tree="IN/that" lem="that">that</w> 
+ <w id="w9.4.6" tree="PP" lem="she">she</w> 
+ <w id="w9.4.7" tree="VBD" lem="be">was</w> 
+ <w id="w9.4.8" tree="JJ" lem="ready">ready</w> 
+ <w id="w9.4.9" tree="TO" lem="to">to</w> 
+ <w id="w9.4.10" tree="VV" lem="ask">ask</w> 
+ <w id="w9.4.11" tree="NN" lem="help">help</w> 
+ <w id="w9.4.12" tree="IN" lem="of">of</w> 
+ <w id="w9.4.13" tree="DT" lem="any">any</w> 
+ <w id="w9.4.14" tree="CD" lem="one">one</w>
+ <w id="w9.4.15" tree=":" lem=";">;</w> 
+ <w id="w9.4.16" tree="RB" lem="so">so</w>
+ <w id="w9.4.17" tree="," lem=",">,</w> 
+ <w id="w9.4.18" tree="WRB" lem="when">when</w> 
+ <w id="w9.4.19" tree="DT" lem="the">the</w> 
+ <w id="w9.4.20" tree="NN" lem="rabbit">Rabbit</w> 
+ <w id="w9.4.21" tree="VVD" lem="come">came</w> 
+ <w id="w9.4.22" tree="IN" lem="near">near</w> 
+ <w id="w9.4.23" tree="PP" lem="her">her</w>
+ <w id="w9.4.24" tree="," lem=",">,</w> 
+ <w id="w9.4.25" tree="PP" lem="she">she</w> 
+ <w id="w9.4.26" tree="VVD" lem="begin">began</w>
+ <w id="w9.4.27" tree="," lem=",">,</w> 
+ <w id="w9.4.28" tree="IN" lem="in">in</w> 
+ <w id="w9.4.29" tree="DT" lem="a">a</w> 
+ <w id="w9.4.30" tree="JJ" lem="low">low</w>
+ <w id="w9.4.31" tree="," lem=",">,</w> 
+ <w id="w9.4.32" tree="JJ" lem="timid">timid</w> 
+ <w id="w9.4.33" tree="NN" lem="voice">voice</w>
+ <w id="w9.4.34" tree="," lem=",">,</w> 
+ <w id="w9.4.35" tree="``" lem="&quot;">“</w>
+ <w id="w9.4.36" tree="IN" lem="if">If</w> 
+ <w id="w9.4.37" tree="PP" lem="you">you</w> 
+ <w id="w9.4.38" tree="VVP" lem="please">please</w>
+ <w id="w9.4.39" tree="," lem=",">,</w> 
+ <w id="w9.4.40" tree="NN" lem="sir">sir</w> 
+ <w id="w9.4.41" tree=":" lem="-">-</w> 
+ <w id="w9.4.42" tree="''" lem="&quot;">”</w> 
+ <w id="w9.4.43" tree="DT" lem="the">The</w> 
+ <w id="w9.4.44" tree="NN" lem="rabbit">Rabbit</w> 
+ <w id="w9.4.45" tree="VVD" lem="start">started</w> 
+ <w id="w9.4.46" tree="RB" lem="violently">violently</w>
+ <w id="w9.4.47" tree="," lem=",">,</w> 
+ <w id="w9.4.48" tree="VVD" lem="drop">dropped</w> 
+ <w id="w9.4.49" tree="DT" lem="the">the</w> 
+ <w id="w9.4.50" tree="JJ" lem="white">white</w> 
+ <w id="w9.4.51" tree="NN" lem="kid">kid</w> 
+ <w id="w9.4.52" tree="NNS" lem="glove">gloves</w> 
+ <w id="w9.4.53" tree="CC" lem="and">and</w> 
+ <w id="w9.4.54" tree="DT" lem="the">the</w> 
+ <w id="w9.4.55" tree="NN" lem="fan">fan</w>
+ <w id="w9.4.56" tree="," lem=",">,</w> 
+ <w id="w9.4.57" tree="CC" lem="and">and</w> 
+ <w id="w9.4.58" tree="VVD" lem="skurried">skurried</w> 
+ <w id="w9.4.59" tree="RB" lem="away">away</w> 
+ <w id="w9.4.60" tree="IN" lem="into">into</w> 
+ <w id="w9.4.61" tree="DT" lem="the">the</w> 
+ <w id="w9.4.62" tree="NN" lem="darkness">darkness</w> 
+ <w id="w9.4.63" tree="IN" lem="as">as</w> 
+ <w id="w9.4.64" tree="JJ" lem="hard">hard</w> 
+ <w id="w9.4.65" tree="IN" lem="as">as</w> 
+ <w id="w9.4.66" tree="PP" lem="he">he</w> 
+ <w id="w9.4.67" tree="MD" lem="could">could</w> 
+ <w id="w9.4.68" tree="VV" lem="go">go</w>
+ <w id="w9.4.69" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="10">
+<s id="s10.1">
+ <w id="w10.1.1" tree="NP" lem="Alice">Alice</w> 
+ <w id="w10.1.2" tree="VVD" lem="take">took</w> 
+ <w id="w10.1.3" tree="RP" lem="up">up</w> 
+ <w id="w10.1.4" tree="DT" lem="the">the</w> 
+ <w id="w10.1.5" tree="NN" lem="fan">fan</w> 
+ <w id="w10.1.6" tree="CC" lem="and">and</w> 
+ <w id="w10.1.7" tree="NNS" lem="glove">gloves</w>
+ <w id="w10.1.8" tree="," lem=",">,</w> 
+ <w id="w10.1.9" tree="CC" lem="and">and</w>
+ <w id="w10.1.10" tree="," lem=",">,</w> 
+ <w id="w10.1.11" tree="IN" lem="as">as</w> 
+ <w id="w10.1.12" tree="DT" lem="the">the</w> 
+ <w id="w10.1.13" tree="NN" lem="hall">hall</w> 
+ <w id="w10.1.14" tree="VBD" lem="be">was</w> 
+ <w id="w10.1.15" tree="RB" lem="very">very</w> 
+ <w id="w10.1.16" tree="JJ" lem="hot">hot</w>
+ <w id="w10.1.17" tree="," lem=",">,</w> 
+ <w id="w10.1.18" tree="PP" lem="she">she</w> 
+ <w id="w10.1.19" tree="VVD" lem="keep">kept</w> 
+ <w id="w10.1.20" tree="VVG" lem="fan">fanning</w> 
+ <w id="w10.1.21" tree="PP" lem="herself">herself</w> 
+ <w id="w10.1.22" tree="PDT" lem="all">all</w> 
+ <w id="w10.1.23" tree="DT" lem="the">the</w> 
+ <w id="w10.1.24" tree="NN" lem="time">time</w> 
+ <w id="w10.1.25" tree="PP" lem="she">she</w> 
+ <w id="w10.1.26" tree="VVD" lem="go">went</w> 
+ <w id="w10.1.27" tree="IN" lem="on">on</w> 
+ <w id="w10.1.28" tree="VVG" lem="talk">talking</w>
+ <w id="w10.1.29" tree=":" lem=":">:</w> 
+ <w id="w10.1.30" tree="``" lem="&quot;">“</w>
+ <w id="w10.1.31" tree="NP" lem="Dear">Dear</w>
+ <w id="w10.1.32" tree="," lem=",">,</w> 
+ <w id="w10.1.33" tree="RB" lem="dear">dear</w>
+ <w id="w10.1.34" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s10.2">
+ <w id="w10.2.1" tree="WRB" lem="how">How</w> 
+ <w id="w10.2.2" tree="JJ" lem="queer">queer</w> 
+ <w id="w10.2.3" tree="NN" lem="everything">everything</w> 
+ <w id="w10.2.4" tree="VBZ" lem="be">is</w> 
+ <w id="w10.2.5" tree="JJ" lem="to-day">to-day</w>
+ <w id="w10.2.6" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s10.3">
+ <w id="w10.3.1" tree="CC" lem="and">And</w> 
+ <w id="w10.3.2" tree="NN" lem="yesterday">yesterday</w> 
+ <w id="w10.3.3" tree="NNS" lem="thing">things</w> 
+ <w id="w10.3.4" tree="VVD" lem="go">went</w> 
+ <w id="w10.3.5" tree="IN" lem="on">on</w> 
+ <w id="w10.3.6" tree="RB" lem="just">just</w> 
+ <w id="w10.3.7" tree="RB" lem="as">as</w> 
+ <w id="w10.3.8" tree="JJ" lem="usual">usual</w>
+ <w id="w10.3.9" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s10.4">
+ <w id="w10.4.1" tree="PP" lem="I">I</w> 
+ <w id="w10.4.2" tree="VVP" lem="wonder">wonder</w> 
+ <w id="w10.4.3" tree="IN" lem="if">if</w> 
+ <w id="w10.4.4" tree="PP" lem="I">I</w>
+ <w id="w10.4.5" tree="VHP" lem="have">'ve</w> 
+ <w id="w10.4.6" tree="VBN" lem="be">been</w> 
+ <w id="w10.4.7" tree="VVN" lem="change">changed</w> 
+ <w id="w10.4.8" tree="IN" lem="in">in</w> 
+ <w id="w10.4.9" tree="DT" lem="the">the</w> 
+ <w id="w10.4.10" tree="NN" lem="night">night</w>
+ <w id="w10.4.11" tree="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s10.5">
+ <w id="w10.5.1" tree="VV" lem="let">Let</w> 
+ <w id="w10.5.2" tree="PP" lem="me">me</w> 
+ <w id="w10.5.3" tree="VV" lem="think">think</w>
+ <w id="w10.5.4" tree=":" lem=":">:</w> 
+ <w id="w10.5.5" tree="VBD" lem="be">was</w> 
+ <w id="w10.5.6" tree="PP" lem="I">I</w> 
+ <w id="w10.5.7" tree="DT" lem="the">the</w> 
+ <w id="w10.5.8" tree="JJ" lem="same">same</w> 
+ <w id="w10.5.9" tree="WRB" lem="when">when</w> 
+ <w id="w10.5.10" tree="PP" lem="I">I</w> 
+ <w id="w10.5.11" tree="VVD" lem="get">got</w> 
+ <w id="w10.5.12" tree="RP" lem="up">up</w> 
+ <w id="w10.5.13" tree="DT" lem="this">this</w> 
+ <w id="w10.5.14" tree="NN" lem="morning">morning</w>
+ <w id="w10.5.15" tree="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s10.6">
+ <w id="w10.6.1" tree="PP" lem="I">I</w> 
+ <w id="w10.6.2" tree="RB" lem="almost">almost</w> 
+ <w id="w10.6.3" tree="VVP" lem="think">think</w> 
+ <w id="w10.6.4" tree="PP" lem="I">I</w> 
+ <w id="w10.6.5" tree="MD" lem="can">can</w> 
+ <w id="w10.6.6" tree="VV" lem="remember">remember</w> 
+ <w id="w10.6.7" tree="VVG" lem="feel">feeling</w> 
+ <w id="w10.6.8" tree="DT" lem="a">a</w> 
+ <w id="w10.6.9" tree="RB" lem="little">little</w> 
+ <w id="w10.6.10" tree="JJ" lem="different">different</w>
+ <w id="w10.6.11" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s10.7">
+ <w id="w10.7.1" tree="CC" lem="but">But</w> 
+ <w id="w10.7.2" tree="IN" lem="if">if</w> 
+ <w id="w10.7.3" tree="PP" lem="I">I</w>
+ <w id="w10.7.4" tree="VBP" lem="be">'m</w> 
+ <w id="w10.7.5" tree="RB" lem="not">not</w> 
+ <w id="w10.7.6" tree="DT" lem="the">the</w> 
+ <w id="w10.7.7" tree="JJ" lem="same">same</w>
+ <w id="w10.7.8" tree="," lem=",">,</w> 
+ <w id="w10.7.9" tree="DT" lem="the">the</w> 
+ <w id="w10.7.10" tree="JJ" lem="next">next</w> 
+ <w id="w10.7.11" tree="NN" lem="question">question</w> 
+ <w id="w10.7.12" tree="VBZ" lem="be">is</w>
+ <w id="w10.7.13" tree="," lem=",">,</w> 
+ <w id="w10.7.14" tree="WP" lem="who">Who</w> 
+ <w id="w10.7.15" tree="IN" lem="in">in</w> 
+ <w id="w10.7.16" tree="DT" lem="the">the</w> 
+ <w id="w10.7.17" tree="NN" lem="world">world</w> 
+ <w id="w10.7.18" tree="VBP" lem="be">am</w> 
+ <w id="w10.7.19" tree="PP" lem="I">I</w>
+ <w id="w10.7.20" tree="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s10.8">
+ <w id="w10.8.1" tree="UH" lem="ah">Ah</w>
+ <w id="w10.8.2" tree="," lem=",">,</w> 
+ <w id="w10.8.3" tree="SYM" lem="_">_</w>
+ <w id="w10.8.4" tree="WDT" lem="that">that</w>
+ <w id="w10.8.5" tree="VHZ" lem="have">'s</w>
+ <w id="w10.8.6" tree="SYM" lem="_">_</w> 
+ <w id="w10.8.7" tree="DT" lem="the">the</w> 
+ <w id="w10.8.8" tree="JJ" lem="great">great</w> 
+ <w id="w10.8.9" tree="NN" lem="puzzle">puzzle</w>
+ <w id="w10.8.10" tree="SENT" lem="!">!</w>
+ <w id="w10.8.11" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s10.9">
+ <w id="w10.9.1" tree="CC" lem="and">And</w> 
+ <w id="w10.9.2" tree="PP" lem="she">she</w> 
+ <w id="w10.9.3" tree="VVD" lem="begin">began</w> 
+ <w id="w10.9.4" tree="VVG" lem="think">thinking</w> 
+ <w id="w10.9.5" tree="IN" lem="over">over</w> 
+ <w id="w10.9.6" tree="PDT" lem="all">all</w> 
+ <w id="w10.9.7" tree="DT" lem="the">the</w> 
+ <w id="w10.9.8" tree="NNS" lem="child">children</w> 
+ <w id="w10.9.9" tree="PP" lem="she">she</w> 
+ <w id="w10.9.10" tree="VVD" lem="know">knew</w> 
+ <w id="w10.9.11" tree="DT" lem="that">that</w> 
+ <w id="w10.9.12" tree="VBD" lem="be">were</w> 
+ <w id="w10.9.13" tree="IN" lem="of">of</w> 
+ <w id="w10.9.14" tree="DT" lem="the">the</w> 
+ <w id="w10.9.15" tree="JJ" lem="same">same</w> 
+ <w id="w10.9.16" tree="NN" lem="age">age</w> 
+ <w id="w10.9.17" tree="IN" lem="as">as</w> 
+ <w id="w10.9.18" tree="PP" lem="herself">herself</w>
+ <w id="w10.9.19" tree="," lem=",">,</w> 
+ <w id="w10.9.20" tree="TO" lem="to">to</w> 
+ <w id="w10.9.21" tree="VV" lem="see">see</w> 
+ <w id="w10.9.22" tree="IN" lem="if">if</w> 
+ <w id="w10.9.23" tree="PP" lem="she">she</w> 
+ <w id="w10.9.24" tree="MD" lem="could">could</w> 
+ <w id="w10.9.25" tree="VH" lem="have">have</w> 
+ <w id="w10.9.26" tree="VBN" lem="be">been</w> 
+ <w id="w10.9.27" tree="VVN" lem="change">changed</w> 
+ <w id="w10.9.28" tree="IN" lem="for">for</w> 
+ <w id="w10.9.29" tree="DT" lem="any">any</w> 
+ <w id="w10.9.30" tree="IN" lem="of">of</w> 
+ <w id="w10.9.31" tree="PP" lem="them">them</w>
+ <w id="w10.9.32" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="11">
+<s id="s11.1">
+ <w id="w11.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w11.1.2" tree="PP" lem="I">I</w>
+ <w id="w11.1.3" tree="VBP" lem="be">'m</w> 
+ <w id="w11.1.4" tree="JJ" lem="sure">sure</w> 
+ <w id="w11.1.5" tree="PP" lem="I">I</w>
+ <w id="w11.1.6" tree="VBP" lem="be">'m</w> 
+ <w id="w11.1.7" tree="RB" lem="not">not</w> 
+ <w id="w11.1.8" tree="NP" lem="Ada">Ada</w>
+ <w id="w11.1.9" tree="," lem=",">,</w>
+ <w id="w11.1.10" tree="''" lem="&quot;">”</w> 
+ <w id="w11.1.11" tree="PP" lem="she">she</w> 
+ <w id="w11.1.12" tree="VVD" lem="say">said</w>
+ <w id="w11.1.13" tree="," lem=",">,</w> 
+ <w id="w11.1.14" tree="``" lem="&quot;">“</w>
+ <w id="w11.1.15" tree="IN" lem="for">for</w> 
+ <w id="w11.1.16" tree="PP$" lem="her">her</w> 
+ <w id="w11.1.17" tree="NN" lem="hair">hair</w> 
+ <w id="w11.1.18" tree="VVZ" lem="go">goes</w> 
+ <w id="w11.1.19" tree="IN" lem="in">in</w> 
+ <w id="w11.1.20" tree="JJ" lem="such">such</w> 
+ <w id="w11.1.21" tree="JJ" lem="long">long</w> 
+ <w id="w11.1.22" tree="NNS" lem="ringlet">ringlets</w>
+ <w id="w11.1.23" tree="," lem=",">,</w> 
+ <w id="w11.1.24" tree="CC" lem="and">and</w> 
+ <w id="w11.1.25" tree="PP" lem="mine">mine</w> 
+ <w id="w11.1.26" tree="VVZ" lem="do">doesn</w>
+ <w id="w11.1.27" tree="RB" lem="n't">'t</w> 
+ <w id="w11.1.28" tree="VV" lem="go">go</w> 
+ <w id="w11.1.29" tree="IN" lem="in">in</w> 
+ <w id="w11.1.30" tree="NNS" lem="ringlet">ringlets</w> 
+ <w id="w11.1.31" tree="IN" lem="at">at</w> 
+ <w id="w11.1.32" tree="DT" lem="all">all</w>
+ <w id="w11.1.33" tree=":" lem=";">;</w> 
+ <w id="w11.1.34" tree="CC" lem="and">and</w> 
+ <w id="w11.1.35" tree="PP" lem="I">I</w>
+ <w id="w11.1.36" tree="VBP" lem="be">'m</w> 
+ <w id="w11.1.37" tree="JJ" lem="sure">sure</w> 
+ <w id="w11.1.38" tree="PP" lem="I">I</w> 
+ <w id="w11.1.39" tree="MD" lem="ca">can</w>
+ <w id="w11.1.40" tree="RB" lem="n't">'t</w> 
+ <w id="w11.1.41" tree="VB" lem="be">be</w> 
+ <w id="w11.1.42" tree="NP" lem="Mabel">Mabel</w>
+ <w id="w11.1.43" tree="," lem=",">,</w> 
+ <w id="w11.1.44" tree="IN" lem="for">for</w> 
+ <w id="w11.1.45" tree="PP" lem="I">I</w> 
+ <w id="w11.1.46" tree="VVP" lem="know">know</w> 
+ <w id="w11.1.47" tree="DT" lem="all">all</w> 
+ <w id="w11.1.48" tree="NNS" lem="sort">sorts</w> 
+ <w id="w11.1.49" tree="IN" lem="of">of</w> 
+ <w id="w11.1.50" tree="NNS" lem="thing">things</w>
+ <w id="w11.1.51" tree="," lem=",">,</w> 
+ <w id="w11.1.52" tree="CC" lem="and">and</w> 
+ <w id="w11.1.53" tree="PP" lem="she">she</w>
+ <w id="w11.1.54" tree="," lem=",">,</w> 
+ <w id="w11.1.55" tree="UH" lem="oh">oh</w>
+ <w id="w11.1.56" tree="SENT" lem="!">!</w> 
+ <w id="w11.1.57" tree="PP" lem="she">she</w> 
+ <w id="w11.1.58" tree="VVZ" lem="know">knows</w> 
+ <w id="w11.1.59" tree="PDT" lem="such">such</w> 
+ <w id="w11.1.60" tree="DT" lem="a">a</w> 
+ <w id="w11.1.61" tree="RB" lem="very">very</w> 
+ <w id="w11.1.62" tree="JJ" lem="little">little</w>
+ <w id="w11.1.63" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s11.2">
+ <w id="w11.2.1" tree="RB" lem="besides">Besides</w>
+ <w id="w11.2.2" tree="," lem=",">,</w> 
+ <w id="w11.2.3" tree="SYM" lem="_">_</w>
+ <w id="w11.2.4" tree="PP" lem="she">she</w>
+ <w id="w11.2.5" tree="VBZ" lem="be">'s</w>
+ <w id="w11.2.6" tree="SYM" lem="_">_</w> 
+ <w id="w11.2.7" tree="PP" lem="she">she</w>
+ <w id="w11.2.8" tree="," lem=",">,</w> 
+ <w id="w11.2.9" tree="CC" lem="and">and</w> 
+ <w id="w11.2.10" tree="SYM" lem="_">_</w>
+ <w id="w11.2.11" tree="PP" lem="I">I</w>
+ <w id="w11.2.12" tree="VBP" lem="be">'m</w>
+ <w id="w11.2.13" tree="SYM" lem="_">_</w> 
+ <w id="w11.2.14" tree="PP" lem="I">I</w>
+ <w id="w11.2.15" tree="," lem=",">,</w> 
+ <w id="w11.2.16" tree="CC" lem="and">and</w> 
+ <w id="w11.2.17" tree=":" lem="-">-</w> 
+ <w id="w11.2.18" tree="UH" lem="oh">oh</w> 
+ <w id="w11.2.19" tree="RB" lem="dear">dear</w>
+ <w id="w11.2.20" tree="," lem=",">,</w> 
+ <w id="w11.2.21" tree="WRB" lem="how">how</w> 
+ <w id="w11.2.22" tree="JJ" lem="puzzling">puzzling</w> 
+ <w id="w11.2.23" tree="PP" lem="it">it</w> 
+ <w id="w11.2.24" tree="DT" lem="all">all</w> 
+ <w id="w11.2.25" tree="VBZ" lem="be">is</w>
+ <w id="w11.2.26" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s11.3">
+ <w id="w11.3.1" tree="PP" lem="I">I</w>
+ <w id="w11.3.2" tree="MD" lem="will">'ll</w> 
+ <w id="w11.3.3" tree="VV" lem="try">try</w> 
+ <w id="w11.3.4" tree="IN" lem="if">if</w> 
+ <w id="w11.3.5" tree="PP" lem="I">I</w> 
+ <w id="w11.3.6" tree="VVP" lem="know">know</w> 
+ <w id="w11.3.7" tree="PDT" lem="all">all</w> 
+ <w id="w11.3.8" tree="DT" lem="the">the</w> 
+ <w id="w11.3.9" tree="NNS" lem="thing">things</w> 
+ <w id="w11.3.10" tree="PP" lem="I">I</w> 
+ <w id="w11.3.11" tree="VVD" lem="use">used</w> 
+ <w id="w11.3.12" tree="TO" lem="to">to</w> 
+ <w id="w11.3.13" tree="VV" lem="know">know</w>
+ <w id="w11.3.14" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s11.4">
+ <w id="w11.4.1" tree="VV" lem="let">Let</w> 
+ <w id="w11.4.2" tree="PP" lem="me">me</w> 
+ <w id="w11.4.3" tree="VV" lem="see">see</w>
+ <w id="w11.4.4" tree=":" lem=":">:</w> 
+ <w id="w11.4.5" tree="CD" lem="four">four</w> 
+ <w id="w11.4.6" tree="CC" lem="times">times</w> 
+ <w id="w11.4.7" tree="CD" lem="five">five</w> 
+ <w id="w11.4.8" tree="VBZ" lem="be">is</w> 
+ <w id="w11.4.9" tree="NN" lem="twelve">twelve</w>
+ <w id="w11.4.10" tree="," lem=",">,</w> 
+ <w id="w11.4.11" tree="CC" lem="and">and</w> 
+ <w id="w11.4.12" tree="CD" lem="four">four</w> 
+ <w id="w11.4.13" tree="CC" lem="times">times</w> 
+ <w id="w11.4.14" tree="CD" lem="six">six</w> 
+ <w id="w11.4.15" tree="VBZ" lem="be">is</w> 
+ <w id="w11.4.16" tree="CD" lem="thirteen">thirteen</w>
+ <w id="w11.4.17" tree="," lem=",">,</w> 
+ <w id="w11.4.18" tree="CC" lem="and">and</w> 
+ <w id="w11.4.19" tree="CD" lem="four">four</w> 
+ <w id="w11.4.20" tree="CC" lem="times">times</w> 
+ <w id="w11.4.21" tree="CD" lem="seven">seven</w> 
+ <w id="w11.4.22" tree="VBZ" lem="be">is</w> 
+ <w id="w11.4.23" tree=":" lem="-">-</w> 
+ <w id="w11.4.24" tree="UH" lem="oh">oh</w> 
+ <w id="w11.4.25" tree="RB" lem="dear">dear</w>
+ <w id="w11.4.26" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s11.5">
+ <w id="w11.5.1" tree="PP" lem="I">I</w> 
+ <w id="w11.5.2" tree="MD" lem="shall">shall</w> 
+ <w id="w11.5.3" tree="RB" lem="never">never</w> 
+ <w id="w11.5.4" tree="VV" lem="get">get</w> 
+ <w id="w11.5.5" tree="TO" lem="to">to</w> 
+ <w id="w11.5.6" tree="CD" lem="twenty">twenty</w> 
+ <w id="w11.5.7" tree="IN" lem="at">at</w> 
+ <w id="w11.5.8" tree="DT" lem="that">that</w> 
+ <w id="w11.5.9" tree="NN" lem="rate">rate</w>
+ <w id="w11.5.10" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s11.6">
+ <w id="w11.6.1" tree="RB" lem="however">However</w>
+ <w id="w11.6.2" tree="," lem=",">,</w> 
+ <w id="w11.6.3" tree="DT" lem="the">the</w> 
+ <w id="w11.6.4" tree="NP" lem="Multiplication">Multiplication</w> 
+ <w id="w11.6.5" tree="NP" lem="Table">Table</w> 
+ <w id="w11.6.6" tree="VVZ" lem="do">doesn</w>
+ <w id="w11.6.7" tree="RB" lem="n't">'t</w> 
+ <w id="w11.6.8" tree="VV" lem="signify">signify</w>
+ <w id="w11.6.9" tree=":" lem=":">:</w> 
+ <w id="w11.6.10" tree="VV" lem="let">let</w>
+ <w id="w11.6.11" tree="VBZ" lem="be">'s</w> 
+ <w id="w11.6.12" tree="VV" lem="try">try</w> 
+ <w id="w11.6.13" tree="NP" lem="Geography">Geography</w>
+ <w id="w11.6.14" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s11.7">
+ <w id="w11.7.1" tree="NP" lem="London">London</w> 
+ <w id="w11.7.2" tree="VBZ" lem="be">is</w> 
+ <w id="w11.7.3" tree="DT" lem="the">the</w> 
+ <w id="w11.7.4" tree="NN" lem="capital">capital</w> 
+ <w id="w11.7.5" tree="IN" lem="of">of</w> 
+ <w id="w11.7.6" tree="NP" lem="Paris">Paris</w>
+ <w id="w11.7.7" tree="," lem=",">,</w> 
+ <w id="w11.7.8" tree="CC" lem="and">and</w> 
+ <w id="w11.7.9" tree="NP" lem="Paris">Paris</w> 
+ <w id="w11.7.10" tree="VBZ" lem="be">is</w> 
+ <w id="w11.7.11" tree="DT" lem="the">the</w> 
+ <w id="w11.7.12" tree="NN" lem="capital">capital</w> 
+ <w id="w11.7.13" tree="IN" lem="of">of</w> 
+ <w id="w11.7.14" tree="NP" lem="Rome">Rome</w>
+ <w id="w11.7.15" tree="," lem=",">,</w> 
+ <w id="w11.7.16" tree="CC" lem="and">and</w> 
+ <w id="w11.7.17" tree="NP" lem="Rome">Rome</w> 
+ <w id="w11.7.18" tree=":" lem="-">-</w> 
+ <w id="w11.7.19" tree="UH" lem="no">no</w>
+ <w id="w11.7.20" tree="," lem=",">,</w> 
+ <w id="w11.7.21" tree="SYM" lem="_">_</w>
+ <w id="w11.7.22" tree="WDT" lem="that">that</w>
+ <w id="w11.7.23" tree="VHZ" lem="have">'s</w>
+ <w id="w11.7.24" tree="SYM" lem="_">_</w> 
+ <w id="w11.7.25" tree="RB" lem="all">all</w> 
+ <w id="w11.7.26" tree="JJ" lem="wrong">wrong</w>
+ <w id="w11.7.27" tree="," lem=",">,</w> 
+ <w id="w11.7.28" tree="PP" lem="I">I</w>
+ <w id="w11.7.29" tree="VBP" lem="be">'m</w> 
+ <w id="w11.7.30" tree="JJ" lem="certain">certain</w>
+ <w id="w11.7.31" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s11.8">
+ <w id="w11.8.1" tree="PP" lem="I">I</w> 
+ <w id="w11.8.2" tree="MD" lem="must">must</w> 
+ <w id="w11.8.3" tree="VH" lem="have">have</w> 
+ <w id="w11.8.4" tree="VBN" lem="be">been</w> 
+ <w id="w11.8.5" tree="VVN" lem="change">changed</w> 
+ <w id="w11.8.6" tree="IN" lem="for">for</w> 
+ <w id="w11.8.7" tree="NP" lem="Mabel">Mabel</w>
+ <w id="w11.8.8" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s11.9">
+ <w id="w11.9.1" tree="PP" lem="I">I</w>
+ <w id="w11.9.2" tree="MD" lem="will">'ll</w> 
+ <w id="w11.9.3" tree="VV" lem="try">try</w> 
+ <w id="w11.9.4" tree="CC" lem="and">and</w> 
+ <w id="w11.9.5" tree="VV" lem="say">say</w> 
+ <w id="w11.9.6" tree="``" lem="&quot;">‘</w>
+ <w id="w11.9.7" tree="SYM" lem="_">_</w>
+ <w id="w11.9.8" tree="WRB" lem="how">How</w> 
+ <w id="w11.9.9" tree="VVZ" lem="do">doth</w> 
+ <w id="w11.9.10" tree="DT" lem="the">the</w> 
+ <w id="w11.9.11" tree="RB" lem="little">little</w>
+ <w id="w11.9.12" tree="SYM" lem="_">_</w> 
+ <w id="w11.9.13" tree=":" lem="-">-</w> 
+ <w id="w11.9.14" tree="''" lem="'">’</w>
+ <w id="w11.9.15" tree="''" lem="&quot;">”</w> 
+ <w id="w11.9.16" tree="CC" lem="and">and</w> 
+ <w id="w11.9.17" tree="PP" lem="she">she</w> 
+ <w id="w11.9.18" tree="VVD" lem="cross">crossed</w> 
+ <w id="w11.9.19" tree="PP$" lem="her">her</w> 
+ <w id="w11.9.20" tree="NNS" lem="hand">hands</w> 
+ <w id="w11.9.21" tree="IN" lem="on">on</w> 
+ <w id="w11.9.22" tree="PP$" lem="her">her</w> 
+ <w id="w11.9.23" tree="NN" lem="lap">lap</w> 
+ <w id="w11.9.24" tree="RB" lem="as">as</w> 
+ <w id="w11.9.25" tree="IN" lem="if">if</w> 
+ <w id="w11.9.26" tree="PP" lem="she">she</w> 
+ <w id="w11.9.27" tree="VBD" lem="be">were</w> 
+ <w id="w11.9.28" tree="VVG" lem="say">saying</w> 
+ <w id="w11.9.29" tree="NNS" lem="lesson">lessons</w>
+ <w id="w11.9.30" tree="," lem=",">,</w> 
+ <w id="w11.9.31" tree="CC" lem="and">and</w> 
+ <w id="w11.9.32" tree="VVD" lem="begin">began</w> 
+ <w id="w11.9.33" tree="TO" lem="to">to</w> 
+ <w id="w11.9.34" tree="VV" lem="repeat">repeat</w> 
+ <w id="w11.9.35" tree="PP" lem="it">it</w>
+ <w id="w11.9.36" tree="," lem=",">,</w> 
+ <w id="w11.9.37" tree="CC" lem="but">but</w> 
+ <w id="w11.9.38" tree="PP$" lem="her">her</w> 
+ <w id="w11.9.39" tree="NN" lem="voice">voice</w> 
+ <w id="w11.9.40" tree="VVD" lem="sound">sounded</w> 
+ <w id="w11.9.41" tree="JJ" lem="hoarse">hoarse</w> 
+ <w id="w11.9.42" tree="CC" lem="and">and</w> 
+ <w id="w11.9.43" tree="JJ" lem="strange">strange</w>
+ <w id="w11.9.44" tree="," lem=",">,</w> 
+ <w id="w11.9.45" tree="CC" lem="and">and</w> 
+ <w id="w11.9.46" tree="DT" lem="the">the</w> 
+ <w id="w11.9.47" tree="NNS" lem="word">words</w> 
+ <w id="w11.9.48" tree="VVD" lem="do">did</w> 
+ <w id="w11.9.49" tree="RB" lem="not">not</w> 
+ <w id="w11.9.50" tree="VV" lem="come">come</w> 
+ <w id="w11.9.51" tree="DT" lem="the">the</w> 
+ <w id="w11.9.52" tree="JJ" lem="same">same</w> 
+ <w id="w11.9.53" tree="IN" lem="as">as</w> 
+ <w id="w11.9.54" tree="PP" lem="they">they</w> 
+ <w id="w11.9.55" tree="VVD" lem="use">used</w> 
+ <w id="w11.9.56" tree="TO" lem="to">to</w> 
+ <w id="w11.9.57" tree="VV" lem="do">do</w>
+ <w id="w11.9.58" tree=":" lem=":">:</w> 
+ <w id="w11.9.59" tree=":" lem="-">-</w>
+</s></p>
+
+<p id="12">
+<s id="s12.1">
+ <w id="w12.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w12.1.2" tree="WRB" lem="how">How</w> 
+ <w id="w12.1.3" tree="VVZ" lem="do">doth</w> 
+ <w id="w12.1.4" tree="DT" lem="the">the</w> 
+ <w id="w12.1.5" tree="JJ" lem="little">little</w> 
+ <w id="w12.1.6" tree="NN" lem="crocodile">crocodile</w> 
+ <w id="w12.1.7" tree="VVG" lem="Improve">Improve</w> 
+ <w id="w12.1.8" tree="PP$" lem="his">his</w> 
+ <w id="w12.1.9" tree="VVG" lem="shine">shining</w> 
+ <w id="w12.1.10" tree="NN" lem="tail">tail</w>
+ <w id="w12.1.11" tree="," lem=",">,</w> 
+ <w id="w12.1.12" tree="CC" lem="and">And</w> 
+ <w id="w12.1.13" tree="VV" lem="pour">pour</w> 
+ <w id="w12.1.14" tree="DT" lem="the">the</w> 
+ <w id="w12.1.15" tree="NNS" lem="water">waters</w> 
+ <w id="w12.1.16" tree="IN" lem="of">of</w> 
+ <w id="w12.1.17" tree="DT" lem="the">the</w> 
+ <w id="w12.1.18" tree="NP" lem="Nile">Nile</w> 
+ <w id="w12.1.19" tree="IN" lem="on">On</w> 
+ <w id="w12.1.20" tree="DT" lem="every">every</w> 
+ <w id="w12.1.21" tree="JJ" lem="golden">golden</w> 
+ <w id="w12.1.22" tree="NN" lem="scale">scale</w>
+ <w id="w12.1.23" tree="SENT" lem="!">!</w>
+</s></p>
+
+<p id="13">
+<s id="s13.1">
+ <w id="w13.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w13.1.2" tree="WRB" lem="how">How</w> 
+ <w id="w13.1.3" tree="RB" lem="cheerfully">cheerfully</w> 
+ <w id="w13.1.4" tree="PP" lem="he">he</w> 
+ <w id="w13.1.5" tree="VVZ" lem="seem">seems</w> 
+ <w id="w13.1.6" tree="TO" lem="to">to</w> 
+ <w id="w13.1.7" tree="VV" lem="grin">grin</w>
+ <w id="w13.1.8" tree="," lem=",">,</w> 
+ <w id="w13.1.9" tree="WRB" lem="how">How</w> 
+ <w id="w13.1.10" tree="RB" lem="neatly">neatly</w> 
+ <w id="w13.1.11" tree="VV" lem="spread">spread</w> 
+ <w id="w13.1.12" tree="PP$" lem="his">his</w> 
+ <w id="w13.1.13" tree="NNS" lem="claw">claws</w>
+ <w id="w13.1.14" tree="," lem=",">,</w> 
+ <w id="w13.1.15" tree="CC" lem="and">And</w> 
+ <w id="w13.1.16" tree="JJ" lem="welcome">welcome</w> 
+ <w id="w13.1.17" tree="JJ" lem="little">little</w> 
+ <w id="w13.1.18" tree="NNS" lem="fish">fishes</w> 
+ <w id="w13.1.19" tree="IN" lem="in">in</w> 
+ <w id="w13.1.20" tree="IN" lem="with">With</w> 
+ <w id="w13.1.21" tree="RB" lem="gently">gently</w> 
+ <w id="w13.1.22" tree="VVG" lem="smile">smiling</w> 
+ <w id="w13.1.23" tree="NNS" lem="jaw">jaws</w>
+ <w id="w13.1.24" tree="SENT" lem="!">!</w>
+ <w id="w13.1.25" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="14">
+<s id="s14.1">
+ <w id="w14.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w14.1.2" tree="PP" lem="I">I</w>
+ <w id="w14.1.3" tree="VBP" lem="be">'m</w> 
+ <w id="w14.1.4" tree="RB" lem="sure">sure</w> 
+ <w id="w14.1.5" tree="DT" lem="those">those</w> 
+ <w id="w14.1.6" tree="VBP" lem="be">are</w> 
+ <w id="w14.1.7" tree="RB" lem="not">not</w> 
+ <w id="w14.1.8" tree="DT" lem="the">the</w> 
+ <w id="w14.1.9" tree="JJ" lem="right">right</w> 
+ <w id="w14.1.10" tree="NNS" lem="word">words</w>
+ <w id="w14.1.11" tree="," lem=",">,</w>
+ <w id="w14.1.12" tree="''" lem="&quot;">”</w> 
+ <w id="w14.1.13" tree="VVD" lem="say">said</w> 
+ <w id="w14.1.14" tree="JJ" lem="poor">poor</w> 
+ <w id="w14.1.15" tree="NP" lem="Alice">Alice</w>
+ <w id="w14.1.16" tree="," lem=",">,</w> 
+ <w id="w14.1.17" tree="CC" lem="and">and</w> 
+ <w id="w14.1.18" tree="PP$" lem="her">her</w> 
+ <w id="w14.1.19" tree="NNS" lem="eye">eyes</w> 
+ <w id="w14.1.20" tree="VVN" lem="fill">filled</w> 
+ <w id="w14.1.21" tree="IN" lem="with">with</w> 
+ <w id="w14.1.22" tree="NNS" lem="tear">tears</w> 
+ <w id="w14.1.23" tree="RB" lem="again">again</w> 
+ <w id="w14.1.24" tree="IN" lem="as">as</w> 
+ <w id="w14.1.25" tree="PP" lem="she">she</w> 
+ <w id="w14.1.26" tree="VVD" lem="go">went</w> 
+ <w id="w14.1.27" tree="IN" lem="on">on</w>
+ <w id="w14.1.28" tree="," lem=",">,</w> 
+ <w id="w14.1.29" tree="``" lem="&quot;">“</w>
+ <w id="w14.1.30" tree="PP" lem="I">I</w> 
+ <w id="w14.1.31" tree="MD" lem="must">must</w> 
+ <w id="w14.1.32" tree="VB" lem="be">be</w> 
+ <w id="w14.1.33" tree="NP" lem="Mabel">Mabel</w> 
+ <w id="w14.1.34" tree="IN" lem="after">after</w> 
+ <w id="w14.1.35" tree="DT" lem="all">all</w>
+ <w id="w14.1.36" tree="," lem=",">,</w> 
+ <w id="w14.1.37" tree="CC" lem="and">and</w> 
+ <w id="w14.1.38" tree="PP" lem="I">I</w> 
+ <w id="w14.1.39" tree="MD" lem="shall">shall</w> 
+ <w id="w14.1.40" tree="VH" lem="have">have</w> 
+ <w id="w14.1.41" tree="TO" lem="to">to</w> 
+ <w id="w14.1.42" tree="VV" lem="go">go</w> 
+ <w id="w14.1.43" tree="CC" lem="and">and</w> 
+ <w id="w14.1.44" tree="VV" lem="live">live</w> 
+ <w id="w14.1.45" tree="IN" lem="in">in</w> 
+ <w id="w14.1.46" tree="DT" lem="that">that</w> 
+ <w id="w14.1.47" tree="JJ" lem="poky">poky</w> 
+ <w id="w14.1.48" tree="JJ" lem="little">little</w> 
+ <w id="w14.1.49" tree="NN" lem="house">house</w>
+ <w id="w14.1.50" tree="," lem=",">,</w> 
+ <w id="w14.1.51" tree="CC" lem="and">and</w> 
+ <w id="w14.1.52" tree="VH" lem="have">have</w> 
+ <w id="w14.1.53" tree="JJ" lem="next">next</w> 
+ <w id="w14.1.54" tree="TO" lem="to">to</w> 
+ <w id="w14.1.55" tree="DT" lem="no">no</w> 
+ <w id="w14.1.56" tree="NNS" lem="toy">toys</w> 
+ <w id="w14.1.57" tree="TO" lem="to">to</w> 
+ <w id="w14.1.58" tree="VV" lem="play">play</w> 
+ <w id="w14.1.59" tree="IN" lem="with">with</w>
+ <w id="w14.1.60" tree="," lem=",">,</w> 
+ <w id="w14.1.61" tree="CC" lem="and">and</w> 
+ <w id="w14.1.62" tree="UH" lem="oh">oh</w>
+ <w id="w14.1.63" tree="SENT" lem="!">!</w> 
+ <w id="w14.1.64" tree="RB" lem="ever">ever</w> 
+ <w id="w14.1.65" tree="RB" lem="so">so</w> 
+ <w id="w14.1.66" tree="JJ" lem="many">many</w> 
+ <w id="w14.1.67" tree="NNS" lem="lesson">lessons</w> 
+ <w id="w14.1.68" tree="TO" lem="to">to</w> 
+ <w id="w14.1.69" tree="VV" lem="learn">learn</w>
+ <w id="w14.1.70" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s14.2">
+ <w id="w14.2.1" tree="UH" lem="no">No</w>
+ <w id="w14.2.2" tree="," lem=",">,</w> 
+ <w id="w14.2.3" tree="PP" lem="I">I</w>
+ <w id="w14.2.4" tree="VHP" lem="have">'ve</w> 
+ <w id="w14.2.5" tree="VVN" lem="make">made</w> 
+ <w id="w14.2.6" tree="RP" lem="up">up</w> 
+ <w id="w14.2.7" tree="PP$" lem="my">my</w> 
+ <w id="w14.2.8" tree="NN" lem="mind">mind</w> 
+ <w id="w14.2.9" tree="IN" lem="about">about</w> 
+ <w id="w14.2.10" tree="PP" lem="it">it</w>
+ <w id="w14.2.11" tree=":" lem=";">;</w> 
+ <w id="w14.2.12" tree="IN" lem="if">if</w> 
+ <w id="w14.2.13" tree="PP" lem="I">I</w>
+ <w id="w14.2.14" tree="VBP" lem="be">'m</w> 
+ <w id="w14.2.15" tree="NP" lem="Mabel">Mabel</w>
+ <w id="w14.2.16" tree="," lem=",">,</w> 
+ <w id="w14.2.17" tree="PP" lem="I">I</w>
+ <w id="w14.2.18" tree="MD" lem="will">'ll</w> 
+ <w id="w14.2.19" tree="VV" lem="stay">stay</w> 
+ <w id="w14.2.20" tree="RP" lem="down">down</w> 
+ <w id="w14.2.21" tree="RB" lem="here">here</w>
+ <w id="w14.2.22" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s14.3">
+ <w id="w14.3.1" tree="PP" lem="it">It</w>
+ <w id="w14.3.2" tree="MD" lem="will">'ll</w> 
+ <w id="w14.3.3" tree="VB" lem="be">be</w> 
+ <w id="w14.3.4" tree="RB" lem="no">no</w> 
+ <w id="w14.3.5" tree="VV" lem="use">use</w> 
+ <w id="w14.3.6" tree="PP$" lem="their">their</w> 
+ <w id="w14.3.7" tree="VVG" lem="put">putting</w> 
+ <w id="w14.3.8" tree="PP$" lem="their">their</w> 
+ <w id="w14.3.9" tree="NNS" lem="head">heads</w> 
+ <w id="w14.3.10" tree="RP" lem="down">down</w> 
+ <w id="w14.3.11" tree="CC" lem="and">and</w> 
+ <w id="w14.3.12" tree="VVG" lem="say">saying</w> 
+ <w id="w14.3.13" tree="``" lem="&quot;">‘</w>
+ <w id="w14.3.14" tree="VV" lem="come">Come</w> 
+ <w id="w14.3.15" tree="RB" lem="up">up</w> 
+ <w id="w14.3.16" tree="RB" lem="again">again</w>
+ <w id="w14.3.17" tree="," lem=",">,</w> 
+ <w id="w14.3.18" tree="RB" lem="dear">dear</w>
+ <w id="w14.3.19" tree="SENT" lem="!">!</w>
+ <w id="w14.3.20" tree="''" lem="'">’</w>
+</s> 
+ 
+<s id="s14.4">
+ <w id="w14.4.1" tree="PP" lem="I">I</w> 
+ <w id="w14.4.2" tree="MD" lem="shall">shall</w> 
+ <w id="w14.4.3" tree="RB" lem="only">only</w> 
+ <w id="w14.4.4" tree="VV" lem="look">look</w> 
+ <w id="w14.4.5" tree="RP" lem="up">up</w> 
+ <w id="w14.4.6" tree="CC" lem="and">and</w> 
+ <w id="w14.4.7" tree="VV" lem="say">say</w> 
+ <w id="w14.4.8" tree="``" lem="&quot;">‘</w>
+ <w id="w14.4.9" tree="WP" lem="who">Who</w> 
+ <w id="w14.4.10" tree="VBP" lem="be">am</w> 
+ <w id="w14.4.11" tree="PP" lem="I">I</w> 
+ <w id="w14.4.12" tree="RB" lem="then">then</w>
+ <w id="w14.4.13" tree="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s14.5">
+ <w id="w14.5.1" tree="VV" lem="tell">Tell</w> 
+ <w id="w14.5.2" tree="PP" lem="me">me</w> 
+ <w id="w14.5.3" tree="IN/that" lem="that">that</w> 
+ <w id="w14.5.4" tree="JJ" lem="first">first</w>
+ <w id="w14.5.5" tree="," lem=",">,</w> 
+ <w id="w14.5.6" tree="CC" lem="and">and</w> 
+ <w id="w14.5.7" tree="RB" lem="then">then</w>
+ <w id="w14.5.8" tree="," lem=",">,</w> 
+ <w id="w14.5.9" tree="IN" lem="if">if</w> 
+ <w id="w14.5.10" tree="PP" lem="I">I</w> 
+ <w id="w14.5.11" tree="IN" lem="like">like</w> 
+ <w id="w14.5.12" tree="VBG" lem="be">being</w> 
+ <w id="w14.5.13" tree="DT" lem="that">that</w> 
+ <w id="w14.5.14" tree="NN" lem="person">person</w>
+ <w id="w14.5.15" tree="," lem=",">,</w> 
+ <w id="w14.5.16" tree="PP" lem="I">I</w>
+ <w id="w14.5.17" tree="MD" lem="will">'ll</w> 
+ <w id="w14.5.18" tree="VV" lem="come">come</w> 
+ <w id="w14.5.19" tree="RB" lem="up">up</w>
+ <w id="w14.5.20" tree=":" lem=":">:</w> 
+ <w id="w14.5.21" tree="IN" lem="if">if</w> 
+ <w id="w14.5.22" tree="RB" lem="not">not</w>
+ <w id="w14.5.23" tree="," lem=",">,</w> 
+ <w id="w14.5.24" tree="PP" lem="I">I</w>
+ <w id="w14.5.25" tree="MD" lem="will">'ll</w> 
+ <w id="w14.5.26" tree="VV" lem="stay">stay</w> 
+ <w id="w14.5.27" tree="RB" lem="down">down</w> 
+ <w id="w14.5.28" tree="RB" lem="here">here</w> 
+ <w id="w14.5.29" tree="IN" lem="till">till</w> 
+ <w id="w14.5.30" tree="PP" lem="I">I</w>
+ <w id="w14.5.31" tree="VBP" lem="be">'m</w> 
+ <w id="w14.5.32" tree="NN" lem="somebody">somebody</w> 
+ <w id="w14.5.33" tree="RB" lem="else">else</w>
+ <w id="w14.5.34" tree="''" lem="'">’</w> 
+ <w id="w14.5.35" tree=":" lem="-">-</w> 
+ <w id="w14.5.36" tree="CC" lem="but">but</w>
+ <w id="w14.5.37" tree="," lem=",">,</w> 
+ <w id="w14.5.38" tree="UH" lem="oh">oh</w> 
+ <w id="w14.5.39" tree="RB" lem="dear">dear</w>
+ <w id="w14.5.40" tree="SENT" lem="!">!</w>
+ <w id="w14.5.41" tree="''" lem="&quot;">”</w> 
+ <w id="w14.5.42" tree="VVD" lem="cry">cried</w> 
+ <w id="w14.5.43" tree="NP" lem="Alice">Alice</w>
+ <w id="w14.5.44" tree="," lem=",">,</w> 
+ <w id="w14.5.45" tree="IN" lem="with">with</w> 
+ <w id="w14.5.46" tree="DT" lem="a">a</w> 
+ <w id="w14.5.47" tree="JJ" lem="sudden">sudden</w> 
+ <w id="w14.5.48" tree="NN" lem="burst">burst</w> 
+ <w id="w14.5.49" tree="IN" lem="of">of</w> 
+ <w id="w14.5.50" tree="NNS" lem="tear">tears</w>
+ <w id="w14.5.51" tree="," lem=",">,</w> 
+ <w id="w14.5.52" tree="``" lem="&quot;">“</w>
+ <w id="w14.5.53" tree="PP" lem="I">I</w> 
+ <w id="w14.5.54" tree="VVP" lem="do">do</w> 
+ <w id="w14.5.55" tree="VV" lem="wish">wish</w> 
+ <w id="w14.5.56" tree="PP" lem="they">they</w> 
+ <w id="w14.5.57" tree="SYM" lem="_">_</w>
+ <w id="w14.5.58" tree="MD" lem="would">would</w>
+ <w id="w14.5.59" tree="SYM" lem="_">_</w> 
+ <w id="w14.5.60" tree="VV" lem="put">put</w> 
+ <w id="w14.5.61" tree="PP$" lem="their">their</w> 
+ <w id="w14.5.62" tree="NNS" lem="head">heads</w> 
+ <w id="w14.5.63" tree="RB" lem="down">down</w>
+ <w id="w14.5.64" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s14.6">
+ <w id="w14.6.1" tree="PP" lem="I">I</w> 
+ <w id="w14.6.2" tree="VBP" lem="be">am</w> 
+ <w id="w14.6.3" tree="RB" lem="so">so</w> 
+ <w id="w14.6.4" tree="SYM" lem="_">_</w>
+ <w id="w14.6.5" tree="RB" lem="very">very</w>
+ <w id="w14.6.6" tree="SYM" lem="_">_</w> 
+ <w id="w14.6.7" tree="VVN" lem="tire">tired</w> 
+ <w id="w14.6.8" tree="IN" lem="of">of</w> 
+ <w id="w14.6.9" tree="VBG" lem="be">being</w> 
+ <w id="w14.6.10" tree="RB" lem="all">all</w> 
+ <w id="w14.6.11" tree="RB" lem="alone">alone</w> 
+ <w id="w14.6.12" tree="RB" lem="here">here</w>
+ <w id="w14.6.13" tree="SENT" lem="!">!</w>
+ <w id="w14.6.14" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="15">
+<s id="s15.1">
+ <w id="w15.1.1" tree="IN" lem="as">As</w> 
+ <w id="w15.1.2" tree="PP" lem="she">she</w> 
+ <w id="w15.1.3" tree="VVD" lem="say">said</w> 
+ <w id="w15.1.4" tree="DT" lem="this">this</w> 
+ <w id="w15.1.5" tree="PP" lem="she">she</w> 
+ <w id="w15.1.6" tree="VVD" lem="look">looked</w> 
+ <w id="w15.1.7" tree="RP" lem="down">down</w> 
+ <w id="w15.1.8" tree="IN" lem="at">at</w> 
+ <w id="w15.1.9" tree="PP$" lem="her">her</w> 
+ <w id="w15.1.10" tree="NNS" lem="hand">hands</w>
+ <w id="w15.1.11" tree="," lem=",">,</w> 
+ <w id="w15.1.12" tree="CC" lem="and">and</w> 
+ <w id="w15.1.13" tree="VBD" lem="be">was</w> 
+ <w id="w15.1.14" tree="VVN" lem="surprise">surprised</w> 
+ <w id="w15.1.15" tree="TO" lem="to">to</w> 
+ <w id="w15.1.16" tree="VV" lem="see">see</w> 
+ <w id="w15.1.17" tree="IN/that" lem="that">that</w> 
+ <w id="w15.1.18" tree="PP" lem="she">she</w> 
+ <w id="w15.1.19" tree="VHD" lem="have">had</w> 
+ <w id="w15.1.20" tree="VVN" lem="put">put</w> 
+ <w id="w15.1.21" tree="IN" lem="on">on</w> 
+ <w id="w15.1.22" tree="CD" lem="one">one</w> 
+ <w id="w15.1.23" tree="IN" lem="of">of</w> 
+ <w id="w15.1.24" tree="DT" lem="the">the</w> 
+ <w id="w15.1.25" tree="NN" lem="rabbit">Rabbit</w>
+ <w id="w15.1.26" tree="POS" lem="'s">'s</w> 
+ <w id="w15.1.27" tree="JJ" lem="little">little</w> 
+ <w id="w15.1.28" tree="JJ" lem="white">white</w> 
+ <w id="w15.1.29" tree="NN" lem="kid">kid</w> 
+ <w id="w15.1.30" tree="NNS" lem="glove">gloves</w> 
+ <w id="w15.1.31" tree="IN" lem="while">while</w> 
+ <w id="w15.1.32" tree="PP" lem="she">she</w> 
+ <w id="w15.1.33" tree="VBD" lem="be">was</w> 
+ <w id="w15.1.34" tree="VVG" lem="talk">talking</w>
+ <w id="w15.1.35" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s15.2">
+ <w id="w15.2.1" tree="``" lem="&quot;">“</w>
+ <w id="w15.2.2" tree="WRB" lem="how">How</w> 
+ <w id="w15.2.3" tree="SYM" lem="_">_</w>
+ <w id="w15.2.4" tree="NN" lem="can">can</w>
+ <w id="w15.2.5" tree="SYM" lem="_">_</w> 
+ <w id="w15.2.6" tree="PP" lem="I">I</w> 
+ <w id="w15.2.7" tree="VHP" lem="have">have</w> 
+ <w id="w15.2.8" tree="VVN" lem="do">done</w> 
+ <w id="w15.2.9" tree="RB" lem="that">that</w>
+ <w id="w15.2.10" tree="SENT" lem="?">?</w>
+ <w id="w15.2.11" tree="''" lem="&quot;">”</w> 
+ <w id="w15.2.12" tree="PP" lem="she">she</w> 
+ <w id="w15.2.13" tree="VVD" lem="think">thought</w>
+ <w id="w15.2.14" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s15.3">
+ <w id="w15.3.1" tree="``" lem="&quot;">“</w>
+ <w id="w15.3.2" tree="PP" lem="I">I</w> 
+ <w id="w15.3.3" tree="MD" lem="must">must</w> 
+ <w id="w15.3.4" tree="VB" lem="be">be</w> 
+ <w id="w15.3.5" tree="VVG" lem="grow">growing</w> 
+ <w id="w15.3.6" tree="JJ" lem="small">small</w> 
+ <w id="w15.3.7" tree="RB" lem="again">again</w>
+ <w id="w15.3.8" tree="SENT" lem=".">.</w>
+ <w id="w15.3.9" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s15.4">
+ <w id="w15.4.1" tree="PP" lem="she">She</w> 
+ <w id="w15.4.2" tree="VVD" lem="get">got</w> 
+ <w id="w15.4.3" tree="RP" lem="up">up</w> 
+ <w id="w15.4.4" tree="CC" lem="and">and</w> 
+ <w id="w15.4.5" tree="VVD" lem="go">went</w> 
+ <w id="w15.4.6" tree="TO" lem="to">to</w> 
+ <w id="w15.4.7" tree="DT" lem="the">the</w> 
+ <w id="w15.4.8" tree="NN" lem="table">table</w> 
+ <w id="w15.4.9" tree="TO" lem="to">to</w> 
+ <w id="w15.4.10" tree="VV" lem="measure">measure</w> 
+ <w id="w15.4.11" tree="PP" lem="herself">herself</w> 
+ <w id="w15.4.12" tree="IN" lem="by">by</w> 
+ <w id="w15.4.13" tree="PP" lem="it">it</w>
+ <w id="w15.4.14" tree="," lem=",">,</w> 
+ <w id="w15.4.15" tree="CC" lem="and">and</w> 
+ <w id="w15.4.16" tree="VVD" lem="find">found</w> 
+ <w id="w15.4.17" tree="IN/that" lem="that">that</w>
+ <w id="w15.4.18" tree="," lem=",">,</w> 
+ <w id="w15.4.19" tree="IN" lem="as">as</w> 
+ <w id="w15.4.20" tree="RB" lem="nearly">nearly</w> 
+ <w id="w15.4.21" tree="IN" lem="as">as</w> 
+ <w id="w15.4.22" tree="PP" lem="she">she</w> 
+ <w id="w15.4.23" tree="MD" lem="could">could</w> 
+ <w id="w15.4.24" tree="VV" lem="guess">guess</w>
+ <w id="w15.4.25" tree="," lem=",">,</w> 
+ <w id="w15.4.26" tree="PP" lem="she">she</w> 
+ <w id="w15.4.27" tree="VBD" lem="be">was</w> 
+ <w id="w15.4.28" tree="RB" lem="now">now</w> 
+ <w id="w15.4.29" tree="RB" lem="about">about</w> 
+ <w id="w15.4.30" tree="CD" lem="two">two</w> 
+ <w id="w15.4.31" tree="NNS" lem="foot">feet</w> 
+ <w id="w15.4.32" tree="JJ" lem="high">high</w>
+ <w id="w15.4.33" tree="," lem=",">,</w> 
+ <w id="w15.4.34" tree="CC" lem="and">and</w> 
+ <w id="w15.4.35" tree="VBD" lem="be">was</w> 
+ <w id="w15.4.36" tree="VVG" lem="go">going</w> 
+ <w id="w15.4.37" tree="IN" lem="on">on</w> 
+ <w id="w15.4.38" tree="VVG" lem="shrink">shrinking</w> 
+ <w id="w15.4.39" tree="RB" lem="rapidly">rapidly</w>
+ <w id="w15.4.40" tree=":" lem=":">:</w> 
+ <w id="w15.4.41" tree="PP" lem="she">she</w> 
+ <w id="w15.4.42" tree="RB" lem="soon">soon</w> 
+ <w id="w15.4.43" tree="VVD" lem="find">found</w> 
+ <w id="w15.4.44" tree="RP" lem="out">out</w> 
+ <w id="w15.4.45" tree="IN/that" lem="that">that</w> 
+ <w id="w15.4.46" tree="DT" lem="the">the</w> 
+ <w id="w15.4.47" tree="NN" lem="cause">cause</w> 
+ <w id="w15.4.48" tree="IN" lem="of">of</w> 
+ <w id="w15.4.49" tree="DT" lem="this">this</w> 
+ <w id="w15.4.50" tree="VBD" lem="be">was</w> 
+ <w id="w15.4.51" tree="DT" lem="the">the</w> 
+ <w id="w15.4.52" tree="NN" lem="fan">fan</w> 
+ <w id="w15.4.53" tree="PP" lem="she">she</w> 
+ <w id="w15.4.54" tree="VBD" lem="be">was</w> 
+ <w id="w15.4.55" tree="VVG" lem="hold">holding</w>
+ <w id="w15.4.56" tree="," lem=",">,</w> 
+ <w id="w15.4.57" tree="CC" lem="and">and</w> 
+ <w id="w15.4.58" tree="PP" lem="she">she</w> 
+ <w id="w15.4.59" tree="VVD" lem="drop">dropped</w> 
+ <w id="w15.4.60" tree="PP" lem="it">it</w> 
+ <w id="w15.4.61" tree="RB" lem="hastily">hastily</w>
+ <w id="w15.4.62" tree="," lem=",">,</w> 
+ <w id="w15.4.63" tree="RB" lem="just">just</w> 
+ <w id="w15.4.64" tree="IN" lem="in">in</w> 
+ <w id="w15.4.65" tree="NN" lem="time">time</w> 
+ <w id="w15.4.66" tree="TO" lem="to">to</w> 
+ <w id="w15.4.67" tree="VV" lem="avoid">avoid</w> 
+ <w id="w15.4.68" tree="VVG" lem="shrink">shrinking</w> 
+ <w id="w15.4.69" tree="RB" lem="away">away</w> 
+ <w id="w15.4.70" tree="RB" lem="altogether">altogether</w>
+ <w id="w15.4.71" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="16">
+<s id="s16.1">
+ <w id="w16.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w16.1.2" tree="DT" lem="that">That</w> 
+ <w id="w16.1.3" tree="SYM" lem="_">_</w>
+ <w id="w16.1.4" tree="VBD" lem="be">was</w>
+ <w id="w16.1.5" tree="SYM" lem="_">_</w> 
+ <w id="w16.1.6" tree="DT" lem="a">a</w> 
+ <w id="w16.1.7" tree="JJ" lem="narrow">narrow</w> 
+ <w id="w16.1.8" tree="NN" lem="escape">escape</w>
+ <w id="w16.1.9" tree="SENT" lem="!">!</w>
+ <w id="w16.1.10" tree="''" lem="&quot;">”</w> 
+ <w id="w16.1.11" tree="VVD" lem="say">said</w> 
+ <w id="w16.1.12" tree="NP" lem="Alice">Alice</w>
+ <w id="w16.1.13" tree="," lem=",">,</w> 
+ <w id="w16.1.14" tree="DT" lem="a">a</w> 
+ <w id="w16.1.15" tree="JJ" lem="good">good</w> 
+ <w id="w16.1.16" tree="NN" lem="deal">deal</w> 
+ <w id="w16.1.17" tree="VVN" lem="frighten">frightened</w> 
+ <w id="w16.1.18" tree="IN" lem="at">at</w> 
+ <w id="w16.1.19" tree="DT" lem="the">the</w> 
+ <w id="w16.1.20" tree="JJ" lem="sudden">sudden</w> 
+ <w id="w16.1.21" tree="NN" lem="change">change</w>
+ <w id="w16.1.22" tree="," lem=",">,</w> 
+ <w id="w16.1.23" tree="CC" lem="but">but</w> 
+ <w id="w16.1.24" tree="RB" lem="very">very</w> 
+ <w id="w16.1.25" tree="JJ" lem="glad">glad</w> 
+ <w id="w16.1.26" tree="TO" lem="to">to</w> 
+ <w id="w16.1.27" tree="VV" lem="find">find</w> 
+ <w id="w16.1.28" tree="PP" lem="herself">herself</w> 
+ <w id="w16.1.29" tree="RB" lem="still">still</w> 
+ <w id="w16.1.30" tree="IN" lem="in">in</w> 
+ <w id="w16.1.31" tree="NN" lem="existence">existence</w>
+ <w id="w16.1.32" tree=":" lem=";">;</w> 
+ <w id="w16.1.33" tree="``" lem="&quot;">“</w>
+ <w id="w16.1.34" tree="CC" lem="and">and</w> 
+ <w id="w16.1.35" tree="RB" lem="now">now</w> 
+ <w id="w16.1.36" tree="IN" lem="for">for</w> 
+ <w id="w16.1.37" tree="DT" lem="the">the</w> 
+ <w id="w16.1.38" tree="NN" lem="garden">garden</w>
+ <w id="w16.1.39" tree="SENT" lem="!">!</w>
+ <w id="w16.1.40" tree="''" lem="&quot;">”</w> 
+ <w id="w16.1.41" tree="CC" lem="and">and</w> 
+ <w id="w16.1.42" tree="PP" lem="she">she</w> 
+ <w id="w16.1.43" tree="VVD" lem="run">ran</w> 
+ <w id="w16.1.44" tree="IN" lem="with">with</w> 
+ <w id="w16.1.45" tree="DT" lem="all">all</w> 
+ <w id="w16.1.46" tree="NN" lem="speed">speed</w> 
+ <w id="w16.1.47" tree="RB" lem="back">back</w> 
+ <w id="w16.1.48" tree="TO" lem="to">to</w> 
+ <w id="w16.1.49" tree="DT" lem="the">the</w> 
+ <w id="w16.1.50" tree="JJ" lem="little">little</w> 
+ <w id="w16.1.51" tree="NN" lem="door">door</w>
+ <w id="w16.1.52" tree=":" lem=":">:</w> 
+ <w id="w16.1.53" tree="CC" lem="but">but</w>
+ <w id="w16.1.54" tree="," lem=",">,</w> 
+ <w id="w16.1.55" tree="UH" lem="alas">alas</w>
+ <w id="w16.1.56" tree="SENT" lem="!">!</w> 
+ <w id="w16.1.57" tree="DT" lem="the">the</w> 
+ <w id="w16.1.58" tree="JJ" lem="little">little</w> 
+ <w id="w16.1.59" tree="NN" lem="door">door</w> 
+ <w id="w16.1.60" tree="VBD" lem="be">was</w> 
+ <w id="w16.1.61" tree="VVN" lem="shut">shut</w> 
+ <w id="w16.1.62" tree="RB" lem="again">again</w>
+ <w id="w16.1.63" tree="," lem=",">,</w> 
+ <w id="w16.1.64" tree="CC" lem="and">and</w> 
+ <w id="w16.1.65" tree="DT" lem="the">the</w> 
+ <w id="w16.1.66" tree="JJ" lem="little">little</w> 
+ <w id="w16.1.67" tree="JJ" lem="golden">golden</w> 
+ <w id="w16.1.68" tree="NN" lem="key">key</w> 
+ <w id="w16.1.69" tree="VBD" lem="be">was</w> 
+ <w id="w16.1.70" tree="VVG" lem="lie">lying</w> 
+ <w id="w16.1.71" tree="IN" lem="on">on</w> 
+ <w id="w16.1.72" tree="DT" lem="the">the</w> 
+ <w id="w16.1.73" tree="NN" lem="glass">glass</w> 
+ <w id="w16.1.74" tree="NN" lem="table">table</w> 
+ <w id="w16.1.75" tree="IN" lem="as">as</w> 
+ <w id="w16.1.76" tree="RB" lem="before">before</w>
+ <w id="w16.1.77" tree="," lem=",">,</w> 
+ <w id="w16.1.78" tree="``" lem="&quot;">“</w>
+ <w id="w16.1.79" tree="CC" lem="and">and</w> 
+ <w id="w16.1.80" tree="NNS" lem="thing">things</w> 
+ <w id="w16.1.81" tree="VBP" lem="be">are</w> 
+ <w id="w16.1.82" tree="JJR" lem="bad">worse</w> 
+ <w id="w16.1.83" tree="IN" lem="than">than</w> 
+ <w id="w16.1.84" tree="RB" lem="ever">ever</w>
+ <w id="w16.1.85" tree="," lem=",">,</w>
+ <w id="w16.1.86" tree="''" lem="&quot;">”</w> 
+ <w id="w16.1.87" tree="VVD" lem="think">thought</w> 
+ <w id="w16.1.88" tree="DT" lem="the">the</w> 
+ <w id="w16.1.89" tree="JJ" lem="poor">poor</w> 
+ <w id="w16.1.90" tree="NN" lem="child">child</w>
+ <w id="w16.1.91" tree="," lem=",">,</w> 
+ <w id="w16.1.92" tree="``" lem="&quot;">“</w>
+ <w id="w16.1.93" tree="IN" lem="for">for</w> 
+ <w id="w16.1.94" tree="PP" lem="I">I</w> 
+ <w id="w16.1.95" tree="RB" lem="never">never</w> 
+ <w id="w16.1.96" tree="VBD" lem="be">was</w> 
+ <w id="w16.1.97" tree="RB" lem="so">so</w> 
+ <w id="w16.1.98" tree="JJ" lem="small">small</w> 
+ <w id="w16.1.99" tree="IN" lem="as">as</w> 
+ <w id="w16.1.100" tree="DT" lem="this">this</w> 
+ <w id="w16.1.101" tree="IN" lem="before">before</w>
+ <w id="w16.1.102" tree="," lem=",">,</w> 
+ <w id="w16.1.103" tree="RB" lem="never">never</w>
+ <w id="w16.1.104" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s16.2">
+ <w id="w16.2.1" tree="CC" lem="and">And</w> 
+ <w id="w16.2.2" tree="PP" lem="I">I</w> 
+ <w id="w16.2.3" tree="VVP" lem="declare">declare</w> 
+ <w id="w16.2.4" tree="PP" lem="it">it</w>
+ <w id="w16.2.5" tree="VBZ" lem="be">'s</w> 
+ <w id="w16.2.6" tree="RB" lem="too">too</w> 
+ <w id="w16.2.7" tree="JJ" lem="bad">bad</w>
+ <w id="w16.2.8" tree="," lem=",">,</w> 
+ <w id="w16.2.9" tree="IN/that" lem="that">that</w> 
+ <w id="w16.2.10" tree="PP" lem="it">it</w> 
+ <w id="w16.2.11" tree="VBZ" lem="be">is</w>
+ <w id="w16.2.12" tree="SENT" lem="!">!</w>
+ <w id="w16.2.13" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="17">
+<s id="s17.1">
+ <w id="w17.1.1" tree="IN" lem="as">As</w> 
+ <w id="w17.1.2" tree="PP" lem="she">she</w> 
+ <w id="w17.1.3" tree="VVD" lem="say">said</w> 
+ <w id="w17.1.4" tree="DT" lem="these">these</w> 
+ <w id="w17.1.5" tree="NNS" lem="word">words</w> 
+ <w id="w17.1.6" tree="PP$" lem="her">her</w> 
+ <w id="w17.1.7" tree="NN" lem="foot">foot</w> 
+ <w id="w17.1.8" tree="VVD" lem="slip">slipped</w>
+ <w id="w17.1.9" tree="," lem=",">,</w> 
+ <w id="w17.1.10" tree="CC" lem="and">and</w> 
+ <w id="w17.1.11" tree="IN" lem="in">in</w> 
+ <w id="w17.1.12" tree="DT" lem="another">another</w> 
+ <w id="w17.1.13" tree="NN" lem="moment">moment</w>
+ <w id="w17.1.14" tree="," lem=",">,</w> 
+ <w id="w17.1.15" tree="NN" lem="splash">splash</w>
+ <w id="w17.1.16" tree="SENT" lem="!">!</w> 
+ <w id="w17.1.17" tree="PP" lem="she">she</w> 
+ <w id="w17.1.18" tree="VBD" lem="be">was</w> 
+ <w id="w17.1.19" tree="RP" lem="up">up</w> 
+ <w id="w17.1.20" tree="TO" lem="to">to</w> 
+ <w id="w17.1.21" tree="PP$" lem="her">her</w> 
+ <w id="w17.1.22" tree="NN" lem="chin">chin</w> 
+ <w id="w17.1.23" tree="IN" lem="in">in</w> 
+ <w id="w17.1.24" tree="NN" lem="salt">salt</w> 
+ <w id="w17.1.25" tree="NN" lem="water">water</w>
+ <w id="w17.1.26" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s17.2">
+ <w id="w17.2.1" tree="PP$" lem="her">Her</w> 
+ <w id="w17.2.2" tree="JJ" lem="first">first</w> 
+ <w id="w17.2.3" tree="NN" lem="idea">idea</w> 
+ <w id="w17.2.4" tree="VBD" lem="be">was</w> 
+ <w id="w17.2.5" tree="IN/that" lem="that">that</w> 
+ <w id="w17.2.6" tree="PP" lem="she">she</w> 
+ <w id="w17.2.7" tree="VHD" lem="have">had</w> 
+ <w id="w17.2.8" tree="RB" lem="somehow">somehow</w> 
+ <w id="w17.2.9" tree="VVN" lem="fall">fallen</w> 
+ <w id="w17.2.10" tree="IN" lem="into">into</w> 
+ <w id="w17.2.11" tree="DT" lem="the">the</w> 
+ <w id="w17.2.12" tree="NN" lem="sea">sea</w>
+ <w id="w17.2.13" tree="," lem=",">,</w> 
+ <w id="w17.2.14" tree="``" lem="&quot;">“</w>
+ <w id="w17.2.15" tree="CC" lem="and">and</w> 
+ <w id="w17.2.16" tree="IN" lem="in">in</w> 
+ <w id="w17.2.17" tree="DT" lem="that">that</w> 
+ <w id="w17.2.18" tree="NN" lem="case">case</w> 
+ <w id="w17.2.19" tree="PP" lem="I">I</w> 
+ <w id="w17.2.20" tree="MD" lem="can">can</w> 
+ <w id="w17.2.21" tree="VV" lem="go">go</w> 
+ <w id="w17.2.22" tree="RB" lem="back">back</w> 
+ <w id="w17.2.23" tree="IN" lem="by">by</w> 
+ <w id="w17.2.24" tree="NN" lem="railway">railway</w>
+ <w id="w17.2.25" tree="," lem=",">,</w>
+ <w id="w17.2.26" tree="''" lem="&quot;">”</w> 
+ <w id="w17.2.27" tree="PP" lem="she">she</w> 
+ <w id="w17.2.28" tree="VVD" lem="say">said</w> 
+ <w id="w17.2.29" tree="TO" lem="to">to</w> 
+ <w id="w17.2.30" tree="PP" lem="herself">herself</w>
+ <w id="w17.2.31" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s17.3">
+ <w id="w17.3.1" tree="(" lem="(">(</w>
+ <w id="w17.3.2" tree="NP" lem="Alice">Alice</w> 
+ <w id="w17.3.3" tree="VHD" lem="have">had</w> 
+ <w id="w17.3.4" tree="VBN" lem="be">been</w> 
+ <w id="w17.3.5" tree="TO" lem="to">to</w> 
+ <w id="w17.3.6" tree="DT" lem="the">the</w> 
+ <w id="w17.3.7" tree="NN" lem="seaside">seaside</w> 
+ <w id="w17.3.8" tree="RB" lem="once">once</w> 
+ <w id="w17.3.9" tree="IN" lem="in">in</w> 
+ <w id="w17.3.10" tree="PP$" lem="her">her</w> 
+ <w id="w17.3.11" tree="NN" lem="life">life</w>
+ <w id="w17.3.12" tree="," lem=",">,</w> 
+ <w id="w17.3.13" tree="CC" lem="and">and</w> 
+ <w id="w17.3.14" tree="VHD" lem="have">had</w> 
+ <w id="w17.3.15" tree="VVN" lem="come">come</w> 
+ <w id="w17.3.16" tree="TO" lem="to">to</w> 
+ <w id="w17.3.17" tree="DT" lem="the">the</w> 
+ <w id="w17.3.18" tree="JJ" lem="general">general</w> 
+ <w id="w17.3.19" tree="NN" lem="conclusion">conclusion</w>
+ <w id="w17.3.20" tree="," lem=",">,</w> 
+ <w id="w17.3.21" tree="IN/that" lem="that">that</w> 
+ <w id="w17.3.22" tree="WRB" lem="wherever">wherever</w> 
+ <w id="w17.3.23" tree="PP" lem="you">you</w> 
+ <w id="w17.3.24" tree="VVP" lem="go">go</w> 
+ <w id="w17.3.25" tree="TO" lem="to">to</w> 
+ <w id="w17.3.26" tree="IN" lem="on">on</w> 
+ <w id="w17.3.27" tree="DT" lem="the">the</w> 
+ <w id="w17.3.28" tree="JJ" lem="English">English</w> 
+ <w id="w17.3.29" tree="NN" lem="coast">coast</w> 
+ <w id="w17.3.30" tree="PP" lem="you">you</w> 
+ <w id="w17.3.31" tree="VVP" lem="find">find</w> 
+ <w id="w17.3.32" tree="DT" lem="a">a</w> 
+ <w id="w17.3.33" tree="NN" lem="number">number</w> 
+ <w id="w17.3.34" tree="IN" lem="of">of</w> 
+ <w id="w17.3.35" tree="VVG" lem="bath">bathing</w> 
+ <w id="w17.3.36" tree="NNS" lem="machine">machines</w> 
+ <w id="w17.3.37" tree="IN" lem="in">in</w> 
+ <w id="w17.3.38" tree="DT" lem="the">the</w> 
+ <w id="w17.3.39" tree="NN" lem="sea">sea</w>
+ <w id="w17.3.40" tree="," lem=",">,</w> 
+ <w id="w17.3.41" tree="DT" lem="some">some</w> 
+ <w id="w17.3.42" tree="NNS" lem="child">children</w> 
+ <w id="w17.3.43" tree="VVG" lem="dig">digging</w> 
+ <w id="w17.3.44" tree="IN" lem="in">in</w> 
+ <w id="w17.3.45" tree="DT" lem="the">the</w> 
+ <w id="w17.3.46" tree="NN" lem="sand">sand</w> 
+ <w id="w17.3.47" tree="IN" lem="with">with</w> 
+ <w id="w17.3.48" tree="JJ" lem="wooden">wooden</w> 
+ <w id="w17.3.49" tree="NNS" lem="spade">spades</w>
+ <w id="w17.3.50" tree="," lem=",">,</w> 
+ <w id="w17.3.51" tree="RB" lem="then">then</w> 
+ <w id="w17.3.52" tree="DT" lem="a">a</w> 
+ <w id="w17.3.53" tree="NN" lem="row">row</w> 
+ <w id="w17.3.54" tree="IN" lem="of">of</w> 
+ <w id="w17.3.55" tree="VVG" lem="lodge">lodging</w> 
+ <w id="w17.3.56" tree="NNS" lem="house">houses</w>
+ <w id="w17.3.57" tree="," lem=",">,</w> 
+ <w id="w17.3.58" tree="CC" lem="and">and</w> 
+ <w id="w17.3.59" tree="IN" lem="behind">behind</w> 
+ <w id="w17.3.60" tree="PP" lem="them">them</w> 
+ <w id="w17.3.61" tree="DT" lem="a">a</w> 
+ <w id="w17.3.62" tree="NN" lem="railway">railway</w> 
+ <w id="w17.3.63" tree="NN" lem="station">station</w>
+ <w id="w17.3.64" tree="SENT" lem=".">.</w>
+ <w id="w17.3.65" tree=")" lem=")">)</w>
+</s> 
+ 
+<s id="s17.4">
+ <w id="w17.4.1" tree="RB" lem="however">However</w>
+ <w id="w17.4.2" tree="," lem=",">,</w> 
+ <w id="w17.4.3" tree="PP" lem="she">she</w> 
+ <w id="w17.4.4" tree="RB" lem="soon">soon</w> 
+ <w id="w17.4.5" tree="VVD" lem="make">made</w> 
+ <w id="w17.4.6" tree="RP" lem="out">out</w> 
+ <w id="w17.4.7" tree="IN/that" lem="that">that</w> 
+ <w id="w17.4.8" tree="PP" lem="she">she</w> 
+ <w id="w17.4.9" tree="VBD" lem="be">was</w> 
+ <w id="w17.4.10" tree="IN" lem="in">in</w> 
+ <w id="w17.4.11" tree="DT" lem="the">the</w> 
+ <w id="w17.4.12" tree="NN" lem="pool">pool</w> 
+ <w id="w17.4.13" tree="IN" lem="of">of</w> 
+ <w id="w17.4.14" tree="NNS" lem="tear">tears</w> 
+ <w id="w17.4.15" tree="WDT" lem="which">which</w> 
+ <w id="w17.4.16" tree="PP" lem="she">she</w> 
+ <w id="w17.4.17" tree="VHD" lem="have">had</w> 
+ <w id="w17.4.18" tree="VVN" lem="weep">wept</w> 
+ <w id="w17.4.19" tree="WRB" lem="when">when</w> 
+ <w id="w17.4.20" tree="PP" lem="she">she</w> 
+ <w id="w17.4.21" tree="VBD" lem="be">was</w> 
+ <w id="w17.4.22" tree="CD" lem="nine">nine</w> 
+ <w id="w17.4.23" tree="NNS" lem="foot">feet</w> 
+ <w id="w17.4.24" tree="JJ" lem="high">high</w>
+ <w id="w17.4.25" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="18">
+<s id="s18.1">
+ <w id="w18.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w18.1.2" tree="PP" lem="I">I</w> 
+ <w id="w18.1.3" tree="VVP" lem="wish">wish</w> 
+ <w id="w18.1.4" tree="PP" lem="I">I</w> 
+ <w id="w18.1.5" tree="VHD" lem="have">hadn</w>
+ <w id="w18.1.6" tree="RB" lem="n't">'t</w> 
+ <w id="w18.1.7" tree="VVN" lem="cry">cried</w> 
+ <w id="w18.1.8" tree="RB" lem="so">so</w> 
+ <w id="w18.1.9" tree="RB" lem="much">much</w>
+ <w id="w18.1.10" tree="SENT" lem="!">!</w>
+ <w id="w18.1.11" tree="''" lem="&quot;">”</w> 
+ <w id="w18.1.12" tree="VVD" lem="say">said</w> 
+ <w id="w18.1.13" tree="NP" lem="Alice">Alice</w>
+ <w id="w18.1.14" tree="," lem=",">,</w> 
+ <w id="w18.1.15" tree="IN" lem="as">as</w> 
+ <w id="w18.1.16" tree="PP" lem="she">she</w> 
+ <w id="w18.1.17" tree="VVD" lem="swim">swam</w> 
+ <w id="w18.1.18" tree="RB" lem="about">about</w>
+ <w id="w18.1.19" tree="," lem=",">,</w> 
+ <w id="w18.1.20" tree="VVG" lem="try">trying</w> 
+ <w id="w18.1.21" tree="TO" lem="to">to</w> 
+ <w id="w18.1.22" tree="VV" lem="find">find</w> 
+ <w id="w18.1.23" tree="PP$" lem="her">her</w> 
+ <w id="w18.1.24" tree="NN" lem="way">way</w> 
+ <w id="w18.1.25" tree="RP" lem="out">out</w>
+ <w id="w18.1.26" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s18.2">
+ <w id="w18.2.1" tree="``" lem="&quot;">“</w>
+ <w id="w18.2.2" tree="PP" lem="I">I</w> 
+ <w id="w18.2.3" tree="MD" lem="shall">shall</w> 
+ <w id="w18.2.4" tree="VB" lem="be">be</w> 
+ <w id="w18.2.5" tree="VVN" lem="punish">punished</w> 
+ <w id="w18.2.6" tree="IN" lem="for">for</w> 
+ <w id="w18.2.7" tree="PP" lem="it">it</w> 
+ <w id="w18.2.8" tree="RB" lem="now">now</w>
+ <w id="w18.2.9" tree="," lem=",">,</w> 
+ <w id="w18.2.10" tree="PP" lem="I">I</w> 
+ <w id="w18.2.11" tree="VVP" lem="suppose">suppose</w>
+ <w id="w18.2.12" tree="," lem=",">,</w> 
+ <w id="w18.2.13" tree="IN" lem="by">by</w> 
+ <w id="w18.2.14" tree="VBG" lem="be">being</w> 
+ <w id="w18.2.15" tree="VVN" lem="drown">drowned</w> 
+ <w id="w18.2.16" tree="IN" lem="in">in</w> 
+ <w id="w18.2.17" tree="PP$" lem="my">my</w> 
+ <w id="w18.2.18" tree="JJ" lem="own">own</w> 
+ <w id="w18.2.19" tree="NNS" lem="tear">tears</w>
+ <w id="w18.2.20" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s18.3">
+ <w id="w18.3.1" tree="IN/that" lem="that">That</w> 
+ <w id="w18.3.2" tree="SYM" lem="_">_</w>
+ <w id="w18.3.3" tree="NN" lem="will">will</w>
+ <w id="w18.3.4" tree="SYM" lem="_">_</w> 
+ <w id="w18.3.5" tree="VB" lem="be">be</w> 
+ <w id="w18.3.6" tree="DT" lem="a">a</w> 
+ <w id="w18.3.7" tree="JJ" lem="queer">queer</w> 
+ <w id="w18.3.8" tree="NN" lem="thing">thing</w>
+ <w id="w18.3.9" tree="," lem=",">,</w> 
+ <w id="w18.3.10" tree="TO" lem="to">to</w> 
+ <w id="w18.3.11" tree="VB" lem="be">be</w> 
+ <w id="w18.3.12" tree="JJ" lem="sure">sure</w>
+ <w id="w18.3.13" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s18.4">
+ <w id="w18.4.1" tree="RB" lem="however">However</w>
+ <w id="w18.4.2" tree="," lem=",">,</w> 
+ <w id="w18.4.3" tree="NN" lem="everything">everything</w> 
+ <w id="w18.4.4" tree="VBZ" lem="be">is</w> 
+ <w id="w18.4.5" tree="JJ" lem="queer">queer</w> 
+ <w id="w18.4.6" tree="NN" lem="to-day">to-day</w>
+ <w id="w18.4.7" tree="SENT" lem=".">.</w>
+ <w id="w18.4.8" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="19">
+<s id="s19.1">
+ <w id="w19.1.1" tree="RB" lem="just">Just</w> 
+ <w id="w19.1.2" tree="RB" lem="then">then</w> 
+ <w id="w19.1.3" tree="PP" lem="she">she</w> 
+ <w id="w19.1.4" tree="VVD" lem="hear">heard</w> 
+ <w id="w19.1.5" tree="NN" lem="something">something</w> 
+ <w id="w19.1.6" tree="VVG" lem="splash">splashing</w> 
+ <w id="w19.1.7" tree="RB" lem="about">about</w> 
+ <w id="w19.1.8" tree="IN" lem="in">in</w> 
+ <w id="w19.1.9" tree="DT" lem="the">the</w> 
+ <w id="w19.1.10" tree="NN" lem="pool">pool</w> 
+ <w id="w19.1.11" tree="DT" lem="a">a</w> 
+ <w id="w19.1.12" tree="JJ" lem="little">little</w> 
+ <w id="w19.1.13" tree="NN" lem="way">way</w> 
+ <w id="w19.1.14" tree="RP" lem="off">off</w>
+ <w id="w19.1.15" tree="," lem=",">,</w> 
+ <w id="w19.1.16" tree="CC" lem="and">and</w> 
+ <w id="w19.1.17" tree="PP" lem="she">she</w> 
+ <w id="w19.1.18" tree="VVD" lem="swim">swam</w> 
+ <w id="w19.1.19" tree="JJR" lem="near">nearer</w> 
+ <w id="w19.1.20" tree="TO" lem="to">to</w> 
+ <w id="w19.1.21" tree="VV" lem="make">make</w> 
+ <w id="w19.1.22" tree="RP" lem="out">out</w> 
+ <w id="w19.1.23" tree="WP" lem="what">what</w> 
+ <w id="w19.1.24" tree="PP" lem="it">it</w> 
+ <w id="w19.1.25" tree="VBD" lem="be">was</w>
+ <w id="w19.1.26" tree=":" lem=":">:</w> 
+ <w id="w19.1.27" tree="IN" lem="at">at</w> 
+ <w id="w19.1.28" tree="RB" lem="first">first</w> 
+ <w id="w19.1.29" tree="PP" lem="she">she</w> 
+ <w id="w19.1.30" tree="VVD" lem="think">thought</w> 
+ <w id="w19.1.31" tree="PP" lem="it">it</w> 
+ <w id="w19.1.32" tree="MD" lem="must">must</w> 
+ <w id="w19.1.33" tree="VB" lem="be">be</w> 
+ <w id="w19.1.34" tree="DT" lem="a">a</w> 
+ <w id="w19.1.35" tree="NN" lem="walrus">walrus</w> 
+ <w id="w19.1.36" tree="CC" lem="or">or</w> 
+ <w id="w19.1.37" tree="NN" lem="hippopotamus">hippopotamus</w>
+ <w id="w19.1.38" tree="," lem=",">,</w> 
+ <w id="w19.1.39" tree="CC" lem="but">but</w> 
+ <w id="w19.1.40" tree="RB" lem="then">then</w> 
+ <w id="w19.1.41" tree="PP" lem="she">she</w> 
+ <w id="w19.1.42" tree="VVD" lem="remember">remembered</w> 
+ <w id="w19.1.43" tree="WRB" lem="how">how</w> 
+ <w id="w19.1.44" tree="JJ" lem="small">small</w> 
+ <w id="w19.1.45" tree="PP" lem="she">she</w> 
+ <w id="w19.1.46" tree="VBD" lem="be">was</w> 
+ <w id="w19.1.47" tree="RB" lem="now">now</w>
+ <w id="w19.1.48" tree="," lem=",">,</w> 
+ <w id="w19.1.49" tree="CC" lem="and">and</w> 
+ <w id="w19.1.50" tree="PP" lem="she">she</w> 
+ <w id="w19.1.51" tree="RB" lem="soon">soon</w> 
+ <w id="w19.1.52" tree="VVD" lem="make">made</w> 
+ <w id="w19.1.53" tree="RP" lem="out">out</w> 
+ <w id="w19.1.54" tree="IN/that" lem="that">that</w> 
+ <w id="w19.1.55" tree="PP" lem="it">it</w> 
+ <w id="w19.1.56" tree="VBD" lem="be">was</w> 
+ <w id="w19.1.57" tree="RB" lem="only">only</w> 
+ <w id="w19.1.58" tree="DT" lem="a">a</w> 
+ <w id="w19.1.59" tree="NN" lem="mouse">mouse</w> 
+ <w id="w19.1.60" tree="WDT" lem="that">that</w> 
+ <w id="w19.1.61" tree="VHD" lem="have">had</w> 
+ <w id="w19.1.62" tree="VVN" lem="slip">slipped</w> 
+ <w id="w19.1.63" tree="RP" lem="in">in</w> 
+ <w id="w19.1.64" tree="IN" lem="like">like</w> 
+ <w id="w19.1.65" tree="PP" lem="herself">herself</w>
+ <w id="w19.1.66" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="20">
+<s id="s20.1">
+ <w id="w20.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w20.1.2" tree="NP" lem="Would">Would</w> 
+ <w id="w20.1.3" tree="PP" lem="it">it</w> 
+ <w id="w20.1.4" tree="VB" lem="be">be</w> 
+ <w id="w20.1.5" tree="IN" lem="of">of</w> 
+ <w id="w20.1.6" tree="DT" lem="any">any</w> 
+ <w id="w20.1.7" tree="NN" lem="use">use</w>
+ <w id="w20.1.8" tree="," lem=",">,</w> 
+ <w id="w20.1.9" tree="RB" lem="now">now</w>
+ <w id="w20.1.10" tree="," lem=",">,</w>
+ <w id="w20.1.11" tree="''" lem="&quot;">”</w> 
+ <w id="w20.1.12" tree="VVD" lem="think">thought</w> 
+ <w id="w20.1.13" tree="NP" lem="Alice">Alice</w>
+ <w id="w20.1.14" tree="," lem=",">,</w> 
+ <w id="w20.1.15" tree="``" lem="&quot;">“</w>
+ <w id="w20.1.16" tree="TO" lem="to">to</w> 
+ <w id="w20.1.17" tree="VV" lem="speak">speak</w> 
+ <w id="w20.1.18" tree="TO" lem="to">to</w> 
+ <w id="w20.1.19" tree="DT" lem="this">this</w> 
+ <w id="w20.1.20" tree="NN" lem="mouse">mouse</w>
+ <w id="w20.1.21" tree="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s20.2">
+ <w id="w20.2.1" tree="NN" lem="everything">Everything</w> 
+ <w id="w20.2.2" tree="VBZ" lem="be">is</w> 
+ <w id="w20.2.3" tree="RB" lem="so">so</w> 
+ <w id="w20.2.4" tree="JJ" lem="out-of-the-way">out-of-the-way</w> 
+ <w id="w20.2.5" tree="RB" lem="down">down</w> 
+ <w id="w20.2.6" tree="RB" lem="here">here</w>
+ <w id="w20.2.7" tree="," lem=",">,</w> 
+ <w id="w20.2.8" tree="IN/that" lem="that">that</w> 
+ <w id="w20.2.9" tree="PP" lem="I">I</w> 
+ <w id="w20.2.10" tree="MD" lem="should">should</w> 
+ <w id="w20.2.11" tree="VV" lem="think">think</w> 
+ <w id="w20.2.12" tree="RB" lem="very">very</w> 
+ <w id="w20.2.13" tree="JJ" lem="likely">likely</w> 
+ <w id="w20.2.14" tree="PP" lem="it">it</w> 
+ <w id="w20.2.15" tree="MD" lem="can">can</w> 
+ <w id="w20.2.16" tree="VV" lem="talk">talk</w>
+ <w id="w20.2.17" tree=":" lem=":">:</w> 
+ <w id="w20.2.18" tree="IN" lem="at">at</w> 
+ <w id="w20.2.19" tree="DT" lem="any">any</w> 
+ <w id="w20.2.20" tree="NN" lem="rate">rate</w>
+ <w id="w20.2.21" tree="," lem=",">,</w> 
+ <w id="w20.2.22" tree="EX" lem="there">there</w>
+ <w id="w20.2.23" tree="VBZ" lem="be">'s</w> 
+ <w id="w20.2.24" tree="DT" lem="no">no</w> 
+ <w id="w20.2.25" tree="NN" lem="harm">harm</w> 
+ <w id="w20.2.26" tree="IN" lem="in">in</w> 
+ <w id="w20.2.27" tree="VVG" lem="try">trying</w>
+ <w id="w20.2.28" tree="SENT" lem=".">.</w>
+ <w id="w20.2.29" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s20.3">
+ <w id="w20.3.1" tree="RB" lem="so">So</w> 
+ <w id="w20.3.2" tree="PP" lem="she">she</w> 
+ <w id="w20.3.3" tree="VVD" lem="begin">began</w>
+ <w id="w20.3.4" tree=":" lem=":">:</w> 
+ <w id="w20.3.5" tree="``" lem="&quot;">“</w>
+ <w id="w20.3.6" tree="NP" lem="O">O</w> 
+ <w id="w20.3.7" tree="NP" lem="Mouse">Mouse</w>
+ <w id="w20.3.8" tree="," lem=",">,</w> 
+ <w id="w20.3.9" tree="VVP" lem="do">do</w> 
+ <w id="w20.3.10" tree="PP" lem="you">you</w> 
+ <w id="w20.3.11" tree="VVP" lem="know">know</w> 
+ <w id="w20.3.12" tree="DT" lem="the">the</w> 
+ <w id="w20.3.13" tree="NN" lem="way">way</w> 
+ <w id="w20.3.14" tree="RP" lem="out">out</w> 
+ <w id="w20.3.15" tree="IN" lem="of">of</w> 
+ <w id="w20.3.16" tree="DT" lem="this">this</w> 
+ <w id="w20.3.17" tree="NN" lem="pool">pool</w>
+ <w id="w20.3.18" tree="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s20.4">
+ <w id="w20.4.1" tree="PP" lem="I">I</w> 
+ <w id="w20.4.2" tree="VBP" lem="be">am</w> 
+ <w id="w20.4.3" tree="RB" lem="very">very</w> 
+ <w id="w20.4.4" tree="JJ" lem="tired">tired</w> 
+ <w id="w20.4.5" tree="IN" lem="of">of</w> 
+ <w id="w20.4.6" tree="VVG" lem="swim">swimming</w> 
+ <w id="w20.4.7" tree="RB" lem="about">about</w> 
+ <w id="w20.4.8" tree="RB" lem="here">here</w>
+ <w id="w20.4.9" tree="," lem=",">,</w> 
+ <w id="w20.4.10" tree="NP" lem="O">O</w> 
+ <w id="w20.4.11" tree="NP" lem="Mouse">Mouse</w>
+ <w id="w20.4.12" tree="SENT" lem="!">!</w>
+ <w id="w20.4.13" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s20.5">
+ <w id="w20.5.1" tree="(" lem="(">(</w>
+ <w id="w20.5.2" tree="NP" lem="Alice">Alice</w> 
+ <w id="w20.5.3" tree="VVD" lem="think">thought</w> 
+ <w id="w20.5.4" tree="DT" lem="this">this</w> 
+ <w id="w20.5.5" tree="MD" lem="must">must</w> 
+ <w id="w20.5.6" tree="VB" lem="be">be</w> 
+ <w id="w20.5.7" tree="DT" lem="the">the</w> 
+ <w id="w20.5.8" tree="JJ" lem="right">right</w> 
+ <w id="w20.5.9" tree="NN" lem="way">way</w> 
+ <w id="w20.5.10" tree="IN" lem="of">of</w> 
+ <w id="w20.5.11" tree="VVG" lem="speak">speaking</w> 
+ <w id="w20.5.12" tree="TO" lem="to">to</w> 
+ <w id="w20.5.13" tree="DT" lem="a">a</w> 
+ <w id="w20.5.14" tree="NN" lem="mouse">mouse</w>
+ <w id="w20.5.15" tree=":" lem=":">:</w> 
+ <w id="w20.5.16" tree="PP" lem="she">she</w> 
+ <w id="w20.5.17" tree="VHD" lem="have">had</w> 
+ <w id="w20.5.18" tree="RB" lem="never">never</w> 
+ <w id="w20.5.19" tree="VVN" lem="do">done</w> 
+ <w id="w20.5.20" tree="PDT" lem="such">such</w> 
+ <w id="w20.5.21" tree="DT" lem="a">a</w> 
+ <w id="w20.5.22" tree="NN" lem="thing">thing</w> 
+ <w id="w20.5.23" tree="RB" lem="before">before</w>
+ <w id="w20.5.24" tree="," lem=",">,</w> 
+ <w id="w20.5.25" tree="CC" lem="but">but</w> 
+ <w id="w20.5.26" tree="PP" lem="she">she</w> 
+ <w id="w20.5.27" tree="VVD" lem="remember">remembered</w> 
+ <w id="w20.5.28" tree="VHG" lem="have">having</w> 
+ <w id="w20.5.29" tree="VVN" lem="see">seen</w> 
+ <w id="w20.5.30" tree="IN" lem="in">in</w> 
+ <w id="w20.5.31" tree="PP$" lem="her">her</w> 
+ <w id="w20.5.32" tree="NN" lem="brother">brother</w>
+ <w id="w20.5.33" tree="POS" lem="'s">'s</w> 
+ <w id="w20.5.34" tree="NP" lem="Latin">Latin</w> 
+ <w id="w20.5.35" tree="NP" lem="Grammar">Grammar</w>
+ <w id="w20.5.36" tree="," lem=",">,</w> 
+ <w id="w20.5.37" tree="``" lem="&quot;">“</w>
+ <w id="w20.5.38" tree="DT" lem="a">A</w> 
+ <w id="w20.5.39" tree="NN" lem="mouse">mouse</w> 
+ <w id="w20.5.40" tree=":" lem="-">-</w> 
+ <w id="w20.5.41" tree="IN" lem="of">of</w> 
+ <w id="w20.5.42" tree="DT" lem="a">a</w> 
+ <w id="w20.5.43" tree="NN" lem="mouse">mouse</w> 
+ <w id="w20.5.44" tree=":" lem="-">-</w> 
+ <w id="w20.5.45" tree="TO" lem="to">to</w> 
+ <w id="w20.5.46" tree="DT" lem="a">a</w> 
+ <w id="w20.5.47" tree="NN" lem="mouse">mouse</w> 
+ <w id="w20.5.48" tree=":" lem="-">-</w> 
+ <w id="w20.5.49" tree="DT" lem="a">a</w> 
+ <w id="w20.5.50" tree="NN" lem="mouse">mouse</w> 
+ <w id="w20.5.51" tree=":" lem="-">-</w> 
+ <w id="w20.5.52" tree="NN" lem="O">O</w> 
+ <w id="w20.5.53" tree="NN" lem="mouse">mouse</w>
+ <w id="w20.5.54" tree="SENT" lem="!">!</w>
+ <w id="w20.5.55" tree="''" lem="&quot;">”</w>
+ <w id="w20.5.56" tree=")" lem=")">)</w>
+</s> 
+ 
+<s id="s20.6">
+ <w id="w20.6.1" tree="DT" lem="the">The</w> 
+ <w id="w20.6.2" tree="NP" lem="Mouse">Mouse</w> 
+ <w id="w20.6.3" tree="VVD" lem="look">looked</w> 
+ <w id="w20.6.4" tree="IN" lem="at">at</w> 
+ <w id="w20.6.5" tree="PP$" lem="her">her</w> 
+ <w id="w20.6.6" tree="RB" lem="rather">rather</w> 
+ <w id="w20.6.7" tree="RB" lem="inquisitively">inquisitively</w>
+ <w id="w20.6.8" tree="," lem=",">,</w> 
+ <w id="w20.6.9" tree="CC" lem="and">and</w> 
+ <w id="w20.6.10" tree="VVD" lem="seem">seemed</w> 
+ <w id="w20.6.11" tree="TO" lem="to">to</w> 
+ <w id="w20.6.12" tree="PP" lem="her">her</w> 
+ <w id="w20.6.13" tree="TO" lem="to">to</w> 
+ <w id="w20.6.14" tree="VV" lem="wink">wink</w> 
+ <w id="w20.6.15" tree="IN" lem="with">with</w> 
+ <w id="w20.6.16" tree="CD" lem="one">one</w> 
+ <w id="w20.6.17" tree="IN" lem="of">of</w> 
+ <w id="w20.6.18" tree="PP$" lem="its">its</w> 
+ <w id="w20.6.19" tree="JJ" lem="little">little</w> 
+ <w id="w20.6.20" tree="NNS" lem="eye">eyes</w>
+ <w id="w20.6.21" tree="," lem=",">,</w> 
+ <w id="w20.6.22" tree="CC" lem="but">but</w> 
+ <w id="w20.6.23" tree="PP" lem="it">it</w> 
+ <w id="w20.6.24" tree="VVD" lem="say">said</w> 
+ <w id="w20.6.25" tree="NN" lem="nothing">nothing</w>
+ <w id="w20.6.26" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="21">
+<s id="s21.1">
+ <w id="w21.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w21.1.2" tree="RB" lem="perhaps">Perhaps</w> 
+ <w id="w21.1.3" tree="PP" lem="it">it</w> 
+ <w id="w21.1.4" tree="VVZ" lem="do">doesn</w>
+ <w id="w21.1.5" tree="RB" lem="n't">'t</w> 
+ <w id="w21.1.6" tree="VV" lem="understand">understand</w> 
+ <w id="w21.1.7" tree="JJ" lem="English">English</w>
+ <w id="w21.1.8" tree="," lem=",">,</w>
+ <w id="w21.1.9" tree="''" lem="&quot;">”</w> 
+ <w id="w21.1.10" tree="VVD" lem="think">thought</w> 
+ <w id="w21.1.11" tree="NP" lem="Alice">Alice</w>
+ <w id="w21.1.12" tree=":" lem=";">;</w> 
+ <w id="w21.1.13" tree="``" lem="&quot;">“</w>
+ <w id="w21.1.14" tree="PP" lem="I">I</w> 
+ <w id="w21.1.15" tree="NN" lem="daresay">daresay</w> 
+ <w id="w21.1.16" tree="PP" lem="it">it</w>
+ <w id="w21.1.17" tree="VBZ" lem="be">'s</w> 
+ <w id="w21.1.18" tree="DT" lem="a">a</w> 
+ <w id="w21.1.19" tree="JJ" lem="French">French</w> 
+ <w id="w21.1.20" tree="NN" lem="mouse">mouse</w>
+ <w id="w21.1.21" tree="," lem=",">,</w> 
+ <w id="w21.1.22" tree="VVN" lem="come">come</w> 
+ <w id="w21.1.23" tree="IN" lem="over">over</w> 
+ <w id="w21.1.24" tree="IN" lem="with">with</w> 
+ <w id="w21.1.25" tree="NP" lem="William">William</w> 
+ <w id="w21.1.26" tree="DT" lem="the">the</w> 
+ <w id="w21.1.27" tree="NN" lem="conqueror">Conqueror</w>
+ <w id="w21.1.28" tree="SENT" lem=".">.</w>
+ <w id="w21.1.29" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s21.2">
+ <w id="w21.2.1" tree="(" lem="(">(</w>
+ <w id="w21.2.2" tree="IN" lem="for">For</w>
+ <w id="w21.2.3" tree="," lem=",">,</w> 
+ <w id="w21.2.4" tree="IN" lem="with">with</w> 
+ <w id="w21.2.5" tree="PDT" lem="all">all</w> 
+ <w id="w21.2.6" tree="PP$" lem="her">her</w> 
+ <w id="w21.2.7" tree="NN" lem="knowledge">knowledge</w> 
+ <w id="w21.2.8" tree="IN" lem="of">of</w> 
+ <w id="w21.2.9" tree="NN" lem="history">history</w>
+ <w id="w21.2.10" tree="," lem=",">,</w> 
+ <w id="w21.2.11" tree="NP" lem="Alice">Alice</w> 
+ <w id="w21.2.12" tree="VHD" lem="have">had</w> 
+ <w id="w21.2.13" tree="DT" lem="no">no</w> 
+ <w id="w21.2.14" tree="RB" lem="very">very</w> 
+ <w id="w21.2.15" tree="JJ" lem="clear">clear</w> 
+ <w id="w21.2.16" tree="NN" lem="notion">notion</w> 
+ <w id="w21.2.17" tree="WRB" lem="how">how</w> 
+ <w id="w21.2.18" tree="RB" lem="long">long</w> 
+ <w id="w21.2.19" tree="RB" lem="ago">ago</w> 
+ <w id="w21.2.20" tree="NN" lem="anything">anything</w> 
+ <w id="w21.2.21" tree="VHD" lem="have">had</w> 
+ <w id="w21.2.22" tree="VVN" lem="happen">happened</w>
+ <w id="w21.2.23" tree="SENT" lem=".">.</w>
+ <w id="w21.2.24" tree=")" lem=")">)</w>
+</s> 
+ 
+<s id="s21.3">
+ <w id="w21.3.1" tree="RB" lem="so">So</w> 
+ <w id="w21.3.2" tree="PP" lem="she">she</w> 
+ <w id="w21.3.3" tree="VVD" lem="begin">began</w> 
+ <w id="w21.3.4" tree="RB" lem="again">again</w>
+ <w id="w21.3.5" tree=":" lem=":">:</w> 
+ <w id="w21.3.6" tree="``" lem="&quot;">“</w>
+ <w id="w21.3.7" tree="NP" lem="Où">Où</w> 
+ <w id="w21.3.8" tree="NP" lem="est">est</w> 
+ <w id="w21.3.9" tree="NN" lem="ma">ma</w> 
+ <w id="w21.3.10" tree="NN" lem="chatte">chatte</w>
+ <w id="w21.3.11" tree="SENT" lem="?">?</w>
+ <w id="w21.3.12" tree="''" lem="&quot;">”</w> 
+ <w id="w21.3.13" tree="WDT" lem="which">which</w> 
+ <w id="w21.3.14" tree="VBD" lem="be">was</w> 
+ <w id="w21.3.15" tree="DT" lem="the">the</w> 
+ <w id="w21.3.16" tree="JJ" lem="first">first</w> 
+ <w id="w21.3.17" tree="NN" lem="sentence">sentence</w> 
+ <w id="w21.3.18" tree="IN" lem="in">in</w> 
+ <w id="w21.3.19" tree="PP$" lem="her">her</w> 
+ <w id="w21.3.20" tree="JJ" lem="French">French</w> 
+ <w id="w21.3.21" tree="NN" lem="lesson-book">lesson-book</w>
+ <w id="w21.3.22" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s21.4">
+ <w id="w21.4.1" tree="DT" lem="the">The</w> 
+ <w id="w21.4.2" tree="NP" lem="Mouse">Mouse</w> 
+ <w id="w21.4.3" tree="VVD" lem="give">gave</w> 
+ <w id="w21.4.4" tree="DT" lem="a">a</w> 
+ <w id="w21.4.5" tree="JJ" lem="sudden">sudden</w> 
+ <w id="w21.4.6" tree="NN" lem="leap">leap</w> 
+ <w id="w21.4.7" tree="RP" lem="out">out</w> 
+ <w id="w21.4.8" tree="IN" lem="of">of</w> 
+ <w id="w21.4.9" tree="DT" lem="the">the</w> 
+ <w id="w21.4.10" tree="NN" lem="water">water</w>
+ <w id="w21.4.11" tree="," lem=",">,</w> 
+ <w id="w21.4.12" tree="CC" lem="and">and</w> 
+ <w id="w21.4.13" tree="VVD" lem="seem">seemed</w> 
+ <w id="w21.4.14" tree="TO" lem="to">to</w> 
+ <w id="w21.4.15" tree="VV" lem="quiver">quiver</w> 
+ <w id="w21.4.16" tree="RB" lem="all">all</w> 
+ <w id="w21.4.17" tree="IN" lem="over">over</w> 
+ <w id="w21.4.18" tree="IN" lem="with">with</w> 
+ <w id="w21.4.19" tree="NN" lem="fright">fright</w>
+ <w id="w21.4.20" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s21.5">
+ <w id="w21.5.1" tree="``" lem="&quot;">“</w>
+ <w id="w21.5.2" tree="UH" lem="oh">Oh</w>
+ <w id="w21.5.3" tree="," lem=",">,</w> 
+ <w id="w21.5.4" tree="PP" lem="I">I</w> 
+ <w id="w21.5.5" tree="VVP" lem="beg">beg</w> 
+ <w id="w21.5.6" tree="PP$" lem="your">your</w> 
+ <w id="w21.5.7" tree="NN" lem="pardon">pardon</w>
+ <w id="w21.5.8" tree="SENT" lem="!">!</w>
+ <w id="w21.5.9" tree="''" lem="&quot;">”</w> 
+ <w id="w21.5.10" tree="VVD" lem="cry">cried</w> 
+ <w id="w21.5.11" tree="NP" lem="Alice">Alice</w> 
+ <w id="w21.5.12" tree="RB" lem="hastily">hastily</w>
+ <w id="w21.5.13" tree="," lem=",">,</w> 
+ <w id="w21.5.14" tree="JJ" lem="afraid">afraid</w> 
+ <w id="w21.5.15" tree="IN/that" lem="that">that</w> 
+ <w id="w21.5.16" tree="PP" lem="she">she</w> 
+ <w id="w21.5.17" tree="VHD" lem="have">had</w> 
+ <w id="w21.5.18" tree="VVN" lem="hurt">hurt</w> 
+ <w id="w21.5.19" tree="DT" lem="the">the</w> 
+ <w id="w21.5.20" tree="JJ" lem="poor">poor</w> 
+ <w id="w21.5.21" tree="NN" lem="animal">animal</w>
+ <w id="w21.5.22" tree="POS" lem="'s">'s</w> 
+ <w id="w21.5.23" tree="NNS" lem="feeling">feelings</w>
+ <w id="w21.5.24" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s21.6">
+ <w id="w21.6.1" tree="``" lem="&quot;">“</w>
+ <w id="w21.6.2" tree="PP" lem="I">I</w> 
+ <w id="w21.6.3" tree="RB" lem="quite">quite</w> 
+ <w id="w21.6.4" tree="VVD" lem="forget">forgot</w> 
+ <w id="w21.6.5" tree="PP" lem="you">you</w> 
+ <w id="w21.6.6" tree="VVD" lem="do">didn</w>
+ <w id="w21.6.7" tree="RB" lem="n't">'t</w> 
+ <w id="w21.6.8" tree="IN" lem="like">like</w> 
+ <w id="w21.6.9" tree="NNS" lem="cat">cats</w>
+ <w id="w21.6.10" tree="SENT" lem=".">.</w>
+ <w id="w21.6.11" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="22">
+<s id="s22.1">
+ <w id="w22.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w22.1.2" tree="RB" lem="not">Not</w> 
+ <w id="w22.1.3" tree="IN" lem="like">like</w> 
+ <w id="w22.1.4" tree="NNS" lem="cat">cats</w>
+ <w id="w22.1.5" tree="SENT" lem="!">!</w>
+ <w id="w22.1.6" tree="''" lem="&quot;">”</w> 
+ <w id="w22.1.7" tree="VVD" lem="cry">cried</w> 
+ <w id="w22.1.8" tree="DT" lem="the">the</w> 
+ <w id="w22.1.9" tree="NP" lem="Mouse">Mouse</w>
+ <w id="w22.1.10" tree="," lem=",">,</w> 
+ <w id="w22.1.11" tree="IN" lem="in">in</w> 
+ <w id="w22.1.12" tree="DT" lem="a">a</w> 
+ <w id="w22.1.13" tree="JJ" lem="shrill">shrill</w>
+ <w id="w22.1.14" tree="," lem=",">,</w> 
+ <w id="w22.1.15" tree="JJ" lem="passionate">passionate</w> 
+ <w id="w22.1.16" tree="NN" lem="voice">voice</w>
+ <w id="w22.1.17" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s22.2">
+ <w id="w22.2.1" tree="``" lem="&quot;">“</w>
+ <w id="w22.2.2" tree="NP" lem="Would">Would</w> 
+ <w id="w22.2.3" tree="SYM" lem="_">_</w>
+ <w id="w22.2.4" tree="PP" lem="you">you</w>
+ <w id="w22.2.5" tree="SYM" lem="_">_</w> 
+ <w id="w22.2.6" tree="JJ" lem="like">like</w> 
+ <w id="w22.2.7" tree="NNS" lem="cat">cats</w> 
+ <w id="w22.2.8" tree="IN" lem="if">if</w> 
+ <w id="w22.2.9" tree="PP" lem="you">you</w> 
+ <w id="w22.2.10" tree="VBD" lem="be">were</w> 
+ <w id="w22.2.11" tree="PP" lem="me">me</w>
+ <w id="w22.2.12" tree="SENT" lem="?">?</w>
+ <w id="w22.2.13" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="23">
+<s id="s23.1">
+ <w id="w23.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w23.1.2" tree="UH" lem="well">Well</w>
+ <w id="w23.1.3" tree="," lem=",">,</w> 
+ <w id="w23.1.4" tree="RB" lem="perhaps">perhaps</w> 
+ <w id="w23.1.5" tree="RB" lem="not">not</w>
+ <w id="w23.1.6" tree="," lem=",">,</w>
+ <w id="w23.1.7" tree="''" lem="&quot;">”</w> 
+ <w id="w23.1.8" tree="VVD" lem="say">said</w> 
+ <w id="w23.1.9" tree="NP" lem="Alice">Alice</w> 
+ <w id="w23.1.10" tree="IN" lem="in">in</w> 
+ <w id="w23.1.11" tree="DT" lem="a">a</w> 
+ <w id="w23.1.12" tree="JJ" lem="soothing">soothing</w> 
+ <w id="w23.1.13" tree="NN" lem="tone">tone</w>
+ <w id="w23.1.14" tree=":" lem=":">:</w> 
+ <w id="w23.1.15" tree="``" lem="&quot;">“</w>
+ <w id="w23.1.16" tree="VVP" lem="do">don</w>
+ <w id="w23.1.17" tree="RB" lem="n't">'t</w> 
+ <w id="w23.1.18" tree="VB" lem="be">be</w> 
+ <w id="w23.1.19" tree="JJ" lem="angry">angry</w> 
+ <w id="w23.1.20" tree="IN" lem="about">about</w> 
+ <w id="w23.1.21" tree="PP" lem="it">it</w>
+ <w id="w23.1.22" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s23.2">
+ <w id="w23.2.1" tree="CC" lem="and">And</w> 
+ <w id="w23.2.2" tree="RB" lem="yet">yet</w> 
+ <w id="w23.2.3" tree="PP" lem="I">I</w> 
+ <w id="w23.2.4" tree="VVP" lem="wish">wish</w> 
+ <w id="w23.2.5" tree="PP" lem="I">I</w> 
+ <w id="w23.2.6" tree="MD" lem="could">could</w> 
+ <w id="w23.2.7" tree="VV" lem="show">show</w> 
+ <w id="w23.2.8" tree="PP" lem="you">you</w> 
+ <w id="w23.2.9" tree="PP$" lem="our">our</w> 
+ <w id="w23.2.10" tree="NN" lem="cat">cat</w> 
+ <w id="w23.2.11" tree="NP" lem="Dinah">Dinah</w>
+ <w id="w23.2.12" tree=":" lem=":">:</w> 
+ <w id="w23.2.13" tree="PP" lem="I">I</w> 
+ <w id="w23.2.14" tree="VVP" lem="think">think</w> 
+ <w id="w23.2.15" tree="PP" lem="you">you</w>
+ <w id="w23.2.16" tree="MD" lem="will">'d</w> 
+ <w id="w23.2.17" tree="VV" lem="take">take</w> 
+ <w id="w23.2.18" tree="DT" lem="a">a</w> 
+ <w id="w23.2.19" tree="NN" lem="fancy">fancy</w> 
+ <w id="w23.2.20" tree="TO" lem="to">to</w> 
+ <w id="w23.2.21" tree="NNS" lem="cat">cats</w> 
+ <w id="w23.2.22" tree="IN" lem="if">if</w> 
+ <w id="w23.2.23" tree="PP" lem="you">you</w> 
+ <w id="w23.2.24" tree="MD" lem="could">could</w> 
+ <w id="w23.2.25" tree="RB" lem="only">only</w> 
+ <w id="w23.2.26" tree="VV" lem="see">see</w> 
+ <w id="w23.2.27" tree="PP" lem="her">her</w>
+ <w id="w23.2.28" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s23.3">
+ <w id="w23.3.1" tree="PP" lem="she">She</w> 
+ <w id="w23.3.2" tree="VBZ" lem="be">is</w> 
+ <w id="w23.3.3" tree="PDT" lem="such">such</w> 
+ <w id="w23.3.4" tree="DT" lem="a">a</w> 
+ <w id="w23.3.5" tree="JJ" lem="dear">dear</w> 
+ <w id="w23.3.6" tree="JJ" lem="quiet">quiet</w> 
+ <w id="w23.3.7" tree="NN" lem="thing">thing</w>
+ <w id="w23.3.8" tree="," lem=",">,</w>
+ <w id="w23.3.9" tree="''" lem="&quot;">”</w> 
+ <w id="w23.3.10" tree="NP" lem="Alice">Alice</w> 
+ <w id="w23.3.11" tree="VVD" lem="go">went</w> 
+ <w id="w23.3.12" tree="IN" lem="on">on</w>
+ <w id="w23.3.13" tree="," lem=",">,</w> 
+ <w id="w23.3.14" tree="JJ" lem="half">half</w> 
+ <w id="w23.3.15" tree="TO" lem="to">to</w> 
+ <w id="w23.3.16" tree="PP" lem="herself">herself</w>
+ <w id="w23.3.17" tree="," lem=",">,</w> 
+ <w id="w23.3.18" tree="IN" lem="as">as</w> 
+ <w id="w23.3.19" tree="PP" lem="she">she</w> 
+ <w id="w23.3.20" tree="VVD" lem="swim">swam</w> 
+ <w id="w23.3.21" tree="RB" lem="lazily">lazily</w> 
+ <w id="w23.3.22" tree="RB" lem="about">about</w> 
+ <w id="w23.3.23" tree="IN" lem="in">in</w> 
+ <w id="w23.3.24" tree="DT" lem="the">the</w> 
+ <w id="w23.3.25" tree="NN" lem="pool">pool</w>
+ <w id="w23.3.26" tree="," lem=",">,</w> 
+ <w id="w23.3.27" tree="``" lem="&quot;">“</w>
+ <w id="w23.3.28" tree="CC" lem="and">and</w> 
+ <w id="w23.3.29" tree="PP" lem="she">she</w> 
+ <w id="w23.3.30" tree="VVZ" lem="sit">sits</w> 
+ <w id="w23.3.31" tree="VVG" lem="purr">purring</w> 
+ <w id="w23.3.32" tree="RB" lem="so">so</w> 
+ <w id="w23.3.33" tree="RB" lem="nicely">nicely</w> 
+ <w id="w23.3.34" tree="IN" lem="by">by</w> 
+ <w id="w23.3.35" tree="DT" lem="the">the</w> 
+ <w id="w23.3.36" tree="NN" lem="fire">fire</w>
+ <w id="w23.3.37" tree="," lem=",">,</w> 
+ <w id="w23.3.38" tree="VVG" lem="lick">licking</w> 
+ <w id="w23.3.39" tree="PP$" lem="her">her</w> 
+ <w id="w23.3.40" tree="NNS" lem="paw">paws</w> 
+ <w id="w23.3.41" tree="CC" lem="and">and</w> 
+ <w id="w23.3.42" tree="VVG" lem="wash">washing</w> 
+ <w id="w23.3.43" tree="PP$" lem="her">her</w> 
+ <w id="w23.3.44" tree="NN" lem="face">face</w> 
+ <w id="w23.3.45" tree=":" lem="-">-</w> 
+ <w id="w23.3.46" tree="CC" lem="and">and</w> 
+ <w id="w23.3.47" tree="PP" lem="she">she</w> 
+ <w id="w23.3.48" tree="VBZ" lem="be">is</w> 
+ <w id="w23.3.49" tree="PDT" lem="such">such</w> 
+ <w id="w23.3.50" tree="DT" lem="a">a</w> 
+ <w id="w23.3.51" tree="JJ" lem="nice">nice</w> 
+ <w id="w23.3.52" tree="JJ" lem="soft">soft</w> 
+ <w id="w23.3.53" tree="NN" lem="thing">thing</w> 
+ <w id="w23.3.54" tree="TO" lem="to">to</w> 
+ <w id="w23.3.55" tree="VV" lem="nurse">nurse</w> 
+ <w id="w23.3.56" tree=":" lem="-">-</w> 
+ <w id="w23.3.57" tree="CC" lem="and">and</w> 
+ <w id="w23.3.58" tree="PP" lem="she">she</w>
+ <w id="w23.3.59" tree="VBZ" lem="be">'s</w> 
+ <w id="w23.3.60" tree="PDT" lem="such">such</w> 
+ <w id="w23.3.61" tree="DT" lem="a">a</w> 
+ <w id="w23.3.62" tree="NN" lem="capital">capital</w> 
+ <w id="w23.3.63" tree="CD" lem="one">one</w> 
+ <w id="w23.3.64" tree="IN" lem="for">for</w> 
+ <w id="w23.3.65" tree="VVG" lem="catch">catching</w> 
+ <w id="w23.3.66" tree="NNS" lem="mouse">mice</w> 
+ <w id="w23.3.67" tree=":" lem="-">-</w> 
+ <w id="w23.3.68" tree="UH" lem="oh">oh</w>
+ <w id="w23.3.69" tree="," lem=",">,</w> 
+ <w id="w23.3.70" tree="PP" lem="I">I</w> 
+ <w id="w23.3.71" tree="VVP" lem="beg">beg</w> 
+ <w id="w23.3.72" tree="PP$" lem="your">your</w> 
+ <w id="w23.3.73" tree="NN" lem="pardon">pardon</w>
+ <w id="w23.3.74" tree="SENT" lem="!">!</w>
+ <w id="w23.3.75" tree="''" lem="&quot;">”</w> 
+ <w id="w23.3.76" tree="VVD" lem="cry">cried</w> 
+ <w id="w23.3.77" tree="NP" lem="Alice">Alice</w> 
+ <w id="w23.3.78" tree="RB" lem="again">again</w>
+ <w id="w23.3.79" tree="," lem=",">,</w> 
+ <w id="w23.3.80" tree="IN" lem="for">for</w> 
+ <w id="w23.3.81" tree="DT" lem="this">this</w> 
+ <w id="w23.3.82" tree="NN" lem="time">time</w> 
+ <w id="w23.3.83" tree="DT" lem="the">the</w> 
+ <w id="w23.3.84" tree="NP" lem="Mouse">Mouse</w> 
+ <w id="w23.3.85" tree="VBD" lem="be">was</w> 
+ <w id="w23.3.86" tree="VVG" lem="bristle">bristling</w> 
+ <w id="w23.3.87" tree="DT" lem="all">all</w> 
+ <w id="w23.3.88" tree="IN" lem="over">over</w>
+ <w id="w23.3.89" tree="," lem=",">,</w> 
+ <w id="w23.3.90" tree="CC" lem="and">and</w> 
+ <w id="w23.3.91" tree="PP" lem="she">she</w> 
+ <w id="w23.3.92" tree="VVD" lem="feel">felt</w> 
+ <w id="w23.3.93" tree="JJ" lem="certain">certain</w> 
+ <w id="w23.3.94" tree="PP" lem="it">it</w> 
+ <w id="w23.3.95" tree="MD" lem="must">must</w> 
+ <w id="w23.3.96" tree="VB" lem="be">be</w> 
+ <w id="w23.3.97" tree="RB" lem="really">really</w> 
+ <w id="w23.3.98" tree="VVN" lem="offend">offended</w>
+ <w id="w23.3.99" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s23.4">
+ <w id="w23.4.1" tree="``" lem="&quot;">“</w>
+ <w id="w23.4.2" tree="PP" lem="we">We</w> 
+ <w id="w23.4.3" tree="MD" lem="wo">won</w>
+ <w id="w23.4.4" tree="RB" lem="n't">'t</w> 
+ <w id="w23.4.5" tree="VV" lem="talk">talk</w> 
+ <w id="w23.4.6" tree="IN" lem="about">about</w> 
+ <w id="w23.4.7" tree="PP" lem="her">her</w> 
+ <w id="w23.4.8" tree="DT" lem="any">any</w> 
+ <w id="w23.4.9" tree="JJR" lem="more">more</w> 
+ <w id="w23.4.10" tree="IN" lem="if">if</w> 
+ <w id="w23.4.11" tree="PP" lem="you">you</w>
+ <w id="w23.4.12" tree="MD" lem="will">'d</w> 
+ <w id="w23.4.13" tree="RB" lem="rather">rather</w> 
+ <w id="w23.4.14" tree="RB" lem="not">not</w>
+ <w id="w23.4.15" tree="SENT" lem=".">.</w>
+ <w id="w23.4.16" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="24">
+<s id="s24.1">
+ <w id="w24.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w24.1.2" tree="PP" lem="we">We</w> 
+ <w id="w24.1.3" tree="RB" lem="indeed">indeed</w>
+ <w id="w24.1.4" tree="SENT" lem="!">!</w>
+ <w id="w24.1.5" tree="''" lem="&quot;">”</w> 
+ <w id="w24.1.6" tree="VVD" lem="cry">cried</w> 
+ <w id="w24.1.7" tree="DT" lem="the">the</w> 
+ <w id="w24.1.8" tree="NP" lem="Mouse">Mouse</w>
+ <w id="w24.1.9" tree="," lem=",">,</w> 
+ <w id="w24.1.10" tree="WP" lem="who">who</w> 
+ <w id="w24.1.11" tree="VBD" lem="be">was</w> 
+ <w id="w24.1.12" tree="VVG" lem="tremble">trembling</w> 
+ <w id="w24.1.13" tree="RP" lem="down">down</w> 
+ <w id="w24.1.14" tree="TO" lem="to">to</w> 
+ <w id="w24.1.15" tree="DT" lem="the">the</w> 
+ <w id="w24.1.16" tree="NN" lem="end">end</w> 
+ <w id="w24.1.17" tree="IN" lem="of">of</w> 
+ <w id="w24.1.18" tree="PP$" lem="his">his</w> 
+ <w id="w24.1.19" tree="NN" lem="tail">tail</w>
+ <w id="w24.1.20" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s24.2">
+ <w id="w24.2.1" tree="``" lem="&quot;">“</w>
+ <w id="w24.2.2" tree="IN" lem="as">As</w> 
+ <w id="w24.2.3" tree="IN" lem="if">if</w> 
+ <w id="w24.2.4" tree="SYM" lem="_">_</w>
+ <w id="w24.2.5" tree="CD" lem="@card@">I</w>
+ <w id="w24.2.6" tree="SYM" lem="_">_</w> 
+ <w id="w24.2.7" tree="MD" lem="would">would</w> 
+ <w id="w24.2.8" tree="VV" lem="talk">talk</w> 
+ <w id="w24.2.9" tree="IN" lem="on">on</w> 
+ <w id="w24.2.10" tree="PDT" lem="such">such</w> 
+ <w id="w24.2.11" tree="DT" lem="a">a</w> 
+ <w id="w24.2.12" tree="NN" lem="subject">subject</w>
+ <w id="w24.2.13" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s24.3">
+ <w id="w24.3.1" tree="PP$" lem="our">Our</w> 
+ <w id="w24.3.2" tree="NN" lem="family">family</w> 
+ <w id="w24.3.3" tree="RB" lem="always">always</w> 
+ <w id="w24.3.4" tree="SYM" lem="_">_</w>
+ <w id="w24.3.5" tree="VVN" lem="hate">hated</w>
+ <w id="w24.3.6" tree="SYM" lem="_">_</w> 
+ <w id="w24.3.7" tree="VVZ" lem="cat">cats</w>
+ <w id="w24.3.8" tree=":" lem=":">:</w> 
+ <w id="w24.3.9" tree="JJ" lem="nasty">nasty</w>
+ <w id="w24.3.10" tree="," lem=",">,</w> 
+ <w id="w24.3.11" tree="JJ" lem="low">low</w>
+ <w id="w24.3.12" tree="," lem=",">,</w> 
+ <w id="w24.3.13" tree="JJ" lem="vulgar">vulgar</w> 
+ <w id="w24.3.14" tree="NNS" lem="thing">things</w>
+ <w id="w24.3.15" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s24.4">
+ <w id="w24.4.1" tree="VVP" lem="do">Don</w>
+ <w id="w24.4.2" tree="RB" lem="n't">'t</w> 
+ <w id="w24.4.3" tree="VV" lem="let">let</w> 
+ <w id="w24.4.4" tree="PP" lem="me">me</w> 
+ <w id="w24.4.5" tree="VV" lem="hear">hear</w> 
+ <w id="w24.4.6" tree="DT" lem="the">the</w> 
+ <w id="w24.4.7" tree="NN" lem="name">name</w> 
+ <w id="w24.4.8" tree="RB" lem="again">again</w>
+ <w id="w24.4.9" tree="SENT" lem="!">!</w>
+ <w id="w24.4.10" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="25">
+<s id="s25.1">
+ <w id="w25.1.1" tree="``" lem="&quot;">“</w>
+ <w id="w25.1.2" tree="PP" lem="I">I</w> 
+ <w id="w25.1.3" tree="MD" lem="wo">won</w>
+ <w id="w25.1.4" tree="RB" lem="n't">'t</w> 
+ <w id="w25.1.5" tree="RB" lem="indeed">indeed</w>
+ <w id="w25.1.6" tree="SENT" lem="!">!</w>
+ <w id="w25.1.7" tree="''" lem="&quot;">”</w> 
+ <w id="w25.1.8" tree="VVD" lem="say">said</w> 
+ <w id="w25.1.9" tree="NP" lem="Alice">Alice</w>
+ <w id="w25.1.10" tree="," lem=",">,</w> 
+ <w id="w25.1.11" tree="IN" lem="in">in</w> 
+ <w id="w25.1.12" tree="DT" lem="a">a</w> 
+ <w id="w25.1.13" tree="JJ" lem="great">great</w> 
+ <w id="w25.1.14" tree="NN" lem="hurry">hurry</w> 
+ <w id="w25.1.15" tree="TO" lem="to">to</w> 
+ <w id="w25.1.16" tree="VV" lem="change">change</w> 
+ <w id="w25.1.17" tree="DT" lem="the">the</w> 
+ <w id="w25.1.18" tree="NN" lem="subject">subject</w> 
+ <w id="w25.1.19" tree="IN" lem="of">of</w> 
+ <w id="w25.1.20" tree="NN" lem="conversation">conversation</w>
+ <w id="w25.1.21" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s25.2">
+ <w id="w25.2.1" tree="``" lem="&quot;">“</w>
+ <w id="w25.2.2" tree="VBP" lem="be">Are</w> 
+ <w id="w25.2.3" tree="PP" lem="you">you</w> 
+ <w id="w25.2.4" tree=":" lem="-">-</w> 
+ <w id="w25.2.5" tree="VBP" lem="be">are</w> 
+ <w id="w25.2.6" tree="PP" lem="you">you</w> 
+ <w id="w25.2.7" tree="JJ" lem="fond">fond</w> 
+ <w id="w25.2.8" tree=":" lem="-">-</w> 
+ <w id="w25.2.9" tree="IN" lem="of">of</w> 
+ <w id="w25.2.10" tree=":" lem="-">-</w> 
+ <w id="w25.2.11" tree="IN" lem="of">of</w> 
+ <w id="w25.2.12" tree="NNS" lem="dog">dogs</w>
+ <w id="w25.2.13" tree="SENT" lem="?">?</w>
+ <w id="w25.2.14" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s25.3">
+ <w id="w25.3.1" tree="DT" lem="the">The</w> 
+ <w id="w25.3.2" tree="NP" lem="Mouse">Mouse</w> 
+ <w id="w25.3.3" tree="VVD" lem="do">did</w> 
+ <w id="w25.3.4" tree="RB" lem="not">not</w> 
+ <w id="w25.3.5" tree="VV" lem="answer">answer</w>
+ <w id="w25.3.6" tree="," lem=",">,</w> 
+ <w id="w25.3.7" tree="IN" lem="so">so</w> 
+ <w id="w25.3.8" tree="NP" lem="Alice">Alice</w> 
+ <w id="w25.3.9" tree="VVD" lem="go">went</w> 
+ <w id="w25.3.10" tree="IN" lem="on">on</w> 
+ <w id="w25.3.11" tree="RB" lem="eagerly">eagerly</w>
+ <w id="w25.3.12" tree=":" lem=":">:</w> 
+ <w id="w25.3.13" tree="``" lem="&quot;">“</w>
+ <w id="w25.3.14" tree="EX" lem="there">There</w> 
+ <w id="w25.3.15" tree="VBZ" lem="be">is</w> 
+ <w id="w25.3.16" tree="PDT" lem="such">such</w> 
+ <w id="w25.3.17" tree="DT" lem="a">a</w> 
+ <w id="w25.3.18" tree="JJ" lem="nice">nice</w> 
+ <w id="w25.3.19" tree="JJ" lem="little">little</w> 
+ <w id="w25.3.20" tree="NN" lem="dog">dog</w> 
+ <w id="w25.3.21" tree="IN" lem="near">near</w> 
+ <w id="w25.3.22" tree="PP$" lem="our">our</w> 
+ <w id="w25.3.23" tree="NN" lem="house">house</w> 
+ <w id="w25.3.24" tree="PP" lem="I">I</w> 
+ <w id="w25.3.25" tree="MD" lem="should">should</w> 
+ <w id="w25.3.26" tree="VV" lem="like">like</w> 
+ <w id="w25.3.27" tree="TO" lem="to">to</w> 
+ <w id="w25.3.28" tree="VV" lem="show">show</w> 
+ <w id="w25.3.29" tree="PP" lem="you">you</w>
+ <w id="w25.3.30" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s25.4">
+ <w id="w25.4.1" tree="DT" lem="a">A</w> 
+ <w id="w25.4.2" tree="JJ" lem="little">little</w> 
+ <w id="w25.4.3" tree="JJ" lem="bright-eyed">bright-eyed</w> 
+ <w id="w25.4.4" tree="NN" lem="terrier">terrier</w>
+ <w id="w25.4.5" tree="," lem=",">,</w> 
+ <w id="w25.4.6" tree="PP" lem="you">you</w> 
+ <w id="w25.4.7" tree="VVP" lem="know">know</w>
+ <w id="w25.4.8" tree="," lem=",">,</w> 
+ <w id="w25.4.9" tree="IN" lem="with">with</w> 
+ <w id="w25.4.10" tree="UH" lem="oh">oh</w>
+ <w id="w25.4.11" tree="," lem=",">,</w> 
+ <w id="w25.4.12" tree="JJ" lem="such">such</w> 
+ <w id="w25.4.13" tree="JJ" lem="long">long</w> 
+ <w id="w25.4.14" tree="JJ" lem="curly">curly</w> 
+ <w id="w25.4.15" tree="JJ" lem="brown">brown</w> 
+ <w id="w25.4.16" tree="NN" lem="hair">hair</w>
+ <w id="w25.4.17" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s25.5">
+ <w id="w25.5.1" tree="CC" lem="and">And</w> 
+ <w id="w25.5.2" tree="PP" lem="it">it</w>
+ <w id="w25.5.3" tree="MD" lem="will">'ll</w> 
+ <w id="w25.5.4" tree="VV" lem="fetch">fetch</w> 
+ <w id="w25.5.5" tree="NNS" lem="thing">things</w> 
+ <w id="w25.5.6" tree="WRB" lem="when">when</w> 
+ <w id="w25.5.7" tree="PP" lem="you">you</w> 
+ <w id="w25.5.8" tree="VVP" lem="throw">throw</w> 
+ <w id="w25.5.9" tree="PP" lem="them">them</w>
+ <w id="w25.5.10" tree="," lem=",">,</w> 
+ <w id="w25.5.11" tree="CC" lem="and">and</w> 
+ <w id="w25.5.12" tree="PP" lem="it">it</w>
+ <w id="w25.5.13" tree="MD" lem="will">'ll</w> 
+ <w id="w25.5.14" tree="VV" lem="sit">sit</w> 
+ <w id="w25.5.15" tree="RP" lem="up">up</w> 
+ <w id="w25.5.16" tree="CC" lem="and">and</w> 
+ <w id="w25.5.17" tree="VV" lem="beg">beg</w> 
+ <w id="w25.5.18" tree="IN" lem="for">for</w> 
+ <w id="w25.5.19" tree="PP$" lem="its">its</w> 
+ <w id="w25.5.20" tree="NN" lem="dinner">dinner</w>
+ <w id="w25.5.21" tree="," lem=",">,</w> 
+ <w id="w25.5.22" tree="CC" lem="and">and</w> 
+ <w id="w25.5.23" tree="DT" lem="all">all</w> 
+ <w id="w25.5.24" tree="NNS" lem="sort">sorts</w> 
+ <w id="w25.5.25" tree="IN" lem="of">of</w> 
+ <w id="w25.5.26" tree="NNS" lem="thing">things</w> 
+ <w id="w25.5.27" tree=":" lem="-">-</w> 
+ <w id="w25.5.28" tree="PP" lem="I">I</w> 
+ <w id="w25.5.29" tree="MD" lem="ca">can</w>
+ <w id="w25.5.30" tree="RB" lem="n't">'t</w> 
+ <w id="w25.5.31" tree="VV" lem="remember">remember</w> 
+ <w id="w25.5.32" tree="NN" lem="half">half</w> 
+ <w id="w25.5.33" tree="IN" lem="of">of</w> 
+ <w id="w25.5.34" tree="PP" lem="them">them</w> 
+ <w id="w25.5.35" tree=":" lem="-">-</w> 
+ <w id="w25.5.36" tree="CC" lem="and">and</w> 
+ <w id="w25.5.37" tree="PP" lem="it">it</w> 
+ <w id="w25.5.38" tree="VVZ" lem="belong">belongs</w> 
+ <w id="w25.5.39" tree="TO" lem="to">to</w> 
+ <w id="w25.5.40" tree="DT" lem="a">a</w> 
+ <w id="w25.5.41" tree="NN" lem="farmer">farmer</w>
+ <w id="w25.5.42" tree="," lem=",">,</w> 
+ <w id="w25.5.43" tree="PP" lem="you">you</w> 
+ <w id="w25.5.44" tree="VVP" lem="know">know</w>
+ <w id="w25.5.45" tree="," lem=",">,</w> 
+ <w id="w25.5.46" tree="CC" lem="and">and</w> 
+ <w id="w25.5.47" tree="PP" lem="he">he</w> 
+ <w id="w25.5.48" tree="VVZ" lem="say">says</w> 
+ <w id="w25.5.49" tree="PP" lem="it">it</w>
+ <w id="w25.5.50" tree="VBZ" lem="be">'s</w> 
+ <w id="w25.5.51" tree="RB" lem="so">so</w> 
+ <w id="w25.5.52" tree="JJ" lem="useful">useful</w>
+ <w id="w25.5.53" tree="," lem=",">,</w> 
+ <w id="w25.5.54" tree="PP" lem="it">it</w>
+ <w id="w25.5.55" tree="VBZ" lem="be">'s</w> 
+ <w id="w25.5.56" tree="JJ" lem="worth">worth</w> 
+ <w id="w25.5.57" tree="DT" lem="a">a</w> 
+ <w id="w25.5.58" tree="CD" lem="hundred">hundred</w> 
+ <w id="w25.5.59" tree="NNS" lem="pound">pounds</w>
+ <w id="w25.5.60" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s25.6">
+ <w id="w25.6.1" tree="PP" lem="he">He</w> 
+ <w id="w25.6.2" tree="VVZ" lem="say">says</w> 
+ <w id="w25.6.3" tree="PP" lem="it">it</w> 
+ <w id="w25.6.4" tree="VVZ" lem="kill">kills</w> 
+ <w id="w25.6.5" tree="PDT" lem="all">all</w> 
+ <w id="w25.6.6" tree="DT" lem="the">the</w> 
+ <w id="w25.6.7" tree="NNS" lem="rat">rats</w> 
+ <w id="w25.6.8" tree="CC" lem="and">and</w> 
+ <w id="w25.6.9" tree=":" lem="-">-</w> 
+ <w id="w25.6.10" tree="UH" lem="oh">oh</w> 
+ <w id="w25.6.11" tree="RB" lem="dear">dear</w>
+ <w id="w25.6.12" tree="SENT" lem="!">!</w>
+ <w id="w25.6.13" tree="''" lem="&quot;">”</w> 
+ <w id="w25.6.14" tree="VVD" lem="cry">cried</w> 
+ <w id="w25.6.15" tree="NP" lem="Alice">Alice</w> 
+ <w id="w25.6.16" tree="IN" lem="in">in</w> 
+ <w id="w25.6.17" tree="DT" lem="a">a</w> 
+ <w id="w25.6.18" tree="JJ" lem="sorrowful">sorrowful</w> 
+ <w id="w25.6.19" tree="NN" lem="tone">tone</w>
+ <w id="w25.6.20" tree="," lem=",">,</w> 
+ <w id="w25.6.21" tree="``" lem="&quot;">“</w>
+ <w id="w25.6.22" tree="PP" lem="I">I</w>
+ <w id="w25.6.23" tree="VBP" lem="be">'m</w> 
+ <w id="w25.6.24" tree="JJ" lem="afraid">afraid</w> 
+ <w id="w25.6.25" tree="PP" lem="I">I</w>
+ <w id="w25.6.26" tree="VHP" lem="have">'ve</w> 
+ <w id="w25.6.27" tree="VVN" lem="offend">offended</w> 
+ <w id="w25.6.28" tree="PP" lem="it">it</w> 
+ <w id="w25.6.29" tree="RB" lem="again">again</w>
+ <w id="w25.6.30" tree="SENT" lem="!">!</w>
+ <w id="w25.6.31" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s25.7">
+ <w id="w25.7.1" tree="IN" lem="for">For</w> 
+ <w id="w25.7.2" tree="DT" lem="the">the</w> 
+ <w id="w25.7.3" tree="NP" lem="Mouse">Mouse</w> 
+ <w id="w25.7.4" tree="VBD" lem="be">was</w> 
+ <w id="w25.7.5" tree="VVG" lem="swim">swimming</w> 
+ <w id="w25.7.6" tree="RB" lem="away">away</w> 
+ <w id="w25.7.7" tree="IN" lem="from">from</w> 
+ <w id="w25.7.8" tree="PP$" lem="her">her</w> 
+ <w id="w25.7.9" tree="RB" lem="as">as</w> 
+ <w id="w25.7.10" tree="JJ" lem="hard">hard</w> 
+ <w id="w25.7.11" tree="IN" lem="as">as</w> 
+ <w id="w25.7.12" tree="PP" lem="it">it</w> 
+ <w id="w25.7.13" tree="MD" lem="could">could</w> 
+ <w id="w25.7.14" tree="VV" lem="go">go</w>
+ <w id="w25.7.15" tree="," lem=",">,</w> 
+ <w id="w25.7.16" tree="CC" lem="and">and</w> 
+ <w id="w25.7.17" tree="VVG" lem="make">making</w> 
+ <w id="w25.7.18" tree="PDT" lem="quite">quite</w> 
+ <w id="w25.7.19" tree="DT" lem="a">a</w> 
+ <w id="w25.7.20" tree="NN" lem="commotion">commotion</w> 
+ <w id="w25.7.21" tree="IN" lem="in">in</w> 
+ <w id="w25.7.22" tree="DT" lem="the">the</w> 
+ <w id="w25.7.23" tree="NN" lem="pool">pool</w> 
+ <w id="w25.7.24" tree="IN" lem="as">as</w> 
+ <w id="w25.7.25" tree="PP" lem="it">it</w> 
+ <w id="w25.7.26" tree="VVD" lem="go">went</w>
+ <w id="w25.7.27" tree="SENT" lem=".">.</w>
+</s></p>
+
+<p id="26">
+<s id="s26.1">
+ <w id="w26.1.1" tree="RB" lem="so">So</w> 
+ <w id="w26.1.2" tree="PP" lem="she">she</w> 
+ <w id="w26.1.3" tree="VVD" lem="call">called</w> 
+ <w id="w26.1.4" tree="RB" lem="softly">softly</w> 
+ <w id="w26.1.5" tree="IN" lem="after">after</w> 
+ <w id="w26.1.6" tree="PP" lem="it">it</w>
+ <w id="w26.1.7" tree="," lem=",">,</w> 
+ <w id="w26.1.8" tree="``" lem="&quot;">“</w>
+ <w id="w26.1.9" tree="NP" lem="Mouse">Mouse</w> 
+ <w id="w26.1.10" tree="RB" lem="dear">dear</w>
+ <w id="w26.1.11" tree="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s26.2">
+ <w id="w26.2.1" tree="VV" lem="do">Do</w> 
+ <w id="w26.2.2" tree="VV" lem="come">come</w> 
+ <w id="w26.2.3" tree="RB" lem="back">back</w> 
+ <w id="w26.2.4" tree="RB" lem="again">again</w>
+ <w id="w26.2.5" tree="," lem=",">,</w> 
+ <w id="w26.2.6" tree="CC" lem="and">and</w> 
+ <w id="w26.2.7" tree="PP" lem="we">we</w> 
+ <w id="w26.2.8" tree="MD" lem="wo">won</w>
+ <w id="w26.2.9" tree="RB" lem="n't">'t</w> 
+ <w id="w26.2.10" tree="VV" lem="talk">talk</w> 
+ <w id="w26.2.11" tree="IN" lem="about">about</w> 
+ <w id="w26.2.12" tree="NNS" lem="cat">cats</w> 
+ <w id="w26.2.13" tree="CC" lem="or">or</w> 
+ <w id="w26.2.14" tree="NNS" lem="dog">dogs</w> 
+ <w id="w26.2.15" tree="CC" lem="either">either</w>
+ <w id="w26.2.16" tree="," lem=",">,</w> 
+ <w id="w26.2.17" tree="IN" lem="if">if</w> 
+ <w id="w26.2.18" tree="PP" lem="you">you</w> 
+ <w id="w26.2.19" tree="VVP" lem="do">don</w>
+ <w id="w26.2.20" tree="RB" lem="n't">'t</w> 
+ <w id="w26.2.21" tree="VV" lem="like">like</w> 
+ <w id="w26.2.22" tree="PP" lem="them">them</w>
+ <w id="w26.2.23" tree="SENT" lem="!">!</w>
+ <w id="w26.2.24" tree="''" lem="&quot;">”</w>
+</s> 
+ 
+<s id="s26.3">
+ <w id="w26.3.1" tree="WRB" lem="when">When</w> 
+ <w id="w26.3.2" tree="DT" lem="the">the</w> 
+ <w id="w26.3.3" tree="NP" lem="Mouse">Mouse</w> 
+ <w id="w26.3.4" tree="VVD" lem="hear">heard</w> 
+ <w id="w26.3.5" tree="DT" lem="this">this</w>
+ <w id="w26.3.6" tree="," lem=",">,</w> 
+ <w id="w26.3.7" tree="PP" lem="it">it</w> 
+ <w id="w26.3.8" tree="VVD" lem="turn">turned</w> 
+ <w id="w26.3.9" tree="NN" lem="round">round</w> 
+ <w id="w26.3.10" tree="CC" lem="and">and</w> 
+ <w id="w26.3.11" tree="VVD" lem="swim">swam</w> 
+ <w id="w26.3.12" tree="RB" lem="slowly">slowly</w> 
+ <w id="w26.3.13" tree="RB" lem="back">back</w> 
+ <w id="w26.3.14" tree="TO" lem="to">to</w> 
+ <w id="w26.3.15" tree="PP" lem="her">her</w>
+ <w id="w26.3.16" tree=":" lem=":">:</w> 
+ <w id="w26.3.17" tree="PP$" lem="its">its</w> 
+ <w id="w26.3.18" tree="NN" lem="face">face</w> 
+ <w id="w26.3.19" tree="VBD" lem="be">was</w> 
+ <w id="w26.3.20" tree="RB" lem="quite">quite</w> 
+ <w id="w26.3.21" tree="JJ" lem="pale">pale</w> 
+ <w id="w26.3.22" tree="(" lem="(">(</w>
+ <w id="w26.3.23" tree="IN" lem="with">with</w> 
+ <w id="w26.3.24" tree="NN" lem="passion">passion</w>
+ <w id="w26.3.25" tree="," lem=",">,</w> 
+ <w id="w26.3.26" tree="NP" lem="Alice">Alice</w> 
+ <w id="w26.3.27" tree="VVD" lem="think">thought</w>
+ <w id="w26.3.28" tree=")" lem=")">)</w>
+ <w id="w26.3.29" tree="," lem=",">,</w> 
+ <w id="w26.3.30" tree="CC" lem="and">and</w> 
+ <w id="w26.3.31" tree="PP" lem="it">it</w> 
+ <w id="w26.3.32" tree="VVD" lem="say">said</w> 
+ <w id="w26.3.33" tree="IN" lem="in">in</w> 
+ <w id="w26.3.34" tree="DT" lem="a">a</w> 
+ <w id="w26.3.35" tree="JJ" lem="low">low</w> 
+ <w id="w26.3.36" tree="VVG" lem="tremble">trembling</w> 
+ <w id="w26.3.37" tree="NN" lem="voice">voice</w>
+ <w id="w26.3.38" tree="," lem=",">,</w> 
+ <w id="w26.3.39" tree="``" lem="&quot;">“</w>
+ <w id="w26.3.40" tree="VV" lem="let">Let</w> 
+ <w id="w26.3.41" tree="PP" lem="us">us</w> 
+ <w id="w26.3.42" tree="VV" lem="get">get</w> 
+ <w id="w26.3.43" tree="TO" lem="to">to</w> 
+ <w id="w26.3.44" tree="DT" lem="the">the</w> 
+ <w id="w26.3.45" tree="NN" lem="shore">shore</w>
+ <w id="w26.3.46" tree="," lem=",">,</w> 
+ <w id="w26.3.47" tree="CC" lem="and">and</w> 
+ <w id="w26.3.48" tree="RB" lem="then">then</w> 
+ <w id="w26.3.49" tree="PP" lem="I">I</w>
+ <w id="w26.3.50" tree="MD" lem="will">'ll</w> 
+ <w id="w26.3.51" tree="VV" lem="tell">tell</w> 
+ <w id="w26.3.52" tree="PP" lem="you">you</w> 
+ <w id="w26.3.53" tree="PP$" lem="my">my</w> 
+ <w id="w26.3.54" tree="NN" lem="history">history</w>
+ <w id="w26.3.55" tree="," lem=",">,</w> 
+ <w id="w26.3.56" tree="CC" lem="and">and</w> 
+ <w id="w26.3.57" tree="PP" lem="you">you</w>
+ <w id="w26.3.58" tree="MD" lem="will">'ll</w> 
+ <w id="w26.3.59" tree="VV" lem="understand">understand</w> 
+ <w id="w26.3.60" tree="WRB" lem="why">why</w> 
+ <w id="w26.3.61" tree="PP" lem="it">it</w> 
+ <w id="w26.3.62" tree="VBZ" lem="be">is</w> 
+ <w id="w26.3.63" tree="PP" lem="I">I</w> 
+ <w id="w26.3.64" tree="VVP" lem="hate">hate</w> 
+ <w id="w26.3.65" tree="NNS" lem="cat">cats</w> 
+ <w id="w26.3.66" tree="CC" lem="and">and</w> 
+ <w id="w26.3.67" tree="NNS" lem="dog">dogs</w>
+ <w id="w26.3.68" tree="SENT" lem=".">.</w>
+ <w id="w26.3.69" tree="''" lem="&quot;">”</w>
+</s></p>
+
+<p id="27">
+<s id="s27.1">
+ <w id="w27.1.1" tree="PP" lem="it">It</w> 
+ <w id="w27.1.2" tree="VBD" lem="be">was</w> 
+ <w id="w27.1.3" tree="JJ" lem="high">high</w> 
+ <w id="w27.1.4" tree="NN" lem="time">time</w> 
+ <w id="w27.1.5" tree="TO" lem="to">to</w> 
+ <w id="w27.1.6" tree="VV" lem="go">go</w>
+ <w id="w27.1.7" tree="," lem=",">,</w> 
+ <w id="w27.1.8" tree="IN" lem="for">for</w> 
+ <w id="w27.1.9" tree="DT" lem="the">the</w> 
+ <w id="w27.1.10" tree="NN" lem="pool">pool</w> 
+ <w id="w27.1.11" tree="VBD" lem="be">was</w> 
+ <w id="w27.1.12" tree="VVG" lem="get">getting</w> 
+ <w id="w27.1.13" tree="RB" lem="quite">quite</w> 
+ <w id="w27.1.14" tree="VVN" lem="crowd">crowded</w> 
+ <w id="w27.1.15" tree="IN" lem="with">with</w> 
+ <w id="w27.1.16" tree="DT" lem="the">the</w> 
+ <w id="w27.1.17" tree="NNS" lem="bird">birds</w> 
+ <w id="w27.1.18" tree="CC" lem="and">and</w> 
+ <w id="w27.1.19" tree="NNS" lem="animal">animals</w> 
+ <w id="w27.1.20" tree="WDT" lem="that">that</w> 
+ <w id="w27.1.21" tree="VHD" lem="have">had</w> 
+ <w id="w27.1.22" tree="VVN" lem="fall">fallen</w> 
+ <w id="w27.1.23" tree="IN" lem="into">into</w> 
+ <w id="w27.1.24" tree="PP" lem="it">it</w>
+ <w id="w27.1.25" tree=":" lem=":">:</w> 
+ <w id="w27.1.26" tree="EX" lem="there">there</w> 
+ <w id="w27.1.27" tree="VBD" lem="be">were</w> 
+ <w id="w27.1.28" tree="DT" lem="a">a</w> 
+ <w id="w27.1.29" tree="NN" lem="duck">Duck</w> 
+ <w id="w27.1.30" tree="CC" lem="and">and</w> 
+ <w id="w27.1.31" tree="DT" lem="a">a</w> 
+ <w id="w27.1.32" tree="NP" lem="Dodo">Dodo</w>
+ <w id="w27.1.33" tree="," lem=",">,</w> 
+ <w id="w27.1.34" tree="DT" lem="a">a</w> 
+ <w id="w27.1.35" tree="NP" lem="Lory">Lory</w> 
+ <w id="w27.1.36" tree="CC" lem="and">and</w> 
+ <w id="w27.1.37" tree="DT" lem="an">an</w> 
+ <w id="w27.1.38" tree="NN" lem="eaglet">Eaglet</w>
+ <w id="w27.1.39" tree="," lem=",">,</w> 
+ <w id="w27.1.40" tree="CC" lem="and">and</w> 
+ <w id="w27.1.41" tree="JJ" lem="several">several</w> 
+ <w id="w27.1.42" tree="JJ" lem="other">other</w> 
+ <w id="w27.1.43" tree="JJ" lem="curious">curious</w> 
+ <w id="w27.1.44" tree="NNS" lem="creature">creatures</w>
+ <w id="w27.1.45" tree="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s27.2">
+ <w id="w27.2.1" tree="NP" lem="Alice">Alice</w> 
+ <w id="w27.2.2" tree="VVD" lem="lead">led</w> 
+ <w id="w27.2.3" tree="DT" lem="the">the</w> 
+ <w id="w27.2.4" tree="NN" lem="way">way</w>
+ <w id="w27.2.5" tree="," lem=",">,</w> 
+ <w id="w27.2.6" tree="CC" lem="and">and</w> 
+ <w id="w27.2.7" tree="DT" lem="the">the</w> 
+ <w id="w27.2.8" tree="JJ" lem="whole">whole</w> 
+ <w id="w27.2.9" tree="NN" lem="party">party</w> 
+ <w id="w27.2.10" tree="VVD" lem="swim">swam</w> 
+ <w id="w27.2.11" tree="TO" lem="to">to</w> 
+ <w id="w27.2.12" tree="DT" lem="the">the</w> 
+ <w id="w27.2.13" tree="NN" lem="shore">shore</w>
+ <w id="w27.2.14" tree="SENT" lem=".">.</w>
+</s></p></text>

@@ -1,0 +1,2769 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text>
+<head id="1">
+<s id="s1.1">
+ <w id="w1.1.1" tree="ADV" lem="hinunter">Hinunter</w> 
+ <w id="w1.1.2" tree="APPR" lem="in">in</w> 
+ <w id="w1.1.3" tree="ART" lem="die">den</w> 
+ <w id="w1.1.4" tree="NN" lem="Kaninchenbau">Kaninchenbau</w>
+ <w id="w1.1.5" tree="$." lem=".">.</w>
+</s></head>
+
+<p id="2">
+<s id="s2.1">
+ <w id="w2.1.1" tree="NE" lem="Alice">Alice</w> 
+ <w id="w2.1.2" tree="VVFIN" lem="fangen">fing</w> 
+ <w id="w2.1.3" tree="APPR" lem="an">an</w> 
+ <w id="w2.1.4" tree="PRF" lem="sich">sich</w> 
+ <w id="w2.1.5" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w2.1.6" tree="VVINF" lem="langweilen">langweilen</w>
+ <w id="w2.1.7" tree="$." lem=";">;</w> 
+ <w id="w2.1.8" tree="PPER" lem="sie">sie</w> 
+ <w id="w2.1.9" tree="VVFIN" lem="sitzen">saß</w> 
+ <w id="w2.1.10" tree="ADV" lem="schon">schon</w> 
+ <w id="w2.1.11" tree="ADV" lem="lange">lange</w> 
+ <w id="w2.1.12" tree="APPR" lem="bei">bei</w> 
+ <w id="w2.1.13" tree="PPOSAT" lem="ihr">ihrer</w> 
+ <w id="w2.1.14" tree="NN" lem="Schwester">Schwester</w> 
+ <w id="w2.1.15" tree="APPRART" lem="an">am</w> 
+ <w id="w2.1.16" tree="NN" lem="Ufer">Ufer</w> 
+ <w id="w2.1.17" tree="KON" lem="und">und</w> 
+ <w id="w2.1.18" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w2.1.19" tree="PIS" lem="nichts">nichts</w> 
+ <w id="w2.1.20" tree="APPR" lem="zu">zu</w> 
+ <w id="w2.1.21" tree="NE" lem="thun">thun</w>
+ <w id="w2.1.22" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s2.2">
+ <w id="w2.2.1" tree="ART" lem="die">Das</w> 
+ <w id="w2.2.2" tree="NN" lem="Buch">Buch</w>
+ <w id="w2.2.3" tree="$," lem=",">,</w> 
+ <w id="w2.2.4" tree="PRELS" lem="die">das</w> 
+ <w id="w2.2.5" tree="PPOSAT" lem="ihr">ihre</w> 
+ <w id="w2.2.6" tree="NN" lem="Schwester">Schwester</w> 
+ <w id="w2.2.7" tree="VVFIN" lem="lesen">las</w>
+ <w id="w2.2.8" tree="$," lem=",">,</w> 
+ <w id="w2.2.9" tree="VVFIN" lem="gefallen">gefiel</w> 
+ <w id="w2.2.10" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w2.2.11" tree="PTKNEG" lem="nicht">nicht</w>
+ <w id="w2.2.12" tree="$." lem=";">;</w> 
+ <w id="w2.2.13" tree="KON" lem="denn">denn</w> 
+ <w id="w2.2.14" tree="PPER" lem="es">es</w> 
+ <w id="w2.2.15" tree="VAFIN" lem="sein">waren</w> 
+ <w id="w2.2.16" tree="KON" lem="weder">weder</w> 
+ <w id="w2.2.17" tree="NN" lem="Bild">Bilder</w> 
+ <w id="w2.2.18" tree="KON" lem="noch">noch</w> 
+ <w id="w2.2.19" tree="NN" lem="Gespräch">Gespräche</w> 
+ <w id="w2.2.20" tree="PAV" lem="darin">darin</w>
+ <w id="w2.2.21" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s2.3">
+ <w id="w2.3.1" tree="$(" lem="&quot;">"</w>
+ <w id="w2.3.2" tree="KON" lem="und">Und</w> 
+ <w id="w2.3.3" tree="PWS" lem="was">was</w> 
+ <w id="w2.3.4" tree="VVFIN" lem="nützen">nützen</w> 
+ <w id="w2.3.5" tree="NN" lem="Buch">Bücher</w>
+ <w id="w2.3.6" tree="$," lem=",">,</w>
+ <w id="w2.3.7" tree="$(" lem="&quot;">"</w> 
+ <w id="w2.3.8" tree="VVFIN" lem="denken">dachte</w> 
+ <w id="w2.3.9" tree="NE" lem="Alice">Alice</w>
+ <w id="w2.3.10" tree="$," lem=",">,</w> 
+ <w id="w2.3.11" tree="$(" lem="&quot;">"</w>
+ <w id="w2.3.12" tree="APPR" lem="ohne">ohne</w> 
+ <w id="w2.3.13" tree="NN" lem="Bild">Bilder</w> 
+ <w id="w2.3.14" tree="KON" lem="und">und</w> 
+ <w id="w2.3.15" tree="NN" lem="Gespräch">Gespräche</w>
+ <w id="w2.3.16" tree="$." lem="?">?</w>
+ <w id="w2.3.17" tree="$(" lem="&quot;">"</w>
+</s></p>
+
+<p id="3">
+<s id="s3.1">
+ <w id="w3.1.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w3.1.2" tree="VVFIN" lem="überlegen">überlegte</w> 
+ <w id="w3.1.3" tree="PRF" lem="sich">sich</w> 
+ <w id="w3.1.4" tree="ADV" lem="eben">eben</w>
+ <w id="w3.1.5" tree="$," lem=",">,</w> 
+ <w id="w3.1.6" tree="$(" lem="(">(</w>
+ <w id="w3.1.7" tree="ADV" lem="so">so</w> 
+ <w id="w3.1.8" tree="ADJD" lem="gut">gut</w> 
+ <w id="w3.1.9" tree="PPER" lem="es">es</w> 
+ <w id="w3.1.10" tree="VVFIN" lem="gehen">ging</w>
+ <w id="w3.1.11" tree="$," lem=",">,</w> 
+ <w id="w3.1.12" tree="KON" lem="denn">denn</w> 
+ <w id="w3.1.13" tree="PPER" lem="sie">sie</w> 
+ <w id="w3.1.14" tree="VAFIN" lem="sein">war</w> 
+ <w id="w3.1.15" tree="ADJD" lem="schläfrig">schläfrig</w> 
+ <w id="w3.1.16" tree="KON" lem="und">und</w> 
+ <w id="w3.1.17" tree="ADJD" lem="dumm">dumm</w> 
+ <w id="w3.1.18" tree="APPR" lem="von">von</w> 
+ <w id="w3.1.19" tree="ART" lem="die">der</w> 
+ <w id="w3.1.20" tree="NN" lem="Hitze">Hitze</w>
+ <w id="w3.1.21" tree="$," lem=",">,</w>
+ <w id="w3.1.22" tree="$(" lem=")">)</w> 
+ <w id="w3.1.23" tree="KOUS" lem="ob">ob</w> 
+ <w id="w3.1.24" tree="PPER" lem="es">es</w> 
+ <w id="w3.1.25" tree="ART" lem="die">der</w> 
+ <w id="w3.1.26" tree="NN" lem="Mühe">Mühe</w> 
+ <w id="w3.1.27" tree="VVINF" lem="werth">werth</w> 
+ <w id="w3.1.28" tree="VAFIN" lem="sein">sei</w> 
+ <w id="w3.1.29" tree="VVIZU" lem="aufstehen">aufzustehen</w> 
+ <w id="w3.1.30" tree="KON" lem="und">und</w> 
+ <w id="w3.1.31" tree="NN" lem="Gänseblümchen">Gänseblümchen</w> 
+ <w id="w3.1.32" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w3.1.33" tree="VVINF" lem="pflücken">pflücken</w>
+ <w id="w3.1.34" tree="$," lem=",">,</w> 
+ <w id="w3.1.35" tree="KOUI" lem="um">um</w> 
+ <w id="w3.1.36" tree="ART" lem="eine">eine</w> 
+ <w id="w3.1.37" tree="NN" lem="Kette">Kette</w> 
+ <w id="w3.1.38" tree="PAV" lem="damit">damit</w> 
+ <w id="w3.1.39" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w3.1.40" tree="VVINF" lem="machen">machen</w>
+ <w id="w3.1.41" tree="$," lem=",">,</w> 
+ <w id="w3.1.42" tree="KOKOM" lem="als">als</w> 
+ <w id="w3.1.43" tree="ADJD" lem="plötzlich">plötzlich</w> 
+ <w id="w3.1.44" tree="ART" lem="eine">ein</w> 
+ <w id="w3.1.45" tree="ADJA" lem="weiß">weißes</w> 
+ <w id="w3.1.46" tree="NN" lem="Kaninchen">Kaninchen</w> 
+ <w id="w3.1.47" tree="APPR" lem="mit">mit</w> 
+ <w id="w3.1.48" tree="NE" lem="rothen">rothen</w> 
+ <w id="w3.1.49" tree="NN" lem="Auge">Augen</w> 
+ <w id="w3.1.50" tree="ADJD" lem="dicht">dicht</w> 
+ <w id="w3.1.51" tree="APPR" lem="an">an</w> 
+ <w id="w3.1.52" tree="PPOSAT" lem="ihr">ihr</w> 
+ <w id="w3.1.53" tree="NN" lem="vorbeirannte">vorbeirannte</w>
+ <w id="w3.1.54" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="4">
+<s id="s4.1">
+ <w id="w4.1.1" tree="PDS" lem="dies">Dies</w> 
+ <w id="w4.1.2" tree="VAFIN" lem="sein">war</w> 
+ <w id="w4.1.3" tree="PTKVZ" lem="grade">grade</w> 
+ <w id="w4.1.4" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w4.1.5" tree="XY" lem="_">_</w>
+ <w id="w4.1.6" tree="ADV" lem="sehr">sehr</w>
+ <w id="w4.1.7" tree="XY" lem="_">_</w> 
+ <w id="w4.1.8" tree="ADJD" lem="merkwürdig">merkwürdig</w>
+ <w id="w4.1.9" tree="$." lem=";">;</w> 
+ <w id="w4.1.10" tree="NE" lem="Alice">Alice</w> 
+ <w id="w4.1.11" tree="VVFIN" lem="finden">fand</w> 
+ <w id="w4.1.12" tree="PPER" lem="es">es</w> 
+ <w id="w4.1.13" tree="ADV" lem="auch">auch</w> 
+ <w id="w4.1.14" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w4.1.15" tree="XY" lem="_">_</w>
+ <w id="w4.1.16" tree="ADV" lem="sehr">sehr</w>
+ <w id="w4.1.17" tree="XY" lem="_">_</w> 
+ <w id="w4.1.18" tree="ADJD" lem="außerordentlich">außerordentlich</w>
+ <w id="w4.1.19" tree="$," lem=",">,</w> 
+ <w id="w4.1.20" tree="KOUS" lem="dass">daß</w> 
+ <w id="w4.1.21" tree="PPER" lem="sie">sie</w> 
+ <w id="w4.1.22" tree="ART" lem="die">das</w> 
+ <w id="w4.1.23" tree="NN" lem="Kaninchen">Kaninchen</w> 
+ <w id="w4.1.24" tree="VVINF" lem="sagen">sagen</w> 
+ <w id="w4.1.25" tree="VVFIN" lem="hören">hörte</w>
+ <w id="w4.1.26" tree="$." lem=":">:</w> 
+ <w id="w4.1.27" tree="$(" lem="&quot;">"</w>
+ <w id="w4.1.28" tree="NN" lem="O">O</w> 
+ <w id="w4.1.29" tree="ADJD" lem="weh">weh</w>
+ <w id="w4.1.30" tree="$," lem=",">,</w> 
+ <w id="w4.1.31" tree="VVFIN" lem="o">o</w> 
+ <w id="w4.1.32" tree="ADJD" lem="weh">weh</w>
+ <w id="w4.1.33" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s4.2">
+ <w id="w4.2.1" tree="PPER" lem="ich">Ich</w> 
+ <w id="w4.2.2" tree="VAFIN" lem="werden">werde</w> 
+ <w id="w4.2.3" tree="PTKA" lem="zu">zu</w> 
+ <w id="w4.2.4" tree="ADJD" lem="spät">spät</w> 
+ <w id="w4.2.5" tree="VVINF" lem="kommen">kommen</w>
+ <w id="w4.2.6" tree="$." lem="!">!</w>
+ <w id="w4.2.7" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s4.3">
+ <w id="w4.3.1" tree="$(" lem="(">(</w>
+ <w id="w4.3.2" tree="KOUS" lem="als">Als</w> 
+ <w id="w4.3.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w4.3.4" tree="PPER" lem="es">es</w> 
+ <w id="w4.3.5" tree="ADJD" lem="spät">später</w> 
+ <w id="w4.3.6" tree="ADV" lem="wieder">wieder</w> 
+ <w id="w4.3.7" tree="VVFIN" lem="überlegen">überlegte</w>
+ <w id="w4.3.8" tree="$," lem=",">,</w> 
+ <w id="w4.3.9" tree="VVFIN" lem="fallen">fiel</w> 
+ <w id="w4.3.10" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w4.3.11" tree="PTKVZ" lem="ein">ein</w>
+ <w id="w4.3.12" tree="$," lem=",">,</w> 
+ <w id="w4.3.13" tree="KOUS" lem="dass">daß</w> 
+ <w id="w4.3.14" tree="PPER" lem="sie">sie</w> 
+ <w id="w4.3.15" tree="PRF" lem="sich">sich</w> 
+ <w id="w4.3.16" tree="PAV" lem="darüber">darüber</w> 
+ <w id="w4.3.17" tree="VAFIN" lem="haben">hätte</w> 
+ <w id="w4.3.18" tree="VVINF" lem="wundern">wundern</w> 
+ <w id="w4.3.19" tree="VMFIN" lem="sollen">sollen</w>
+ <w id="w4.3.20" tree="$," lem=",">,</w> 
+ <w id="w4.3.21" tree="KON" lem="doch">doch</w> 
+ <w id="w4.3.22" tree="APPRART" lem="zu">zur</w> 
+ <w id="w4.3.23" tree="NN" lem="Zeit">Zeit</w> 
+ <w id="w4.3.24" tree="VVFIN" lem="kommen">kam</w> 
+ <w id="w4.3.25" tree="PPER" lem="es">es</w> 
+ <w id="w4.3.26" tree="PPOSAT" lem="ihr">ihr</w> 
+ <w id="w4.3.27" tree="NN" lem="All">Alles</w> 
+ <w id="w4.3.28" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w4.3.29" tree="ADV" lem="natürlich">natürlich</w> 
+ <w id="w4.3.30" tree="PTKVZ" lem="vor">vor</w>
+ <w id="w4.3.31" tree="$." lem=".">.</w>
+ <w id="w4.3.32" tree="$(" lem=")">)</w>
+</s> 
+ 
+<s id="s4.4">
+ <w id="w4.4.1" tree="ADV" lem="aber">Aber</w> 
+ <w id="w4.4.2" tree="KOKOM" lem="als">als</w> 
+ <w id="w4.4.3" tree="ART" lem="die">das</w> 
+ <w id="w4.4.4" tree="NN" lem="Kaninchen">Kaninchen</w> 
+ <w id="w4.4.5" tree="XY" lem="_">_</w>
+ <w id="w4.4.6" tree="PPOSAT" lem="sein">seine</w> 
+ <w id="w4.4.7" tree="NN" lem="Uhr">Uhr</w> 
+ <w id="w4.4.8" tree="APPR" lem="aus">aus</w> 
+ <w id="w4.4.9" tree="ART" lem="die">der</w> 
+ <w id="w4.4.10" tree="NN" lem="Westentasche">Westentasche</w> 
+ <w id="w4.4.11" tree="VVFIN" lem="ziehen">zog</w>
+ <w id="w4.4.12" tree="XY" lem="_">_</w>
+ <w id="w4.4.13" tree="$," lem=",">,</w> 
+ <w id="w4.4.14" tree="APPR" lem="nach">nach</w> 
+ <w id="w4.4.15" tree="ART" lem="die">der</w> 
+ <w id="w4.4.16" tree="NN" lem="Zeit">Zeit</w> 
+ <w id="w4.4.17" tree="VVFIN" lem="sehen">sah</w> 
+ <w id="w4.4.18" tree="KON" lem="und">und</w> 
+ <w id="w4.4.19" tree="ADJD" lem="eilig">eilig</w> 
+ <w id="w4.4.20" tree="VVFIN" lem="fortlaufen">fortlief</w>
+ <w id="w4.4.21" tree="$," lem=",">,</w> 
+ <w id="w4.4.22" tree="VVFIN" lem="springen">sprang</w> 
+ <w id="w4.4.23" tree="NE" lem="Alice">Alice</w> 
+ <w id="w4.4.24" tree="PTKVZ" lem="auf">auf</w>
+ <w id="w4.4.25" tree="$." lem=";">;</w> 
+ <w id="w4.4.26" tree="KON" lem="denn">denn</w> 
+ <w id="w4.4.27" tree="PPER" lem="es">es</w> 
+ <w id="w4.4.28" tree="VAFIN" lem="sein">war</w> 
+ <w id="w4.4.29" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w4.4.30" tree="ADV" lem="doch">doch</w> 
+ <w id="w4.4.31" tree="ADV" lem="noch">noch</w> 
+ <w id="w4.4.32" tree="ADV" lem="nie">nie</w> 
+ <w id="w4.4.33" tree="VVPP" lem="vorkommen">vorgekommen</w>
+ <w id="w4.4.34" tree="$," lem=",">,</w> 
+ <w id="w4.4.35" tree="ART" lem="eine">ein</w> 
+ <w id="w4.4.36" tree="NN" lem="Kaninchen">Kaninchen</w> 
+ <w id="w4.4.37" tree="APPR" lem="mit">mit</w> 
+ <w id="w4.4.38" tree="ART" lem="eine">einer</w> 
+ <w id="w4.4.39" tree="NN" lem="Westentasche">Westentasche</w> 
+ <w id="w4.4.40" tree="KON" lem="und">und</w> 
+ <w id="w4.4.41" tree="ART" lem="eine">eine</w> 
+ <w id="w4.4.42" tree="NN" lem="Uhr">Uhr</w> 
+ <w id="w4.4.43" tree="PAV" lem="darin">darin</w> 
+ <w id="w4.4.44" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w4.4.45" tree="VVINF" lem="sehen">sehen</w>
+ <w id="w4.4.46" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s4.5">
+ <w id="w4.5.1" tree="APPR" lem="vor">Vor</w> 
+ <w id="w4.5.2" tree="NN" lem="Neugierde">Neugierde</w> 
+ <w id="w4.5.3" tree="ADJD" lem="brennend">brennend</w>
+ <w id="w4.5.4" tree="$," lem=",">,</w> 
+ <w id="w4.5.5" tree="VVFIN" lem="rennen">rannte</w> 
+ <w id="w4.5.6" tree="PPER" lem="sie">sie</w> 
+ <w id="w4.5.7" tree="PPER" lem="er">ihm</w> 
+ <w id="w4.5.8" tree="PTKVZ" lem="nach">nach</w>
+ <w id="w4.5.9" tree="$," lem=",">,</w> 
+ <w id="w4.5.10" tree="APPR" lem="über">über</w> 
+ <w id="w4.5.11" tree="ART" lem="die">den</w> 
+ <w id="w4.5.12" tree="NN" lem="Grasplatz">Grasplatz</w>
+ <w id="w4.5.13" tree="$," lem=",">,</w> 
+ <w id="w4.5.14" tree="KON" lem="und">und</w> 
+ <w id="w4.5.15" tree="VVFIN" lem="kommen">kam</w> 
+ <w id="w4.5.16" tree="ADV" lem="noch">noch</w> 
+ <w id="w4.5.17" tree="APPRART" lem="zu">zur</w> 
+ <w id="w4.5.18" tree="ADJA" lem="recht|rechts">rechten</w> 
+ <w id="w4.5.19" tree="NN" lem="Zeit">Zeit</w>
+ <w id="w4.5.20" tree="$," lem=",">,</w> 
+ <w id="w4.5.21" tree="KOUI" lem="um">um</w> 
+ <w id="w4.5.22" tree="PPER" lem="es">es</w> 
+ <w id="w4.5.23" tree="APPR" lem="in">in</w> 
+ <w id="w4.5.24" tree="ART" lem="eine">ein</w> 
+ <w id="w4.5.25" tree="ADJA" lem="groß">großes</w> 
+ <w id="w4.5.26" tree="NN" lem="Loch">Loch</w> 
+ <w id="w4.5.27" tree="APPR" lem="unter">unter</w> 
+ <w id="w4.5.28" tree="ART" lem="die">der</w> 
+ <w id="w4.5.29" tree="NN" lem="Hecke">Hecke</w> 
+ <w id="w4.5.30" tree="VVINF" lem="schlüpfen">schlüpfen</w> 
+ <w id="w4.5.31" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w4.5.32" tree="VVINF" lem="sehen">sehen</w>
+ <w id="w4.5.33" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="5">
+<s id="s5.1">
+ <w id="w5.1.1" tree="ART" lem="die">Den</w> 
+ <w id="w5.1.2" tree="ADJA" lem="nah">nächsten</w> 
+ <w id="w5.1.3" tree="NN" lem="Augenblick">Augenblick</w> 
+ <w id="w5.1.4" tree="VAFIN" lem="sein">war</w> 
+ <w id="w5.1.5" tree="PPER" lem="sie">sie</w> 
+ <w id="w5.1.6" tree="PPER" lem="er">ihm</w> 
+ <w id="w5.1.7" tree="APPR" lem="nach">nach</w> 
+ <w id="w5.1.8" tree="APPR" lem="in">in</w> 
+ <w id="w5.1.9" tree="ART" lem="die">das</w> 
+ <w id="w5.1.10" tree="NN" lem="Loch">Loch</w> 
+ <w id="w5.1.11" tree="VVPP" lem="hineinspringen">hineingesprungen</w>
+ <w id="w5.1.12" tree="$," lem=",">,</w> 
+ <w id="w5.1.13" tree="KOUI" lem="ohne">ohne</w> 
+ <w id="w5.1.14" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w5.1.15" tree="VVINF" lem="bedenken">bedenken</w>
+ <w id="w5.1.16" tree="$," lem=",">,</w> 
+ <w id="w5.1.17" tree="KOUS" lem="wie">wie</w> 
+ <w id="w5.1.18" tree="APPR" lem="in">in</w> 
+ <w id="w5.1.19" tree="PIAT" lem="alle">aller</w> 
+ <w id="w5.1.20" tree="NN" lem="Welt">Welt</w> 
+ <w id="w5.1.21" tree="PPER" lem="sie">sie</w> 
+ <w id="w5.1.22" tree="ADV" lem="wieder">wieder</w> 
+ <w id="w5.1.23" tree="VVINF" lem="herauskommen">herauskommen</w> 
+ <w id="w5.1.24" tree="VMFIN" lem="können">könnte</w>
+ <w id="w5.1.25" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="6">
+<s id="s6.1">
+ <w id="w6.1.1" tree="ART" lem="die">Der</w> 
+ <w id="w6.1.2" tree="NN" lem="Eingang">Eingang</w> 
+ <w id="w6.1.3" tree="APPRART" lem="zu">zum</w> 
+ <w id="w6.1.4" tree="NN" lem="Kaninchenbau">Kaninchenbau</w> 
+ <w id="w6.1.5" tree="VVFIN" lem="laufen">lief</w> 
+ <w id="w6.1.6" tree="ADV" lem="erst">erst</w> 
+ <w id="w6.1.7" tree="ADV" lem="geradeaus">geradeaus</w>
+ <w id="w6.1.8" tree="$," lem=",">,</w> 
+ <w id="w6.1.9" tree="KOUS" lem="wie">wie</w> 
+ <w id="w6.1.10" tree="ART" lem="eine">ein</w> 
+ <w id="w6.1.11" tree="NN" lem="Tunnel">Tunnel</w> 
+ <w id="w6.1.12" tree="KON" lem="und">und</w> 
+ <w id="w6.1.13" tree="VVFIN" lem="gehen">ging</w> 
+ <w id="w6.1.14" tree="ADV" lem="dann">dann</w> 
+ <w id="w6.1.15" tree="ADJD" lem="plötzlich">plötzlich</w> 
+ <w id="w6.1.16" tree="PTKVZ" lem="abwärts">abwärts</w>
+ <w id="w6.1.17" tree="$." lem=";">;</w> 
+ <w id="w6.1.18" tree="KOUS" lem="ehe">ehe</w> 
+ <w id="w6.1.19" tree="NE" lem="Alice">Alice</w> 
+ <w id="w6.1.20" tree="ADV" lem="noch">noch</w> 
+ <w id="w6.1.21" tree="ART" lem="die">den</w> 
+ <w id="w6.1.22" tree="NN" lem="Gedanke">Gedanken</w> 
+ <w id="w6.1.23" tree="VVINF" lem="fassen">fassen</w> 
+ <w id="w6.1.24" tree="VMFIN" lem="können">konnte</w> 
+ <w id="w6.1.25" tree="PRF" lem="sich">sich</w> 
+ <w id="w6.1.26" tree="ADJD" lem="schnell">schnell</w> 
+ <w id="w6.1.27" tree="VVIZU" lem="festhalten">festzuhalten</w>
+ <w id="w6.1.28" tree="$," lem=",">,</w> 
+ <w id="w6.1.29" tree="VVFIN" lem="fühlen">fühlte</w> 
+ <w id="w6.1.30" tree="PPER" lem="sie">sie</w> 
+ <w id="w6.1.31" tree="ADV" lem="schon">schon</w>
+ <w id="w6.1.32" tree="$," lem=",">,</w> 
+ <w id="w6.1.33" tree="KOUS" lem="dass">daß</w> 
+ <w id="w6.1.34" tree="PPER" lem="sie">sie</w> 
+ <w id="w6.1.35" tree="VVFIN" lem="fallen">fiel</w>
+ <w id="w6.1.36" tree="$," lem=",">,</w> 
+ <w id="w6.1.37" tree="KOUS" lem="wie">wie</w> 
+ <w id="w6.1.38" tree="PPER" lem="es">es</w> 
+ <w id="w6.1.39" tree="VVFIN" lem="scheinen">schien</w>
+ <w id="w6.1.40" tree="$," lem=",">,</w> 
+ <w id="w6.1.41" tree="APPR" lem="in">in</w> 
+ <w id="w6.1.42" tree="ART" lem="eine">einen</w> 
+ <w id="w6.1.43" tree="ADJA" lem="tief">tiefen</w>
+ <w id="w6.1.44" tree="$," lem=",">,</w> 
+ <w id="w6.1.45" tree="ADJA" lem="tief">tiefen</w> 
+ <w id="w6.1.46" tree="NN" lem="Brunnen">Brunnen</w>
+ <w id="w6.1.47" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="7">
+<s id="s7.1">
+ <w id="w7.1.1" tree="KON" lem="entweder">Entweder</w> 
+ <w id="w7.1.2" tree="VMFIN" lem="müssen">mußte</w> 
+ <w id="w7.1.3" tree="ART" lem="die">der</w> 
+ <w id="w7.1.4" tree="NN" lem="Brunnen">Brunnen</w> 
+ <w id="w7.1.5" tree="ADV" lem="sehr">sehr</w> 
+ <w id="w7.1.6" tree="ADJD" lem="tief">tief</w> 
+ <w id="w7.1.7" tree="VAINF" lem="sein">sein</w>
+ <w id="w7.1.8" tree="$," lem=",">,</w> 
+ <w id="w7.1.9" tree="KON" lem="oder">oder</w> 
+ <w id="w7.1.10" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.1.11" tree="VVFIN" lem="fallen">fiel</w> 
+ <w id="w7.1.12" tree="ADV" lem="sehr">sehr</w> 
+ <w id="w7.1.13" tree="ADJD" lem="langsam">langsam</w>
+ <w id="w7.1.14" tree="$." lem=";">;</w> 
+ <w id="w7.1.15" tree="KON" lem="denn">denn</w> 
+ <w id="w7.1.16" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.1.17" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w7.1.18" tree="NN" lem="Zeit">Zeit</w> 
+ <w id="w7.1.19" tree="ADV" lem="genug">genug</w>
+ <w id="w7.1.20" tree="$," lem=",">,</w> 
+ <w id="w7.1.21" tree="PRF" lem="sich">sich</w> 
+ <w id="w7.1.22" tree="APPRART" lem="bei">beim</w> 
+ <w id="w7.1.23" tree="NN" lem="Falle">Fallen</w> 
+ <w id="w7.1.24" tree="VVIZU" lem="umsehen">umzusehen</w> 
+ <w id="w7.1.25" tree="KON" lem="und">und</w> 
+ <w id="w7.1.26" tree="PRF" lem="sich">sich</w> 
+ <w id="w7.1.27" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w7.1.28" tree="VVINF" lem="wundern">wundern</w>
+ <w id="w7.1.29" tree="$," lem=",">,</w> 
+ <w id="w7.1.30" tree="PRELS" lem="was">was</w> 
+ <w id="w7.1.31" tree="ADV" lem="nun">nun</w> 
+ <w id="w7.1.32" tree="ADV" lem="wohl">wohl</w> 
+ <w id="w7.1.33" tree="VVPP" lem="geschehen">geschehen</w> 
+ <w id="w7.1.34" tree="VAFIN" lem="werden">würde</w>
+ <w id="w7.1.35" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s7.2">
+ <w id="w7.2.1" tree="ADV" lem="zuerst">Zuerst</w> 
+ <w id="w7.2.2" tree="VVFIN" lem="versuchen">versuchte</w> 
+ <w id="w7.2.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.2.4" tree="ADV" lem="hinunter">hinunter</w> 
+ <w id="w7.2.5" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w7.2.6" tree="VVINF" lem="sehen">sehen</w>
+ <w id="w7.2.7" tree="$," lem=",">,</w> 
+ <w id="w7.2.8" tree="KOUI" lem="um">um</w> 
+ <w id="w7.2.9" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w7.2.10" tree="VVINF" lem="wissen">wissen</w> 
+ <w id="w7.2.11" tree="PWAV" lem="wohin">wohin</w> 
+ <w id="w7.2.12" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.2.13" tree="VVFIN" lem="kommen">käme</w>
+ <w id="w7.2.14" tree="$," lem=",">,</w> 
+ <w id="w7.2.15" tree="KON" lem="aber">aber</w> 
+ <w id="w7.2.16" tree="PPER" lem="es">es</w> 
+ <w id="w7.2.17" tree="VAFIN" lem="sein">war</w> 
+ <w id="w7.2.18" tree="PTKA" lem="zu">zu</w> 
+ <w id="w7.2.19" tree="ADJD" lem="dunkel">dunkel</w> 
+ <w id="w7.2.20" tree="PIS" lem="etwas">etwas</w> 
+ <w id="w7.2.21" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w7.2.22" tree="VVINF" lem="erkennen">erkennen</w>
+ <w id="w7.2.23" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s7.3">
+ <w id="w7.3.1" tree="ADV" lem="da">Da</w> 
+ <w id="w7.3.2" tree="VVFIN" lem="besehen">besah</w> 
+ <w id="w7.3.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.3.4" tree="ART" lem="die">die</w> 
+ <w id="w7.3.5" tree="NN" lem="Wand">Wände</w> 
+ <w id="w7.3.6" tree="ART" lem="die">des</w> 
+ <w id="w7.3.7" tree="NN" lem="Brunnen">Brunnens</w> 
+ <w id="w7.3.8" tree="KON" lem="und">und</w> 
+ <w id="w7.3.9" tree="VVFIN" lem="bemerken">bemerkte</w>
+ <w id="w7.3.10" tree="$," lem=",">,</w> 
+ <w id="w7.3.11" tree="KOUS" lem="dass">daß</w> 
+ <w id="w7.3.12" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.3.13" tree="APPR" lem="mit">mit</w> 
+ <w id="w7.3.14" tree="NN" lem="Küchenschrank">Küchenschränken</w> 
+ <w id="w7.3.15" tree="KON" lem="und">und</w> 
+ <w id="w7.3.16" tree="NN" lem="Bücherbrettern">Bücherbrettern</w> 
+ <w id="w7.3.17" tree="VVPP" lem="bedecken">bedeckt</w> 
+ <w id="w7.3.18" tree="VAFIN" lem="sein">waren</w>
+ <w id="w7.3.19" tree="$." lem=";">;</w> 
+ <w id="w7.3.20" tree="ADV" lem="hier">hier</w> 
+ <w id="w7.3.21" tree="KON" lem="und">und</w> 
+ <w id="w7.3.22" tree="ADV" lem="da">da</w> 
+ <w id="w7.3.23" tree="VVFIN" lem="erblicken">erblickte</w> 
+ <w id="w7.3.24" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.3.25" tree="NN" lem="Landkarte">Landkarten</w> 
+ <w id="w7.3.26" tree="KON" lem="und">und</w> 
+ <w id="w7.3.27" tree="NN" lem="Bild">Bilder</w>
+ <w id="w7.3.28" tree="$," lem=",">,</w> 
+ <w id="w7.3.29" tree="APPR" lem="an">an</w> 
+ <w id="w7.3.30" tree="NN" lem="Haken">Haken</w> 
+ <w id="w7.3.31" tree="VVPP" lem="aufhängen">aufgehängt</w>
+ <w id="w7.3.32" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s7.4">
+ <w id="w7.4.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w7.4.2" tree="VVFIN" lem="nehmen">nahm</w> 
+ <w id="w7.4.3" tree="APPRART" lem="in">im</w> 
+ <w id="w7.4.4" tree="NN" lem="Vorbeifallen">Vorbeifallen</w> 
+ <w id="w7.4.5" tree="APPR" lem="von">von</w> 
+ <w id="w7.4.6" tree="PIS" lem="eine">einem</w> 
+ <w id="w7.4.7" tree="ART" lem="die">der</w> 
+ <w id="w7.4.8" tree="NN" lem="Brett">Bretter</w> 
+ <w id="w7.4.9" tree="ART" lem="eine">ein</w> 
+ <w id="w7.4.10" tree="NN" lem="Töpfchen">Töpfchen</w> 
+ <w id="w7.4.11" tree="APPR" lem="mit">mit</w> 
+ <w id="w7.4.12" tree="ART" lem="die">der</w> 
+ <w id="w7.4.13" tree="NN" lem="Aufschrift">Aufschrift</w>
+ <w id="w7.4.14" tree="$." lem=":">:</w> 
+ <w id="w7.4.15" tree="$(" lem="&quot;">"</w>
+ <w id="w7.4.16" tree="XY" lem="_">_</w>
+ <w id="w7.4.17" tree="ADJA" lem="eingemacht">Eingemachte</w> 
+ <w id="w7.4.18" tree="NN" lem="Apfelsine">Apfelsinen</w>
+ <w id="w7.4.19" tree="XY" lem="_">_</w>
+ <w id="w7.4.20" tree="$(" lem="&quot;">"</w>
+ <w id="w7.4.21" tree="$," lem=",">,</w> 
+ <w id="w7.4.22" tree="ADV" lem="aber">aber</w> 
+ <w id="w7.4.23" tree="APPR" lem="zu">zu</w> 
+ <w id="w7.4.24" tree="PPOSAT" lem="ihr">ihrem</w> 
+ <w id="w7.4.25" tree="ADJA" lem="groß">großen</w> 
+ <w id="w7.4.26" tree="NN" lem="Verdruss">Verdruß</w> 
+ <w id="w7.4.27" tree="VAFIN" lem="sein">war</w> 
+ <w id="w7.4.28" tree="PPER" lem="es">es</w> 
+ <w id="w7.4.29" tree="ADJD" lem="leer">leer</w>
+ <w id="w7.4.30" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s7.5">
+ <w id="w7.5.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w7.5.2" tree="VMFIN" lem="wollen">wollte</w> 
+ <w id="w7.5.3" tree="PPER" lem="es">es</w> 
+ <w id="w7.5.4" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w7.5.5" tree="VVINF" lem="fallen">fallen</w> 
+ <w id="w7.5.6" tree="VVINF" lem="lassen">lassen</w>
+ <w id="w7.5.7" tree="$," lem=",">,</w> 
+ <w id="w7.5.8" tree="APPR" lem="aus">aus</w> 
+ <w id="w7.5.9" tree="NN" lem="Furcht">Furcht</w> 
+ <w id="w7.5.10" tree="NN" lem="Jemand">Jemand</w> 
+ <w id="w7.5.11" tree="APPR" lem="unter">unter</w> 
+ <w id="w7.5.12" tree="PRF" lem="sich">sich</w> 
+ <w id="w7.5.13" tree="APPR" lem="zu">zu</w> 
+ <w id="w7.5.14" tree="ADJA" lem="tödten">tödten</w>
+ <w id="w7.5.15" tree="$." lem=";">;</w> 
+ <w id="w7.5.16" tree="KON" lem="und">und</w> 
+ <w id="w7.5.17" tree="PPER" lem="es">es</w> 
+ <w id="w7.5.18" tree="VVFIN" lem="gelingen">gelang</w> 
+ <w id="w7.5.19" tree="PPER" lem="ihr">ihr</w>
+ <w id="w7.5.20" tree="$," lem=",">,</w> 
+ <w id="w7.5.21" tree="PPER" lem="es">es</w> 
+ <w id="w7.5.22" tree="APPR" lem="in">in</w> 
+ <w id="w7.5.23" tree="ART" lem="eine">einen</w> 
+ <w id="w7.5.24" tree="PIAT" lem="andere">andern</w> 
+ <w id="w7.5.25" tree="NN" lem="Schrank">Schrank</w>
+ <w id="w7.5.26" tree="$," lem=",">,</w> 
+ <w id="w7.5.27" tree="APPR" lem="an">an</w> 
+ <w id="w7.5.28" tree="PRELS" lem="die">dem</w> 
+ <w id="w7.5.29" tree="PPER" lem="sie">sie</w> 
+ <w id="w7.5.30" tree="VVFIN" lem="vorbeikommen">vorbeikam</w>
+ <w id="w7.5.31" tree="$," lem=",">,</w> 
+ <w id="w7.5.32" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w7.5.33" tree="VVINF" lem="schieben">schieben</w>
+ <w id="w7.5.34" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="8">
+<s id="s8.1">
+ <w id="w8.1.1" tree="$(" lem="&quot;">"</w>
+ <w id="w8.1.2" tree="ADV" lem="nun">Nun</w>
+ <w id="w8.1.3" tree="$." lem="!">!</w>
+ <w id="w8.1.4" tree="$(" lem="&quot;">"</w> 
+ <w id="w8.1.5" tree="VVFIN" lem="denken">dachte</w> 
+ <w id="w8.1.6" tree="NE" lem="Alice">Alice</w> 
+ <w id="w8.1.7" tree="APPR" lem="bei">bei</w> 
+ <w id="w8.1.8" tree="PRF" lem="sich">sich</w>
+ <w id="w8.1.9" tree="$," lem=",">,</w> 
+ <w id="w8.1.10" tree="$(" lem="&quot;">"</w>
+ <w id="w8.1.11" tree="APPR" lem="nach">nach</w> 
+ <w id="w8.1.12" tree="ART" lem="eine">einem</w> 
+ <w id="w8.1.13" tree="PIAT" lem="solche">solchen</w> 
+ <w id="w8.1.14" tree="NN" lem="Fall">Fall</w> 
+ <w id="w8.1.15" tree="VAFIN" lem="werden">werde</w> 
+ <w id="w8.1.16" tree="PPER" lem="ich">ich</w> 
+ <w id="w8.1.17" tree="PRF" lem="ich">mir</w> 
+ <w id="w8.1.18" tree="PIS" lem="nichts">nichts</w> 
+ <w id="w8.1.19" tree="PAV" lem="daraus">daraus</w> 
+ <w id="w8.1.20" tree="VVINF" lem="machen">machen</w>
+ <w id="w8.1.21" tree="$," lem=",">,</w> 
+ <w id="w8.1.22" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w8.1.23" tree="PPER" lem="ich">ich</w> 
+ <w id="w8.1.24" tree="ART" lem="die">die</w> 
+ <w id="w8.1.25" tree="NN" lem="Treppe">Treppe</w> 
+ <w id="w8.1.26" tree="ADV" lem="hinunter">hinunter</w> 
+ <w id="w8.1.27" tree="VVFIN" lem="stolpern">stolpere</w>
+ <w id="w8.1.28" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s8.2">
+ <w id="w8.2.1" tree="KOUS" lem="wie">Wie</w> 
+ <w id="w8.2.2" tree="VVFIN" lem="muthig">muthig</w> 
+ <w id="w8.2.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w8.2.4" tree="PRF" lem="ich">mich</w> 
+ <w id="w8.2.5" tree="APPR" lem="zu">zu</w> 
+ <w id="w8.2.6" tree="NN" lem="Haus">Haus</w> 
+ <w id="w8.2.7" tree="VVINF" lem="finden">finden</w> 
+ <w id="w8.2.8" tree="VAFIN" lem="werden">werden</w>
+ <w id="w8.2.9" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s8.3">
+ <w id="w8.3.1" tree="PPER" lem="ich">Ich</w> 
+ <w id="w8.3.2" tree="VAFIN" lem="werden">würde</w> 
+ <w id="w8.3.3" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w8.3.4" tree="PIAT" lem="viele">viel</w> 
+ <w id="w8.3.5" tree="NN" lem="Reden">Redens</w> 
+ <w id="w8.3.6" tree="VVINF" lem="machen">machen</w>
+ <w id="w8.3.7" tree="$," lem=",">,</w> 
+ <w id="w8.3.8" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w8.3.9" tree="PPER" lem="ich">ich</w> 
+ <w id="w8.3.10" tree="ADV" lem="selbst">selbst</w> 
+ <w id="w8.3.11" tree="APPR" lem="von">von</w> 
+ <w id="w8.3.12" tree="ART" lem="die">der</w> 
+ <w id="w8.3.13" tree="NN" lem="Dachspitze">Dachspitze</w> 
+ <w id="w8.3.14" tree="ADV" lem="hinunter">hinunter</w> 
+ <w id="w8.3.15" tree="VVFIN" lem="fallen">fiele</w>
+ <w id="w8.3.16" tree="$." lem="!">!</w>
+ <w id="w8.3.17" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s8.4">
+ <w id="w8.4.1" tree="$(" lem="(">(</w>
+ <w id="w8.4.2" tree="PWS" lem="was">Was</w> 
+ <w id="w8.4.3" tree="ADV" lem="sehr">sehr</w> 
+ <w id="w8.4.4" tree="ADJD" lem="wahrscheinlich">wahrscheinlich</w> 
+ <w id="w8.4.5" tree="VAFIN" lem="sein">war</w>
+ <w id="w8.4.6" tree="$." lem=".">.</w>
+ <w id="w8.4.7" tree="$(" lem=")">)</w>
+</s></p>
+
+<p id="9">
+<s id="s9.1">
+ <w id="w9.1.1" tree="ADV" lem="hinunter">Hinunter</w>
+ <w id="w9.1.2" tree="$," lem=",">,</w> 
+ <w id="w9.1.3" tree="ADV" lem="hinunter">hinunter</w>
+ <w id="w9.1.4" tree="$," lem=",">,</w> 
+ <w id="w9.1.5" tree="ADV" lem="hinunter">hinunter</w>
+ <w id="w9.1.6" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s9.2">
+ <w id="w9.2.1" tree="VMFIN" lem="wollen">Wollte</w> 
+ <w id="w9.2.2" tree="ADV" lem="denn">denn</w> 
+ <w id="w9.2.3" tree="ART" lem="die">der</w> 
+ <w id="w9.2.4" tree="NN" lem="Fall">Fall</w> 
+ <w id="w9.2.5" tree="ADV" lem="nie">nie</w> 
+ <w id="w9.2.6" tree="VVINF" lem="endigen">endigen</w>
+ <w id="w9.2.7" tree="$." lem="?">?</w>
+</s> 
+ 
+<s id="s9.3">
+ <w id="w9.3.1" tree="$(" lem="&quot;">"</w>
+ <w id="w9.3.2" tree="KOUS" lem="wie">Wie</w> 
+ <w id="w9.3.3" tree="PIAT" lem="viele">viele</w> 
+ <w id="w9.3.4" tree="NN" lem="Meile">Meilen</w> 
+ <w id="w9.3.5" tree="PPER" lem="ich">ich</w> 
+ <w id="w9.3.6" tree="ADV" lem="wohl">wohl</w> 
+ <w id="w9.3.7" tree="ADV" lem="jetzt">jetzt</w> 
+ <w id="w9.3.8" tree="VVPP" lem="fallen|gefallen">gefallen</w> 
+ <w id="w9.3.9" tree="VAFIN" lem="sein">bin</w>
+ <w id="w9.3.10" tree="$." lem="!">!</w>
+ <w id="w9.3.11" tree="$(" lem="&quot;">"</w> 
+ <w id="w9.3.12" tree="VVFIN" lem="sagen">sagte</w> 
+ <w id="w9.3.13" tree="PPER" lem="sie">sie</w> 
+ <w id="w9.3.14" tree="ADJD" lem="laut">laut</w>
+ <w id="w9.3.15" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s9.4">
+ <w id="w9.4.1" tree="$(" lem="&quot;">"</w>
+ <w id="w9.4.2" tree="PPER" lem="ich">Ich</w> 
+ <w id="w9.4.3" tree="VMFIN" lem="müssen">muß</w> 
+ <w id="w9.4.4" tree="ADJD" lem="ungefähr">ungefähr</w> 
+ <w id="w9.4.5" tree="APPRART" lem="an">am</w> 
+ <w id="w9.4.6" tree="NN" lem="Mittelpunkt">Mittelpunkt</w> 
+ <w id="w9.4.7" tree="ART" lem="die">der</w> 
+ <w id="w9.4.8" tree="NN" lem="Erde">Erde</w> 
+ <w id="w9.4.9" tree="VAINF" lem="sein">sein</w>
+ <w id="w9.4.10" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s9.5">
+ <w id="w9.5.1" tree="VVIMP" lem="lassen">Laß</w> 
+ <w id="w9.5.2" tree="VVFIN" lem="sehen">sehen</w>
+ <w id="w9.5.3" tree="$." lem=":">:</w> 
+ <w id="w9.5.4" tree="PDS" lem="die">das</w> 
+ <w id="w9.5.5" tree="VAFIN" lem="sein">wären</w> 
+ <w id="w9.5.6" tree="CARD" lem="achthundert">achthundert</w> 
+ <w id="w9.5.7" tree="KON" lem="und">und</w> 
+ <w id="w9.5.8" tree="CARD" lem="funfzig">funfzig</w> 
+ <w id="w9.5.9" tree="NN" lem="Meile">Meilen</w>
+ <w id="w9.5.10" tree="$," lem=",">,</w> 
+ <w id="w9.5.11" tree="VVFIN" lem="glauben">glaube</w> 
+ <w id="w9.5.12" tree="PPER" lem="ich">ich</w> 
+ <w id="w9.5.13" tree="$(" lem="--">--</w>
+ <w id="w9.5.14" tree="$(" lem="&quot;">"</w> 
+ <w id="w9.5.15" tree="$(" lem="(">(</w>
+ <w id="w9.5.16" tree="KON" lem="denn">denn</w> 
+ <w id="w9.5.17" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w9.5.18" tree="VMFIN" lem="müssen">müßt</w> 
+ <w id="w9.5.19" tree="VVINF" lem="wissen">wissen</w>
+ <w id="w9.5.20" tree="$," lem=",">,</w> 
+ <w id="w9.5.21" tree="NE" lem="Alice">Alice</w> 
+ <w id="w9.5.22" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w9.5.23" tree="PIS" lem="dergleichen">dergleichen</w> 
+ <w id="w9.5.24" tree="APPR" lem="in">in</w> 
+ <w id="w9.5.25" tree="ART" lem="die">der</w> 
+ <w id="w9.5.26" tree="NN" lem="Schule">Schule</w> 
+ <w id="w9.5.27" tree="VVPP" lem="lernen">gelernt</w>
+ <w id="w9.5.28" tree="$," lem=",">,</w> 
+ <w id="w9.5.29" tree="KON" lem="und">und</w> 
+ <w id="w9.5.30" tree="KOUS" lem="obgleich">obgleich</w> 
+ <w id="w9.5.31" tree="PDS" lem="dies">dies</w> 
+ <w id="w9.5.32" tree="PIAT" lem="keine">keine</w> 
+ <w id="w9.5.33" tree="XY" lem="_">_</w>
+ <w id="w9.5.34" tree="ADV" lem="sehr">sehr</w>
+ <w id="w9.5.35" tree="XY" lem="_">_</w> 
+ <w id="w9.5.36" tree="ADJA" lem="gut">gute</w> 
+ <w id="w9.5.37" tree="NN" lem="Gelegenheit">Gelegenheit</w> 
+ <w id="w9.5.38" tree="VAFIN" lem="sein">war</w>
+ <w id="w9.5.39" tree="$," lem=",">,</w> 
+ <w id="w9.5.40" tree="PPOSAT" lem="ihr">ihre</w> 
+ <w id="w9.5.41" tree="NN" lem="Kenntnis">Kenntnisse</w> 
+ <w id="w9.5.42" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w9.5.43" tree="VVINF" lem="zeigen">zeigen</w>
+ <w id="w9.5.44" tree="$," lem=",">,</w> 
+ <w id="w9.5.45" tree="KOUS" lem="da">da</w> 
+ <w id="w9.5.46" tree="PIS" lem="niemand">Niemand</w> 
+ <w id="w9.5.47" tree="APPRART" lem="zu">zum</w> 
+ <w id="w9.5.48" tree="NN" lem="Zuhören">Zuhören</w> 
+ <w id="w9.5.49" tree="ADV" lem="da">da</w> 
+ <w id="w9.5.50" tree="VAFIN" lem="sein">war</w>
+ <w id="w9.5.51" tree="$," lem=",">,</w> 
+ <w id="w9.5.52" tree="ADV" lem="so">so</w> 
+ <w id="w9.5.53" tree="VVFIN" lem="üben">übte</w> 
+ <w id="w9.5.54" tree="PPER" lem="sie">sie</w> 
+ <w id="w9.5.55" tree="PPER" lem="es">es</w> 
+ <w id="w9.5.56" tree="PRF" lem="sich">sich</w> 
+ <w id="w9.5.57" tree="ADV" lem="doch">doch</w> 
+ <w id="w9.5.58" tree="PAV" lem="dabei">dabei</w> 
+ <w id="w9.5.59" tree="PTKVZ" lem="ein">ein</w>
+ <w id="w9.5.60" tree="$(" lem=")">)</w> 
+ <w id="w9.5.61" tree="$(" lem="--">--</w> 
+ <w id="w9.5.62" tree="$(" lem="&quot;">"</w>
+ <w id="w9.5.63" tree="ADV" lem="ja">ja</w>
+ <w id="w9.5.64" tree="$," lem=",">,</w> 
+ <w id="w9.5.65" tree="PDS" lem="die">das</w> 
+ <w id="w9.5.66" tree="VAFIN" lem="sein">ist</w> 
+ <w id="w9.5.67" tree="ADJD" lem="ungefähr">ungefähr</w> 
+ <w id="w9.5.68" tree="ART" lem="die">die</w> 
+ <w id="w9.5.69" tree="NN" lem="Entfernung">Entfernung</w>
+ <w id="w9.5.70" tree="$." lem=";">;</w> 
+ <w id="w9.5.71" tree="ADV" lem="aber">aber</w> 
+ <w id="w9.5.72" tree="APPR" lem="zu">zu</w> 
+ <w id="w9.5.73" tree="PRELS" lem="welche">welchem</w> 
+ <w id="w9.5.74" tree="TRUNC" lem="Länge-">Länge-</w> 
+ <w id="w9.5.75" tree="KON" lem="und">und</w> 
+ <w id="w9.5.76" tree="NN" lem="Breitegrade">Breitegrade</w> 
+ <w id="w9.5.77" tree="PPER" lem="ich">ich</w> 
+ <w id="w9.5.78" tree="ADV" lem="wohl">wohl</w> 
+ <w id="w9.5.79" tree="VVPP" lem="kommen">gekommen</w> 
+ <w id="w9.5.80" tree="VAINF" lem="sein">sein</w> 
+ <w id="w9.5.81" tree="VMFIN" lem="mögen">mag</w>
+ <w id="w9.5.82" tree="$." lem="?">?</w>
+ <w id="w9.5.83" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s9.6">
+ <w id="w9.6.1" tree="$(" lem="(">(</w>
+ <w id="w9.6.2" tree="NE" lem="Alice">Alice</w> 
+ <w id="w9.6.3" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w9.6.4" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w9.6.5" tree="ART" lem="die">den</w> 
+ <w id="w9.6.6" tree="ADJA" lem="gering">geringsten</w> 
+ <w id="w9.6.7" tree="NN" lem="Begriff">Begriff</w>
+ <w id="w9.6.8" tree="$," lem=",">,</w> 
+ <w id="w9.6.9" tree="PRELS" lem="was">was</w> 
+ <w id="w9.6.10" tree="KON" lem="weder">weder</w> 
+ <w id="w9.6.11" tree="NN" lem="Längegrad">Längegrad</w> 
+ <w id="w9.6.12" tree="KON" lem="noch">noch</w> 
+ <w id="w9.6.13" tree="NN" lem="Breitegrad">Breitegrad</w> 
+ <w id="w9.6.14" tree="VAFIN" lem="sein">war</w>
+ <w id="w9.6.15" tree="$." lem=";">;</w> 
+ <w id="w9.6.16" tree="ADV" lem="doch">doch</w> 
+ <w id="w9.6.17" tree="VVFIN" lem="klingen">klangen</w> 
+ <w id="w9.6.18" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w9.6.19" tree="ART" lem="die">die</w> 
+ <w id="w9.6.20" tree="NN" lem="Wort">Worte</w> 
+ <w id="w9.6.21" tree="ADJD" lem="großartig">großartig</w> 
+ <w id="w9.6.22" tree="KON" lem="und">und</w> 
+ <w id="w9.6.23" tree="ADJD" lem="nett">nett</w> 
+ <w id="w9.6.24" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w9.6.25" tree="VVINF" lem="sagen">sagen</w>
+ <w id="w9.6.26" tree="$." lem=".">.</w>
+ <w id="w9.6.27" tree="$(" lem=")">)</w>
+</s></p>
+
+<p id="10">
+<s id="s10.1">
+ <w id="w10.1.1" tree="ADV" lem="bald">Bald</w> 
+ <w id="w10.1.2" tree="VVFIN" lem="fangen">fing</w> 
+ <w id="w10.1.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w10.1.4" tree="ADV" lem="wieder">wieder</w> 
+ <w id="w10.1.5" tree="PTKVZ" lem="an">an</w>
+ <w id="w10.1.6" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s10.2">
+ <w id="w10.2.1" tree="$(" lem="&quot;">"</w>
+ <w id="w10.2.2" tree="KOUS" lem="ob">Ob</w> 
+ <w id="w10.2.3" tree="PPER" lem="ich">ich</w> 
+ <w id="w10.2.4" tree="ADV" lem="wohl">wohl</w> 
+ <w id="w10.2.5" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w10.2.6" tree="APPR" lem="durch">durch</w> 
+ <w id="w10.2.7" tree="ART" lem="die">die</w> 
+ <w id="w10.2.8" tree="NN" lem="Erde">Erde</w> 
+ <w id="w10.2.9" tree="VVINF" lem="fallen">fallen</w> 
+ <w id="w10.2.10" tree="VAFIN" lem="werden">werde</w>
+ <w id="w10.2.11" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s10.3">
+ <w id="w10.3.1" tree="KOUS" lem="wie">Wie</w> 
+ <w id="w10.3.2" tree="ADJD" lem="komisch">komisch</w> 
+ <w id="w10.3.3" tree="PDS" lem="die">das</w> 
+ <w id="w10.3.4" tree="VAINF" lem="sein">sein</w> 
+ <w id="w10.3.5" tree="VAFIN" lem="werden">wird</w>
+ <w id="w10.3.6" tree="$," lem=",">,</w> 
+ <w id="w10.3.7" tree="APPR" lem="bei">bei</w> 
+ <w id="w10.3.8" tree="ART" lem="die">den</w> 
+ <w id="w10.3.9" tree="NN" lem="Leute">Leuten</w> 
+ <w id="w10.3.10" tree="PTKVZ" lem="heraus">heraus</w> 
+ <w id="w10.3.11" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w10.3.12" tree="VVINF" lem="kommen">kommen</w>
+ <w id="w10.3.13" tree="$," lem=",">,</w> 
+ <w id="w10.3.14" tree="PRELS" lem="die">die</w> 
+ <w id="w10.3.15" tree="APPR" lem="auf">auf</w> 
+ <w id="w10.3.16" tree="ART" lem="die">dem</w> 
+ <w id="w10.3.17" tree="NN" lem="Kopf">Kopfe</w> 
+ <w id="w10.3.18" tree="VVINF" lem="gehen">gehen</w>
+ <w id="w10.3.19" tree="$." lem="!">!</w> 
+ <w id="w10.3.20" tree="ART" lem="die">die</w> 
+ <w id="w10.3.21" tree="NN" lem="Antipathie">Antipathien</w>
+ <w id="w10.3.22" tree="$," lem=",">,</w> 
+ <w id="w10.3.23" tree="VVFIN" lem="glauben">glaube</w> 
+ <w id="w10.3.24" tree="PPER" lem="ich">ich</w>
+ <w id="w10.3.25" tree="$." lem=".">.</w>
+ <w id="w10.3.26" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s10.4">
+ <w id="w10.4.1" tree="$(" lem="(">(</w>
+ <w id="w10.4.2" tree="ADV" lem="diesmal">Diesmal</w> 
+ <w id="w10.4.3" tree="VAFIN" lem="sein">war</w> 
+ <w id="w10.4.4" tree="PPER" lem="es">es</w> 
+ <w id="w10.4.5" tree="PPOSAT" lem="ihr">ihr</w> 
+ <w id="w10.4.6" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w10.4.7" tree="ADJD" lem="lieb">lieb</w>
+ <w id="w10.4.8" tree="$," lem=",">,</w> 
+ <w id="w10.4.9" tree="KOUS" lem="dass">daß</w> 
+ <w id="w10.4.10" tree="PIS" lem="niemand">Niemand</w> 
+ <w id="w10.4.11" tree="VVFIN" lem="zuhören">zuhörte</w>
+ <w id="w10.4.12" tree="$," lem=",">,</w> 
+ <w id="w10.4.13" tree="KON" lem="denn">denn</w> 
+ <w id="w10.4.14" tree="ART" lem="die">das</w> 
+ <w id="w10.4.15" tree="NN" lem="Wort">Wort</w> 
+ <w id="w10.4.16" tree="VVFIN" lem="klingen">klang</w> 
+ <w id="w10.4.17" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w10.4.18" tree="ADV" lem="gar">gar</w> 
+ <w id="w10.4.19" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w10.4.20" tree="ADJD" lem="recht">recht</w>
+ <w id="w10.4.21" tree="$." lem=".">.</w>
+ <w id="w10.4.22" tree="$(" lem=")">)</w>
+</s> 
+ 
+<s id="s10.5">
+ <w id="w10.5.1" tree="$(" lem="&quot;">"</w>
+ <w id="w10.5.2" tree="KON" lem="aber">Aber</w> 
+ <w id="w10.5.3" tree="ADV" lem="natürlich">natürlich</w> 
+ <w id="w10.5.4" tree="VAFIN" lem="werden">werde</w> 
+ <w id="w10.5.5" tree="PPER" lem="ich">ich</w> 
+ <w id="w10.5.6" tree="PPER" lem="sie">sie</w> 
+ <w id="w10.5.7" tree="VVINF" lem="fragen">fragen</w> 
+ <w id="w10.5.8" tree="VMINF" lem="müssen">müssen</w>
+ <w id="w10.5.9" tree="$," lem=",">,</w> 
+ <w id="w10.5.10" tree="KOUS" lem="wie">wie</w> 
+ <w id="w10.5.11" tree="ART" lem="die">das</w> 
+ <w id="w10.5.12" tree="NN" lem="Land">Land</w> 
+ <w id="w10.5.13" tree="VVFIN" lem="heißen">heißt</w>
+ <w id="w10.5.14" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s10.6">
+ <w id="w10.6.1" tree="PTKANT" lem="bitte">Bitte</w>
+ <w id="w10.6.2" tree="$," lem=",">,</w> 
+ <w id="w10.6.3" tree="ADJA" lem="lieb">liebe</w> 
+ <w id="w10.6.4" tree="NN" lem="Dame">Dame</w>
+ <w id="w10.6.5" tree="$," lem=",">,</w> 
+ <w id="w10.6.6" tree="VAFIN" lem="sein">ist</w> 
+ <w id="w10.6.7" tree="PDS" lem="dies">dies</w> 
+ <w id="w10.6.8" tree="NE" lem="Neu-Seeland">Neu-Seeland</w> 
+ <w id="w10.6.9" tree="KON" lem="oder">oder</w> 
+ <w id="w10.6.10" tree="NE" lem="Australien">Australien</w>
+ <w id="w10.6.11" tree="$." lem="?">?</w>
+ <w id="w10.6.12" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s10.7">
+ <w id="w10.7.1" tree="$(" lem="(">(</w>
+ <w id="w10.7.2" tree="KON" lem="und">Und</w> 
+ <w id="w10.7.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w10.7.4" tree="VVFIN" lem="versuchen">versuchte</w> 
+ <w id="w10.7.5" tree="PAV" lem="dabei">dabei</w> 
+ <w id="w10.7.6" tree="APPR" lem="zu">zu</w> 
+ <w id="w10.7.7" tree="NN" lem="knixen">knixen</w>
+ <w id="w10.7.8" tree="$," lem=",">,</w> 
+ <w id="w10.7.9" tree="$(" lem="--">--</w> 
+ <w id="w10.7.10" tree="VVFIN" lem="denken">denkt</w> 
+ <w id="w10.7.11" tree="ADV" lem="doch">doch</w>
+ <w id="w10.7.12" tree="$," lem=",">,</w> 
+ <w id="w10.7.13" tree="NN" lem="knixen">knixen</w>
+ <w id="w10.7.14" tree="$," lem=",">,</w> 
+ <w id="w10.7.15" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w10.7.16" tree="PIS" lem="man">man</w> 
+ <w id="w10.7.17" tree="APPR" lem="durch">durch</w> 
+ <w id="w10.7.18" tree="ART" lem="die">die</w> 
+ <w id="w10.7.19" tree="NN" lem="Luft">Luft</w> 
+ <w id="w10.7.20" tree="VVFIN" lem="fallen|fällen">fällt</w>
+ <w id="w10.7.21" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s10.8">
+ <w id="w10.8.1" tree="VMFIN" lem="können">Könntet</w> 
+ <w id="w10.8.2" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w10.8.3" tree="PDS" lem="die">das</w> 
+ <w id="w10.8.4" tree="ADJD" lem="fertig">fertig</w> 
+ <w id="w10.8.5" tree="VVINF" lem="kriegen">kriegen</w>
+ <w id="w10.8.6" tree="$." lem="?">?</w>
+ <w id="w10.8.7" tree="$(" lem=")">)</w>
+</s> 
+ 
+<s id="s10.9">
+ <w id="w10.9.1" tree="$(" lem="&quot;">"</w>
+ <w id="w10.9.2" tree="KON" lem="aber">Aber</w> 
+ <w id="w10.9.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w10.9.4" tree="VAFIN" lem="werden">werden</w> 
+ <w id="w10.9.5" tree="PRF" lem="ich">mich</w> 
+ <w id="w10.9.6" tree="APPR" lem="für">für</w> 
+ <w id="w10.9.7" tree="ART" lem="eine">ein</w> 
+ <w id="w10.9.8" tree="ADJA" lem="unwissend">unwissendes</w> 
+ <w id="w10.9.9" tree="ADJA" lem="klein">kleines</w> 
+ <w id="w10.9.10" tree="NN" lem="Mädchen">Mädchen</w> 
+ <w id="w10.9.11" tree="VVINF" lem="halten">halten</w>
+ <w id="w10.9.12" tree="$," lem=",">,</w> 
+ <w id="w10.9.13" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w10.9.14" tree="PPER" lem="ich">ich</w> 
+ <w id="w10.9.15" tree="VVFIN" lem="fragen">frage</w>
+ <w id="w10.9.16" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s10.10">
+ <w id="w10.10.1" tree="PTKANT" lem="nein">Nein</w>
+ <w id="w10.10.2" tree="$," lem=",">,</w> 
+ <w id="w10.10.3" tree="PPER" lem="es">es</w> 
+ <w id="w10.10.4" tree="VVFIN" lem="gehen">geht</w> 
+ <w id="w10.10.5" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w10.10.6" tree="PTKVZ" lem="an">an</w> 
+ <w id="w10.10.7" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w10.10.8" tree="VVINF" lem="fragen">fragen</w>
+ <w id="w10.10.9" tree="$." lem=";">;</w> 
+ <w id="w10.10.10" tree="ADV" lem="vielleicht">vielleicht</w> 
+ <w id="w10.10.11" tree="VVFIN" lem="sehen">sehe</w> 
+ <w id="w10.10.12" tree="PPER" lem="ich">ich</w> 
+ <w id="w10.10.13" tree="PPER" lem="es">es</w> 
+ <w id="w10.10.14" tree="ADV" lem="irgendwo">irgendwo</w> 
+ <w id="w10.10.15" tree="VVPP" lem="anschreiben">angeschrieben</w>
+ <w id="w10.10.16" tree="$." lem=".">.</w>
+ <w id="w10.10.17" tree="$(" lem="&quot;">"</w>
+</s></p>
+
+<p id="11">
+<s id="s11.1">
+ <w id="w11.1.1" tree="ADV" lem="hinunter">Hinunter</w>
+ <w id="w11.1.2" tree="$," lem=",">,</w> 
+ <w id="w11.1.3" tree="ADV" lem="hinunter">hinunter</w>
+ <w id="w11.1.4" tree="$," lem=",">,</w> 
+ <w id="w11.1.5" tree="ADV" lem="hinunter">hinunter</w>
+ <w id="w11.1.6" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s11.2">
+ <w id="w11.2.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w11.2.2" tree="VMFIN" lem="können">konnte</w> 
+ <w id="w11.2.3" tree="PIS" lem="nichts">nichts</w> 
+ <w id="w11.2.4" tree="ADV" lem="weiter">weiter</w> 
+ <w id="w11.2.5" tree="NE" lem="thun">thun</w>
+ <w id="w11.2.6" tree="$," lem=",">,</w> 
+ <w id="w11.2.7" tree="ADV" lem="also">also</w> 
+ <w id="w11.2.8" tree="VVFIN" lem="fangen">fing</w> 
+ <w id="w11.2.9" tree="XY" lem="_">_</w>
+ <w id="w11.2.10" tree="NE" lem="Alice">Alice</w>
+ <w id="w11.2.11" tree="XY" lem="_">_</w> 
+ <w id="w11.2.12" tree="ADV" lem="bald">bald</w> 
+ <w id="w11.2.13" tree="ADV" lem="wieder">wieder</w> 
+ <w id="w11.2.14" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w11.2.15" tree="VVINF" lem="sprechen">sprechen</w> 
+ <w id="w11.2.16" tree="PTKVZ" lem="an">an</w>
+ <w id="w11.2.17" tree="$." lem=".">.</w> 
+ <w id="w11.2.18" tree="$(" lem="&quot;">"</w>
+ <w id="w11.2.19" tree="XY" lem="_">_</w>
+ <w id="w11.2.20" tree="NE" lem="Dinah">Dinah</w>
+ <w id="w11.2.21" tree="XY" lem="_">_</w> 
+ <w id="w11.2.22" tree="VAFIN" lem="werden">wird</w> 
+ <w id="w11.2.23" tree="PRF" lem="ich">mich</w> 
+ <w id="w11.2.24" tree="ADJD" lem="gewiss">gewiß</w> 
+ <w id="w11.2.25" tree="VVFIN" lem="heuen">heut</w> 
+ <w id="w11.2.26" tree="ADV" lem="abend">Abend</w> 
+ <w id="w11.2.27" tree="ADJD" lem="recht">recht</w> 
+ <w id="w11.2.28" tree="VVINF" lem="suchen">suchen</w>
+ <w id="w11.2.29" tree="$." lem="!">!</w>
+ <w id="w11.2.30" tree="$(" lem="&quot;">"</w> 
+ <w id="w11.2.31" tree="$(" lem="(">(</w>
+ <w id="w11.2.32" tree="XY" lem="_">_</w>
+ <w id="w11.2.33" tree="NE" lem="Dinah">Dinah</w>
+ <w id="w11.2.34" tree="XY" lem="_">_</w> 
+ <w id="w11.2.35" tree="VAFIN" lem="sein">war</w> 
+ <w id="w11.2.36" tree="ART" lem="die">die</w> 
+ <w id="w11.2.37" tree="NN" lem="Katze">Katze</w>
+ <w id="w11.2.38" tree="$." lem=".">.</w>
+ <w id="w11.2.39" tree="$(" lem=")">)</w>
+</s> 
+ 
+<s id="s11.3">
+ <w id="w11.3.1" tree="$(" lem="&quot;">"</w>
+ <w id="w11.3.2" tree="PPER" lem="ich">Ich</w> 
+ <w id="w11.3.3" tree="VVFIN" lem="hoffen">hoffe</w>
+ <w id="w11.3.4" tree="$," lem=",">,</w> 
+ <w id="w11.3.5" tree="PPER" lem="sie">sie</w> 
+ <w id="w11.3.6" tree="VAFIN" lem="werden">werden</w> 
+ <w id="w11.3.7" tree="PPOSAT" lem="ihr">ihren</w> 
+ <w id="w11.3.8" tree="NN" lem="Napf">Napf</w> 
+ <w id="w11.3.9" tree="NN" lem="Milch">Milch</w> 
+ <w id="w11.3.10" tree="APPRART" lem="zu">zur</w> 
+ <w id="w11.3.11" tree="NN" lem="Theestunde">Theestunde</w> 
+ <w id="w11.3.12" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w11.3.13" tree="VVINF" lem="vergessen">vergessen</w>
+ <w id="w11.3.14" tree="$." lem=".">.</w> 
+ <w id="w11.3.15" tree="XY" lem="_">_</w>
+ <w id="w11.3.16" tree="NE" lem="Dinah">Dinah</w>
+ <w id="w11.3.17" tree="$." lem="!">!</w>
+ <w id="w11.3.18" tree="XY" lem="_">_</w> 
+ <w id="w11.3.19" tree="VVFIN" lem="Mies">Mies</w>
+ <w id="w11.3.20" tree="$." lem="!">!</w> 
+ <w id="w11.3.21" tree="PPER" lem="ich">ich</w> 
+ <w id="w11.3.22" tree="VMFIN" lem="wollen">wollte</w>
+ <w id="w11.3.23" tree="$," lem=",">,</w> 
+ <w id="w11.3.24" tree="PPER" lem="du">du</w> 
+ <w id="w11.3.25" tree="VAFIN" lem="sein">wärest</w> 
+ <w id="w11.3.26" tree="ADV" lem="hier">hier</w> 
+ <w id="w11.3.27" tree="ADV" lem="unten">unten</w> 
+ <w id="w11.3.28" tree="APPR" lem="bei">bei</w> 
+ <w id="w11.3.29" tree="PPER" lem="ich">mir</w>
+ <w id="w11.3.30" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s11.4">
+ <w id="w11.4.1" tree="PPER" lem="ich">Mir</w> 
+ <w id="w11.4.2" tree="VAFIN" lem="sein">ist</w> 
+ <w id="w11.4.3" tree="ADV" lem="nur">nur</w> 
+ <w id="w11.4.4" tree="ADJD" lem="bange">bange</w>
+ <w id="w11.4.5" tree="$," lem=",">,</w> 
+ <w id="w11.4.6" tree="PPER" lem="es">es</w> 
+ <w id="w11.4.7" tree="VVFIN" lem="giebt">giebt</w> 
+ <w id="w11.4.8" tree="PIAT" lem="keine">keine</w> 
+ <w id="w11.4.9" tree="NN" lem="Maus">Mäuse</w> 
+ <w id="w11.4.10" tree="APPR" lem="in">in</w> 
+ <w id="w11.4.11" tree="ART" lem="die">der</w> 
+ <w id="w11.4.12" tree="NN" lem="Luft">Luft</w>
+ <w id="w11.4.13" tree="$." lem=";">;</w> 
+ <w id="w11.4.14" tree="KON" lem="aber">aber</w> 
+ <w id="w11.4.15" tree="PPER" lem="du">du</w> 
+ <w id="w11.4.16" tree="VMFIN" lem="können">könntest</w> 
+ <w id="w11.4.17" tree="ART" lem="eine">einen</w> 
+ <w id="w11.4.18" tree="NN" lem="Spatz">Spatzen</w> 
+ <w id="w11.4.19" tree="VVINF" lem="fangen">fangen</w>
+ <w id="w11.4.20" tree="$." lem=";">;</w> 
+ <w id="w11.4.21" tree="PDS" lem="die">die</w> 
+ <w id="w11.4.22" tree="VAFIN" lem="werden">wird</w> 
+ <w id="w11.4.23" tree="PPER" lem="es">es</w> 
+ <w id="w11.4.24" tree="ADV" lem="hier">hier</w> 
+ <w id="w11.4.25" tree="APPR" lem="in">in</w> 
+ <w id="w11.4.26" tree="ART" lem="die">der</w> 
+ <w id="w11.4.27" tree="NN" lem="Luft">Luft</w> 
+ <w id="w11.4.28" tree="ADV" lem="wohl">wohl</w> 
+ <w id="w11.4.29" tree="VVINF" lem="geben">geben</w>
+ <w id="w11.4.30" tree="$," lem=",">,</w> 
+ <w id="w11.4.31" tree="VVFIN" lem="glauben">glaubst</w> 
+ <w id="w11.4.32" tree="PPER" lem="du">du</w> 
+ <w id="w11.4.33" tree="PTKNEG" lem="nicht">nicht</w>
+ <w id="w11.4.34" tree="$." lem="?">?</w>
+</s> 
+ 
+<s id="s11.5">
+ <w id="w11.5.1" tree="KON" lem="und">Und</w> 
+ <w id="w11.5.2" tree="NN" lem="Katze">Katzen</w> 
+ <w id="w11.5.3" tree="VVINF" lem="fressen">fressen</w> 
+ <w id="w11.5.4" tree="KON" lem="doch">doch</w> 
+ <w id="w11.5.5" tree="NN" lem="Spatz">Spatzen</w>
+ <w id="w11.5.6" tree="$." lem="?">?</w>
+ <w id="w11.5.7" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s11.6">
+ <w id="w11.6.1" tree="ADV" lem="hier">Hier</w> 
+ <w id="w11.6.2" tree="VAFIN" lem="werden">wurde</w> 
+ <w id="w11.6.3" tree="NE" lem="Alice">Alice</w> 
+ <w id="w11.6.4" tree="ADV" lem="etwas">etwas</w> 
+ <w id="w11.6.5" tree="ADJD" lem="schläfrig">schläfrig</w> 
+ <w id="w11.6.6" tree="KON" lem="und">und</w> 
+ <w id="w11.6.7" tree="VVFIN" lem="reden">redete</w> 
+ <w id="w11.6.8" tree="ADJD" lem="halb">halb</w> 
+ <w id="w11.6.9" tree="APPRART" lem="in">im</w> 
+ <w id="w11.6.10" tree="NN" lem="Traum">Traum</w> 
+ <w id="w11.6.11" tree="PTKVZ" lem="fort">fort</w>
+ <w id="w11.6.12" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s11.7">
+ <w id="w11.7.1" tree="$(" lem="&quot;">"</w>
+ <w id="w11.7.2" tree="NN" lem="Fressen">Fressen</w> 
+ <w id="w11.7.3" tree="NN" lem="Katze">Katzen</w> 
+ <w id="w11.7.4" tree="ADV" lem="gern">gern</w> 
+ <w id="w11.7.5" tree="NN" lem="Spatz">Spatzen</w>
+ <w id="w11.7.6" tree="$." lem="?">?</w>
+</s> 
+ 
+<s id="s11.8">
+ <w id="w11.8.1" tree="NN" lem="Fressen">Fressen</w> 
+ <w id="w11.8.2" tree="NN" lem="Katze">Katzen</w> 
+ <w id="w11.8.3" tree="ADV" lem="gern">gern</w> 
+ <w id="w11.8.4" tree="NN" lem="Spatz">Spatzen</w>
+ <w id="w11.8.5" tree="$." lem="?">?</w>
+</s> 
+ 
+<s id="s11.9">
+ <w id="w11.9.1" tree="NN" lem="Fressen">Fressen</w> 
+ <w id="w11.9.2" tree="NN" lem="Spatz">Spatzen</w> 
+ <w id="w11.9.3" tree="ADV" lem="gern">gern</w> 
+ <w id="w11.9.4" tree="NN" lem="Katze">Katzen</w>
+ <w id="w11.9.5" tree="$." lem="?">?</w>
+ <w id="w11.9.6" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s11.10">
+ <w id="w11.10.1" tree="KON" lem="und">Und</w> 
+ <w id="w11.10.2" tree="KOUS" lem="da">da</w> 
+ <w id="w11.10.3" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w11.10.4" tree="PIS" lem="niemand">Niemand</w> 
+ <w id="w11.10.5" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w11.10.6" tree="VVINF" lem="antworten">antworten</w> 
+ <w id="w11.10.7" tree="VVFIN" lem="brauchen">brauchte</w>
+ <w id="w11.10.8" tree="$," lem=",">,</w> 
+ <w id="w11.10.9" tree="ADV" lem="so">so</w> 
+ <w id="w11.10.10" tree="VVFIN" lem="kommen">kam</w> 
+ <w id="w11.10.11" tree="PPER" lem="es">es</w> 
+ <w id="w11.10.12" tree="ADV" lem="gar">gar</w> 
+ <w id="w11.10.13" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w11.10.14" tree="PAV" lem="darauf">darauf</w> 
+ <w id="w11.10.15" tree="PTKVZ" lem="an">an</w>
+ <w id="w11.10.16" tree="$," lem=",">,</w> 
+ <w id="w11.10.17" tree="KOUS" lem="wie">wie</w> 
+ <w id="w11.10.18" tree="PPER" lem="sie">sie</w> 
+ <w id="w11.10.19" tree="ART" lem="die">die</w> 
+ <w id="w11.10.20" tree="NN" lem="Frage">Frage</w> 
+ <w id="w11.10.21" tree="VVFIN" lem="stellen">stellte</w>
+ <w id="w11.10.22" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s11.11">
+ <w id="w11.11.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w11.11.2" tree="VVFIN" lem="fühlen">fühlte</w>
+ <w id="w11.11.3" tree="$," lem=",">,</w> 
+ <w id="w11.11.4" tree="KOUS" lem="dass">daß</w> 
+ <w id="w11.11.5" tree="PPER" lem="sie">sie</w> 
+ <w id="w11.11.6" tree="VVFIN" lem="einschlafen">einschlief</w> 
+ <w id="w11.11.7" tree="KON" lem="und">und</w> 
+ <w id="w11.11.8" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w11.11.9" tree="ADV" lem="eben">eben</w> 
+ <w id="w11.11.10" tree="VVPP" lem="anfangen">angefangen</w> 
+ <w id="w11.11.11" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w11.11.12" tree="VVINF" lem="träumen">träumen</w>
+ <w id="w11.11.13" tree="$," lem=",">,</w> 
+ <w id="w11.11.14" tree="PPER" lem="sie">sie</w> 
+ <w id="w11.11.15" tree="VVFIN" lem="gehen">gehe</w> 
+ <w id="w11.11.16" tree="NN" lem="Hand">Hand</w> 
+ <w id="w11.11.17" tree="APPR" lem="in">in</w> 
+ <w id="w11.11.18" tree="NN" lem="Hand">Hand</w> 
+ <w id="w11.11.19" tree="PTKVZ" lem="mit">mit</w> 
+ <w id="w11.11.20" tree="XY" lem="_">_</w>
+ <w id="w11.11.21" tree="NE" lem="Dinah">Dinah</w>
+ <w id="w11.11.22" tree="XY" lem="_">_</w> 
+ <w id="w11.11.23" tree="VVINF" lem="spazieren">spazieren</w>
+ <w id="w11.11.24" tree="$," lem=",">,</w> 
+ <w id="w11.11.25" tree="KON" lem="und">und</w> 
+ <w id="w11.11.26" tree="VVFIN" lem="fragen">frage</w> 
+ <w id="w11.11.27" tree="PPER" lem="sie">sie</w> 
+ <w id="w11.11.28" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w11.11.29" tree="ADJD" lem="ernsthaft">ernsthaft</w>
+ <w id="w11.11.30" tree="$." lem=":">:</w> 
+ <w id="w11.11.31" tree="$(" lem="&quot;">"</w>
+ <w id="w11.11.32" tree="ADV" lem="nun">Nun</w>
+ <w id="w11.11.33" tree="$," lem=",">,</w> 
+ <w id="w11.11.34" tree="XY" lem="_">_</w>
+ <w id="w11.11.35" tree="NE" lem="Dinah">Dinah</w>
+ <w id="w11.11.36" tree="XY" lem="_">_</w>
+ <w id="w11.11.37" tree="$," lem=",">,</w> 
+ <w id="w11.11.38" tree="VVFIN" lem="sagen">sage</w> 
+ <w id="w11.11.39" tree="ART" lem="die">die</w> 
+ <w id="w11.11.40" tree="NN" lem="Wahrheit">Wahrheit</w>
+ <w id="w11.11.41" tree="$," lem=",">,</w> 
+ <w id="w11.11.42" tree="VAFIN" lem="haben">hast</w> 
+ <w id="w11.11.43" tree="PPER" lem="du">du</w> 
+ <w id="w11.11.44" tree="APPR" lem="je">je</w> 
+ <w id="w11.11.45" tree="ART" lem="eine">einen</w> 
+ <w id="w11.11.46" tree="NN" lem="Spatz">Spatzen</w> 
+ <w id="w11.11.47" tree="VVPP" lem="fressen">gefressen</w>
+ <w id="w11.11.48" tree="$." lem="?">?</w>
+ <w id="w11.11.49" tree="$(" lem="&quot;">"</w> 
+ <w id="w11.11.50" tree="ADV" lem="da">da</w> 
+ <w id="w11.11.51" tree="APPR" lem="mit">mit</w> 
+ <w id="w11.11.52" tree="ART" lem="eine">einem</w> 
+ <w id="w11.11.53" tree="NN" lem="Mal">Male</w>
+ <w id="w11.11.54" tree="$," lem=",">,</w> 
+ <w id="w11.11.55" tree="ADJD" lem="plump">plump</w>
+ <w id="w11.11.56" tree="$." lem="!">!</w> 
+ <w id="w11.11.57" tree="ADJD" lem="plump">plump</w>
+ <w id="w11.11.58" tree="$." lem="!">!</w> 
+ <w id="w11.11.59" tree="VVFIN" lem="kommen">kam</w> 
+ <w id="w11.11.60" tree="PPER" lem="sie">sie</w> 
+ <w id="w11.11.61" tree="APPR" lem="auf">auf</w> 
+ <w id="w11.11.62" tree="ART" lem="eine">einen</w> 
+ <w id="w11.11.63" tree="NN" lem="Haufe">Haufen</w> 
+ <w id="w11.11.64" tree="ADJA" lem="trocknes">trocknes</w> 
+ <w id="w11.11.65" tree="NN" lem="Laub">Laub</w> 
+ <w id="w11.11.66" tree="KON" lem="und">und</w> 
+ <w id="w11.11.67" tree="NN" lem="Reisig">Reisig</w> 
+ <w id="w11.11.68" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w11.11.69" tree="VVINF" lem="liegen">liegen</w>
+ <w id="w11.11.70" tree="$," lem=",">,</w> 
+ <w id="w11.11.71" tree="$(" lem="--">--</w> 
+ <w id="w11.11.72" tree="KON" lem="und">und</w> 
+ <w id="w11.11.73" tree="ART" lem="die">der</w> 
+ <w id="w11.11.74" tree="NN" lem="Fall">Fall</w> 
+ <w id="w11.11.75" tree="VAFIN" lem="sein">war</w> 
+ <w id="w11.11.76" tree="ADV" lem="aus">aus</w>
+ <w id="w11.11.77" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="12">
+<s id="s12.1">
+ <w id="w12.1.1" tree="NE" lem="Alice">Alice</w> 
+ <w id="w12.1.2" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w12.1.3" tree="PRF" lem="sich">sich</w> 
+ <w id="w12.1.4" tree="ADV" lem="gar">gar</w> 
+ <w id="w12.1.5" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w12.1.6" tree="ADJD" lem="weh">weh</w> 
+ <w id="w12.1.7" tree="NN" lem="gethan">gethan</w>
+ <w id="w12.1.8" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s12.2">
+ <w id="w12.2.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w12.2.2" tree="VVFIN" lem="springen">sprang</w> 
+ <w id="w12.2.3" tree="ADV" lem="sogleich">sogleich</w> 
+ <w id="w12.2.4" tree="PTKVZ" lem="auf">auf</w> 
+ <w id="w12.2.5" tree="KON" lem="und">und</w> 
+ <w id="w12.2.6" tree="VVFIN" lem="sehen">sah</w> 
+ <w id="w12.2.7" tree="APPR" lem="in">in</w> 
+ <w id="w12.2.8" tree="ART" lem="die">die</w> 
+ <w id="w12.2.9" tree="NN" lem="Höhe">Höhe</w>
+ <w id="w12.2.10" tree="$." lem=";">;</w> 
+ <w id="w12.2.11" tree="KON" lem="aber">aber</w> 
+ <w id="w12.2.12" tree="PPER" lem="es">es</w> 
+ <w id="w12.2.13" tree="VAFIN" lem="sein">war</w> 
+ <w id="w12.2.14" tree="ADJD" lem="dunkel">dunkel</w> 
+ <w id="w12.2.15" tree="APPR" lem="über">über</w> 
+ <w id="w12.2.16" tree="PPER" lem="ihr">ihr</w>
+ <w id="w12.2.17" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s12.3">
+ <w id="w12.3.1" tree="APPR" lem="vor">Vor</w> 
+ <w id="w12.3.2" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w12.3.3" tree="VVFIN" lem="liegen">lag</w> 
+ <w id="w12.3.4" tree="ART" lem="eine">ein</w> 
+ <w id="w12.3.5" tree="ADJA" lem="zweit">zweiter</w> 
+ <w id="w12.3.6" tree="ADJA" lem="lang">langer</w> 
+ <w id="w12.3.7" tree="NN" lem="Gang">Gang</w>
+ <w id="w12.3.8" tree="$," lem=",">,</w> 
+ <w id="w12.3.9" tree="KON" lem="und">und</w> 
+ <w id="w12.3.10" tree="PPER" lem="sie">sie</w> 
+ <w id="w12.3.11" tree="VMFIN" lem="können">konnte</w> 
+ <w id="w12.3.12" tree="ADV" lem="noch">noch</w> 
+ <w id="w12.3.13" tree="ADV" lem="eben">eben</w> 
+ <w id="w12.3.14" tree="ART" lem="die">das</w> 
+ <w id="w12.3.15" tree="ADJA" lem="weiß">weiße</w> 
+ <w id="w12.3.16" tree="NN" lem="Kaninchen">Kaninchen</w> 
+ <w id="w12.3.17" tree="PAV" lem="darin">darin</w> 
+ <w id="w12.3.18" tree="PTKVZ" lem="entlang">entlang</w> 
+ <w id="w12.3.19" tree="VVINF" lem="laufen">laufen</w> 
+ <w id="w12.3.20" tree="VVINF" lem="sehen">sehen</w>
+ <w id="w12.3.21" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s12.4">
+ <w id="w12.4.1" tree="PPER" lem="es">Es</w> 
+ <w id="w12.4.2" tree="VAFIN" lem="sein">war</w> 
+ <w id="w12.4.3" tree="PIAT" lem="keine">kein</w> 
+ <w id="w12.4.4" tree="NN" lem="Augenblick">Augenblick</w> 
+ <w id="w12.4.5" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w12.4.6" tree="VVINF" lem="verlieren">verlieren</w>
+ <w id="w12.4.7" tree="$." lem=":">:</w> 
+ <w id="w12.4.8" tree="ADV" lem="fort">fort</w> 
+ <w id="w12.4.9" tree="VVFIN" lem="rennen">rannte</w> 
+ <w id="w12.4.10" tree="NE" lem="Alice">Alice</w> 
+ <w id="w12.4.11" tree="KOKOM" lem="wie">wie</w> 
+ <w id="w12.4.12" tree="ART" lem="die">der</w> 
+ <w id="w12.4.13" tree="NN" lem="Wind">Wind</w>
+ <w id="w12.4.14" tree="$," lem=",">,</w> 
+ <w id="w12.4.15" tree="KON" lem="und">und</w> 
+ <w id="w12.4.16" tree="VVFIN" lem="hören">hörte</w> 
+ <w id="w12.4.17" tree="PPER" lem="es">es</w> 
+ <w id="w12.4.18" tree="ADV" lem="gerade">gerade</w> 
+ <w id="w12.4.19" tree="ADV" lem="noch">noch</w> 
+ <w id="w12.4.20" tree="VVINF" lem="sagen">sagen</w>
+ <w id="w12.4.21" tree="$," lem=",">,</w> 
+ <w id="w12.4.22" tree="KOUS" lem="als">als</w> 
+ <w id="w12.4.23" tree="PPER" lem="es">es</w> 
+ <w id="w12.4.24" tree="APPR" lem="um">um</w> 
+ <w id="w12.4.25" tree="ART" lem="eine">eine</w> 
+ <w id="w12.4.26" tree="NN" lem="Ecke">Ecke</w> 
+ <w id="w12.4.27" tree="VVFIN" lem="biegen">bog</w>
+ <w id="w12.4.28" tree="$." lem=":">:</w> 
+ <w id="w12.4.29" tree="$(" lem="&quot;">"</w>
+ <w id="w12.4.30" tree="NN" lem="O">O</w>
+ <w id="w12.4.31" tree="$," lem=",">,</w> 
+ <w id="w12.4.32" tree="NN" lem="Ohr">Ohren</w> 
+ <w id="w12.4.33" tree="KON" lem="und">und</w> 
+ <w id="w12.4.34" tree="NN" lem="Schnurrbart">Schnurrbart</w>
+ <w id="w12.4.35" tree="$," lem=",">,</w> 
+ <w id="w12.4.36" tree="KOKOM" lem="wie">wie</w> 
+ <w id="w12.4.37" tree="ADJD" lem="spät">spät</w> 
+ <w id="w12.4.38" tree="PPER" lem="es">es</w> 
+ <w id="w12.4.39" tree="VAFIN" lem="sein">ist</w>
+ <w id="w12.4.40" tree="$." lem="!">!</w>
+ <w id="w12.4.41" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s12.5">
+ <w id="w12.5.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w12.5.2" tree="VAFIN" lem="sein">war</w> 
+ <w id="w12.5.3" tree="ADJD" lem="dicht">dicht</w> 
+ <w id="w12.5.4" tree="APPR" lem="hinter">hinter</w> 
+ <w id="w12.5.5" tree="PPER" lem="er">ihm</w>
+ <w id="w12.5.6" tree="$," lem=",">,</w> 
+ <w id="w12.5.7" tree="KON" lem="aber">aber</w> 
+ <w id="w12.5.8" tree="KOUS" lem="als">als</w> 
+ <w id="w12.5.9" tree="PPER" lem="sie">sie</w> 
+ <w id="w12.5.10" tree="APPR" lem="um">um</w> 
+ <w id="w12.5.11" tree="ART" lem="die">die</w> 
+ <w id="w12.5.12" tree="NN" lem="Ecke">Ecke</w> 
+ <w id="w12.5.13" tree="VVFIN" lem="biegen">bog</w>
+ <w id="w12.5.14" tree="$," lem=",">,</w> 
+ <w id="w12.5.15" tree="KOUS" lem="da">da</w> 
+ <w id="w12.5.16" tree="VAFIN" lem="sein">war</w> 
+ <w id="w12.5.17" tree="ART" lem="die">das</w> 
+ <w id="w12.5.18" tree="NN" lem="Kaninchen">Kaninchen</w> 
+ <w id="w12.5.19" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w12.5.20" tree="ADV" lem="mehr">mehr</w> 
+ <w id="w12.5.21" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w12.5.22" tree="VVINF" lem="sehen">sehen</w>
+ <w id="w12.5.23" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s12.6">
+ <w id="w12.6.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w12.6.2" tree="VVFIN" lem="befinden">befand</w> 
+ <w id="w12.6.3" tree="PRF" lem="sich">sich</w> 
+ <w id="w12.6.4" tree="APPR" lem="in">in</w> 
+ <w id="w12.6.5" tree="ART" lem="eine">einem</w> 
+ <w id="w12.6.6" tree="ADJA" lem="lang">langen</w>
+ <w id="w12.6.7" tree="$," lem=",">,</w> 
+ <w id="w12.6.8" tree="ADJA" lem="niedrig">niedrigen</w> 
+ <w id="w12.6.9" tree="NN" lem="Corridor">Corridor</w>
+ <w id="w12.6.10" tree="$," lem=",">,</w> 
+ <w id="w12.6.11" tree="PRELS" lem="die">der</w> 
+ <w id="w12.6.12" tree="APPR" lem="durch">durch</w> 
+ <w id="w12.6.13" tree="ART" lem="eine">eine</w> 
+ <w id="w12.6.14" tree="NN" lem="Reihe">Reihe</w> 
+ <w id="w12.6.15" tree="NN" lem="Lampe">Lampen</w> 
+ <w id="w12.6.16" tree="VVPP" lem="erleuchten">erleuchtet</w> 
+ <w id="w12.6.17" tree="VAFIN" lem="sein">war</w>
+ <w id="w12.6.18" tree="$," lem=",">,</w> 
+ <w id="w12.6.19" tree="PRELS" lem="die">die</w> 
+ <w id="w12.6.20" tree="APPR" lem="von">von</w> 
+ <w id="w12.6.21" tree="ART" lem="die">der</w> 
+ <w id="w12.6.22" tree="NN" lem="Decke">Decke</w> 
+ <w id="w12.6.23" tree="VVFIN" lem="herabhängen">herabhingen</w>
+ <w id="w12.6.24" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="13">
+<s id="s13.1">
+ <w id="w13.1.1" tree="APPR" lem="zu">Zu</w> 
+ <w id="w13.1.2" tree="PIAT" lem="beide">beiden</w> 
+ <w id="w13.1.3" tree="NN" lem="Seite">Seiten</w> 
+ <w id="w13.1.4" tree="ART" lem="die">des</w> 
+ <w id="w13.1.5" tree="NN" lem="Corridors">Corridors</w> 
+ <w id="w13.1.6" tree="VAFIN" lem="sein">waren</w> 
+ <w id="w13.1.7" tree="NN" lem="Thüren">Thüren</w>
+ <w id="w13.1.8" tree="$." lem=";">;</w> 
+ <w id="w13.1.9" tree="KON" lem="aber">aber</w> 
+ <w id="w13.1.10" tree="PPER" lem="sie">sie</w> 
+ <w id="w13.1.11" tree="VAFIN" lem="sein">waren</w> 
+ <w id="w13.1.12" tree="PIS" lem="alle">alle</w> 
+ <w id="w13.1.13" tree="VVPP" lem="verschließen">verschlossen</w>
+ <w id="w13.1.14" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s13.2">
+ <w id="w13.2.1" tree="NE" lem="Alice">Alice</w> 
+ <w id="w13.2.2" tree="VVFIN" lem="versuchen">versuchte</w> 
+ <w id="w13.2.3" tree="PIAT" lem="jede">jede</w> 
+ <w id="w13.2.4" tree="NN" lem="Thür">Thür</w> 
+ <w id="w13.2.5" tree="ADV" lem="erst">erst</w> 
+ <w id="w13.2.6" tree="APPR" lem="auf">auf</w> 
+ <w id="w13.2.7" tree="ART" lem="eine">einer</w> 
+ <w id="w13.2.8" tree="NN" lem="Seite">Seite</w>
+ <w id="w13.2.9" tree="$," lem=",">,</w> 
+ <w id="w13.2.10" tree="ADV" lem="dann">dann</w> 
+ <w id="w13.2.11" tree="APPR" lem="auf">auf</w> 
+ <w id="w13.2.12" tree="ART" lem="die">der</w> 
+ <w id="w13.2.13" tree="PIS" lem="andere">andern</w>
+ <w id="w13.2.14" tree="$." lem=";">;</w> 
+ <w id="w13.2.15" tree="ADV" lem="endlich">endlich</w> 
+ <w id="w13.2.16" tree="VVFIN" lem="gehen">ging</w> 
+ <w id="w13.2.17" tree="PPER" lem="sie">sie</w> 
+ <w id="w13.2.18" tree="ADJD" lem="traurig">traurig</w> 
+ <w id="w13.2.19" tree="APPR" lem="in">in</w> 
+ <w id="w13.2.20" tree="ART" lem="die">der</w> 
+ <w id="w13.2.21" tree="NN" lem="Mitte">Mitte</w> 
+ <w id="w13.2.22" tree="APPO" lem="entlang">entlang</w>
+ <w id="w13.2.23" tree="$," lem=",">,</w> 
+ <w id="w13.2.24" tree="ADJD" lem="überlegend">überlegend</w>
+ <w id="w13.2.25" tree="$," lem=",">,</w> 
+ <w id="w13.2.26" tree="KOUS" lem="wie">wie</w> 
+ <w id="w13.2.27" tree="PPER" lem="sie">sie</w> 
+ <w id="w13.2.28" tree="ADV" lem="je">je</w> 
+ <w id="w13.2.29" tree="ADV" lem="heraus">heraus</w> 
+ <w id="w13.2.30" tree="VVINF" lem="kommen">kommen</w> 
+ <w id="w13.2.31" tree="VMFIN" lem="können">könnte</w>
+ <w id="w13.2.32" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="14">
+<s id="s14.1">
+ <w id="w14.1.1" tree="ADJD" lem="plötzlich">Plötzlich</w> 
+ <w id="w14.1.2" tree="VVFIN" lem="stehen">stand</w> 
+ <w id="w14.1.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w14.1.4" tree="APPR" lem="vor">vor</w> 
+ <w id="w14.1.5" tree="ART" lem="eine">einem</w> 
+ <w id="w14.1.6" tree="ADJA" lem="klein">kleinen</w> 
+ <w id="w14.1.7" tree="ADJA" lem="dreibeinig">dreibeinigen</w> 
+ <w id="w14.1.8" tree="NN" lem="Tisch">Tische</w>
+ <w id="w14.1.9" tree="$," lem=",">,</w> 
+ <w id="w14.1.10" tree="XY" lem="_">_</w>
+ <w id="w14.1.11" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w14.1.12" tree="APPR" lem="von">von</w> 
+ <w id="w14.1.13" tree="ADJA" lem="dick">dickem</w> 
+ <w id="w14.1.14" tree="NN" lem="Glas">Glas</w>
+ <w id="w14.1.15" tree="XY" lem="_">_</w>
+ <w id="w14.1.16" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s14.2">
+ <w id="w14.2.1" tree="PPER" lem="es">Es</w> 
+ <w id="w14.2.2" tree="VAFIN" lem="sein">war</w> 
+ <w id="w14.2.3" tree="PIS" lem="nichts">nichts</w> 
+ <w id="w14.2.4" tree="PAV" lem="darauf">darauf</w> 
+ <w id="w14.2.5" tree="KOKOM" lem="als">als</w> 
+ <w id="w14.2.6" tree="ART" lem="eine">ein</w> 
+ <w id="w14.2.7" tree="ADJA" lem="winzig">winziges</w> 
+ <w id="w14.2.8" tree="ADJA" lem="golden">goldenes</w> 
+ <w id="w14.2.9" tree="NN" lem="Schlüsselchen">Schlüsselchen</w>
+ <w id="w14.2.10" tree="$," lem=",">,</w> 
+ <w id="w14.2.11" tree="KON" lem="und">und</w> 
+ <w id="w14.2.12" tree="XY" lem="_">_</w>
+ <w id="w14.2.13" tree="NE" lem="Alice">Alice</w>
+ <w id="w14.2.14" tree="$(" lem="'">'</w>
+ <w id="w14.2.15" tree="NN" lem="s">s</w>
+ <w id="w14.2.16" tree="XY" lem="_">_</w> 
+ <w id="w14.2.17" tree="ADJA" lem="erst">erster</w> 
+ <w id="w14.2.18" tree="NN" lem="Gedanke">Gedanke</w> 
+ <w id="w14.2.19" tree="VAFIN" lem="sein">war</w>
+ <w id="w14.2.20" tree="$," lem=",">,</w> 
+ <w id="w14.2.21" tree="PDS" lem="dies">dies</w> 
+ <w id="w14.2.22" tree="VMFIN" lem="mögen">möchte</w> 
+ <w id="w14.2.23" tree="APPR" lem="zu">zu</w> 
+ <w id="w14.2.24" tree="PIS" lem="eine">einer</w> 
+ <w id="w14.2.25" tree="ART" lem="die">der</w> 
+ <w id="w14.2.26" tree="NN" lem="Thüren">Thüren</w> 
+ <w id="w14.2.27" tree="ART" lem="die">des</w> 
+ <w id="w14.2.28" tree="NN" lem="Corridors">Corridors</w> 
+ <w id="w14.2.29" tree="VVFIN" lem="gehören">gehören</w>
+ <w id="w14.2.30" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s14.3">
+ <w id="w14.3.1" tree="ADV" lem="aber">Aber</w> 
+ <w id="w14.3.2" tree="ITJ" lem="ach">ach</w>
+ <w id="w14.3.3" tree="$." lem="!">!</w> 
+ <w id="w14.3.4" tree="KON" lem="entweder">entweder</w> 
+ <w id="w14.3.5" tree="VAFIN" lem="sein">waren</w> 
+ <w id="w14.3.6" tree="ART" lem="die">die</w> 
+ <w id="w14.3.7" tree="NN" lem="Schloss">Schlösser</w> 
+ <w id="w14.3.8" tree="PTKA" lem="zu">zu</w> 
+ <w id="w14.3.9" tree="ADJD" lem="groß">groß</w>
+ <w id="w14.3.10" tree="$," lem=",">,</w> 
+ <w id="w14.3.11" tree="KON" lem="oder">oder</w> 
+ <w id="w14.3.12" tree="ART" lem="die">der</w> 
+ <w id="w14.3.13" tree="NN" lem="Schlüssel">Schlüssel</w> 
+ <w id="w14.3.14" tree="VAFIN" lem="sein">war</w> 
+ <w id="w14.3.15" tree="PTKA" lem="zu">zu</w> 
+ <w id="w14.3.16" tree="ADJD" lem="klein">klein</w>
+ <w id="w14.3.17" tree="$." lem=";">;</w> 
+ <w id="w14.3.18" tree="ADJD" lem="kurz">kurz</w>
+ <w id="w14.3.19" tree="$," lem=",">,</w> 
+ <w id="w14.3.20" tree="PPER" lem="er">er</w> 
+ <w id="w14.3.21" tree="VVFIN" lem="passen">paßte</w> 
+ <w id="w14.3.22" tree="APPR" lem="zu">zu</w> 
+ <w id="w14.3.23" tree="PIAT" lem="keine">keiner</w> 
+ <w id="w14.3.24" tree="ADJA" lem="einzig">einzigen</w>
+ <w id="w14.3.25" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s14.4">
+ <w id="w14.4.1" tree="ADV" lem="jedoch">Jedoch</w>
+ <w id="w14.4.2" tree="$," lem=",">,</w> 
+ <w id="w14.4.3" tree="KOUS" lem="als">als</w> 
+ <w id="w14.4.4" tree="PPER" lem="sie">sie</w> 
+ <w id="w14.4.5" tree="ART" lem="die">das</w> 
+ <w id="w14.4.6" tree="ADJA" lem="zweit">zweite</w> 
+ <w id="w14.4.7" tree="NN" lem="Mal">Mal</w> 
+ <w id="w14.4.8" tree="APZR" lem="herum">herum</w> 
+ <w id="w14.4.9" tree="VVFIN" lem="gehen">ging</w>
+ <w id="w14.4.10" tree="$," lem=",">,</w> 
+ <w id="w14.4.11" tree="VVFIN" lem="kommen">kam</w> 
+ <w id="w14.4.12" tree="PPER" lem="sie">sie</w> 
+ <w id="w14.4.13" tree="APPR" lem="an">an</w> 
+ <w id="w14.4.14" tree="ART" lem="eine">einen</w> 
+ <w id="w14.4.15" tree="ADJA" lem="niedrig">niedrigen</w> 
+ <w id="w14.4.16" tree="NN" lem="Vorhang">Vorhang</w>
+ <w id="w14.4.17" tree="$," lem=",">,</w> 
+ <w id="w14.4.18" tree="PRELS" lem="die">den</w> 
+ <w id="w14.4.19" tree="PPER" lem="sie">sie</w> 
+ <w id="w14.4.20" tree="ADV" lem="vorher">vorher</w> 
+ <w id="w14.4.21" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w14.4.22" tree="VVPP" lem="bemerken">bemerkt</w> 
+ <w id="w14.4.23" tree="VAFIN" lem="haben">hatte</w>
+ <w id="w14.4.24" tree="$," lem=",">,</w> 
+ <w id="w14.4.25" tree="KON" lem="und">und</w> 
+ <w id="w14.4.26" tree="PAV" lem="dahinter">dahinter</w> 
+ <w id="w14.4.27" tree="VAFIN" lem="sein">war</w> 
+ <w id="w14.4.28" tree="ART" lem="eine">eine</w> 
+ <w id="w14.4.29" tree="NN" lem="Thür">Thür</w>
+ <w id="w14.4.30" tree="$," lem=",">,</w> 
+ <w id="w14.4.31" tree="ADJD" lem="ungefähr">ungefähr</w> 
+ <w id="w14.4.32" tree="CARD" lem="funfzehn">funfzehn</w> 
+ <w id="w14.4.33" tree="NN" lem="Zoll">Zoll</w> 
+ <w id="w14.4.34" tree="PTKVZ" lem="hoch">hoch</w>
+ <w id="w14.4.35" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s14.5">
+ <w id="w14.5.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w14.5.2" tree="VVFIN" lem="stecken">steckte</w> 
+ <w id="w14.5.3" tree="ART" lem="die">das</w> 
+ <w id="w14.5.4" tree="ADJA" lem="golden">goldene</w> 
+ <w id="w14.5.5" tree="NN" lem="Schlüsselchen">Schlüsselchen</w> 
+ <w id="w14.5.6" tree="APPR" lem="in">in</w>
+ <w id="w14.5.7" tree="$(" lem="'">'</w>
+ <w id="w14.5.8" tree="NN" lem="s">s</w> 
+ <w id="w14.5.9" tree="NN" lem="Schlüsselloch">Schlüsselloch</w>
+ <w id="w14.5.10" tree="$," lem=",">,</w> 
+ <w id="w14.5.11" tree="KON" lem="und">und</w> 
+ <w id="w14.5.12" tree="APPR" lem="zu">zu</w> 
+ <w id="w14.5.13" tree="PPOSAT" lem="ihr">ihrer</w> 
+ <w id="w14.5.14" tree="ADJA" lem="groß">großen</w> 
+ <w id="w14.5.15" tree="NN" lem="Freude">Freude</w> 
+ <w id="w14.5.16" tree="VVFIN" lem="passen">paßte</w> 
+ <w id="w14.5.17" tree="PPER" lem="es">es</w>
+ <w id="w14.5.18" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="15">
+<s id="s15.1">
+ <w id="w15.1.1" tree="NE" lem="Alice">Alice</w> 
+ <w id="w15.1.2" tree="VVFIN" lem="schließen">schloß</w> 
+ <w id="w15.1.3" tree="ART" lem="die">die</w> 
+ <w id="w15.1.4" tree="NN" lem="Thür">Thür</w> 
+ <w id="w15.1.5" tree="PTKVZ" lem="auf">auf</w> 
+ <w id="w15.1.6" tree="KON" lem="und">und</w> 
+ <w id="w15.1.7" tree="VVFIN" lem="finden">fand</w>
+ <w id="w15.1.8" tree="$," lem=",">,</w> 
+ <w id="w15.1.9" tree="KOUS" lem="dass">daß</w> 
+ <w id="w15.1.10" tree="PPER" lem="sie">sie</w> 
+ <w id="w15.1.11" tree="APPR" lem="zu">zu</w> 
+ <w id="w15.1.12" tree="ART" lem="eine">einem</w> 
+ <w id="w15.1.13" tree="ADJA" lem="klein">kleinen</w> 
+ <w id="w15.1.14" tree="NN" lem="Gang">Gange</w> 
+ <w id="w15.1.15" tree="VVFIN" lem="führen">führte</w>
+ <w id="w15.1.16" tree="$," lem=",">,</w> 
+ <w id="w15.1.17" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w15.1.18" tree="ADV" lem="viel">viel</w> 
+ <w id="w15.1.19" tree="ADJD" lem="groß">größer</w> 
+ <w id="w15.1.20" tree="KOKOM" lem="als">als</w> 
+ <w id="w15.1.21" tree="ART" lem="eine">ein</w> 
+ <w id="w15.1.22" tree="NN" lem="Mäuseloch">Mäuseloch</w>
+ <w id="w15.1.23" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s15.2">
+ <w id="w15.2.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w15.2.2" tree="VVFIN" lem="knieen">kniete</w> 
+ <w id="w15.2.3" tree="PTKVZ" lem="nieder">nieder</w> 
+ <w id="w15.2.4" tree="KON" lem="und">und</w> 
+ <w id="w15.2.5" tree="VVFIN" lem="sehen">sah</w> 
+ <w id="w15.2.6" tree="APPR" lem="durch">durch</w> 
+ <w id="w15.2.7" tree="ART" lem="die">den</w> 
+ <w id="w15.2.8" tree="NN" lem="Gang">Gang</w> 
+ <w id="w15.2.9" tree="APPR" lem="in">in</w> 
+ <w id="w15.2.10" tree="ART" lem="die">den</w> 
+ <w id="w15.2.11" tree="ADJA" lem="reizend">reizendsten</w> 
+ <w id="w15.2.12" tree="NN" lem="Garten">Garten</w>
+ <w id="w15.2.13" tree="$," lem=",">,</w> 
+ <w id="w15.2.14" tree="PRELS" lem="die">den</w> 
+ <w id="w15.2.15" tree="PIS" lem="man">man</w> 
+ <w id="w15.2.16" tree="PRF" lem="sich">sich</w> 
+ <w id="w15.2.17" tree="VVINF" lem="denken">denken</w> 
+ <w id="w15.2.18" tree="VMFIN" lem="können">kann</w>
+ <w id="w15.2.19" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s15.3">
+ <w id="w15.3.1" tree="KOUS" lem="wie">Wie</w> 
+ <w id="w15.3.2" tree="VVFIN" lem="wünschen">wünschte</w> 
+ <w id="w15.3.3" tree="PPER" lem="sie">sie</w>
+ <w id="w15.3.4" tree="$," lem=",">,</w> 
+ <w id="w15.3.5" tree="APPR" lem="aus">aus</w> 
+ <w id="w15.3.6" tree="PRELS" lem="die">dem</w> 
+ <w id="w15.3.7" tree="VVFIN" lem="dunkeln">dunkeln</w> 
+ <w id="w15.3.8" tree="NN" lem="Corridor">Corridor</w> 
+ <w id="w15.3.9" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w15.3.10" tree="VVINF" lem="gelangen">gelangen</w>
+ <w id="w15.3.11" tree="$," lem=",">,</w> 
+ <w id="w15.3.12" tree="KON" lem="und">und</w> 
+ <w id="w15.3.13" tree="APPR" lem="unter">unter</w> 
+ <w id="w15.3.14" tree="ART" lem="die">den</w> 
+ <w id="w15.3.15" tree="ADJA" lem="bunt">bunten</w> 
+ <w id="w15.3.16" tree="NN" lem="Blumenbeet">Blumenbeeten</w> 
+ <w id="w15.3.17" tree="KON" lem="und">und</w> 
+ <w id="w15.3.18" tree="ADJA" lem="kühl">kühlen</w> 
+ <w id="w15.3.19" tree="NN" lem="Springbrunnen">Springbrunnen</w> 
+ <w id="w15.3.20" tree="ADV" lem="umher">umher</w> 
+ <w id="w15.3.21" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w15.3.22" tree="VVINF" lem="wandern">wandern</w>
+ <w id="w15.3.23" tree="$." lem=";">;</w> 
+ <w id="w15.3.24" tree="KON" lem="aber">aber</w> 
+ <w id="w15.3.25" tree="PPER" lem="sie">sie</w> 
+ <w id="w15.3.26" tree="VMFIN" lem="können">konnte</w> 
+ <w id="w15.3.27" tree="ADV" lem="kaum">kaum</w> 
+ <w id="w15.3.28" tree="ART" lem="die">den</w> 
+ <w id="w15.3.29" tree="NN" lem="Kopf">Kopf</w> 
+ <w id="w15.3.30" tree="APPR" lem="durch">durch</w> 
+ <w id="w15.3.31" tree="ART" lem="die">den</w> 
+ <w id="w15.3.32" tree="NN" lem="Eingang">Eingang</w> 
+ <w id="w15.3.33" tree="VVINF" lem="stecken">stecken</w>
+ <w id="w15.3.34" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s15.4">
+ <w id="w15.4.1" tree="$(" lem="&quot;">"</w>
+ <w id="w15.4.2" tree="KON" lem="und">Und</w> 
+ <w id="w15.4.3" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w15.4.4" tree="ADV" lem="auch">auch</w> 
+ <w id="w15.4.5" tree="PPOSAT" lem="mein">mein</w> 
+ <w id="w15.4.6" tree="NN" lem="Kopf">Kopf</w> 
+ <w id="w15.4.7" tree="ADV" lem="hindurch">hindurch</w> 
+ <w id="w15.4.8" tree="VVFIN" lem="gehen">ginge</w>
+ <w id="w15.4.9" tree="$," lem=",">,</w>
+ <w id="w15.4.10" tree="$(" lem="&quot;">"</w> 
+ <w id="w15.4.11" tree="VVFIN" lem="denken">dachte</w> 
+ <w id="w15.4.12" tree="ART" lem="die">die</w> 
+ <w id="w15.4.13" tree="ADJA" lem="arm">arme</w> 
+ <w id="w15.4.14" tree="NE" lem="Alice">Alice</w>
+ <w id="w15.4.15" tree="$," lem=",">,</w> 
+ <w id="w15.4.16" tree="$(" lem="&quot;">"</w>
+ <w id="w15.4.17" tree="PRELS" lem="was">was</w> 
+ <w id="w15.4.18" tree="VAFIN" lem="werden">würde</w> 
+ <w id="w15.4.19" tree="PPER" lem="es">es</w> 
+ <w id="w15.4.20" tree="VVINF" lem="nützen">nützen</w> 
+ <w id="w15.4.21" tree="APPR" lem="ohne">ohne</w> 
+ <w id="w15.4.22" tree="ART" lem="die">die</w> 
+ <w id="w15.4.23" tree="NN" lem="Schulter|Schultern">Schultern</w>
+ <w id="w15.4.24" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s15.5">
+ <w id="w15.5.1" tree="NN" lem="O">O</w>
+ <w id="w15.5.2" tree="$," lem=",">,</w> 
+ <w id="w15.5.3" tree="PPER" lem="ich">ich</w> 
+ <w id="w15.5.4" tree="VMFIN" lem="mögen">möchte</w> 
+ <w id="w15.5.5" tree="PPER" lem="ich">mich</w> 
+ <w id="w15.5.6" tree="VVINF" lem="zusammenschieben">zusammenschieben</w> 
+ <w id="w15.5.7" tree="VMINF" lem="können">können</w> 
+ <w id="w15.5.8" tree="KOKOM" lem="wie">wie</w> 
+ <w id="w15.5.9" tree="ART" lem="eine">ein</w> 
+ <w id="w15.5.10" tree="NN" lem="Teleskop">Teleskop</w>
+ <w id="w15.5.11" tree="$." lem="!">!</w>
+</s> 
+ 
+<s id="s15.6">
+ <w id="w15.6.1" tree="PDS" lem="die">Das</w> 
+ <w id="w15.6.2" tree="VVFIN" lem="gehen">geht</w> 
+ <w id="w15.6.3" tree="ADJD" lem="gewiss">gewiß</w>
+ <w id="w15.6.4" tree="$," lem=",">,</w> 
+ <w id="w15.6.5" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w15.6.6" tree="PPER" lem="ich">ich</w> 
+ <w id="w15.6.7" tree="ADV" lem="nur">nur</w> 
+ <w id="w15.6.8" tree="VVFIN" lem="wissen">wüßte</w>
+ <w id="w15.6.9" tree="$," lem=",">,</w> 
+ <w id="w15.6.10" tree="KOUS" lem="wie">wie</w> 
+ <w id="w15.6.11" tree="PIS" lem="man">man</w> 
+ <w id="w15.6.12" tree="PPER" lem="es">es</w> 
+ <w id="w15.6.13" tree="VVFIN" lem="anfangen">anfängt</w>
+ <w id="w15.6.14" tree="$." lem=".">.</w>
+ <w id="w15.6.15" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s15.7">
+ <w id="w15.7.1" tree="KON" lem="denn">Denn</w> 
+ <w id="w15.7.2" tree="PPER" lem="es">es</w> 
+ <w id="w15.7.3" tree="VAFIN" lem="sein">war</w> 
+ <w id="w15.7.4" tree="ADJD" lem="kürzlich">kürzlich</w> 
+ <w id="w15.7.5" tree="ADV" lem="so">so</w> 
+ <w id="w15.7.6" tree="PIAT" lem="viele">viel</w> 
+ <w id="w15.7.7" tree="NN" lem="Merkwürdiges">Merkwürdiges</w> 
+ <w id="w15.7.8" tree="APPR" lem="mit">mit</w> 
+ <w id="w15.7.9" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w15.7.10" tree="VVPP" lem="vorgehen">vorgegangen</w>
+ <w id="w15.7.11" tree="$," lem=",">,</w> 
+ <w id="w15.7.12" tree="KOUS" lem="dass">daß</w> 
+ <w id="w15.7.13" tree="NE" lem="Alice">Alice</w> 
+ <w id="w15.7.14" tree="VVFIN" lem="anfangen">anfing</w> 
+ <w id="w15.7.15" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w15.7.16" tree="VVINF" lem="glauben">glauben</w>
+ <w id="w15.7.17" tree="$," lem=",">,</w> 
+ <w id="w15.7.18" tree="PPER" lem="es">es</w> 
+ <w id="w15.7.19" tree="VAFIN" lem="sein">sei</w> 
+ <w id="w15.7.20" tree="ADV" lem="fast">fast</w> 
+ <w id="w15.7.21" tree="PIS" lem="nichts">nichts</w> 
+ <w id="w15.7.22" tree="ADJD" lem="unmöglich">unmöglich</w>
+ <w id="w15.7.23" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="16">
+<s id="s16.1">
+ <w id="w16.1.1" tree="PPER" lem="es">Es</w> 
+ <w id="w16.1.2" tree="VVFIN" lem="scheinen">schien</w> 
+ <w id="w16.1.3" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w16.1.4" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w16.1.5" tree="ADJD" lem="unnütz">unnütz</w>
+ <w id="w16.1.6" tree="$," lem=",">,</w> 
+ <w id="w16.1.7" tree="ADJD" lem="lang">länger</w> 
+ <w id="w16.1.8" tree="APPR" lem="bei">bei</w> 
+ <w id="w16.1.9" tree="ART" lem="die">der</w> 
+ <w id="w16.1.10" tree="ADJA" lem="klein">kleinen</w> 
+ <w id="w16.1.11" tree="NN" lem="Thür">Thür</w> 
+ <w id="w16.1.12" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w16.1.13" tree="VVINF" lem="warten">warten</w>
+ <w id="w16.1.14" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s16.2">
+ <w id="w16.2.1" tree="PAV" lem="daher">Daher</w> 
+ <w id="w16.2.2" tree="VVFIN" lem="gehen">ging</w> 
+ <w id="w16.2.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w16.2.4" tree="APPRART" lem="zu">zum</w> 
+ <w id="w16.2.5" tree="NN" lem="Tisch">Tisch</w> 
+ <w id="w16.2.6" tree="PTKVZ" lem="zurück">zurück</w>
+ <w id="w16.2.7" tree="$," lem=",">,</w> 
+ <w id="w16.2.8" tree="ADJD" lem="halb">halb</w> 
+ <w id="w16.2.9" tree="KON" lem="und">und</w> 
+ <w id="w16.2.10" tree="ADJD" lem="halb">halb</w> 
+ <w id="w16.2.11" tree="ADJD" lem="hoffend">hoffend</w>
+ <w id="w16.2.12" tree="$," lem=",">,</w> 
+ <w id="w16.2.13" tree="PPER" lem="sie">sie</w> 
+ <w id="w16.2.14" tree="VAFIN" lem="werden">würde</w> 
+ <w id="w16.2.15" tree="ADV" lem="noch">noch</w> 
+ <w id="w16.2.16" tree="ART" lem="eine">einen</w> 
+ <w id="w16.2.17" tree="NN" lem="Schlüssel">Schlüssel</w> 
+ <w id="w16.2.18" tree="PAV" lem="darauf">darauf</w> 
+ <w id="w16.2.19" tree="VVINF" lem="finden">finden</w>
+ <w id="w16.2.20" tree="$," lem=",">,</w> 
+ <w id="w16.2.21" tree="KON" lem="oder">oder</w> 
+ <w id="w16.2.22" tree="ADV" lem="jedenfalls">jedenfalls</w> 
+ <w id="w16.2.23" tree="ART" lem="eine">ein</w> 
+ <w id="w16.2.24" tree="NN" lem="Buch">Buch</w> 
+ <w id="w16.2.25" tree="APPR" lem="mit">mit</w> 
+ <w id="w16.2.26" tree="NN" lem="Anweisung">Anweisungen</w>
+ <w id="w16.2.27" tree="$," lem=",">,</w> 
+ <w id="w16.2.28" tree="KOUS" lem="wie">wie</w> 
+ <w id="w16.2.29" tree="PIS" lem="man">man</w> 
+ <w id="w16.2.30" tree="PRF" lem="sich">sich</w> 
+ <w id="w16.2.31" tree="KOKOM" lem="als">als</w> 
+ <w id="w16.2.32" tree="NN" lem="Teleskop">Teleskop</w> 
+ <w id="w16.2.33" tree="VVINF" lem="zusammenschieben">zusammenschieben</w> 
+ <w id="w16.2.34" tree="VMFIN" lem="können">könne</w>
+ <w id="w16.2.35" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s16.3">
+ <w id="w16.3.1" tree="ADV" lem="diesmal">Diesmal</w> 
+ <w id="w16.3.2" tree="VVFIN" lem="finden">fand</w> 
+ <w id="w16.3.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w16.3.4" tree="ART" lem="eine">ein</w> 
+ <w id="w16.3.5" tree="NN" lem="Fläschchen">Fläschchen</w> 
+ <w id="w16.3.6" tree="PAV" lem="darauf">darauf</w>
+ <w id="w16.3.7" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s16.4">
+ <w id="w16.4.1" tree="$(" lem="&quot;">"</w>
+ <w id="w16.4.2" tree="PDS" lem="die">Das</w> 
+ <w id="w16.4.3" tree="ADJD" lem="gewiss">gewiß</w> 
+ <w id="w16.4.4" tree="ADV" lem="vorhin">vorhin</w> 
+ <w id="w16.4.5" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w16.4.6" tree="ADV" lem="hier">hier</w> 
+ <w id="w16.4.7" tree="VVFIN" lem="stehen">stand</w>
+ <w id="w16.4.8" tree="$," lem=",">,</w>
+ <w id="w16.4.9" tree="$(" lem="&quot;">"</w> 
+ <w id="w16.4.10" tree="VVFIN" lem="sagen">sagte</w> 
+ <w id="w16.4.11" tree="NE" lem="Alice">Alice</w>
+ <w id="w16.4.12" tree="$." lem=";">;</w> 
+ <w id="w16.4.13" tree="KON" lem="und">und</w> 
+ <w id="w16.4.14" tree="APPR" lem="um">um</w> 
+ <w id="w16.4.15" tree="ART" lem="die">den</w> 
+ <w id="w16.4.16" tree="NN" lem="Hals">Hals</w> 
+ <w id="w16.4.17" tree="ART" lem="die">des</w> 
+ <w id="w16.4.18" tree="NN" lem="Fläschchens">Fläschchens</w> 
+ <w id="w16.4.19" tree="VAFIN" lem="sein">war</w> 
+ <w id="w16.4.20" tree="ART" lem="eine">ein</w> 
+ <w id="w16.4.21" tree="NN" lem="Zettel">Zettel</w> 
+ <w id="w16.4.22" tree="VVPP" lem="binden">gebunden</w>
+ <w id="w16.4.23" tree="$," lem=",">,</w> 
+ <w id="w16.4.24" tree="APPR" lem="mit">mit</w> 
+ <w id="w16.4.25" tree="ART" lem="die">den</w> 
+ <w id="w16.4.26" tree="NN" lem="Wort">Worten</w> 
+ <w id="w16.4.27" tree="$(" lem="&quot;">"</w>
+ <w id="w16.4.28" tree="XY" lem="_">_</w>
+ <w id="w16.4.29" tree="VVFIN" lem="trinken">Trinke</w> 
+ <w id="w16.4.30" tree="PRF" lem="ich">mich</w>
+ <w id="w16.4.31" tree="$." lem="!">!</w>
+ <w id="w16.4.32" tree="XY" lem="_">_</w>
+ <w id="w16.4.33" tree="$(" lem="&quot;">"</w> 
+ <w id="w16.4.34" tree="ADJD" lem="wunderschön">wunderschön</w> 
+ <w id="w16.4.35" tree="APPR" lem="in">in</w> 
+ <w id="w16.4.36" tree="ADJA" lem="groß">großen</w> 
+ <w id="w16.4.37" tree="NN" lem="Buchstabe">Buchstaben</w> 
+ <w id="w16.4.38" tree="PAV" lem="drauf">drauf</w> 
+ <w id="w16.4.39" tree="VVPP" lem="drucken">gedruckt</w>
+ <w id="w16.4.40" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="17">
+<s id="s17.1">
+ <w id="w17.1.1" tree="PPER" lem="es">Es</w> 
+ <w id="w17.1.2" tree="VAFIN" lem="sein">war</w> 
+ <w id="w17.1.3" tree="ADV" lem="bald">bald</w> 
+ <w id="w17.1.4" tree="VVPP" lem="sagen">gesagt</w>
+ <w id="w17.1.5" tree="$," lem=",">,</w> 
+ <w id="w17.1.6" tree="$(" lem="&quot;">"</w>
+ <w id="w17.1.7" tree="VVFIN" lem="trinken">Trinke</w> 
+ <w id="w17.1.8" tree="PRF" lem="ich">mich</w>
+ <w id="w17.1.9" tree="$(" lem="&quot;">"</w>
+ <w id="w17.1.10" tree="$," lem=",">,</w> 
+ <w id="w17.1.11" tree="ADV" lem="aber">aber</w> 
+ <w id="w17.1.12" tree="ART" lem="die">die</w> 
+ <w id="w17.1.13" tree="ADJA" lem="altklug">altkluge</w> 
+ <w id="w17.1.14" tree="ADJA" lem="klein">kleine</w> 
+ <w id="w17.1.15" tree="NE" lem="Alice">Alice</w> 
+ <w id="w17.1.16" tree="VMFIN" lem="wollen">wollte</w> 
+ <w id="w17.1.17" tree="PRF" lem="sich">sich</w> 
+ <w id="w17.1.18" tree="PAV" lem="damit">damit</w> 
+ <w id="w17.1.19" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w17.1.20" tree="VVINF" lem="übereilen">übereilen</w>
+ <w id="w17.1.21" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s17.2">
+ <w id="w17.2.1" tree="$(" lem="&quot;">"</w>
+ <w id="w17.2.2" tree="PTKANT" lem="nein">Nein</w>
+ <w id="w17.2.3" tree="$," lem=",">,</w> 
+ <w id="w17.2.4" tree="PPER" lem="ich">ich</w> 
+ <w id="w17.2.5" tree="VAFIN" lem="werden">werde</w> 
+ <w id="w17.2.6" tree="ADV" lem="erst">erst</w> 
+ <w id="w17.2.7" tree="VVINF" lem="nachsehen">nachsehen</w>
+ <w id="w17.2.8" tree="$," lem=",">,</w>
+ <w id="w17.2.9" tree="$(" lem="&quot;">"</w> 
+ <w id="w17.2.10" tree="VVFIN" lem="sprechen">sprach</w> 
+ <w id="w17.2.11" tree="PPER" lem="sie">sie</w>
+ <w id="w17.2.12" tree="$," lem=",">,</w> 
+ <w id="w17.2.13" tree="$(" lem="&quot;">"</w>
+ <w id="w17.2.14" tree="KOUS" lem="ob">ob</w> 
+ <w id="w17.2.15" tree="ART" lem="eine">ein</w> 
+ <w id="w17.2.16" tree="NN" lem="Todtenkopf">Todtenkopf</w> 
+ <w id="w17.2.17" tree="PAV" lem="darauf">darauf</w> 
+ <w id="w17.2.18" tree="VAFIN" lem="sein">ist</w> 
+ <w id="w17.2.19" tree="KON" lem="oder">oder</w> 
+ <w id="w17.2.20" tree="PTKNEG" lem="nicht">nicht</w>
+ <w id="w17.2.21" tree="$." lem=".">.</w>
+ <w id="w17.2.22" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s17.3">
+ <w id="w17.3.1" tree="KON" lem="denn">Denn</w> 
+ <w id="w17.3.2" tree="PPER" lem="sie">sie</w> 
+ <w id="w17.3.3" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w17.3.4" tree="VVFIN" lem="mehren">mehre</w> 
+ <w id="w17.3.5" tree="ADJA" lem="hübsch">hübsche</w> 
+ <w id="w17.3.6" tree="NN" lem="Geschichte">Geschichten</w> 
+ <w id="w17.3.7" tree="VVPP" lem="lesen">gelesen</w> 
+ <w id="w17.3.8" tree="APPR" lem="von">von</w> 
+ <w id="w17.3.9" tree="NN" lem="Kind">Kindern</w>
+ <w id="w17.3.10" tree="$," lem=",">,</w> 
+ <w id="w17.3.11" tree="PRELS" lem="die">die</w> 
+ <w id="w17.3.12" tree="PRF" lem="sich">sich</w> 
+ <w id="w17.3.13" tree="VVPP" lem="verbrennen">verbrannt</w> 
+ <w id="w17.3.14" tree="VAFIN" lem="haben">hatten</w> 
+ <w id="w17.3.15" tree="KON" lem="oder">oder</w> 
+ <w id="w17.3.16" tree="PRF" lem="sich">sich</w> 
+ <w id="w17.3.17" tree="APPR" lem="von">von</w> 
+ <w id="w17.3.18" tree="ADJA" lem="wild">wilden</w> 
+ <w id="w17.3.19" tree="NN" lem="Thieren">Thieren</w> 
+ <w id="w17.3.20" tree="VAFIN" lem="haben">hatten</w> 
+ <w id="w17.3.21" tree="VVINF" lem="fressen">fressen</w> 
+ <w id="w17.3.22" tree="VVINF" lem="lassen">lassen</w>
+ <w id="w17.3.23" tree="$," lem=",">,</w> 
+ <w id="w17.3.24" tree="KON" lem="und">und</w> 
+ <w id="w17.3.25" tree="APPR" lem="in">in</w> 
+ <w id="w17.3.26" tree="PIS" lem="andere">andere</w> 
+ <w id="w17.3.27" tree="ADJA" lem="unangenehm">unangenehme</w> 
+ <w id="w17.3.28" tree="NN" lem="Lage">Lagen</w> 
+ <w id="w17.3.29" tree="VVPP" lem="gerathen">gerathen</w> 
+ <w id="w17.3.30" tree="VAFIN" lem="sein">waren</w>
+ <w id="w17.3.31" tree="$," lem=",">,</w> 
+ <w id="w17.3.32" tree="ADV" lem="nur">nur</w> 
+ <w id="w17.3.33" tree="KOUS" lem="weil">weil</w> 
+ <w id="w17.3.34" tree="PPER" lem="sie">sie</w> 
+ <w id="w17.3.35" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w17.3.36" tree="APPR" lem="an">an</w> 
+ <w id="w17.3.37" tree="ART" lem="die">die</w> 
+ <w id="w17.3.38" tree="NN" lem="Warnung">Warnungen</w> 
+ <w id="w17.3.39" tree="VVFIN" lem="denken">dachten</w>
+ <w id="w17.3.40" tree="$," lem=",">,</w> 
+ <w id="w17.3.41" tree="PRELS" lem="die">die</w> 
+ <w id="w17.3.42" tree="PPOSAT" lem="ihr">ihre</w> 
+ <w id="w17.3.43" tree="NN" lem="Freund">Freunde</w> 
+ <w id="w17.3.44" tree="PPER" lem="sie">ihnen</w> 
+ <w id="w17.3.45" tree="VVPP" lem="geben">gegeben</w> 
+ <w id="w17.3.46" tree="VAFIN" lem="haben">hatten</w>
+ <w id="w17.3.47" tree="$." lem=";">;</w> 
+ <w id="w17.3.48" tree="APPRART" lem="zu">zum</w> 
+ <w id="w17.3.49" tree="NN" lem="Beispiel">Beispiel</w>
+ <w id="w17.3.50" tree="$," lem=",">,</w> 
+ <w id="w17.3.51" tree="KOUS" lem="dass">daß</w> 
+ <w id="w17.3.52" tree="ART" lem="eine">ein</w> 
+ <w id="w17.3.53" tree="ADJA" lem="rothglühendes">rothglühendes</w> 
+ <w id="w17.3.54" tree="NN" lem="Eisen">Eisen</w> 
+ <w id="w17.3.55" tree="VVFIN" lem="brennen">brennt</w>
+ <w id="w17.3.56" tree="$," lem=",">,</w> 
+ <w id="w17.3.57" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w17.3.58" tree="PIS" lem="man">man</w> 
+ <w id="w17.3.59" tree="PPER" lem="es">es</w> 
+ <w id="w17.3.60" tree="VVFIN" lem="anfassen">anfaßt</w>
+ <w id="w17.3.61" tree="$." lem=";">;</w> 
+ <w id="w17.3.62" tree="KON" lem="und">und</w> 
+ <w id="w17.3.63" tree="KOUS" lem="dass">daß</w> 
+ <w id="w17.3.64" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w17.3.65" tree="PIS" lem="man">man</w> 
+ <w id="w17.3.66" tree="PRF" lem="sich">sich</w> 
+ <w id="w17.3.67" tree="APPR" lem="mit">mit</w> 
+ <w id="w17.3.68" tree="ART" lem="eine">einem</w> 
+ <w id="w17.3.69" tree="NN" lem="Messer">Messer</w> 
+ <w id="w17.3.70" tree="ADJD" lem="tief">tief</w> 
+ <w id="w17.3.71" tree="APPR" lem="in">in</w> 
+ <w id="w17.3.72" tree="ART" lem="die">den</w> 
+ <w id="w17.3.73" tree="NN" lem="Finger">Finger</w> 
+ <w id="w17.3.74" tree="VVFIN" lem="schneiden">schneidet</w>
+ <w id="w17.3.75" tree="$," lem=",">,</w> 
+ <w id="w17.3.76" tree="PPER" lem="es">es</w> 
+ <w id="w17.3.77" tree="ADJD" lem="gewöhnlich">gewöhnlich</w> 
+ <w id="w17.3.78" tree="VVFIN" lem="bluten">blutet</w>
+ <w id="w17.3.79" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s17.4">
+ <w id="w17.4.1" tree="KON" lem="und">Und</w> 
+ <w id="w17.4.2" tree="PPER" lem="sie">sie</w> 
+ <w id="w17.4.3" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w17.4.4" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w17.4.5" tree="VVINF" lem="vergessen">vergessen</w>
+ <w id="w17.4.6" tree="$," lem=",">,</w> 
+ <w id="w17.4.7" tree="KOUS" lem="dass">daß</w> 
+ <w id="w17.4.8" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w17.4.9" tree="PIS" lem="man">man</w> 
+ <w id="w17.4.10" tree="ADV" lem="viel">viel</w> 
+ <w id="w17.4.11" tree="APPR" lem="aus">aus</w> 
+ <w id="w17.4.12" tree="ART" lem="eine">einer</w> 
+ <w id="w17.4.13" tree="NN" lem="Flasche">Flasche</w> 
+ <w id="w17.4.14" tree="APPR" lem="mit">mit</w> 
+ <w id="w17.4.15" tree="ART" lem="eine">einem</w> 
+ <w id="w17.4.16" tree="NN" lem="Todtenkopf">Todtenkopf</w> 
+ <w id="w17.4.17" tree="PAV" lem="darauf">darauf</w> 
+ <w id="w17.4.18" tree="VVFIN" lem="trinken">trinkt</w>
+ <w id="w17.4.19" tree="$," lem=",">,</w> 
+ <w id="w17.4.20" tree="PPER" lem="es">es</w> 
+ <w id="w17.4.21" tree="PIS" lem="eine">einem</w> 
+ <w id="w17.4.22" tree="ADJD" lem="unfehlbar">unfehlbar</w> 
+ <w id="w17.4.23" tree="ADJD" lem="schlecht">schlecht</w> 
+ <w id="w17.4.24" tree="VVFIN" lem="bekommen">bekommt</w>
+ <w id="w17.4.25" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="18">
+<s id="s18.1">
+ <w id="w18.1.1" tree="PDAT" lem="dies">Diese</w> 
+ <w id="w18.1.2" tree="NN" lem="Flasche">Flasche</w> 
+ <w id="w18.1.3" tree="ADV" lem="jedoch">jedoch</w> 
+ <w id="w18.1.4" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w18.1.5" tree="PIAT" lem="keine">keinen</w> 
+ <w id="w18.1.6" tree="NN" lem="Todtenkopf">Todtenkopf</w>
+ <w id="w18.1.7" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s18.2">
+ <w id="w18.2.1" tree="PAV" lem="daher">Daher</w> 
+ <w id="w18.2.2" tree="VVFIN" lem="wagen">wagte</w> 
+ <w id="w18.2.3" tree="NE" lem="Alice">Alice</w> 
+ <w id="w18.2.4" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w18.2.5" tree="VVINF" lem="kosten">kosten</w>
+ <w id="w18.2.6" tree="$." lem=";">;</w> 
+ <w id="w18.2.7" tree="KON" lem="und">und</w> 
+ <w id="w18.2.8" tree="KOUS" lem="da">da</w> 
+ <w id="w18.2.9" tree="PPER" lem="es">es</w> 
+ <w id="w18.2.10" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w18.2.11" tree="ADJD" lem="gut">gut</w> 
+ <w id="w18.2.12" tree="VVFIN" lem="schmecken">schmeckte</w> 
+ <w id="w18.2.13" tree="$(" lem="(">(</w>
+ <w id="w18.2.14" tree="PPER" lem="es">es</w> 
+ <w id="w18.2.15" tree="VAFIN" lem="sein">war</w> 
+ <w id="w18.2.16" tree="ADV" lem="eigentlich">eigentlich</w> 
+ <w id="w18.2.17" tree="KOKOM" lem="wie">wie</w> 
+ <w id="w18.2.18" tree="ART" lem="eine">ein</w> 
+ <w id="w18.2.19" tree="NN" lem="Gemisch">Gemisch</w> 
+ <w id="w18.2.20" tree="APPR" lem="von">von</w> 
+ <w id="w18.2.21" tree="NN" lem="Kirschkuchen">Kirschkuchen</w>
+ <w id="w18.2.22" tree="$," lem=",">,</w> 
+ <w id="w18.2.23" tree="NN" lem="Sahnensauce">Sahnensauce</w>
+ <w id="w18.2.24" tree="$," lem=",">,</w> 
+ <w id="w18.2.25" tree="NN" lem="Ananas">Ananas</w>
+ <w id="w18.2.26" tree="$," lem=",">,</w> 
+ <w id="w18.2.27" tree="NN" lem="Putenbraten">Putenbraten</w>
+ <w id="w18.2.28" tree="$," lem=",">,</w> 
+ <w id="w18.2.29" tree="ADJA" lem="Naute">Naute</w> 
+ <w id="w18.2.30" tree="KON" lem="und">und</w> 
+ <w id="w18.2.31" tree="ADJA" lem="arm">Armen</w> 
+ <w id="w18.2.32" tree="NN" lem="Ritter">Rittern</w>
+ <w id="w18.2.33" tree="$(" lem=")">)</w>
+ <w id="w18.2.34" tree="$," lem=",">,</w> 
+ <w id="w18.2.35" tree="ADV" lem="so">so</w> 
+ <w id="w18.2.36" tree="VVFIN" lem="trinken">trank</w> 
+ <w id="w18.2.37" tree="PPER" lem="sie">sie</w> 
+ <w id="w18.2.38" tree="ART" lem="die">die</w> 
+ <w id="w18.2.39" tree="NN" lem="Flasche">Flasche</w> 
+ <w id="w18.2.40" tree="PTKVZ" lem="aus">aus</w>
+ <w id="w18.2.41" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="19">
+<s id="s19.1">
+ <w id="w19.1.1" tree="$(" lem="&quot;">"</w>
+ <w id="w19.1.2" tree="PWS" lem="was">Was</w> 
+ <w id="w19.1.3" tree="APPR" lem="für">für</w> 
+ <w id="w19.1.4" tree="ART" lem="eine">ein</w> 
+ <w id="w19.1.5" tree="ADJA" lem="komisch">komisches</w> 
+ <w id="w19.1.6" tree="NN" lem="Gefühl">Gefühl</w>
+ <w id="w19.1.7" tree="$." lem="!">!</w>
+ <w id="w19.1.8" tree="$(" lem="&quot;">"</w> 
+ <w id="w19.1.9" tree="VVFIN" lem="sagen">sagte</w> 
+ <w id="w19.1.10" tree="NE" lem="Alice">Alice</w>
+ <w id="w19.1.11" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s19.2">
+ <w id="w19.2.1" tree="$(" lem="&quot;">"</w>
+ <w id="w19.2.2" tree="PPER" lem="ich">Ich</w> 
+ <w id="w19.2.3" tree="VVFIN" lem="gehen">gehe</w> 
+ <w id="w19.2.4" tree="ADJD" lem="gewiss">gewiß</w> 
+ <w id="w19.2.5" tree="PTKVZ" lem="zu">zu</w> 
+ <w id="w19.2.6" tree="KOKOM" lem="wie">wie</w> 
+ <w id="w19.2.7" tree="ART" lem="eine">ein</w> 
+ <w id="w19.2.8" tree="NN" lem="Teleskop">Teleskop</w>
+ <w id="w19.2.9" tree="$." lem=".">.</w>
+ <w id="w19.2.10" tree="$(" lem="&quot;">"</w>
+</s></p>
+
+<p id="20">
+<s id="s20.1">
+ <w id="w20.1.1" tree="KON" lem="und">Und</w> 
+ <w id="w20.1.2" tree="ADV" lem="so">so</w> 
+ <w id="w20.1.3" tree="VAFIN" lem="sein">war</w> 
+ <w id="w20.1.4" tree="PPER" lem="es">es</w> 
+ <w id="w20.1.5" tree="APPR" lem="in">in</w> 
+ <w id="w20.1.6" tree="ART" lem="die">der</w> 
+ <w id="w20.1.7" tree="NE" lem="That">That</w>
+ <w id="w20.1.8" tree="$." lem=":">:</w> 
+ <w id="w20.1.9" tree="ADV" lem="jetzt">jetzt</w> 
+ <w id="w20.1.10" tree="VAFIN" lem="sein">war</w> 
+ <w id="w20.1.11" tree="PPER" lem="sie">sie</w> 
+ <w id="w20.1.12" tree="ADV" lem="nur">nur</w> 
+ <w id="w20.1.13" tree="ADV" lem="noch">noch</w> 
+ <w id="w20.1.14" tree="CARD" lem="zehn">zehn</w> 
+ <w id="w20.1.15" tree="NN" lem="Zoll">Zoll</w> 
+ <w id="w20.1.16" tree="PTKVZ" lem="hoch">hoch</w>
+ <w id="w20.1.17" tree="$," lem=",">,</w> 
+ <w id="w20.1.18" tree="KON" lem="und">und</w> 
+ <w id="w20.1.19" tree="PPOSAT" lem="ihr">ihr</w> 
+ <w id="w20.1.20" tree="NN" lem="Gesicht">Gesicht</w> 
+ <w id="w20.1.21" tree="VVFIN" lem="leuchten">leuchtete</w> 
+ <w id="w20.1.22" tree="APPR" lem="bei">bei</w> 
+ <w id="w20.1.23" tree="ART" lem="die">dem</w> 
+ <w id="w20.1.24" tree="NN" lem="Gedanke">Gedanken</w>
+ <w id="w20.1.25" tree="$," lem=",">,</w> 
+ <w id="w20.1.26" tree="KOUS" lem="dass">daß</w> 
+ <w id="w20.1.27" tree="PPER" lem="sie">sie</w> 
+ <w id="w20.1.28" tree="ADV" lem="nun">nun</w> 
+ <w id="w20.1.29" tree="ART" lem="die">die</w> 
+ <w id="w20.1.30" tree="ADJA" lem="recht|rechts">rechte</w> 
+ <w id="w20.1.31" tree="NN" lem="Höhe">Höhe</w> 
+ <w id="w20.1.32" tree="VAFIN" lem="haben">habe</w>
+ <w id="w20.1.33" tree="$," lem=",">,</w> 
+ <w id="w20.1.34" tree="KOUI" lem="um">um</w> 
+ <w id="w20.1.35" tree="APPR" lem="durch">durch</w> 
+ <w id="w20.1.36" tree="ART" lem="die">die</w> 
+ <w id="w20.1.37" tree="ADJA" lem="klein">kleine</w> 
+ <w id="w20.1.38" tree="NN" lem="Thür">Thür</w> 
+ <w id="w20.1.39" tree="APPR" lem="in">in</w> 
+ <w id="w20.1.40" tree="ART" lem="die">den</w> 
+ <w id="w20.1.41" tree="ADJA" lem="schön">schönen</w> 
+ <w id="w20.1.42" tree="NN" lem="Garten">Garten</w> 
+ <w id="w20.1.43" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w20.1.44" tree="VVINF" lem="gehen">gehen</w>
+ <w id="w20.1.45" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s20.2">
+ <w id="w20.2.1" tree="KON" lem="doch">Doch</w> 
+ <w id="w20.2.2" tree="ADV" lem="erst">erst</w> 
+ <w id="w20.2.3" tree="VVFIN" lem="warten">wartete</w> 
+ <w id="w20.2.4" tree="PPER" lem="sie">sie</w> 
+ <w id="w20.2.5" tree="PIAT" lem="einige">einige</w> 
+ <w id="w20.2.6" tree="NN" lem="Minute">Minuten</w>
+ <w id="w20.2.7" tree="$," lem=",">,</w> 
+ <w id="w20.2.8" tree="KOUS" lem="ob">ob</w> 
+ <w id="w20.2.9" tree="PPER" lem="sie">sie</w> 
+ <w id="w20.2.10" tree="ADV" lem="noch">noch</w> 
+ <w id="w20.2.11" tree="ADV" lem="mehr">mehr</w> 
+ <w id="w20.2.12" tree="VVINF" lem="einschrumpfen">einschrumpfen</w> 
+ <w id="w20.2.13" tree="VAFIN" lem="werden">werde</w>
+ <w id="w20.2.14" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s20.3">
+ <w id="w20.3.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w20.3.2" tree="VAFIN" lem="sein">war</w> 
+ <w id="w20.3.3" tree="ADV" lem="einigermaßen">einigermaßen</w> 
+ <w id="w20.3.4" tree="ADJD" lem="ängstlich">ängstlich</w>
+ <w id="w20.3.5" tree="$." lem=";">;</w> 
+ <w id="w20.3.6" tree="$(" lem="&quot;">"</w>
+ <w id="w20.3.7" tree="KON" lem="denn">denn</w> 
+ <w id="w20.3.8" tree="PPER" lem="es">es</w> 
+ <w id="w20.3.9" tree="VMFIN" lem="können">könnte</w> 
+ <w id="w20.3.10" tree="PAV" lem="damit">damit</w> 
+ <w id="w20.3.11" tree="VVINF" lem="aufhören">aufhören</w>
+ <w id="w20.3.12" tree="$," lem=",">,</w>
+ <w id="w20.3.13" tree="$(" lem="&quot;">"</w> 
+ <w id="w20.3.14" tree="VVFIN" lem="sagen">sagte</w> 
+ <w id="w20.3.15" tree="NE" lem="Alice">Alice</w> 
+ <w id="w20.3.16" tree="PTKVZ" lem="zu">zu</w> 
+ <w id="w20.3.17" tree="PRF" lem="sich">sich</w> 
+ <w id="w20.3.18" tree="ADV" lem="selbst">selbst</w>
+ <w id="w20.3.19" tree="$," lem=",">,</w> 
+ <w id="w20.3.20" tree="$(" lem="&quot;">"</w>
+ <w id="w20.3.21" tree="KOUS" lem="dass">daß</w> 
+ <w id="w20.3.22" tree="PPER" lem="ich">ich</w> 
+ <w id="w20.3.23" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w20.3.24" tree="VVFIN" lem="ausgehen">ausginge</w>
+ <w id="w20.3.25" tree="$," lem=",">,</w> 
+ <w id="w20.3.26" tree="KOUS" lem="wie">wie</w> 
+ <w id="w20.3.27" tree="ART" lem="eine">ein</w> 
+ <w id="w20.3.28" tree="NN" lem="Licht">Licht</w>
+ <w id="w20.3.29" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s20.4">
+ <w id="w20.4.1" tree="PPER" lem="ich">Mich</w> 
+ <w id="w20.4.2" tree="VVFIN" lem="wundern">wundert</w>
+ <w id="w20.4.3" tree="$," lem=",">,</w> 
+ <w id="w20.4.4" tree="KOUS" lem="wie">wie</w> 
+ <w id="w20.4.5" tree="PPER" lem="ich">ich</w> 
+ <w id="w20.4.6" tree="ADV" lem="dann">dann</w> 
+ <w id="w20.4.7" tree="VVFIN" lem="aussehen">aussähe</w>
+ <w id="w20.4.8" tree="$." lem="?">?</w>
+ <w id="w20.4.9" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s20.5">
+ <w id="w20.5.1" tree="KON" lem="und">Und</w> 
+ <w id="w20.5.2" tree="PPER" lem="sie">sie</w> 
+ <w id="w20.5.3" tree="VVFIN" lem="versuchen">versuchte</w> 
+ <w id="w20.5.4" tree="PRF" lem="sich">sich</w> 
+ <w id="w20.5.5" tree="VVIZU" lem="vorstellen">vorzustellen</w>
+ <w id="w20.5.6" tree="$," lem=",">,</w> 
+ <w id="w20.5.7" tree="KOUS" lem="wie">wie</w> 
+ <w id="w20.5.8" tree="ART" lem="die">die</w> 
+ <w id="w20.5.9" tree="NN" lem="Flamme">Flamme</w> 
+ <w id="w20.5.10" tree="APPR" lem="von">von</w> 
+ <w id="w20.5.11" tree="ART" lem="eine">einem</w> 
+ <w id="w20.5.12" tree="NN" lem="Licht">Lichte</w> 
+ <w id="w20.5.13" tree="VVFIN" lem="aussehen">aussieht</w>
+ <w id="w20.5.14" tree="$," lem=",">,</w> 
+ <w id="w20.5.15" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w20.5.16" tree="ART" lem="die">das</w> 
+ <w id="w20.5.17" tree="NN" lem="Licht">Licht</w> 
+ <w id="w20.5.18" tree="VVPP" lem="ausblasen">ausgeblasen</w> 
+ <w id="w20.5.19" tree="VAFIN" lem="sein">ist</w>
+ <w id="w20.5.20" tree="$." lem=";">;</w> 
+ <w id="w20.5.21" tree="KON" lem="aber">aber</w> 
+ <w id="w20.5.22" tree="PPER" lem="sie">sie</w> 
+ <w id="w20.5.23" tree="VMFIN" lem="können">konnte</w> 
+ <w id="w20.5.24" tree="PRF" lem="sich">sich</w> 
+ <w id="w20.5.25" tree="PTKNEG" lem="nicht">nicht</w> 
+ <w id="w20.5.26" tree="VVINF" lem="erinnern">erinnern</w>
+ <w id="w20.5.27" tree="$," lem=",">,</w> 
+ <w id="w20.5.28" tree="PDS" lem="dies">dies</w> 
+ <w id="w20.5.29" tree="ADV" lem="je">je</w> 
+ <w id="w20.5.30" tree="VVPP" lem="sehen">gesehen</w> 
+ <w id="w20.5.31" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w20.5.32" tree="VAINF" lem="haben">haben</w>
+ <w id="w20.5.33" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="21">
+<s id="s21.1">
+ <w id="w21.1.1" tree="APPR" lem="nach">Nach</w> 
+ <w id="w21.1.2" tree="ART" lem="eine">einer</w> 
+ <w id="w21.1.3" tree="NN" lem="Weile">Weile</w>
+ <w id="w21.1.4" tree="$," lem=",">,</w> 
+ <w id="w21.1.5" tree="KOUS" lem="als">als</w> 
+ <w id="w21.1.6" tree="PPER" lem="sie">sie</w> 
+ <w id="w21.1.7" tree="VVFIN" lem="merken">merkte</w> 
+ <w id="w21.1.8" tree="KOUS" lem="dass">daß</w> 
+ <w id="w21.1.9" tree="ADV" lem="weiter">weiter</w> 
+ <w id="w21.1.10" tree="PIS" lem="nichts">nichts</w> 
+ <w id="w21.1.11" tree="VVFIN" lem="geschehen">geschah</w>
+ <w id="w21.1.12" tree="$," lem=",">,</w> 
+ <w id="w21.1.13" tree="VVFIN" lem="beschließen">beschloß</w> 
+ <w id="w21.1.14" tree="PPER" lem="sie">sie</w>
+ <w id="w21.1.15" tree="$," lem=",">,</w> 
+ <w id="w21.1.16" tree="ADJD" lem="gleich">gleich</w> 
+ <w id="w21.1.17" tree="APPR" lem="in">in</w> 
+ <w id="w21.1.18" tree="ART" lem="die">den</w> 
+ <w id="w21.1.19" tree="NN" lem="Garten">Garten</w> 
+ <w id="w21.1.20" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w21.1.21" tree="VVINF" lem="gehen">gehen</w>
+ <w id="w21.1.22" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s21.2">
+ <w id="w21.2.1" tree="ADV" lem="aber">Aber</w>
+ <w id="w21.2.2" tree="$," lem=",">,</w> 
+ <w id="w21.2.3" tree="ADJA" lem="arm">arme</w> 
+ <w id="w21.2.4" tree="NE" lem="Alice">Alice</w>
+ <w id="w21.2.5" tree="$." lem="!">!</w> 
+ <w id="w21.2.6" tree="KOUS" lem="als">als</w> 
+ <w id="w21.2.7" tree="PPER" lem="sie">sie</w> 
+ <w id="w21.2.8" tree="APPR" lem="an">an</w> 
+ <w id="w21.2.9" tree="ART" lem="die">die</w> 
+ <w id="w21.2.10" tree="NN" lem="Thür">Thür</w> 
+ <w id="w21.2.11" tree="VVFIN" lem="kommen">kam</w>
+ <w id="w21.2.12" tree="$," lem=",">,</w> 
+ <w id="w21.2.13" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w21.2.14" tree="PPER" lem="sie">sie</w> 
+ <w id="w21.2.15" tree="ART" lem="die">das</w> 
+ <w id="w21.2.16" tree="ADJA" lem="golden">goldene</w> 
+ <w id="w21.2.17" tree="NN" lem="Schlüsselchen">Schlüsselchen</w> 
+ <w id="w21.2.18" tree="VVPP" lem="vergessen">vergessen</w>
+ <w id="w21.2.19" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s21.3">
+ <w id="w21.3.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w21.3.2" tree="VVFIN" lem="gehen">ging</w> 
+ <w id="w21.3.3" tree="APPR" lem="nach">nach</w> 
+ <w id="w21.3.4" tree="ART" lem="die">dem</w> 
+ <w id="w21.3.5" tree="NN" lem="Tisch">Tische</w> 
+ <w id="w21.3.6" tree="PTKVZ" lem="zurück">zurück</w>
+ <w id="w21.3.7" tree="$," lem=",">,</w> 
+ <w id="w21.3.8" tree="PPER" lem="es">es</w> 
+ <w id="w21.3.9" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w21.3.10" tree="VVINF" lem="holen">holen</w>
+ <w id="w21.3.11" tree="$," lem=",">,</w> 
+ <w id="w21.3.12" tree="VVFIN" lem="finden">fand</w> 
+ <w id="w21.3.13" tree="ADV" lem="aber">aber</w>
+ <w id="w21.3.14" tree="$," lem=",">,</w> 
+ <w id="w21.3.15" tree="KOUS" lem="dass">daß</w> 
+ <w id="w21.3.16" tree="PPER" lem="sie">sie</w> 
+ <w id="w21.3.17" tree="PPER" lem="es">es</w> 
+ <w id="w21.3.18" tree="ADJD" lem="unmöglich">unmöglich</w> 
+ <w id="w21.3.19" tree="VVINF" lem="erreichen">erreichen</w> 
+ <w id="w21.3.20" tree="VMFIN" lem="können">konnte</w>
+ <w id="w21.3.21" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s21.4">
+ <w id="w21.4.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w21.4.2" tree="VVFIN" lem="sehen">sah</w> 
+ <w id="w21.4.3" tree="PPER" lem="es">es</w> 
+ <w id="w21.4.4" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w21.4.5" tree="ADJD" lem="deutlich">deutlich</w> 
+ <w id="w21.4.6" tree="APPR" lem="durch">durch</w> 
+ <w id="w21.4.7" tree="ART" lem="die">das</w> 
+ <w id="w21.4.8" tree="NN" lem="Glas">Glas</w>
+ <w id="w21.4.9" tree="$," lem=",">,</w> 
+ <w id="w21.4.10" tree="KON" lem="und">und</w> 
+ <w id="w21.4.11" tree="PPER" lem="sie">sie</w> 
+ <w id="w21.4.12" tree="VVFIN" lem="geben">gab</w> 
+ <w id="w21.4.13" tree="PRF" lem="sich">sich</w> 
+ <w id="w21.4.14" tree="PIAT" lem="alle">alle</w> 
+ <w id="w21.4.15" tree="NN" lem="Mühe">Mühe</w> 
+ <w id="w21.4.16" tree="APPR" lem="an">an</w> 
+ <w id="w21.4.17" tree="PIS" lem="eine">einem</w> 
+ <w id="w21.4.18" tree="ART" lem="die">der</w> 
+ <w id="w21.4.19" tree="NN" lem="Tischfuß">Tischfüße</w> 
+ <w id="w21.4.20" tree="ADV" lem="hinauf">hinauf</w> 
+ <w id="w21.4.21" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w21.4.22" tree="VVINF" lem="klettern">klettern</w>
+ <w id="w21.4.23" tree="$," lem=",">,</w> 
+ <w id="w21.4.24" tree="KON" lem="aber">aber</w> 
+ <w id="w21.4.25" tree="PPER" lem="er">er</w> 
+ <w id="w21.4.26" tree="VAFIN" lem="sein">war</w> 
+ <w id="w21.4.27" tree="PTKA" lem="zu">zu</w> 
+ <w id="w21.4.28" tree="ADJD" lem="glatt">glatt</w>
+ <w id="w21.4.29" tree="$." lem=";">;</w> 
+ <w id="w21.4.30" tree="KON" lem="und">und</w> 
+ <w id="w21.4.31" tree="KOUS" lem="als">als</w> 
+ <w id="w21.4.32" tree="PPER" lem="sie">sie</w> 
+ <w id="w21.4.33" tree="PRF" lem="sich">sich</w> 
+ <w id="w21.4.34" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w21.4.35" tree="ADJD" lem="müde">müde</w> 
+ <w id="w21.4.36" tree="VVPP" lem="arbeiten">gearbeitet</w> 
+ <w id="w21.4.37" tree="VAFIN" lem="haben">hatte</w>
+ <w id="w21.4.38" tree="$," lem=",">,</w> 
+ <w id="w21.4.39" tree="VVFIN" lem="setzen">setzte</w> 
+ <w id="w21.4.40" tree="PRF" lem="sich">sich</w> 
+ <w id="w21.4.41" tree="ART" lem="die">das</w> 
+ <w id="w21.4.42" tree="ADJA" lem="arm">arme</w>
+ <w id="w21.4.43" tree="$," lem=",">,</w> 
+ <w id="w21.4.44" tree="ADJA" lem="klein">kleine</w> 
+ <w id="w21.4.45" tree="NN" lem="Ding">Ding</w> 
+ <w id="w21.4.46" tree="PTKVZ" lem="hin">hin</w> 
+ <w id="w21.4.47" tree="KON" lem="und">und</w> 
+ <w id="w21.4.48" tree="VVFIN" lem="weinen">weinte</w>
+ <w id="w21.4.49" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="22">
+<s id="s22.1">
+ <w id="w22.1.1" tree="$(" lem="&quot;">"</w>
+ <w id="w22.1.2" tree="ADJD" lem="still">Still</w>
+ <w id="w22.1.3" tree="$," lem=",">,</w> 
+ <w id="w22.1.4" tree="PWS" lem="was">was</w> 
+ <w id="w22.1.5" tree="VVFIN" lem="nützen">nützt</w> 
+ <w id="w22.1.6" tree="PPER" lem="es">es</w> 
+ <w id="w22.1.7" tree="ADV" lem="so">so</w> 
+ <w id="w22.1.8" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w22.1.9" tree="VVINF" lem="weinen">weinen</w>
+ <w id="w22.1.10" tree="$." lem="!">!</w>
+ <w id="w22.1.11" tree="$(" lem="&quot;">"</w> 
+ <w id="w22.1.12" tree="VVFIN" lem="sagen">sagte</w> 
+ <w id="w22.1.13" tree="NE" lem="Alice">Alice</w> 
+ <w id="w22.1.14" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w22.1.15" tree="ADJD" lem="böse">böse</w> 
+ <w id="w22.1.16" tree="PTKVZ" lem="zu">zu</w> 
+ <w id="w22.1.17" tree="PRF" lem="sich">sich</w> 
+ <w id="w22.1.18" tree="ADV" lem="selbst">selbst</w>
+ <w id="w22.1.19" tree="$." lem=";">;</w> 
+ <w id="w22.1.20" tree="$(" lem="&quot;">"</w>
+ <w id="w22.1.21" tree="PPER" lem="ich">ich</w> 
+ <w id="w22.1.22" tree="NE" lem="rathe">rathe</w> 
+ <w id="w22.1.23" tree="PPER" lem="du">dir</w>
+ <w id="w22.1.24" tree="$," lem=",">,</w> 
+ <w id="w22.1.25" tree="ART" lem="die">den</w> 
+ <w id="w22.1.26" tree="NN" lem="Augenblick">Augenblick</w> 
+ <w id="w22.1.27" tree="VVIZU" lem="aufhören">aufzuhören</w>
+ <w id="w22.1.28" tree="$." lem="!">!</w>
+ <w id="w22.1.29" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s22.2">
+ <w id="w22.2.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w22.2.2" tree="VVFIN" lem="geben">gab</w> 
+ <w id="w22.2.3" tree="PRF" lem="sich">sich</w> 
+ <w id="w22.2.4" tree="ADV" lem="oft">oft</w> 
+ <w id="w22.2.5" tree="ADV" lem="sehr">sehr</w> 
+ <w id="w22.2.6" tree="ADJA" lem="gut">guten</w> 
+ <w id="w22.2.7" tree="NE" lem="Rath">Rath</w> 
+ <w id="w22.2.8" tree="$(" lem="(">(</w>
+ <w id="w22.2.9" tree="KOUS" lem="obgleich">obgleich</w> 
+ <w id="w22.2.10" tree="PPER" lem="sie">sie</w> 
+ <w id="w22.2.11" tree="PPER" lem="er">ihn</w> 
+ <w id="w22.2.12" tree="ADJD" lem="selten">selten</w> 
+ <w id="w22.2.13" tree="VVFIN" lem="befolgen">befolgte</w>
+ <w id="w22.2.14" tree="$(" lem=")">)</w>
+ <w id="w22.2.15" tree="$," lem=",">,</w> 
+ <w id="w22.2.16" tree="KON" lem="und">und</w> 
+ <w id="w22.2.17" tree="ADV" lem="manchmal">manchmal</w> 
+ <w id="w22.2.18" tree="VVFIN" lem="schelten">schalt</w> 
+ <w id="w22.2.19" tree="PPER" lem="sie">sie</w> 
+ <w id="w22.2.20" tree="PRF" lem="sich">sich</w> 
+ <w id="w22.2.21" tree="ADV" lem="selbst">selbst</w> 
+ <w id="w22.2.22" tree="ADV" lem="so">so</w> 
+ <w id="w22.2.23" tree="VVFIN" lem="strengen">strenge</w>
+ <w id="w22.2.24" tree="$," lem=",">,</w> 
+ <w id="w22.2.25" tree="KOUS" lem="dass">daß</w> 
+ <w id="w22.2.26" tree="PPER" lem="sie">sie</w> 
+ <w id="w22.2.27" tree="PRF" lem="sich">sich</w> 
+ <w id="w22.2.28" tree="APPRART" lem="zu">zum</w> 
+ <w id="w22.2.29" tree="NN" lem="Wein|Weinen">Weinen</w> 
+ <w id="w22.2.30" tree="VVFIN" lem="bringen">brachte</w>
+ <w id="w22.2.31" tree="$." lem=";">;</w> 
+ <w id="w22.2.32" tree="KON" lem="und">und</w> 
+ <w id="w22.2.33" tree="ADV" lem="einmal">einmal</w>
+ <w id="w22.2.34" tree="$," lem=",">,</w> 
+ <w id="w22.2.35" tree="VVFIN" lem="erinnern">erinnerte</w> 
+ <w id="w22.2.36" tree="PPER" lem="sie">sie</w> 
+ <w id="w22.2.37" tree="PRF" lem="sich">sich</w>
+ <w id="w22.2.38" tree="$," lem=",">,</w> 
+ <w id="w22.2.39" tree="VAFIN" lem="haben">hatte</w> 
+ <w id="w22.2.40" tree="PPER" lem="sie">sie</w> 
+ <w id="w22.2.41" tree="VVFIN" lem="versuchen">versucht</w> 
+ <w id="w22.2.42" tree="PRF" lem="sich">sich</w> 
+ <w id="w22.2.43" tree="ART" lem="eine">eine</w> 
+ <w id="w22.2.44" tree="NN" lem="Ohrfeige">Ohrfeige</w> 
+ <w id="w22.2.45" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w22.2.46" tree="VVINF" lem="geben">geben</w>
+ <w id="w22.2.47" tree="$," lem=",">,</w> 
+ <w id="w22.2.48" tree="KOUS" lem="weil">weil</w> 
+ <w id="w22.2.49" tree="PPER" lem="sie">sie</w> 
+ <w id="w22.2.50" tree="APPRART" lem="in">im</w> 
+ <w id="w22.2.51" tree="NN" lem="Croquet">Croquet</w> 
+ <w id="w22.2.52" tree="VVPP" lem="betrügen">betrogen</w> 
+ <w id="w22.2.53" tree="VAFIN" lem="haben">hatte</w>
+ <w id="w22.2.54" tree="$," lem=",">,</w> 
+ <w id="w22.2.55" tree="KOUS" lem="als">als</w> 
+ <w id="w22.2.56" tree="PPER" lem="sie">sie</w> 
+ <w id="w22.2.57" tree="APPR" lem="gegen">gegen</w> 
+ <w id="w22.2.58" tree="PRF" lem="sich">sich</w> 
+ <w id="w22.2.59" tree="ADV" lem="selbst">selbst</w> 
+ <w id="w22.2.60" tree="VVFIN" lem="spielen">spielte</w>
+ <w id="w22.2.61" tree="$." lem=";">;</w> 
+ <w id="w22.2.62" tree="KON" lem="denn">denn</w> 
+ <w id="w22.2.63" tree="PDAT" lem="dies">dieses</w> 
+ <w id="w22.2.64" tree="ADJA" lem="eigenthümliche">eigenthümliche</w> 
+ <w id="w22.2.65" tree="NN" lem="Kind">Kind</w> 
+ <w id="w22.2.66" tree="VVFIN" lem="stellen">stellte</w> 
+ <w id="w22.2.67" tree="ADV" lem="sehr">sehr</w> 
+ <w id="w22.2.68" tree="ADV" lem="gern">gern</w> 
+ <w id="w22.2.69" tree="CARD" lem="zwei">zwei</w> 
+ <w id="w22.2.70" tree="NN" lem="Person">Personen</w> 
+ <w id="w22.2.71" tree="PTKVZ" lem="vor">vor</w>
+ <w id="w22.2.72" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s22.3">
+ <w id="w22.3.1" tree="$(" lem="&quot;">"</w>
+ <w id="w22.3.2" tree="KON" lem="aber">Aber</w> 
+ <w id="w22.3.3" tree="ADV" lem="jetzt">jetzt</w> 
+ <w id="w22.3.4" tree="VVFIN" lem="helfen">hilft</w> 
+ <w id="w22.3.5" tree="PPER" lem="es">es</w> 
+ <w id="w22.3.6" tree="APPR" lem="zu">zu</w> 
+ <w id="w22.3.7" tree="PIS" lem="nichts">nichts</w>
+ <w id="w22.3.8" tree="$," lem=",">,</w>
+ <w id="w22.3.9" tree="$(" lem="&quot;">"</w> 
+ <w id="w22.3.10" tree="VVFIN" lem="denken">dachte</w> 
+ <w id="w22.3.11" tree="ART" lem="die">die</w> 
+ <w id="w22.3.12" tree="ADJA" lem="arm">arme</w> 
+ <w id="w22.3.13" tree="NE" lem="Alice">Alice</w>
+ <w id="w22.3.14" tree="$," lem=",">,</w> 
+ <w id="w22.3.15" tree="$(" lem="&quot;">"</w>
+ <w id="w22.3.16" tree="APPR" lem="zu">zu</w> 
+ <w id="w22.3.17" tree="NE" lem="thun">thun</w> 
+ <w id="w22.3.18" tree="KOKOM" lem="als">als</w> 
+ <w id="w22.3.19" tree="KOUS" lem="ob">ob</w> 
+ <w id="w22.3.20" tree="PPER" lem="ich">ich</w> 
+ <w id="w22.3.21" tree="CARD" lem="zwei">zwei</w> 
+ <w id="w22.3.22" tree="ADJA" lem="verschieden">verschiedene</w> 
+ <w id="w22.3.23" tree="NN" lem="Person">Personen</w> 
+ <w id="w22.3.24" tree="VAFIN" lem="sein">wäre</w>
+ <w id="w22.3.25" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s22.4">
+ <w id="w22.4.1" tree="ITJ" lem="ach">Ach</w>
+ <w id="w22.4.2" tree="$." lem="!">!</w> 
+ <w id="w22.4.3" tree="PPER" lem="es">es</w> 
+ <w id="w22.4.4" tree="VAFIN" lem="sein">ist</w> 
+ <w id="w22.4.5" tree="ADV" lem="ja">ja</w> 
+ <w id="w22.4.6" tree="ADV" lem="kaum">kaum</w> 
+ <w id="w22.4.7" tree="ADV" lem="genug">genug</w> 
+ <w id="w22.4.8" tree="APPR" lem="von">von</w> 
+ <w id="w22.4.9" tree="PPER" lem="ich">mir</w> 
+ <w id="w22.4.10" tree="ADJD" lem="übrig">übrig</w> 
+ <w id="w22.4.11" tree="PTKVZ" lem="zu">zu</w> 
+ <w id="w22.4.12" tree="XY" lem="_">_</w>
+ <w id="w22.4.13" tree="ART" lem="eine">einer</w>
+ <w id="w22.4.14" tree="XY" lem="_">_</w> 
+ <w id="w22.4.15" tree="ADJA" lem="anständig">anständigen</w> 
+ <w id="w22.4.16" tree="NN" lem="Person">Person</w>
+ <w id="w22.4.17" tree="$." lem="!">!</w>
+ <w id="w22.4.18" tree="$(" lem="&quot;">"</w>
+</s></p>
+
+<p id="23">
+<s id="s23.1">
+ <w id="w23.1.1" tree="ADV" lem="bald">Bald</w> 
+ <w id="w23.1.2" tree="VVFIN" lem="fallen">fiel</w> 
+ <w id="w23.1.3" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w23.1.4" tree="NN" lem="Auge">Auge</w> 
+ <w id="w23.1.5" tree="APPR" lem="auf">auf</w> 
+ <w id="w23.1.6" tree="ART" lem="eine">eine</w> 
+ <w id="w23.1.7" tree="ADJA" lem="klein">kleine</w> 
+ <w id="w23.1.8" tree="NN" lem="Glasbüchse">Glasbüchse</w>
+ <w id="w23.1.9" tree="$," lem=",">,</w> 
+ <w id="w23.1.10" tree="PRELS" lem="die">die</w> 
+ <w id="w23.1.11" tree="APPR" lem="unter">unter</w> 
+ <w id="w23.1.12" tree="ART" lem="die">dem</w> 
+ <w id="w23.1.13" tree="NN" lem="Tisch">Tische</w> 
+ <w id="w23.1.14" tree="VVFIN" lem="liegen">lag</w>
+ <w id="w23.1.15" tree="$." lem=";">;</w> 
+ <w id="w23.1.16" tree="PPER" lem="sie">sie</w> 
+ <w id="w23.1.17" tree="VVFIN" lem="öffnen">öffnete</w> 
+ <w id="w23.1.18" tree="PPER" lem="sie">sie</w> 
+ <w id="w23.1.19" tree="KON" lem="und">und</w> 
+ <w id="w23.1.20" tree="VVFIN" lem="finden">fand</w> 
+ <w id="w23.1.21" tree="ART" lem="eine">einen</w> 
+ <w id="w23.1.22" tree="ADV" lem="sehr">sehr</w> 
+ <w id="w23.1.23" tree="ADJA" lem="klein">kleinen</w> 
+ <w id="w23.1.24" tree="NN" lem="Kuchen">Kuchen</w> 
+ <w id="w23.1.25" tree="PAV" lem="darin">darin</w>
+ <w id="w23.1.26" tree="$," lem=",">,</w> 
+ <w id="w23.1.27" tree="APPR" lem="auf">auf</w> 
+ <w id="w23.1.28" tree="PRELS" lem="welche">welchem</w> 
+ <w id="w23.1.29" tree="ART" lem="die">die</w> 
+ <w id="w23.1.30" tree="NN" lem="Wort">Worte</w> 
+ <w id="w23.1.31" tree="$(" lem="&quot;">"</w>
+ <w id="w23.1.32" tree="XY" lem="_">_</w>
+ <w id="w23.1.33" tree="VVFIN" lem="Iß">Iß</w> 
+ <w id="w23.1.34" tree="PRF" lem="ich">mich</w>
+ <w id="w23.1.35" tree="$." lem="!">!</w>
+ <w id="w23.1.36" tree="XY" lem="_">_</w>
+ <w id="w23.1.37" tree="$(" lem="&quot;">"</w> 
+ <w id="w23.1.38" tree="ADJD" lem="schön">schön</w> 
+ <w id="w23.1.39" tree="APPR" lem="in">in</w> 
+ <w id="w23.1.40" tree="ADJA" lem="klein">kleinen</w> 
+ <w id="w23.1.41" tree="NN" lem="Rosine">Rosinen</w> 
+ <w id="w23.1.42" tree="VVPP" lem="schreiben">geschrieben</w> 
+ <w id="w23.1.43" tree="VVFIN" lem="stehen">standen</w>
+ <w id="w23.1.44" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s23.2">
+ <w id="w23.2.1" tree="$(" lem="&quot;">"</w>
+ <w id="w23.2.2" tree="ADJD" lem="gut">Gut</w>
+ <w id="w23.2.3" tree="$," lem=",">,</w> 
+ <w id="w23.2.4" tree="PPER" lem="ich">ich</w> 
+ <w id="w23.2.5" tree="VMFIN" lem="wollen">will</w> 
+ <w id="w23.2.6" tree="PPER" lem="er">ihn</w> 
+ <w id="w23.2.7" tree="VVINF" lem="essen">essen</w>
+ <w id="w23.2.8" tree="$," lem=",">,</w>
+ <w id="w23.2.9" tree="$(" lem="&quot;">"</w> 
+ <w id="w23.2.10" tree="VVFIN" lem="sagen">sagte</w> 
+ <w id="w23.2.11" tree="NE" lem="Alice">Alice</w>
+ <w id="w23.2.12" tree="$," lem=",">,</w> 
+ <w id="w23.2.13" tree="$(" lem="&quot;">"</w>
+ <w id="w23.2.14" tree="KON" lem="und">und</w> 
+ <w id="w23.2.15" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w23.2.16" tree="PPER" lem="ich">ich</w> 
+ <w id="w23.2.17" tree="PAV" lem="davon">davon</w> 
+ <w id="w23.2.18" tree="ADJD" lem="groß">größer</w> 
+ <w id="w23.2.19" tree="VAFIN" lem="werden">werde</w>
+ <w id="w23.2.20" tree="$," lem=",">,</w> 
+ <w id="w23.2.21" tree="ADV" lem="so">so</w> 
+ <w id="w23.2.22" tree="VMFIN" lem="können">kann</w> 
+ <w id="w23.2.23" tree="PPER" lem="ich">ich</w> 
+ <w id="w23.2.24" tree="ART" lem="die">den</w> 
+ <w id="w23.2.25" tree="NN" lem="Schlüssel">Schlüssel</w> 
+ <w id="w23.2.26" tree="VVINF" lem="erreichen">erreichen</w>
+ <w id="w23.2.27" tree="$." lem=";">;</w> 
+ <w id="w23.2.28" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w23.2.29" tree="PPER" lem="ich">ich</w> 
+ <w id="w23.2.30" tree="ADV" lem="aber">aber</w> 
+ <w id="w23.2.31" tree="ADJD" lem="klein">kleiner</w> 
+ <w id="w23.2.32" tree="PAV" lem="davon">davon</w> 
+ <w id="w23.2.33" tree="VAFIN" lem="werden">werde</w>
+ <w id="w23.2.34" tree="$," lem=",">,</w> 
+ <w id="w23.2.35" tree="ADV" lem="so">so</w> 
+ <w id="w23.2.36" tree="VMFIN" lem="können">kann</w> 
+ <w id="w23.2.37" tree="PPER" lem="ich">ich</w> 
+ <w id="w23.2.38" tree="APPR" lem="unter">unter</w> 
+ <w id="w23.2.39" tree="ART" lem="die">der</w> 
+ <w id="w23.2.40" tree="NN" lem="Thür">Thür</w> 
+ <w id="w23.2.41" tree="VVFIN" lem="durchkriechen">durchkriechen</w>
+ <w id="w23.2.42" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s23.3">
+ <w id="w23.3.1" tree="ADV" lem="so">So</w>
+ <w id="w23.3.2" tree="$," lem=",">,</w> 
+ <w id="w23.3.3" tree="APPR" lem="auf">auf</w> 
+ <w id="w23.3.4" tree="PIAT" lem="jede">jeden</w> 
+ <w id="w23.3.5" tree="NN" lem="Fall">Fall</w>
+ <w id="w23.3.6" tree="$," lem=",">,</w> 
+ <w id="w23.3.7" tree="VVFIN" lem="gelangen">gelange</w> 
+ <w id="w23.3.8" tree="PPER" lem="ich">ich</w> 
+ <w id="w23.3.9" tree="APPR" lem="in">in</w> 
+ <w id="w23.3.10" tree="ART" lem="die">den</w> 
+ <w id="w23.3.11" tree="NN" lem="Garten">Garten</w>
+ <w id="w23.3.12" tree="$," lem=",">,</w> 
+ <w id="w23.3.13" tree="$(" lem="--">--</w> 
+ <w id="w23.3.14" tree="PPER" lem="es">es</w> 
+ <w id="w23.3.15" tree="VAFIN" lem="sein">ist</w> 
+ <w id="w23.3.16" tree="PPER" lem="ich">mir</w> 
+ <w id="w23.3.17" tree="PIS" lem="einerlei">einerlei</w> 
+ <w id="w23.3.18" tree="KOKOM" lem="wie">wie</w>
+ <w id="w23.3.19" tree="$." lem=".">.</w>
+ <w id="w23.3.20" tree="$(" lem="&quot;">"</w>
+</s></p>
+
+<p id="24">
+<s id="s24.1">
+ <w id="w24.1.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w24.1.2" tree="VVFIN" lem="essen">aß</w> 
+ <w id="w24.1.3" tree="ART" lem="eine">ein</w> 
+ <w id="w24.1.4" tree="NN" lem="Bißchen">Bißchen</w>
+ <w id="w24.1.5" tree="$," lem=",">,</w> 
+ <w id="w24.1.6" tree="KON" lem="und">und</w> 
+ <w id="w24.1.7" tree="VVFIN" lem="sagen">sagte</w> 
+ <w id="w24.1.8" tree="ADJD" lem="neugierig">neugierig</w> 
+ <w id="w24.1.9" tree="PTKVZ" lem="zu">zu</w> 
+ <w id="w24.1.10" tree="PRF" lem="sich">sich</w> 
+ <w id="w24.1.11" tree="ADV" lem="selbst">selbst</w>
+ <w id="w24.1.12" tree="$." lem=":">:</w> 
+ <w id="w24.1.13" tree="$(" lem="&quot;">"</w>
+ <w id="w24.1.14" tree="PTKVZ" lem="aufwärts">Aufwärts</w> 
+ <w id="w24.1.15" tree="KON" lem="oder">oder</w> 
+ <w id="w24.1.16" tree="ADV" lem="abwärts">abwärts</w>
+ <w id="w24.1.17" tree="$." lem="?">?</w>
+ <w id="w24.1.18" tree="$(" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s24.2">
+ <w id="w24.2.1" tree="PAV" lem="dabei">Dabei</w> 
+ <w id="w24.2.2" tree="VVFIN" lem="halten">hielt</w> 
+ <w id="w24.2.3" tree="PPER" lem="sie">sie</w> 
+ <w id="w24.2.4" tree="ART" lem="die">die</w> 
+ <w id="w24.2.5" tree="NN" lem="Hand">Hand</w> 
+ <w id="w24.2.6" tree="ADJD" lem="prüfend">prüfend</w> 
+ <w id="w24.2.7" tree="APPR" lem="auf">auf</w> 
+ <w id="w24.2.8" tree="PPOSAT" lem="ihr">ihren</w> 
+ <w id="w24.2.9" tree="NN" lem="Kopf">Kopf</w> 
+ <w id="w24.2.10" tree="KON" lem="und">und</w> 
+ <w id="w24.2.11" tree="VAFIN" lem="sein">war</w> 
+ <w id="w24.2.12" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w24.2.13" tree="ADJD" lem="erstaunt">erstaunt</w> 
+ <w id="w24.2.14" tree="PTKZU" lem="zu">zu</w> 
+ <w id="w24.2.15" tree="VVINF" lem="bemerken">bemerken</w>
+ <w id="w24.2.16" tree="$," lem=",">,</w> 
+ <w id="w24.2.17" tree="KOUS" lem="dass">daß</w> 
+ <w id="w24.2.18" tree="PPER" lem="sie">sie</w> 
+ <w id="w24.2.19" tree="PDAT" lem="dieselb">dieselbe</w> 
+ <w id="w24.2.20" tree="NN" lem="Größe">Größe</w> 
+ <w id="w24.2.21" tree="VVFIN" lem="behalten">behielt</w>
+ <w id="w24.2.22" tree="$." lem=".">.</w>
+</s> 
+ 
+<s id="s24.3">
+ <w id="w24.3.1" tree="ADV" lem="freilich">Freilich</w> 
+ <w id="w24.3.2" tree="VVFIN" lem="geschehen">geschieht</w> 
+ <w id="w24.3.3" tree="PDS" lem="dies">dies</w> 
+ <w id="w24.3.4" tree="ADJD" lem="gewöhnlich">gewöhnlich</w>
+ <w id="w24.3.5" tree="$," lem=",">,</w> 
+ <w id="w24.3.6" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w24.3.7" tree="PIS" lem="man">man</w> 
+ <w id="w24.3.8" tree="NN" lem="Kuchen">Kuchen</w> 
+ <w id="w24.3.9" tree="VVFIN" lem="essen">ißt</w>
+ <w id="w24.3.10" tree="$." lem=";">;</w> 
+ <w id="w24.3.11" tree="KON" lem="aber">aber</w> 
+ <w id="w24.3.12" tree="NE" lem="Alice">Alice</w> 
+ <w id="w24.3.13" tree="VAFIN" lem="sein">war</w> 
+ <w id="w24.3.14" tree="ADV" lem="schon">schon</w> 
+ <w id="w24.3.15" tree="ADV" lem="so">so</w> 
+ <w id="w24.3.16" tree="APPR" lem="an">an</w> 
+ <w id="w24.3.17" tree="ADJA" lem="wunderbar">wunderbare</w> 
+ <w id="w24.3.18" tree="NN" lem="Ding">Dinge</w> 
+ <w id="w24.3.19" tree="VVPP" lem="gewöhnen">gewöhnt</w>
+ <w id="w24.3.20" tree="$," lem=",">,</w> 
+ <w id="w24.3.21" tree="KOUS" lem="dass">daß</w> 
+ <w id="w24.3.22" tree="PPER" lem="es">es</w> 
+ <w id="w24.3.23" tree="PPER" lem="ihr">ihr</w> 
+ <w id="w24.3.24" tree="ADV" lem="ganz">ganz</w> 
+ <w id="w24.3.25" tree="ADJD" lem="langweilig">langweilig</w> 
+ <w id="w24.3.26" tree="VVFIN" lem="scheinen">schien</w>
+ <w id="w24.3.27" tree="$," lem=",">,</w> 
+ <w id="w24.3.28" tree="KOUS" lem="wenn">wenn</w> 
+ <w id="w24.3.29" tree="ART" lem="die">das</w> 
+ <w id="w24.3.30" tree="NN" lem="Leben">Leben</w> 
+ <w id="w24.3.31" tree="ADV" lem="so">so</w> 
+ <w id="w24.3.32" tree="ADV" lem="natürlich">natürlich</w> 
+ <w id="w24.3.33" tree="VVFIN" lem="fortgehen">fortging</w>
+ <w id="w24.3.34" tree="$." lem=".">.</w>
+</s></p>
+
+<p id="25">
+<s id="s25.1">
+ <w id="w25.1.1" tree="PPER" lem="Sie">Sie</w> 
+ <w id="w25.1.2" tree="VVFIN" lem="machen">machte</w> 
+ <w id="w25.1.3" tree="PRF" lem="sich">sich</w> 
+ <w id="w25.1.4" tree="ADV" lem="also">also</w> 
+ <w id="w25.1.5" tree="PAV" lem="daran">daran</w>
+ <w id="w25.1.6" tree="$," lem=",">,</w> 
+ <w id="w25.1.7" tree="KON" lem="und">und</w> 
+ <w id="w25.1.8" tree="VVFIN" lem="verzehren">verzehrte</w> 
+ <w id="w25.1.9" tree="ART" lem="die">den</w> 
+ <w id="w25.1.10" tree="NN" lem="Kuchen">Kuchen</w> 
+ <w id="w25.1.11" tree="ADJD" lem="völlig">völlig</w>
+ <w id="w25.1.12" tree="$." lem=".">.</w>
+</s></p></text>

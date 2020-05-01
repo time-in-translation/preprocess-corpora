@@ -1,0 +1,2956 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text>
+<head id="1">
+<s id="s1.1">
+ <w id="w1.1.1" pos="PRP:det" lem="au">AU</w> 
+ <w id="w1.1.2" pos="NAM" lem="FOND">FOND</w> 
+ <w id="w1.1.3" pos="NAM" lem="DU">DU</w> 
+ <w id="w1.1.4" pos="NAM" lem="TERRIER">TERRIER</w>
+ <w id="w1.1.5" pos="SENT" lem=".">.</w>
+</s></head>
+
+<p id="2">
+<s id="s2.1">
+ <w id="w2.1.1" pos="NAM" lem="Alice">ALICE</w>
+ <w id="w2.1.2" pos="PUN" lem=",">,</w> 
+ <w id="w2.1.3" pos="VER:pper" lem="asseoir">assise</w> 
+ <w id="w2.1.4" pos="ADV" lem="auprès">auprès</w> 
+ <w id="w2.1.5" pos="PRP" lem="de">de</w> 
+ <w id="w2.1.6" pos="DET:POS" lem="son">sa</w> 
+ <w id="w2.1.7" pos="NOM" lem="sœur">sœur</w> 
+ <w id="w2.1.8" pos="PRP" lem="sur">sur</w> 
+ <w id="w2.1.9" pos="DET:ART" lem="le">le</w> 
+ <w id="w2.1.10" pos="NOM" lem="gazon">gazon</w>
+ <w id="w2.1.11" pos="PUN" lem=",">,</w> 
+ <w id="w2.1.12" pos="VER:impf" lem="commencer">commençait</w> 
+ <w id="w2.1.13" pos="PRP" lem="à">à</w> 
+ <w id="w2.1.14" pos="PRO:PER" lem="se">s'</w>
+ <w id="w2.1.15" pos="VER:infi" lem="ennuyer">ennuyer</w> 
+ <w id="w2.1.16" pos="PRP" lem="de">de</w> 
+ <w id="w2.1.17" pos="VER:infi" lem="rester">rester</w> 
+ <w id="w2.1.18" pos="ADV" lem="là">là</w> 
+ <w id="w2.1.19" pos="PRP" lem="à">à</w> 
+ <w id="w2.1.20" pos="ADV" lem="ne">ne</w> 
+ <w id="w2.1.21" pos="ADV" lem="rien">rien</w> 
+ <w id="w2.1.22" pos="VER:infi" lem="faire">faire</w>
+ <w id="w2.1.23" pos="PUN" lem=";">;</w> 
+ <w id="w2.1.24" pos="NUM" lem="un">une</w> 
+ <w id="w2.1.25" pos="KON" lem="ou">ou</w> 
+ <w id="w2.1.26" pos="NUM" lem="deux">deux</w> 
+ <w id="w2.1.27" pos="NOM" lem="foi|fois">fois</w> 
+ <w id="w2.1.28" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w2.1.29" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w2.1.30" pos="VER:pper" lem="jeter">jeté</w> 
+ <w id="w2.1.31" pos="DET:ART" lem="le">les</w> 
+ <w id="w2.1.32" pos="NOM" lem="œil">yeux</w> 
+ <w id="w2.1.33" pos="PRP" lem="sur">sur</w> 
+ <w id="w2.1.34" pos="DET:ART" lem="le">le</w> 
+ <w id="w2.1.35" pos="NOM" lem="livre">livre</w> 
+ <w id="w2.1.36" pos="PRO:REL" lem="que">que</w> 
+ <w id="w2.1.37" pos="VER:impf" lem="lire|liser">lisait</w> 
+ <w id="w2.1.38" pos="DET:POS" lem="son">sa</w> 
+ <w id="w2.1.39" pos="NOM" lem="sœur">sœur</w>
+ <w id="w2.1.40" pos="PUN" lem=";">;</w> 
+ <w id="w2.1.41" pos="KON" lem="mais">mais</w> 
+ <w id="w2.1.42" pos="PRO:REL" lem="quoi">quoi</w>
+ <w id="w2.1.43" pos="SENT" lem="!">!</w> 
+ <w id="w2.1.44" pos="ADV" lem="pas">pas</w> 
+ <w id="w2.1.45" pos="PRP" lem="de">d'</w>
+ <w id="w2.1.46" pos="NOM" lem="image">images</w>
+ <w id="w2.1.47" pos="PUN" lem=",">,</w> 
+ <w id="w2.1.48" pos="ADV" lem="pas">pas</w> 
+ <w id="w2.1.49" pos="PRP" lem="de">de</w> 
+ <w id="w2.1.50" pos="NOM" lem="dialogue">dialogues</w>
+ <w id="w2.1.51" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s2.2">
+ <w id="w2.2.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w2.2.2" pos="DET:ART" lem="le">La</w> 
+ <w id="w2.2.3" pos="ADJ" lem="beau">belle</w> 
+ <w id="w2.2.4" pos="NOM" lem="avance">avance</w>
+ <w id="w2.2.5" pos="PUN" lem=",">,</w>
+ <w id="w2.2.6" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w2.2.7" pos="VER:impf" lem="penser">pensait</w> 
+ <w id="w2.2.8" pos="NAM" lem="Alice">Alice</w>
+ <w id="w2.2.9" pos="PUN" lem=",">,</w> 
+ <w id="w2.2.10" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w2.2.11" pos="KON" lem="que">qu'</w>
+ <w id="w2.2.12" pos="DET:ART" lem="un">un</w> 
+ <w id="w2.2.13" pos="NOM" lem="livre">livre</w> 
+ <w id="w2.2.14" pos="PRP" lem="sans">sans</w> 
+ <w id="w2.2.15" pos="NOM" lem="image">images</w>
+ <w id="w2.2.16" pos="PUN" lem=",">,</w> 
+ <w id="w2.2.17" pos="PRP" lem="sans">sans</w> 
+ <w id="w2.2.18" pos="NOM" lem="causerie">causeries</w>
+ <w id="w2.2.19" pos="SENT" lem="!">!</w>
+ <w id="w2.2.20" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w2.2.21" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="3">
+<s id="s3.1">
+ <w id="w3.1.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w3.1.2" pos="PRO:PER" lem="se">s'</w>
+ <w id="w3.1.3" pos="VER:impf" lem="être">était</w> 
+ <w id="w3.1.4" pos="VER:pper" lem="mettre">mise</w> 
+ <w id="w3.1.5" pos="PRP" lem="à">à</w> 
+ <w id="w3.1.6" pos="VER:infi" lem="réfléchir">réfléchir</w>
+ <w id="w3.1.7" pos="PUN" lem=",">,</w> 
+ <w id="w3.1.8" pos="PUN" lem="(">(</w>
+ <w id="w3.1.9" pos="ADV" lem="tant">tant</w> 
+ <w id="w3.1.10" pos="ADV" lem="bien">bien</w> 
+ <w id="w3.1.11" pos="KON" lem="que">que</w> 
+ <w id="w3.1.12" pos="ADV" lem="mal">mal</w>
+ <w id="w3.1.13" pos="PUN" lem=",">,</w> 
+ <w id="w3.1.14" pos="KON" lem="car">car</w> 
+ <w id="w3.1.15" pos="DET:ART" lem="le">la</w> 
+ <w id="w3.1.16" pos="NOM" lem="chaleur">chaleur</w> 
+ <w id="w3.1.17" pos="PRP:det" lem="du">du</w> 
+ <w id="w3.1.18" pos="NOM" lem="jour">jour</w> 
+ <w id="w3.1.19" pos="PRO:PER" lem="la|le">l'</w>
+ <w id="w3.1.20" pos="VER:impf" lem="endormir">endormait</w> 
+ <w id="w3.1.21" pos="KON" lem="et">et</w> 
+ <w id="w3.1.22" pos="PRO:PER" lem="la">la</w> 
+ <w id="w3.1.23" pos="VER:impf" lem="rendre">rendait</w> 
+ <w id="w3.1.24" pos="ADJ" lem="lourd">lourde</w>
+ <w id="w3.1.25" pos="PUN" lem=",">,</w>
+ <w id="w3.1.26" pos="PUN" lem=")">)</w> 
+ <w id="w3.1.27" pos="PRO:PER" lem="se">se</w> 
+ <w id="w3.1.28" pos="VER:ppre" lem="demander">demandant</w> 
+ <w id="w3.1.29" pos="ADV" lem="si">si</w> 
+ <w id="w3.1.30" pos="DET:ART" lem="le">le</w> 
+ <w id="w3.1.31" pos="NOM" lem="plaisir">plaisir</w> 
+ <w id="w3.1.32" pos="PRP" lem="de">de</w> 
+ <w id="w3.1.33" pos="VER:infi" lem="faire">faire</w> 
+ <w id="w3.1.34" pos="DET:ART" lem="un">une</w> 
+ <w id="w3.1.35" pos="NOM" lem="couronne">couronne</w> 
+ <w id="w3.1.36" pos="PRP" lem="de">de</w> 
+ <w id="w3.1.37" pos="NOM" lem="marguerite">marguerites</w> 
+ <w id="w3.1.38" pos="VER:impf" lem="valoir">valait</w> 
+ <w id="w3.1.39" pos="ADV" lem="bien">bien</w> 
+ <w id="w3.1.40" pos="DET:ART" lem="le">la</w> 
+ <w id="w3.1.41" pos="NOM" lem="peine">peine</w> 
+ <w id="w3.1.42" pos="PRP" lem="de">de</w> 
+ <w id="w3.1.43" pos="PRO:PER" lem="se">se</w> 
+ <w id="w3.1.44" pos="VER:infi" lem="lever">lever</w> 
+ <w id="w3.1.45" pos="KON" lem="et">et</w> 
+ <w id="w3.1.46" pos="PRP" lem="de">de</w> 
+ <w id="w3.1.47" pos="VER:infi" lem="cueillir">cueillir</w> 
+ <w id="w3.1.48" pos="DET:ART" lem="le">les</w> 
+ <w id="w3.1.49" pos="NOM" lem="fleur">fleurs</w>
+ <w id="w3.1.50" pos="PUN" lem=",">,</w> 
+ <w id="w3.1.51" pos="KON" lem="quand">quand</w> 
+ <w id="w3.1.52" pos="ADV" lem="tout">tout</w> 
+ <w id="w3.1.53" pos="PRP" lem="à">à</w> 
+ <w id="w3.1.54" pos="NOM" lem="coup">coup</w> 
+ <w id="w3.1.55" pos="DET:ART" lem="un">un</w> 
+ <w id="w3.1.56" pos="NOM" lem="lapin">lapin</w> 
+ <w id="w3.1.57" pos="ADJ" lem="blanc">blanc</w> 
+ <w id="w3.1.58" pos="PRP:det" lem="au">aux</w> 
+ <w id="w3.1.59" pos="NOM" lem="œil">yeux</w> 
+ <w id="w3.1.60" pos="ADJ" lem="rose">roses</w> 
+ <w id="w3.1.61" pos="VER:simp" lem="passer">passa</w> 
+ <w id="w3.1.62" pos="ADV" lem="près">près</w> 
+ <w id="w3.1.63" pos="PRP" lem="de">d'</w>
+ <w id="w3.1.64" pos="PRO:PER" lem="elle">elle</w>
+ <w id="w3.1.65" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="4">
+<s id="s4.1">
+ <w id="w4.1.1" pos="PRO:PER" lem="il">Il</w> 
+ <w id="w4.1.2" pos="ADV" lem="ne">n'</w>
+ <w id="w4.1.3" pos="PRO:PER" lem="y">y</w> 
+ <w id="w4.1.4" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w4.1.5" pos="ADV" lem="rien">rien</w> 
+ <w id="w4.1.6" pos="ADV" lem="là">là</w> 
+ <w id="w4.1.7" pos="PRP" lem="de">de</w> 
+ <w id="w4.1.8" pos="ADV" lem="bien">bien</w> 
+ <w id="w4.1.9" pos="ADJ" lem="étonnant">étonnant</w>
+ <w id="w4.1.10" pos="PUN" lem=",">,</w> 
+ <w id="w4.1.11" pos="KON" lem="et">et</w> 
+ <w id="w4.1.12" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w4.1.13" pos="ADV" lem="ne">ne</w> 
+ <w id="w4.1.14" pos="VER:simp" lem="trouver">trouva</w> 
+ <w id="w4.1.15" pos="ADV" lem="même">même</w> 
+ <w id="w4.1.16" pos="ADV" lem="pas">pas</w> 
+ <w id="w4.1.17" pos="NOM" lem="très-extraordinaire">très-extraordinaire</w> 
+ <w id="w4.1.18" pos="PRP" lem="de">d'</w>
+ <w id="w4.1.19" pos="VER:infi" lem="entendre">entendre</w> 
+ <w id="w4.1.20" pos="VER:infi" lem="parler">parler</w> 
+ <w id="w4.1.21" pos="DET:ART" lem="le">le</w> 
+ <w id="w4.1.22" pos="NAM" lem="Lapin">Lapin</w> 
+ <w id="w4.1.23" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w4.1.24" pos="PRO:PER" lem="se">se</w> 
+ <w id="w4.1.25" pos="VER:impf" lem="dire">disait</w>
+ <w id="w4.1.26" pos="PUN" lem=":">:</w> 
+ <w id="w4.1.27" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w4.1.28" pos="INT" lem="ah">Ah</w>
+ <w id="w4.1.29" pos="SENT" lem="!">!</w> 
+ <w id="w4.1.30" pos="PRO:PER" lem="je">j'</w>
+ <w id="w4.1.31" pos="VER:futu" lem="arriver">arriverai</w> 
+ <w id="w4.1.32" pos="ADV" lem="trop">trop</w> 
+ <w id="w4.1.33" pos="ADV" lem="tard">tard</w>
+ <w id="w4.1.34" pos="SENT" lem="!">!</w>
+ <w id="w4.1.35" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s4.2">
+ <w id="w4.2.1" pos="PUN" lem="(">(</w>
+ <w id="w4.2.2" pos="PRP" lem="en">En</w> 
+ <w id="w4.2.3" pos="PRO:PER" lem="y">y</w> 
+ <w id="w4.2.4" pos="VER:ppre" lem="songer">songeant</w> 
+ <w id="w4.2.5" pos="ADV" lem="après">après</w>
+ <w id="w4.2.6" pos="PUN" lem=",">,</w> 
+ <w id="w4.2.7" pos="PRO:PER" lem="il">il</w> 
+ <w id="w4.2.8" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w4.2.9" pos="VER:simp" lem="sembler">sembla</w> 
+ <w id="w4.2.10" pos="ADV" lem="bien">bien</w> 
+ <w id="w4.2.11" pos="KON" lem="que">qu'</w>
+ <w id="w4.2.12" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w4.2.13" pos="VER:cond" lem="avoir">aurait</w> 
+ <w id="w4.2.14" pos="VER:pper" lem="devoir">dû</w> 
+ <w id="w4.2.15" pos="PRO:PER" lem="se">s'</w>
+ <w id="w4.2.16" pos="PRO:PER" lem="en">en</w> 
+ <w id="w4.2.17" pos="VER:infi" lem="étonner">étonner</w>
+ <w id="w4.2.18" pos="PUN" lem=",">,</w> 
+ <w id="w4.2.19" pos="KON" lem="mais">mais</w> 
+ <w id="w4.2.20" pos="PRP" lem="sur">sur</w> 
+ <w id="w4.2.21" pos="DET:ART" lem="le">le</w> 
+ <w id="w4.2.22" pos="NOM" lem="moment">moment</w> 
+ <w id="w4.2.23" pos="VER:simp" lem="celer">cela</w> 
+ <w id="w4.2.24" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w4.2.25" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w4.2.26" pos="VER:pper" lem="paraître">paru</w> 
+ <w id="w4.2.27" pos="ADV" lem="tout">tout</w> 
+ <w id="w4.2.28" pos="ADJ" lem="naturel">naturel</w>
+ <w id="w4.2.29" pos="SENT" lem=".">.</w>
+ <w id="w4.2.30" pos="PUN" lem=")">)</w>
+</s> 
+ 
+<s id="s4.3">
+ <w id="w4.3.1" pos="ADV" lem="cependant">Cependant</w>
+ <w id="w4.3.2" pos="PUN" lem=",">,</w> 
+ <w id="w4.3.3" pos="KON" lem="quand">quand</w> 
+ <w id="w4.3.4" pos="DET:ART" lem="le">le</w> 
+ <w id="w4.3.5" pos="NAM" lem="Lapin">Lapin</w> 
+ <w id="w4.3.6" pos="VER:simp" lem="venir">vint</w> 
+ <w id="w4.3.7" pos="PRP" lem="à">à</w> 
+ <w id="w4.3.8" pos="VER:infi" lem="tirer">tirer</w> 
+ <w id="w4.3.9" pos="DET:ART" lem="un">une</w> 
+ <w id="w4.3.10" pos="NOM" lem="montre">montre</w> 
+ <w id="w4.3.11" pos="PRP" lem="de">de</w> 
+ <w id="w4.3.12" pos="DET:POS" lem="son">son</w> 
+ <w id="w4.3.13" pos="NOM" lem="gousset">gousset</w>
+ <w id="w4.3.14" pos="PUN" lem=",">,</w> 
+ <w id="w4.3.15" pos="PRO:PER" lem="la">la</w> 
+ <w id="w4.3.16" pos="VER:simp" lem="regarder">regarda</w>
+ <w id="w4.3.17" pos="PUN" lem=",">,</w> 
+ <w id="w4.3.18" pos="ADV" lem="puis">puis</w> 
+ <w id="w4.3.19" pos="PRO:PER" lem="se">se</w> 
+ <w id="w4.3.20" pos="VER:simp" lem="prendre">prit</w> 
+ <w id="w4.3.21" pos="PRP" lem="à">à</w> 
+ <w id="w4.3.22" pos="VER:infi" lem="courir">courir</w> 
+ <w id="w4.3.23" pos="PRP" lem="de">de</w> 
+ <w id="w4.3.24" pos="ADV" lem="plus">plus</w> 
+ <w id="w4.3.25" pos="ADJ" lem="beau">belle</w>
+ <w id="w4.3.26" pos="PUN" lem=",">,</w> 
+ <w id="w4.3.27" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w4.3.28" pos="VER:simp" lem="sauter">sauta</w> 
+ <w id="w4.3.29" pos="PRP" lem="sur">sur</w> 
+ <w id="w4.3.30" pos="DET:POS" lem="son">ses</w> 
+ <w id="w4.3.31" pos="NOM" lem="pied">pieds</w>
+ <w id="w4.3.32" pos="PUN" lem=",">,</w> 
+ <w id="w4.3.33" pos="VER:pper" lem="frapper">frappée</w> 
+ <w id="w4.3.34" pos="PRP" lem="de">de</w> 
+ <w id="w4.3.35" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w4.3.36" pos="NOM" lem="idée">idée</w> 
+ <w id="w4.3.37" pos="PRO:REL" lem="que">que</w> 
+ <w id="w4.3.38" pos="ADV" lem="jamais">jamais</w> 
+ <w id="w4.3.39" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w4.3.40" pos="ADV" lem="ne">n'</w>
+ <w id="w4.3.41" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w4.3.42" pos="VER:pper" lem="voir">vu</w> 
+ <w id="w4.3.43" pos="PRP" lem="de">de</w> 
+ <w id="w4.3.44" pos="NOM" lem="lapin">lapin</w> 
+ <w id="w4.3.45" pos="PRP" lem="avec">avec</w> 
+ <w id="w4.3.46" pos="DET:ART" lem="un">un</w> 
+ <w id="w4.3.47" pos="NOM" lem="gousset">gousset</w> 
+ <w id="w4.3.48" pos="KON" lem="et">et</w> 
+ <w id="w4.3.49" pos="DET:ART" lem="un">une</w> 
+ <w id="w4.3.50" pos="NOM" lem="montre">montre</w>
+ <w id="w4.3.51" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s4.4">
+ <w id="w4.4.1" pos="VER:pper" lem="entraîner">Entraînée</w> 
+ <w id="w4.4.2" pos="PRP" lem="par">par</w> 
+ <w id="w4.4.3" pos="DET:ART" lem="le">la</w> 
+ <w id="w4.4.4" pos="NOM" lem="curiosité">curiosité</w> 
+ <w id="w4.4.5" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w4.4.6" pos="PRO:PER" lem="se">s'</w>
+ <w id="w4.4.7" pos="VER:simp" lem="élancer">élança</w> 
+ <w id="w4.4.8" pos="PRP" lem="sur">sur</w> 
+ <w id="w4.4.9" pos="DET:POS" lem="son">ses</w> 
+ <w id="w4.4.10" pos="NOM" lem="trace">traces</w> 
+ <w id="w4.4.11" pos="PRP" lem="à">à</w> 
+ <w id="w4.4.12" pos="NOM" lem="travers">travers</w> 
+ <w id="w4.4.13" pos="DET:ART" lem="le">le</w> 
+ <w id="w4.4.14" pos="NOM" lem="champ">champ</w>
+ <w id="w4.4.15" pos="PUN" lem=",">,</w> 
+ <w id="w4.4.16" pos="KON" lem="et">et</w> 
+ <w id="w4.4.17" pos="VER:simp" lem="arriver">arriva</w> 
+ <w id="w4.4.18" pos="ADV" lem="tout">tout</w> 
+ <w id="w4.4.19" pos="ADJ" lem="juste">juste</w> 
+ <w id="w4.4.20" pos="PRP" lem="à">à</w> 
+ <w id="w4.4.21" pos="NOM" lem="temps">temps</w> 
+ <w id="w4.4.22" pos="PRP" lem="pour">pour</w> 
+ <w id="w4.4.23" pos="PRO:PER" lem="le">le</w> 
+ <w id="w4.4.24" pos="VER:infi" lem="voir">voir</w> 
+ <w id="w4.4.25" pos="VER:infi" lem="disparaître">disparaître</w> 
+ <w id="w4.4.26" pos="PRP" lem="dans">dans</w> 
+ <w id="w4.4.27" pos="DET:ART" lem="un">un</w> 
+ <w id="w4.4.28" pos="ADJ" lem="large">large</w> 
+ <w id="w4.4.29" pos="NOM" lem="trou">trou</w> 
+ <w id="w4.4.30" pos="PRP:det" lem="au">au</w> 
+ <w id="w4.4.31" pos="NOM" lem="pied">pied</w> 
+ <w id="w4.4.32" pos="PRP" lem="de">d'</w>
+ <w id="w4.4.33" pos="DET:ART" lem="un">une</w> 
+ <w id="w4.4.34" pos="NOM" lem="haie">haie</w>
+ <w id="w4.4.35" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="5">
+<s id="s5.1">
+ <w id="w5.1.1" pos="DET:ART" lem="un">Un</w> 
+ <w id="w5.1.2" pos="NOM" lem="instant">instant</w> 
+ <w id="w5.1.3" pos="KON" lem="après">après</w>
+ <w id="w5.1.4" pos="PUN" lem=",">,</w> 
+ <w id="w5.1.5" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w5.1.6" pos="VER:impf" lem="être">était</w> 
+ <w id="w5.1.7" pos="PRP" lem="à">à</w> 
+ <w id="w5.1.8" pos="DET:ART" lem="le">la</w> 
+ <w id="w5.1.9" pos="NOM" lem="poursuite">poursuite</w> 
+ <w id="w5.1.10" pos="PRP:det" lem="du">du</w> 
+ <w id="w5.1.11" pos="NAM" lem="Lapin">Lapin</w> 
+ <w id="w5.1.12" pos="PRP" lem="dans">dans</w> 
+ <w id="w5.1.13" pos="DET:ART" lem="le">le</w> 
+ <w id="w5.1.14" pos="NOM" lem="terrier">terrier</w>
+ <w id="w5.1.15" pos="PUN" lem=",">,</w> 
+ <w id="w5.1.16" pos="PRP" lem="sans">sans</w> 
+ <w id="w5.1.17" pos="VER:infi" lem="songer">songer</w> 
+ <w id="w5.1.18" pos="ADV" lem="comment">comment</w> 
+ <w id="w5.1.19" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w5.1.20" pos="PRO:PER" lem="en">en</w> 
+ <w id="w5.1.21" pos="VER:cond" lem="sortir">sortirait</w>
+ <w id="w5.1.22" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="6">
+<s id="s6.1">
+ <w id="w6.1.1" pos="PRP" lem="pendant">Pendant</w> 
+ <w id="w6.1.2" pos="DET:ART" lem="un">un</w> 
+ <w id="w6.1.3" pos="NOM" lem="bout">bout</w> 
+ <w id="w6.1.4" pos="PRP" lem="de">de</w> 
+ <w id="w6.1.5" pos="NOM" lem="chemin">chemin</w> 
+ <w id="w6.1.6" pos="DET:ART" lem="le">le</w> 
+ <w id="w6.1.7" pos="NOM" lem="trou">trou</w> 
+ <w id="w6.1.8" pos="VER:impf" lem="aller">allait</w> 
+ <w id="w6.1.9" pos="PRO:IND" lem="tout">tout</w> 
+ <w id="w6.1.10" pos="NOM" lem="droit">droit</w> 
+ <w id="w6.1.11" pos="KON" lem="comme">comme</w> 
+ <w id="w6.1.12" pos="DET:ART" lem="un">un</w> 
+ <w id="w6.1.13" pos="NOM" lem="tunnel">tunnel</w>
+ <w id="w6.1.14" pos="PUN" lem=",">,</w> 
+ <w id="w6.1.15" pos="ADV" lem="puis">puis</w> 
+ <w id="w6.1.16" pos="ADV" lem="tout">tout</w> 
+ <w id="w6.1.17" pos="PRP" lem="à">à</w> 
+ <w id="w6.1.18" pos="NOM" lem="coup">coup</w> 
+ <w id="w6.1.19" pos="PRO:PER" lem="il">il</w> 
+ <w id="w6.1.20" pos="VER:impf" lem="plonger">plongeait</w> 
+ <w id="w6.1.21" pos="ADV" lem="perpendiculairement">perpendiculairement</w> 
+ <w id="w6.1.22" pos="PRP" lem="de">d'</w>
+ <w id="w6.1.23" pos="DET:ART" lem="un">une</w> 
+ <w id="w6.1.24" pos="NOM" lem="façon">façon</w> 
+ <w id="w6.1.25" pos="ADV" lem="si">si</w> 
+ <w id="w6.1.26" pos="ADJ" lem="brusque">brusque</w> 
+ <w id="w6.1.27" pos="KON" lem="que">qu'</w>
+ <w id="w6.1.28" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w6.1.29" pos="PRO:PER" lem="se">se</w> 
+ <w id="w6.1.30" pos="VER:simp" lem="sentir">sentit</w> 
+ <w id="w6.1.31" pos="VER:infi" lem="tomber">tomber</w> 
+ <w id="w6.1.32" pos="ADV" lem="comme">comme</w> 
+ <w id="w6.1.33" pos="PRP" lem="dans">dans</w> 
+ <w id="w6.1.34" pos="DET:ART" lem="un">un</w> 
+ <w id="w6.1.35" pos="NOM" lem="puits">puits</w> 
+ <w id="w6.1.36" pos="PRP" lem="de">d'</w>
+ <w id="w6.1.37" pos="DET:ART" lem="un">une</w> 
+ <w id="w6.1.38" pos="ADJ" lem="grand">grande</w> 
+ <w id="w6.1.39" pos="NOM" lem="profondeur">profondeur</w>
+ <w id="w6.1.40" pos="PUN" lem=",">,</w> 
+ <w id="w6.1.41" pos="PRP" lem="avant">avant</w> 
+ <w id="w6.1.42" pos="ADV" lem="même">même</w> 
+ <w id="w6.1.43" pos="PRP" lem="de">d'</w>
+ <w id="w6.1.44" pos="VER:infi" lem="avoir">avoir</w> 
+ <w id="w6.1.45" pos="VER:pper" lem="penser">pensé</w> 
+ <w id="w6.1.46" pos="PRP" lem="à">à</w> 
+ <w id="w6.1.47" pos="PRO:PER" lem="se">se</w> 
+ <w id="w6.1.48" pos="VER:infi" lem="retenir">retenir</w>
+ <w id="w6.1.49" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="7">
+<s id="s7.1">
+ <w id="w7.1.1" pos="PRP" lem="de">De</w> 
+ <w id="w7.1.2" pos="NUM" lem="deux">deux</w> 
+ <w id="w7.1.3" pos="NOM" lem="chose">choses</w> 
+ <w id="w7.1.4" pos="DET:ART" lem="le">l'</w>
+ <w id="w7.1.5" pos="NUM" lem="un">une</w>
+ <w id="w7.1.6" pos="PUN" lem=",">,</w> 
+ <w id="w7.1.7" pos="KON" lem="ou">ou</w> 
+ <w id="w7.1.8" pos="DET:ART" lem="le">le</w> 
+ <w id="w7.1.9" pos="NOM" lem="puits">puits</w> 
+ <w id="w7.1.10" pos="VER:impf" lem="être">était</w> 
+ <w id="w7.1.11" pos="ADV" lem="vraiment">vraiment</w> 
+ <w id="w7.1.12" pos="ADV" lem="bien">bien</w> 
+ <w id="w7.1.13" pos="ADJ" lem="profond">profond</w>
+ <w id="w7.1.14" pos="PUN" lem=",">,</w> 
+ <w id="w7.1.15" pos="KON" lem="ou">ou</w> 
+ <w id="w7.1.16" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.1.17" pos="VER:impf" lem="tomber">tombait</w> 
+ <w id="w7.1.18" pos="ADV" lem="bien">bien</w> 
+ <w id="w7.1.19" pos="ADV" lem="doucement">doucement</w>
+ <w id="w7.1.20" pos="PUN" lem=";">;</w> 
+ <w id="w7.1.21" pos="KON" lem="car">car</w> 
+ <w id="w7.1.22" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.1.23" pos="VER:simp" lem="avoir">eut</w> 
+ <w id="w7.1.24" pos="ADV" lem="tout">tout</w> 
+ <w id="w7.1.25" pos="DET:ART" lem="le">le</w> 
+ <w id="w7.1.26" pos="NOM" lem="loisir">loisir</w>
+ <w id="w7.1.27" pos="PUN" lem=",">,</w> 
+ <w id="w7.1.28" pos="PRP" lem="dans">dans</w> 
+ <w id="w7.1.29" pos="DET:POS" lem="son">sa</w> 
+ <w id="w7.1.30" pos="NOM" lem="chute">chute</w>
+ <w id="w7.1.31" pos="PUN" lem=",">,</w> 
+ <w id="w7.1.32" pos="PRP" lem="de">de</w> 
+ <w id="w7.1.33" pos="VER:infi" lem="regarder">regarder</w> 
+ <w id="w7.1.34" pos="ADV" lem="autour">autour</w> 
+ <w id="w7.1.35" pos="PRP" lem="de">d'</w>
+ <w id="w7.1.36" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.1.37" pos="KON" lem="et">et</w> 
+ <w id="w7.1.38" pos="PRP" lem="de">de</w> 
+ <w id="w7.1.39" pos="PRO:PER" lem="se">se</w> 
+ <w id="w7.1.40" pos="VER:infi" lem="demander">demander</w> 
+ <w id="w7.1.41" pos="PRP" lem="avec">avec</w> 
+ <w id="w7.1.42" pos="NOM" lem="étonnement">étonnement</w> 
+ <w id="w7.1.43" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w7.1.44" pos="PRO:REL" lem="que">qu'</w>
+ <w id="w7.1.45" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.1.46" pos="VER:impf" lem="aller">allait</w> 
+ <w id="w7.1.47" pos="VER:infi" lem="devenir">devenir</w>
+ <w id="w7.1.48" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s7.2">
+ <w id="w7.2.1" pos="PRP" lem="de">D'</w>
+ <w id="w7.2.2" pos="NOM" lem="abord">abord</w> 
+ <w id="w7.2.3" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.2.4" pos="VER:simp" lem="regarder">regarda</w> 
+ <w id="w7.2.5" pos="PRP" lem="dans">dans</w> 
+ <w id="w7.2.6" pos="DET:ART" lem="le">le</w> 
+ <w id="w7.2.7" pos="NOM" lem="fond">fond</w> 
+ <w id="w7.2.8" pos="PRP:det" lem="du">du</w> 
+ <w id="w7.2.9" pos="NOM" lem="trou">trou</w> 
+ <w id="w7.2.10" pos="PRP" lem="pour">pour</w> 
+ <w id="w7.2.11" pos="NOM" lem="savoir">savoir</w> 
+ <w id="w7.2.12" pos="PRO:REL" lem="où">où</w> 
+ <w id="w7.2.13" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.2.14" pos="VER:impf" lem="aller">allait</w>
+ <w id="w7.2.15" pos="PUN" lem=";">;</w> 
+ <w id="w7.2.16" pos="KON" lem="mais">mais</w> 
+ <w id="w7.2.17" pos="PRO:PER" lem="il">il</w> 
+ <w id="w7.2.18" pos="PRO:PER" lem="y">y</w> 
+ <w id="w7.2.19" pos="VER:impf" lem="faire">faisait</w> 
+ <w id="w7.2.20" pos="ADV" lem="bien">bien</w> 
+ <w id="w7.2.21" pos="ADV" lem="trop">trop</w> 
+ <w id="w7.2.22" pos="ADJ" lem="sombre">sombre</w> 
+ <w id="w7.2.23" pos="KON" lem="pour">pour</w> 
+ <w id="w7.2.24" pos="PRO:PER" lem="y">y</w> 
+ <w id="w7.2.25" pos="ADV" lem="rien">rien</w> 
+ <w id="w7.2.26" pos="VER:infi" lem="voir">voir</w>
+ <w id="w7.2.27" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s7.3">
+ <w id="w7.3.1" pos="ADV" lem="ensuite">Ensuite</w> 
+ <w id="w7.3.2" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.3.3" pos="VER:simp" lem="porter">porta</w> 
+ <w id="w7.3.4" pos="DET:ART" lem="le">les</w> 
+ <w id="w7.3.5" pos="NOM" lem="œil">yeux</w> 
+ <w id="w7.3.6" pos="PRP" lem="sur">sur</w> 
+ <w id="w7.3.7" pos="DET:ART" lem="le">les</w> 
+ <w id="w7.3.8" pos="NOM" lem="paroi">parois</w> 
+ <w id="w7.3.9" pos="PRP:det" lem="du">du</w> 
+ <w id="w7.3.10" pos="NOM" lem="puits">puits</w>
+ <w id="w7.3.11" pos="PUN" lem=",">,</w> 
+ <w id="w7.3.12" pos="KON" lem="et">et</w> 
+ <w id="w7.3.13" pos="PRO:PER" lem="se">s'</w>
+ <w id="w7.3.14" pos="VER:simp" lem="apercevoir">aperçut</w> 
+ <w id="w7.3.15" pos="KON" lem="que">qu'</w>
+ <w id="w7.3.16" pos="PRO:PER" lem="elle">elles</w> 
+ <w id="w7.3.17" pos="VER:impf" lem="être">étaient</w> 
+ <w id="w7.3.18" pos="VER:pper" lem="garnir">garnies</w> 
+ <w id="w7.3.19" pos="PRP" lem="de">d'</w>
+ <w id="w7.3.20" pos="NOM" lem="armoire">armoires</w> 
+ <w id="w7.3.21" pos="KON" lem="et">et</w> 
+ <w id="w7.3.22" pos="PRP" lem="de">d'</w>
+ <w id="w7.3.23" pos="NOM" lem="étagère">étagères</w>
+ <w id="w7.3.24" pos="PUN" lem=";">;</w> 
+ <w id="w7.3.25" pos="ADV" lem="çà">çà</w> 
+ <w id="w7.3.26" pos="KON" lem="et">et</w> 
+ <w id="w7.3.27" pos="ADV" lem="là">là</w>
+ <w id="w7.3.28" pos="PUN" lem=",">,</w> 
+ <w id="w7.3.29" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.3.30" pos="VER:pres" lem="vivre">vit</w> 
+ <w id="w7.3.31" pos="VER:pper" lem="pendre">pendues</w> 
+ <w id="w7.3.32" pos="PRP" lem="à">à</w> 
+ <w id="w7.3.33" pos="PRP:det" lem="du">des</w> 
+ <w id="w7.3.34" pos="NOM" lem="clou">clous</w> 
+ <w id="w7.3.35" pos="PRP:det" lem="du">des</w> 
+ <w id="w7.3.36" pos="NOM" lem="carte">cartes</w> 
+ <w id="w7.3.37" pos="ADJ" lem="géographique">géographiques</w> 
+ <w id="w7.3.38" pos="KON" lem="et">et</w> 
+ <w id="w7.3.39" pos="PRP:det" lem="du">des</w> 
+ <w id="w7.3.40" pos="NOM" lem="image">images</w>
+ <w id="w7.3.41" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s7.4">
+ <w id="w7.4.1" pos="PRP" lem="en">En</w> 
+ <w id="w7.4.2" pos="VER:ppre" lem="passer">passant</w> 
+ <w id="w7.4.3" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.4.4" pos="VER:simp" lem="prendre">prit</w> 
+ <w id="w7.4.5" pos="PRP" lem="sur">sur</w> 
+ <w id="w7.4.6" pos="DET:ART" lem="un">un</w> 
+ <w id="w7.4.7" pos="NOM" lem="rayon">rayon</w> 
+ <w id="w7.4.8" pos="DET:ART" lem="un">un</w> 
+ <w id="w7.4.9" pos="NOM" lem="pot">pot</w> 
+ <w id="w7.4.10" pos="PRP" lem="de">de</w> 
+ <w id="w7.4.11" pos="NOM" lem="confiture">confiture</w> 
+ <w id="w7.4.12" pos="VER:ppre" lem="porter">portant</w> 
+ <w id="w7.4.13" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w7.4.14" pos="NOM" lem="étiquette">étiquette</w>
+ <w id="w7.4.15" pos="PUN" lem=",">,</w> 
+ <w id="w7.4.16" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w7.4.17" pos="NAM" lem="MARMELADE">MARMELADE</w> 
+ <w id="w7.4.18" pos="NAM" lem="D'">D'</w>
+ <w id="w7.4.19" pos="NAM" lem="ORANGES">ORANGES</w>
+ <w id="w7.4.20" pos="SENT" lem=".">.</w>
+ <w id="w7.4.21" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s7.5">
+ <w id="w7.5.1" pos="KON" lem="mais">Mais</w>
+ <w id="w7.5.2" pos="PUN" lem=",">,</w> 
+ <w id="w7.5.3" pos="PRP" lem="à">à</w> 
+ <w id="w7.5.4" pos="DET:POS" lem="son">son</w> 
+ <w id="w7.5.5" pos="ADJ" lem="grand">grand</w> 
+ <w id="w7.5.6" pos="NOM" lem="regret">regret</w>
+ <w id="w7.5.7" pos="PUN" lem=",">,</w> 
+ <w id="w7.5.8" pos="DET:ART" lem="le">le</w> 
+ <w id="w7.5.9" pos="NOM" lem="pot">pot</w> 
+ <w id="w7.5.10" pos="VER:impf" lem="être">était</w> 
+ <w id="w7.5.11" pos="ADJ" lem="vide">vide</w>
+ <w id="w7.5.12" pos="PUN" lem=":">:</w> 
+ <w id="w7.5.13" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w7.5.14" pos="ADV" lem="ne">n'</w>
+ <w id="w7.5.15" pos="VER:impf" lem="oser">osait</w> 
+ <w id="w7.5.16" pos="PRO:PER" lem="le">le</w> 
+ <w id="w7.5.17" pos="VER:infi" lem="laisser">laisser</w> 
+ <w id="w7.5.18" pos="VER:infi" lem="tomber">tomber</w> 
+ <w id="w7.5.19" pos="PRP" lem="dans">dans</w> 
+ <w id="w7.5.20" pos="DET:ART" lem="le">la</w> 
+ <w id="w7.5.21" pos="NOM" lem="crainte">crainte</w> 
+ <w id="w7.5.22" pos="PRP" lem="de">de</w> 
+ <w id="w7.5.23" pos="VER:infi" lem="tuer">tuer</w> 
+ <w id="w7.5.24" pos="PRO:IND" lem="quelque">quelqu'</w>
+ <w id="w7.5.25" pos="NOM" lem="un">un</w>
+ <w id="w7.5.26" pos="PUN" lem=";">;</w> 
+ <w id="w7.5.27" pos="ADV" lem="aussi">aussi</w> 
+ <w id="w7.5.28" pos="PRO:PER" lem="se">s'</w>
+ <w id="w7.5.29" pos="VER:subp" lem="arrangea-t-elle">arrangea-t-elle</w> 
+ <w id="w7.5.30" pos="PRP" lem="de">de</w> 
+ <w id="w7.5.31" pos="NOM" lem="manière">manière</w> 
+ <w id="w7.5.32" pos="PRP" lem="à">à</w> 
+ <w id="w7.5.33" pos="PRO:PER" lem="le">le</w> 
+ <w id="w7.5.34" pos="VER:infi" lem="déposer">déposer</w> 
+ <w id="w7.5.35" pos="PRP" lem="en">en</w> 
+ <w id="w7.5.36" pos="VER:ppre" lem="passer">passant</w> 
+ <w id="w7.5.37" pos="PRP" lem="dans">dans</w> 
+ <w id="w7.5.38" pos="NUM" lem="un">une</w> 
+ <w id="w7.5.39" pos="PRP:det" lem="du">des</w> 
+ <w id="w7.5.40" pos="NOM" lem="armoire">armoires</w>
+ <w id="w7.5.41" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="8">
+<s id="s8.1">
+ <w id="w8.1.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w8.1.2" pos="ADV" lem="certes">Certes</w>
+ <w id="w8.1.3" pos="PUN" lem=",">,</w>
+ <w id="w8.1.4" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w8.1.5" pos="VER:pres" lem="dire">dit</w> 
+ <w id="w8.1.6" pos="NAM" lem="Alice">Alice</w>
+ <w id="w8.1.7" pos="PUN" lem=",">,</w> 
+ <w id="w8.1.8" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w8.1.9" pos="PRP" lem="après">après</w> 
+ <w id="w8.1.10" pos="DET:ART" lem="un">une</w> 
+ <w id="w8.1.11" pos="NOM" lem="chute">chute</w> 
+ <w id="w8.1.12" pos="ADJ" lem="pareil">pareille</w> 
+ <w id="w8.1.13" pos="PRO:PER" lem="je">je</w> 
+ <w id="w8.1.14" pos="ADV" lem="ne">ne</w> 
+ <w id="w8.1.15" pos="PRO:PER" lem="me">me</w> 
+ <w id="w8.1.16" pos="VER:futu" lem="moquer">moquerai</w> 
+ <w id="w8.1.17" pos="ADV" lem="pas">pas</w> 
+ <w id="w8.1.18" pos="ADV" lem="mal">mal</w> 
+ <w id="w8.1.19" pos="PRP" lem="de">de</w> 
+ <w id="w8.1.20" pos="VER:infi" lem="dégringoler">dégringoler</w> 
+ <w id="w8.1.21" pos="DET:ART" lem="le">l'</w>
+ <w id="w8.1.22" pos="NOM" lem="escalier">escalier</w>
+ <w id="w8.1.23" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s8.2">
+ <w id="w8.2.1" pos="KON" lem="comme">Comme</w> 
+ <w id="w8.2.2" pos="PRO:PER" lem="il">ils</w> 
+ <w id="w8.2.3" pos="VER:pres" lem="aller">vont</w> 
+ <w id="w8.2.4" pos="PRO:PER" lem="me">me</w> 
+ <w id="w8.2.5" pos="VER:infi" lem="trouver">trouver</w> 
+ <w id="w8.2.6" pos="ADJ" lem="brave">brave</w> 
+ <w id="w8.2.7" pos="PRP" lem="chez">chez</w> 
+ <w id="w8.2.8" pos="PRO:PER" lem="nous">nous</w>
+ <w id="w8.2.9" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s8.3">
+ <w id="w8.3.1" pos="PRO:PER" lem="je">Je</w> 
+ <w id="w8.3.2" pos="VER:cond" lem="tomber">tomberais</w> 
+ <w id="w8.3.3" pos="PRP:det" lem="du">du</w> 
+ <w id="w8.3.4" pos="NOM" lem="haut">haut</w> 
+ <w id="w8.3.5" pos="PRP:det" lem="du">des</w> 
+ <w id="w8.3.6" pos="NOM" lem="toit">toits</w> 
+ <w id="w8.3.7" pos="KON" lem="que">que</w> 
+ <w id="w8.3.8" pos="PRO:PER" lem="je">je</w> 
+ <w id="w8.3.9" pos="ADV" lem="ne">ne</w> 
+ <w id="w8.3.10" pos="VER:cond" lem="faire">ferais</w> 
+ <w id="w8.3.11" pos="ADV" lem="pas">pas</w> 
+ <w id="w8.3.12" pos="VER:infi" lem="entendre">entendre</w> 
+ <w id="w8.3.13" pos="DET:ART" lem="un">une</w> 
+ <w id="w8.3.14" pos="NOM" lem="plainte">plainte</w>
+ <w id="w8.3.15" pos="SENT" lem=".">.</w>
+ <w id="w8.3.16" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s8.4">
+ <w id="w8.4.1" pos="PUN" lem="(">(</w>
+ <w id="w8.4.2" pos="PRO:DEM" lem="ce">Ce</w> 
+ <w id="w8.4.3" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w8.4.4" pos="VER:impf" lem="être">était</w> 
+ <w id="w8.4.5" pos="ADV" lem="bien">bien</w> 
+ <w id="w8.4.6" pos="ADJ" lem="probable">probable</w>
+ <w id="w8.4.7" pos="SENT" lem=".">.</w>
+ <w id="w8.4.8" pos="PUN" lem=")">)</w>
+</s></p>
+
+<p id="9">
+<s id="s9.1">
+ <w id="w9.1.1" pos="NOM" lem="tombe">Tombe</w>
+ <w id="w9.1.2" pos="PUN" lem=",">,</w> 
+ <w id="w9.1.3" pos="NOM" lem="tombe">tombe</w>
+ <w id="w9.1.4" pos="PUN" lem=",">,</w> 
+ <w id="w9.1.5" pos="VER:pres" lem="tomber">tombe</w>
+ <w id="w9.1.6" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s9.2">
+ <w id="w9.2.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w9.2.2" pos="PRO:DEM" lem="ce">Cette</w> 
+ <w id="w9.2.3" pos="NOM" lem="chute">chute</w> 
+ <w id="w9.2.4" pos="ADV" lem="ne">n'</w>
+ <w id="w9.2.5" pos="PRO:PER" lem="en">en</w> 
+ <w id="w9.2.6" pos="VER:futu" lem="finir">finira</w> 
+ <w id="w9.2.7" pos="ADV" lem="donc">donc</w> 
+ <w id="w9.2.8" pos="ADV" lem="pas">pas</w>
+ <w id="w9.2.9" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s9.3">
+ <w id="w9.3.1" pos="PRO:PER" lem="je">Je</w> 
+ <w id="w9.3.2" pos="VER:pres" lem="suivre|être">suis</w> 
+ <w id="w9.3.3" pos="ADJ" lem="curieux">curieuse</w> 
+ <w id="w9.3.4" pos="PRP" lem="de">de</w> 
+ <w id="w9.3.5" pos="VER:infi" lem="savoir">savoir</w> 
+ <w id="w9.3.6" pos="ADV" lem="combien">combien</w> 
+ <w id="w9.3.7" pos="PRP" lem="de">de</w> 
+ <w id="w9.3.8" pos="NOM" lem="mille">milles</w> 
+ <w id="w9.3.9" pos="PRO:PER" lem="je">j'</w>
+ <w id="w9.3.10" pos="VER:pres" lem="avoir">ai</w> 
+ <w id="w9.3.11" pos="ADV" lem="déjà">déjà</w> 
+ <w id="w9.3.12" pos="VER:pper" lem="faire">faits</w>
+ <w id="w9.3.13" pos="PUN" lem=",">,</w>
+ <w id="w9.3.14" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w9.3.15" pos="NOM" lem="dit-elle">dit-elle</w> 
+ <w id="w9.3.16" pos="ADV" lem="tout">tout</w> 
+ <w id="w9.3.17" pos="ADJ" lem="haut">haut</w>
+ <w id="w9.3.18" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s9.4">
+ <w id="w9.4.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w9.4.2" pos="PRO:PER" lem="je">Je</w> 
+ <w id="w9.4.3" pos="VER:pres" lem="devoir">dois</w> 
+ <w id="w9.4.4" pos="VER:infi" lem="être">être</w> 
+ <w id="w9.4.5" pos="ADV" lem="bien">bien</w> 
+ <w id="w9.4.6" pos="ADV" lem="près">près</w> 
+ <w id="w9.4.7" pos="PRP:det" lem="du">du</w> 
+ <w id="w9.4.8" pos="NOM" lem="centre">centre</w> 
+ <w id="w9.4.9" pos="PRP" lem="de">de</w> 
+ <w id="w9.4.10" pos="DET:ART" lem="le">la</w> 
+ <w id="w9.4.11" pos="NOM" lem="terre">terre</w>
+ <w id="w9.4.12" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s9.5">
+ <w id="w9.5.1" pos="VER:pres" lem="voir">Voyons</w> 
+ <w id="w9.5.2" pos="ADV" lem="donc">donc</w>
+ <w id="w9.5.3" pos="PUN" lem=",">,</w> 
+ <w id="w9.5.4" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w9.5.5" pos="VER:cond" lem="être">serait</w> 
+ <w id="w9.5.6" pos="PRP" lem="à">à</w> 
+ <w id="w9.5.7" pos="NUM" lem="quatre">quatre</w> 
+ <w id="w9.5.8" pos="NUM" lem="mille">mille</w> 
+ <w id="w9.5.9" pos="NOM" lem="mille">milles</w> 
+ <w id="w9.5.10" pos="PRP" lem="de">de</w> 
+ <w id="w9.5.11" pos="NOM" lem="profondeur">profondeur</w>
+ <w id="w9.5.12" pos="PUN" lem=",">,</w> 
+ <w id="w9.5.13" pos="PRO:PER" lem="il">il</w> 
+ <w id="w9.5.14" pos="PRO:PER" lem="me">me</w> 
+ <w id="w9.5.15" pos="VER:pres" lem="sembler">semble</w>
+ <w id="w9.5.16" pos="SENT" lem=".">.</w>
+ <w id="w9.5.17" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s9.6">
+ <w id="w9.6.1" pos="PUN" lem="(">(</w>
+ <w id="w9.6.2" pos="KON" lem="comme">Comme</w> 
+ <w id="w9.6.3" pos="PRO:PER" lem="vous">vous</w> 
+ <w id="w9.6.4" pos="VER:pres" lem="voir">voyez</w>
+ <w id="w9.6.5" pos="PUN" lem=",">,</w> 
+ <w id="w9.6.6" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w9.6.7" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w9.6.8" pos="VER:pper" lem="apprendre">appris</w> 
+ <w id="w9.6.9" pos="ADV" lem="pas">pas</w> 
+ <w id="w9.6.10" pos="ADV" lem="mal">mal</w> 
+ <w id="w9.6.11" pos="PRP" lem="de">de</w> 
+ <w id="w9.6.12" pos="NOM" lem="chose">choses</w> 
+ <w id="w9.6.13" pos="PRP" lem="dans">dans</w> 
+ <w id="w9.6.14" pos="DET:POS" lem="son">ses</w> 
+ <w id="w9.6.15" pos="NOM" lem="leçon">leçons</w>
+ <w id="w9.6.16" pos="PUN" lem=";">;</w> 
+ <w id="w9.6.17" pos="KON" lem="et">et</w> 
+ <w id="w9.6.18" pos="ADV" lem="bien">bien</w> 
+ <w id="w9.6.19" pos="KON" lem="que">que</w> 
+ <w id="w9.6.20" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w9.6.21" pos="ADV" lem="ne">ne</w> 
+ <w id="w9.6.22" pos="VER:subi" lem="être">fût</w> 
+ <w id="w9.6.23" pos="ADV" lem="pas">pas</w> 
+ <w id="w9.6.24" pos="ADV" lem="là">là</w> 
+ <w id="w9.6.25" pos="DET:ART" lem="un">une</w> 
+ <w id="w9.6.26" pos="NOM" lem="très-bonne">très-bonne</w> 
+ <w id="w9.6.27" pos="NOM" lem="occasion">occasion</w> 
+ <w id="w9.6.28" pos="PRP" lem="de">de</w> 
+ <w id="w9.6.29" pos="VER:infi" lem="faire">faire</w> 
+ <w id="w9.6.30" pos="NOM" lem="parade">parade</w> 
+ <w id="w9.6.31" pos="PRP" lem="de">de</w> 
+ <w id="w9.6.32" pos="DET:POS" lem="son">son</w> 
+ <w id="w9.6.33" pos="NOM" lem="savoir">savoir</w>
+ <w id="w9.6.34" pos="PUN" lem=",">,</w> 
+ <w id="w9.6.35" pos="VER:pper" lem="voir">vu</w> 
+ <w id="w9.6.36" pos="KON" lem="que">qu'</w>
+ <w id="w9.6.37" pos="PRO:PER" lem="il">il</w> 
+ <w id="w9.6.38" pos="ADV" lem="ne">n'</w>
+ <w id="w9.6.39" pos="PRO:PER" lem="y">y</w> 
+ <w id="w9.6.40" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w9.6.41" pos="ADV" lem="point">point</w> 
+ <w id="w9.6.42" pos="PRP" lem="de">d'</w>
+ <w id="w9.6.43" pos="NOM" lem="auditeur">auditeur</w>
+ <w id="w9.6.44" pos="PUN" lem=",">,</w> 
+ <w id="w9.6.45" pos="ADV" lem="cependant">cependant</w> 
+ <w id="w9.6.46" pos="PRO:DEM" lem="ce">c'</w>
+ <w id="w9.6.47" pos="VER:impf" lem="être">était</w> 
+ <w id="w9.6.48" pos="DET:ART" lem="un">un</w> 
+ <w id="w9.6.49" pos="ADJ" lem="bon">bon</w> 
+ <w id="w9.6.50" pos="NOM" lem="exercice">exercice</w> 
+ <w id="w9.6.51" pos="KON" lem="que">que</w> 
+ <w id="w9.6.52" pos="PRP" lem="de">de</w> 
+ <w id="w9.6.53" pos="VER:infi" lem="répéter">répéter</w> 
+ <w id="w9.6.54" pos="DET:POS" lem="son">sa</w> 
+ <w id="w9.6.55" pos="NOM" lem="leçon">leçon</w>
+ <w id="w9.6.56" pos="SENT" lem=".">.</w>
+ <w id="w9.6.57" pos="PUN" lem=")">)</w>
+</s> 
+ 
+<s id="s9.7">
+ <w id="w9.7.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w9.7.2" pos="INT" lem="oui">Oui</w>
+ <w id="w9.7.3" pos="PUN" lem=",">,</w> 
+ <w id="w9.7.4" pos="PRO:DEM" lem="ce">c'</w>
+ <w id="w9.7.5" pos="VER:pres" lem="être">est</w> 
+ <w id="w9.7.6" pos="ADV" lem="bien">bien</w> 
+ <w id="w9.7.7" pos="PRP" lem="à">à</w> 
+ <w id="w9.7.8" pos="ADV" lem="peu">peu</w> 
+ <w id="w9.7.9" pos="ADV" lem="près">près</w> 
+ <w id="w9.7.10" pos="PRO:DEM" lem="cela">cela</w>
+ <w id="w9.7.11" pos="PUN" lem=";">;</w> 
+ <w id="w9.7.12" pos="KON" lem="mais">mais</w> 
+ <w id="w9.7.13" pos="ADV" lem="alors">alors</w> 
+ <w id="w9.7.14" pos="PRP" lem="à">à</w> 
+ <w id="w9.7.15" pos="PRO:REL" lem="quel">quel</w> 
+ <w id="w9.7.16" pos="NOM" lem="degré">degré</w> 
+ <w id="w9.7.17" pos="PRP" lem="de">de</w> 
+ <w id="w9.7.18" pos="NOM" lem="latitude">latitude</w> 
+ <w id="w9.7.19" pos="KON" lem="ou">ou</w> 
+ <w id="w9.7.20" pos="PRP" lem="de">de</w> 
+ <w id="w9.7.21" pos="NOM" lem="longitude">longitude</w> 
+ <w id="w9.7.22" pos="VER:pres" lem="être">est-ce</w> 
+ <w id="w9.7.23" pos="KON" lem="que">que</w> 
+ <w id="w9.7.24" pos="PRO:PER" lem="je">je</w> 
+ <w id="w9.7.25" pos="PRO:PER" lem="me">me</w> 
+ <w id="w9.7.26" pos="VER:pres" lem="trouver">trouve</w>
+ <w id="w9.7.27" pos="SENT" lem="?">?</w>
+ <w id="w9.7.28" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s9.8">
+ <w id="w9.8.1" pos="PUN" lem="(">(</w>
+ <w id="w9.8.2" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w9.8.3" pos="ADV" lem="ne">n'</w>
+ <w id="w9.8.4" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w9.8.5" pos="ADV" lem="pas">pas</w> 
+ <w id="w9.8.6" pos="DET:ART" lem="le">la</w> 
+ <w id="w9.8.7" pos="ADJ" lem="moindre">moindre</w> 
+ <w id="w9.8.8" pos="NOM" lem="idée">idée</w> 
+ <w id="w9.8.9" pos="PRP" lem="de">de</w> 
+ <w id="w9.8.10" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w9.8.11" pos="PRO:REL" lem="que">que</w> 
+ <w id="w9.8.12" pos="VER:impf" lem="vouloir">voulait</w> 
+ <w id="w9.8.13" pos="VER:infi" lem="dire">dire</w> 
+ <w id="w9.8.14" pos="NOM" lem="latitude">latitude</w> 
+ <w id="w9.8.15" pos="KON" lem="ou">ou</w> 
+ <w id="w9.8.16" pos="NOM" lem="longitude">longitude</w>
+ <w id="w9.8.17" pos="PUN" lem=",">,</w> 
+ <w id="w9.8.18" pos="KON" lem="mais">mais</w> 
+ <w id="w9.8.19" pos="PRO:DEM" lem="ce">ces</w> 
+ <w id="w9.8.20" pos="ADJ" lem="grand">grands</w> 
+ <w id="w9.8.21" pos="NOM" lem="mot">mots</w> 
+ <w id="w9.8.22" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w9.8.23" pos="VER:impf" lem="paraître">paraissaient</w> 
+ <w id="w9.8.24" pos="ADJ" lem="beau">beaux</w> 
+ <w id="w9.8.25" pos="KON" lem="et">et</w> 
+ <w id="w9.8.26" pos="ADJ" lem="sonore">sonores</w>
+ <w id="w9.8.27" pos="SENT" lem=".">.</w>
+ <w id="w9.8.28" pos="PUN" lem=")">)</w>
+</s></p>
+
+<p id="10">
+<s id="s10.1">
+ <w id="w10.1.1" pos="ADV" lem="bientôt">Bientôt</w> 
+ <w id="w10.1.2" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w10.1.3" pos="VER:simp" lem="reprendre">reprit</w>
+ <w id="w10.1.4" pos="PUN" lem=":">:</w> 
+ <w id="w10.1.5" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w10.1.6" pos="KON" lem="si">Si</w> 
+ <w id="w10.1.7" pos="PRO:PER" lem="je">j'</w>
+ <w id="w10.1.8" pos="VER:impf" lem="aller">allais</w> 
+ <w id="w10.1.9" pos="VER:infi" lem="traverser">traverser</w> 
+ <w id="w10.1.10" pos="NOM" lem="complétement">complétement</w> 
+ <w id="w10.1.11" pos="DET:ART" lem="le">la</w> 
+ <w id="w10.1.12" pos="NOM" lem="terre">terre</w>
+ <w id="w10.1.13" pos="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s10.2">
+ <w id="w10.2.1" pos="ADV" lem="comme">Comme</w> 
+ <w id="w10.2.2" pos="PRO:DEM" lem="cela">ça</w> 
+ <w id="w10.2.3" pos="VER:cond" lem="être">serait</w> 
+ <w id="w10.2.4" pos="ADJ" lem="drôle">drôle</w> 
+ <w id="w10.2.5" pos="PRP" lem="de">de</w> 
+ <w id="w10.2.6" pos="PRO:PER" lem="se">se</w> 
+ <w id="w10.2.7" pos="VER:infi" lem="trouver">trouver</w> 
+ <w id="w10.2.8" pos="PRP:det" lem="au">au</w> 
+ <w id="w10.2.9" pos="NOM" lem="milieu">milieu</w> 
+ <w id="w10.2.10" pos="PRP" lem="de">de</w> 
+ <w id="w10.2.11" pos="NOM" lem="gens">gens</w> 
+ <w id="w10.2.12" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w10.2.13" pos="VER:pres" lem="marcher">marchent</w> 
+ <w id="w10.2.14" pos="DET:ART" lem="le">la</w> 
+ <w id="w10.2.15" pos="NOM" lem="tête">tête</w> 
+ <w id="w10.2.16" pos="PRP" lem="en">en</w> 
+ <w id="w10.2.17" pos="NOM" lem="bas">bas</w>
+ <w id="w10.2.18" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s10.3">
+ <w id="w10.3.1" pos="PRP:det" lem="au">Aux</w> 
+ <w id="w10.3.2" pos="NOM" lem="antipathie">Antipathies</w>
+ <w id="w10.3.3" pos="PUN" lem=",">,</w> 
+ <w id="w10.3.4" pos="PRO:PER" lem="je">je</w> 
+ <w id="w10.3.5" pos="VER:pres" lem="croire">crois</w>
+ <w id="w10.3.6" pos="SENT" lem=".">.</w>
+ <w id="w10.3.7" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s10.4">
+ <w id="w10.4.1" pos="PUN" lem="(">(</w>
+ <w id="w10.4.2" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w10.4.3" pos="ADV" lem="ne">n'</w>
+ <w id="w10.4.4" pos="VER:impf" lem="être">était</w> 
+ <w id="w10.4.5" pos="ADV" lem="pas">pas</w> 
+ <w id="w10.4.6" pos="VER:pper" lem="fâcher">fâchée</w> 
+ <w id="w10.4.7" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w10.4.8" pos="NOM" lem="foi|fois">fois</w> 
+ <w id="w10.4.9" pos="PRO:REL" lem="que">qu'</w>
+ <w id="w10.4.10" pos="PRO:PER" lem="il">il</w> 
+ <w id="w10.4.11" pos="ADV" lem="ne">n'</w>
+ <w id="w10.4.12" pos="PRO:PER" lem="y">y</w> 
+ <w id="w10.4.13" pos="VER:subi" lem="avoir">eût</w> 
+ <w id="w10.4.14" pos="ADV" lem="personne">personne</w> 
+ <w id="w10.4.15" pos="ADV" lem="là">là</w> 
+ <w id="w10.4.16" pos="PRP" lem="pour">pour</w> 
+ <w id="w10.4.17" pos="PRO:PER" lem="la|le">l'</w>
+ <w id="w10.4.18" pos="VER:infi" lem="entendre">entendre</w>
+ <w id="w10.4.19" pos="PUN" lem=",">,</w> 
+ <w id="w10.4.20" pos="KON" lem="car">car</w> 
+ <w id="w10.4.21" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w10.4.22" pos="NOM" lem="mot">mot</w> 
+ <w id="w10.4.23" pos="ADV" lem="ne">ne</w> 
+ <w id="w10.4.24" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w10.4.25" pos="VER:impf" lem="faire">faisait</w> 
+ <w id="w10.4.26" pos="ADV" lem="pas">pas</w> 
+ <w id="w10.4.27" pos="DET:ART" lem="le">l'</w>
+ <w id="w10.4.28" pos="NOM" lem="effet">effet</w> 
+ <w id="w10.4.29" pos="PRP" lem="de">d'</w>
+ <w id="w10.4.30" pos="VER:infi" lem="être">être</w> 
+ <w id="w10.4.31" pos="ADV" lem="bien">bien</w> 
+ <w id="w10.4.32" pos="ADJ" lem="juste">juste</w>
+ <w id="w10.4.33" pos="SENT" lem=".">.</w>
+ <w id="w10.4.34" pos="PUN" lem=")">)</w>
+</s> 
+ 
+<s id="s10.5">
+ <w id="w10.5.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w10.5.2" pos="INT" lem="eh">Eh</w> 
+ <w id="w10.5.3" pos="KON" lem="mais">mais</w>
+ <w id="w10.5.4" pos="PUN" lem=",">,</w> 
+ <w id="w10.5.5" pos="PRO:PER" lem="je">j'</w>
+ <w id="w10.5.6" pos="VER:futu" lem="avoir">aurai</w> 
+ <w id="w10.5.7" pos="PRP" lem="à">à</w> 
+ <w id="w10.5.8" pos="PRO:PER" lem="lui">leur</w> 
+ <w id="w10.5.9" pos="VER:infi" lem="demander">demander</w> 
+ <w id="w10.5.10" pos="DET:ART" lem="le">le</w> 
+ <w id="w10.5.11" pos="NOM" lem="nom">nom</w> 
+ <w id="w10.5.12" pos="PRP:det" lem="du">du</w> 
+ <w id="w10.5.13" pos="NOM" lem="pays.--Pardon">pays.--Pardon</w>
+ <w id="w10.5.14" pos="PUN" lem=",">,</w> 
+ <w id="w10.5.15" pos="NAM" lem="Madame">Madame</w>
+ <w id="w10.5.16" pos="PUN" lem=",">,</w> 
+ <w id="w10.5.17" pos="VER:pres" lem="être">est-ce</w> 
+ <w id="w10.5.18" pos="ADV" lem="ici">ici</w> 
+ <w id="w10.5.19" pos="DET:ART" lem="le">la</w> 
+ <w id="w10.5.20" pos="NAM" lem="Nouvelle-Zemble">Nouvelle-Zemble</w> 
+ <w id="w10.5.21" pos="KON" lem="ou">ou</w> 
+ <w id="w10.5.22" pos="DET:ART" lem="le">l'</w>
+ <w id="w10.5.23" pos="NAM" lem="Australie">Australie</w>
+ <w id="w10.5.24" pos="SENT" lem="?">?</w>
+ <w id="w10.5.25" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w10.5.26" pos="PUN" lem="-">--En</w> 
+ <w id="w10.5.27" pos="ADJ" lem="-En">même</w> 
+ <w id="w10.5.28" pos="ADJ" lem="même">temps</w> 
+ <w id="w10.5.29" pos="NOM" lem="temps">elle</w> 
+ <w id="w10.5.30" pos="PRO:PER" lem="elle">essaya</w> 
+ <w id="w10.5.31" pos="VER:simp" lem="essayer|essayer">de</w> 
+ <w id="w10.5.32" pos="PRP" lem="de">faire</w> 
+ <w id="w10.5.33" pos="VER:infi" lem="faire">la</w> 
+ <w id="w10.5.34" pos="DET:ART" lem="le">révérence</w>
+ <w id="w10.5.35" pos="NOM" lem="révérence">.</w>
+</s> 
+ 
+<s id="s10.6">
+ <w id="w10.6.1" pos="PUN" lem="(">(</w>
+ <w id="w10.6.2" pos="PRO:REL" lem="quel">Quelle</w> 
+ <w id="w10.6.3" pos="NOM" lem="idée">idée</w>
+ <w id="w10.6.4" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s10.7">
+ <w id="w10.7.1" pos="VER:infi" lem="faire">Faire</w> 
+ <w id="w10.7.2" pos="DET:ART" lem="le">la</w> 
+ <w id="w10.7.3" pos="NOM" lem="révérence">révérence</w> 
+ <w id="w10.7.4" pos="PRP" lem="en">en</w> 
+ <w id="w10.7.5" pos="DET:ART" lem="le">l'</w>
+ <w id="w10.7.6" pos="NOM" lem="air">air</w>
+ <w id="w10.7.7" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s10.8">
+ <w id="w10.8.1" pos="VER:pres" lem="dire">Dites-moi</w> 
+ <w id="w10.8.2" pos="DET:ART" lem="un">un</w> 
+ <w id="w10.8.3" pos="ADV" lem="peu">peu</w>
+ <w id="w10.8.4" pos="PUN" lem=",">,</w> 
+ <w id="w10.8.5" pos="ADV" lem="comment">comment</w> 
+ <w id="w10.8.6" pos="PRO:PER" lem="vous">vous</w> 
+ <w id="w10.8.7" pos="PRO:PER" lem="y">y</w> 
+ <w id="w10.8.8" pos="VER:cond" lem="prendre">prendriez-vous</w>
+ <w id="w10.8.9" pos="SENT" lem="?">?</w>
+ <w id="w10.8.10" pos="PUN" lem=")">)</w>
+</s> 
+ 
+<s id="s10.9">
+ <w id="w10.9.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w10.9.2" pos="PUN" lem="'">'</w>
+ <w id="w10.9.3" pos="NOM" lem="Quelle">Quelle</w> 
+ <w id="w10.9.4" pos="ADJ" lem="petit">petite</w> 
+ <w id="w10.9.5" pos="ADJ" lem="ignorant">ignorante</w>
+ <w id="w10.9.6" pos="SENT" lem="!">!</w>
+ <w id="w10.9.7" pos="PUN" lem="'">'</w> 
+ <w id="w10.9.8" pos="VER:futu" lem="penser">pensera</w> 
+ <w id="w10.9.9" pos="DET:ART" lem="le">la</w> 
+ <w id="w10.9.10" pos="NOM" lem="dame">dame</w> 
+ <w id="w10.9.11" pos="KON" lem="quand">quand</w> 
+ <w id="w10.9.12" pos="PRO:PER" lem="je">je</w> 
+ <w id="w10.9.13" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w10.9.14" pos="VER:futu" lem="faire">ferai</w> 
+ <w id="w10.9.15" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w10.9.16" pos="NOM" lem="question">question</w>
+ <w id="w10.9.17" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s10.10">
+ <w id="w10.10.1" pos="ADV" lem="non">Non</w>
+ <w id="w10.10.2" pos="PUN" lem=",">,</w> 
+ <w id="w10.10.3" pos="PRO:PER" lem="il">il</w> 
+ <w id="w10.10.4" pos="ADV" lem="ne">ne</w> 
+ <w id="w10.10.5" pos="VER:pres" lem="falloir">faut</w> 
+ <w id="w10.10.6" pos="ADV" lem="pas">pas</w> 
+ <w id="w10.10.7" pos="VER:infi" lem="demander">demander</w> 
+ <w id="w10.10.8" pos="PRO:DEM" lem="cela">cela</w>
+ <w id="w10.10.9" pos="PUN" lem=";">;</w> 
+ <w id="w10.10.10" pos="ADV" lem="peut-être">peut-être</w> 
+ <w id="w10.10.11" pos="PRO:PER" lem="le">le</w> 
+ <w id="w10.10.12" pos="VER:futu" lem="voir">verrai-je</w> 
+ <w id="w10.10.13" pos="VER:pper" lem="écrire">écrit</w> 
+ <w id="w10.10.14" pos="PRO:IND" lem="quelque">quelque</w> 
+ <w id="w10.10.15" pos="NOM" lem="part">part</w>
+ <w id="w10.10.16" pos="SENT" lem=".">.</w>
+ <w id="w10.10.17" pos="PUN:cit" lem="&quot;">"</w>
+</s></p>
+
+<p id="11">
+<s id="s11.1">
+ <w id="w11.1.1" pos="NOM" lem="tombe">Tombe</w>
+ <w id="w11.1.2" pos="PUN" lem=",">,</w> 
+ <w id="w11.1.3" pos="NOM" lem="tombe">tombe</w>
+ <w id="w11.1.4" pos="PUN" lem=",">,</w> 
+ <w id="w11.1.5" pos="VER:pres" lem="tomber">tombe</w>
+ <w id="w11.1.6" pos="SENT" lem="!">!</w>
+ <w id="w11.1.7" pos="ADJ" lem="--Donc">--Donc</w> 
+ <w id="w11.1.8" pos="NAM" lem="Alice">Alice</w>
+ <w id="w11.1.9" pos="PUN" lem=",">,</w> 
+ <w id="w11.1.10" pos="NOM" lem="faute">faute</w> 
+ <w id="w11.1.11" pos="PRP" lem="de">d'</w>
+ <w id="w11.1.12" pos="VER:infi" lem="avoir">avoir</w> 
+ <w id="w11.1.13" pos="ADV" lem="rien">rien</w> 
+ <w id="w11.1.14" pos="PRP" lem="de">de</w> 
+ <w id="w11.1.15" pos="ADV" lem="mieux">mieux</w> 
+ <w id="w11.1.16" pos="PRP" lem="à">à</w> 
+ <w id="w11.1.17" pos="VER:infi" lem="faire">faire</w>
+ <w id="w11.1.18" pos="PUN" lem=",">,</w> 
+ <w id="w11.1.19" pos="PRO:PER" lem="se">se</w> 
+ <w id="w11.1.20" pos="VER:simp" lem="remettre">remit</w> 
+ <w id="w11.1.21" pos="PRP" lem="à">à</w> 
+ <w id="w11.1.22" pos="PRO:PER" lem="se">se</w> 
+ <w id="w11.1.23" pos="VER:infi" lem="parler">parler</w>
+ <w id="w11.1.24" pos="PUN" lem=":">:</w> 
+ <w id="w11.1.25" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w11.1.26" pos="NAM" lem="Dinah">Dinah</w> 
+ <w id="w11.1.27" pos="VER:futu" lem="remarquer">remarquera</w> 
+ <w id="w11.1.28" pos="DET:POS" lem="mon">mon</w> 
+ <w id="w11.1.29" pos="NOM" lem="absence">absence</w> 
+ <w id="w11.1.30" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w11.1.31" pos="NOM" lem="soir">soir</w>
+ <w id="w11.1.32" pos="PUN" lem=",">,</w> 
+ <w id="w11.1.33" pos="ADV" lem="bien">bien</w> 
+ <w id="w11.1.34" pos="ADJ" lem="sûr">sûr</w>
+ <w id="w11.1.35" pos="SENT" lem=".">.</w>
+ <w id="w11.1.36" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s11.2">
+ <w id="w11.2.1" pos="PUN" lem="(">(</w>
+ <w id="w11.2.2" pos="NOM" lem="Dinah">Dinah</w> 
+ <w id="w11.2.3" pos="PRO:DEM" lem="ce">c'</w>
+ <w id="w11.2.4" pos="VER:impf" lem="être">était</w> 
+ <w id="w11.2.5" pos="DET:POS" lem="son">son</w> 
+ <w id="w11.2.6" pos="NOM" lem="chat">chat</w>
+ <w id="w11.2.7" pos="SENT" lem=".">.</w>
+ <w id="w11.2.8" pos="PUN" lem=")">)</w>
+</s> 
+ 
+<s id="s11.3">
+ <w id="w11.3.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w11.3.2" pos="ADJ" lem="pourvu">Pourvu</w> 
+ <w id="w11.3.3" pos="KON" lem="que">qu'</w>
+ <w id="w11.3.4" pos="PRO:PER" lem="on">on</w> 
+ <w id="w11.3.5" pos="ADV" lem="ne">n'</w>
+ <w id="w11.3.6" pos="VER:pres" lem="oublier">oublie</w> 
+ <w id="w11.3.7" pos="ADV" lem="pas">pas</w> 
+ <w id="w11.3.8" pos="PRP" lem="de">de</w> 
+ <w id="w11.3.9" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w11.3.10" pos="VER:infi" lem="donner">donner</w> 
+ <w id="w11.3.11" pos="DET:POS" lem="son">sa</w> 
+ <w id="w11.3.12" pos="NOM" lem="jatte">jatte</w> 
+ <w id="w11.3.13" pos="PRP" lem="de">de</w> 
+ <w id="w11.3.14" pos="NOM" lem="lait">lait</w> 
+ <w id="w11.3.15" pos="PRP" lem="à">à</w> 
+ <w id="w11.3.16" pos="DET:ART" lem="le">l'</w>
+ <w id="w11.3.17" pos="NOM" lem="heure">heure</w> 
+ <w id="w11.3.18" pos="PRP:det" lem="du">du</w> 
+ <w id="w11.3.19" pos="NOM" lem="thé">thé</w>
+ <w id="w11.3.20" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s11.4">
+ <w id="w11.4.1" pos="NAM" lem="Dinah">Dinah</w>
+ <w id="w11.4.2" pos="PUN" lem=",">,</w> 
+ <w id="w11.4.3" pos="DET:POS" lem="mon">ma</w> 
+ <w id="w11.4.4" pos="NOM" lem="minet|minette">minette</w>
+ <w id="w11.4.5" pos="PUN" lem=",">,</w> 
+ <w id="w11.4.6" pos="PRO:REL" lem="que">que</w> 
+ <w id="w11.4.7" pos="ADV" lem="ne">n'</w>
+ <w id="w11.4.8" pos="VER:pres" lem="être">es-tu</w> 
+ <w id="w11.4.9" pos="ADV" lem="ici">ici</w> 
+ <w id="w11.4.10" pos="PRP" lem="avec">avec</w> 
+ <w id="w11.4.11" pos="PRO:PER" lem="moi">moi</w>
+ <w id="w11.4.12" pos="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s11.5">
+ <w id="w11.5.1" pos="PRO:PER" lem="il">Il</w> 
+ <w id="w11.5.2" pos="ADV" lem="ne">n'</w>
+ <w id="w11.5.3" pos="PRO:PER" lem="y">y</w> 
+ <w id="w11.5.4" pos="VER:pres" lem="avoir">a</w> 
+ <w id="w11.5.5" pos="ADV" lem="pas">pas</w> 
+ <w id="w11.5.6" pos="PRP" lem="de">de</w> 
+ <w id="w11.5.7" pos="NOM" lem="souris">souris</w> 
+ <w id="w11.5.8" pos="PRP" lem="dans">dans</w> 
+ <w id="w11.5.9" pos="DET:ART" lem="le">les</w> 
+ <w id="w11.5.10" pos="NOM" lem="air">airs</w>
+ <w id="w11.5.11" pos="PUN" lem=",">,</w> 
+ <w id="w11.5.12" pos="PRO:PER" lem="je">j'</w>
+ <w id="w11.5.13" pos="PRO:PER" lem="en">en</w> 
+ <w id="w11.5.14" pos="VER:pres" lem="avoir">ai</w> 
+ <w id="w11.5.15" pos="ADV" lem="bien">bien</w> 
+ <w id="w11.5.16" pos="NOM" lem="peur">peur</w>
+ <w id="w11.5.17" pos="PUN" lem=";">;</w> 
+ <w id="w11.5.18" pos="KON" lem="mais">mais</w> 
+ <w id="w11.5.19" pos="PRO:PER" lem="tu">tu</w> 
+ <w id="w11.5.20" pos="VER:cond" lem="pouvoir">pourrais</w> 
+ <w id="w11.5.21" pos="VER:infi" lem="attraper">attraper</w> 
+ <w id="w11.5.22" pos="DET:ART" lem="un">une</w> 
+ <w id="w11.5.23" pos="NOM" lem="chauve-souris">chauve-souris</w>
+ <w id="w11.5.24" pos="PUN" lem=",">,</w> 
+ <w id="w11.5.25" pos="KON" lem="et">et</w> 
+ <w id="w11.5.26" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w11.5.27" pos="VER:pres" lem="ressembler">ressemble</w> 
+ <w id="w11.5.28" pos="ADV" lem="beaucoup">beaucoup</w> 
+ <w id="w11.5.29" pos="PRP" lem="à">à</w> 
+ <w id="w11.5.30" pos="DET:ART" lem="un">une</w> 
+ <w id="w11.5.31" pos="NOM" lem="souris">souris</w>
+ <w id="w11.5.32" pos="PUN" lem=",">,</w> 
+ <w id="w11.5.33" pos="PRO:PER" lem="tu">tu</w> 
+ <w id="w11.5.34" pos="VER:pres" lem="savoir">sais</w>
+ <w id="w11.5.35" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s11.6">
+ <w id="w11.6.1" pos="KON" lem="mais">Mais</w> 
+ <w id="w11.6.2" pos="DET:ART" lem="le">les</w> 
+ <w id="w11.6.3" pos="NOM" lem="chat">chats</w> 
+ <w id="w11.6.4" pos="ADJ" lem="mangents">mangent-ils</w> 
+ <w id="w11.6.5" pos="DET:ART" lem="le">les</w> 
+ <w id="w11.6.6" pos="NOM" lem="chauves-souris">chauves-souris</w>
+ <w id="w11.6.7" pos="SENT" lem="?">?</w>
+ <w id="w11.6.8" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s11.7">
+ <w id="w11.7.1" pos="ADV" lem="ici">Ici</w> 
+ <w id="w11.7.2" pos="DET:ART" lem="le">le</w> 
+ <w id="w11.7.3" pos="NOM" lem="sommeil">sommeil</w> 
+ <w id="w11.7.4" pos="VER:simp" lem="commencer">commença</w> 
+ <w id="w11.7.5" pos="PRP" lem="à">à</w> 
+ <w id="w11.7.6" pos="VER:infi" lem="gagner">gagner</w> 
+ <w id="w11.7.7" pos="NAM" lem="Alice">Alice</w>
+ <w id="w11.7.8" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s11.8">
+ <w id="w11.8.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w11.8.2" pos="VER:impf" lem="répéter">répétait</w>
+ <w id="w11.8.3" pos="PUN" lem=",">,</w> 
+ <w id="w11.8.4" pos="PRP" lem="à">à</w> 
+ <w id="w11.8.5" pos="NOM" lem="moitié">moitié</w> 
+ <w id="w11.8.6" pos="VER:pper" lem="endormir">endormie</w>
+ <w id="w11.8.7" pos="PUN" lem=":">:</w> 
+ <w id="w11.8.8" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w11.8.9" pos="DET:ART" lem="le">Les</w> 
+ <w id="w11.8.10" pos="NOM" lem="chat">chats</w> 
+ <w id="w11.8.11" pos="ADJ" lem="mangents">mangent-ils</w> 
+ <w id="w11.8.12" pos="DET:ART" lem="le">les</w> 
+ <w id="w11.8.13" pos="NOM" lem="chauves-souris">chauves-souris</w>
+ <w id="w11.8.14" pos="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s11.9">
+ <w id="w11.9.1" pos="DET:ART" lem="le">Les</w> 
+ <w id="w11.9.2" pos="NOM" lem="chat">chats</w> 
+ <w id="w11.9.3" pos="ADJ" lem="mangents">mangent-ils</w> 
+ <w id="w11.9.4" pos="DET:ART" lem="le">les</w> 
+ <w id="w11.9.5" pos="NOM" lem="chauves-souris">chauves-souris</w>
+ <w id="w11.9.6" pos="SENT" lem="?">?</w>
+ <w id="w11.9.7" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s11.10">
+ <w id="w11.10.1" pos="KON" lem="et">Et</w> 
+ <w id="w11.10.2" pos="ADV" lem="quelquefois">quelquefois</w>
+ <w id="w11.10.3" pos="PUN" lem=":">:</w> 
+ <w id="w11.10.4" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w11.10.5" pos="DET:ART" lem="le">Les</w> 
+ <w id="w11.10.6" pos="NOM" lem="chauves-souris">chauves-souris</w> 
+ <w id="w11.10.7" pos="VER:pres" lem="manger">mangent-elles</w> 
+ <w id="w11.10.8" pos="PRO:PER" lem="elle">les</w> 
+ <w id="w11.10.9" pos="DET:ART" lem="le">chats</w>
+ <w id="w11.10.10" pos="NOM" lem="chat">?</w>
+ <w id="w11.10.11" pos="SENT" lem="?">"</w>
+</s> 
+ 
+<s id="s11.11">
+ <w id="w11.11.1" pos="KON" lem="car">Car</w> 
+ <w id="w11.11.2" pos="PRO:PER" lem="vous">vous</w> 
+ <w id="w11.11.3" pos="VER:pres" lem="comprendre">comprenez</w> 
+ <w id="w11.11.4" pos="ADV" lem="bien">bien</w> 
+ <w id="w11.11.5" pos="KON" lem="que">que</w>
+ <w id="w11.11.6" pos="PUN" lem=",">,</w> 
+ <w id="w11.11.7" pos="NOM" lem="puisqu'elle">puisqu'</w>
+ <w id="w11.11.8" pos="ADV" lem="ne">elle</w> 
+ <w id="w11.11.9" pos="VER:impf" lem="pouvoir">ne</w> 
+ <w id="w11.11.10" pos="VER:infi" lem="répondre">pouvait</w> 
+ <w id="w11.11.11" pos="KON" lem="ni">répondre</w> 
+ <w id="w11.11.12" pos="PRP" lem="à">ni</w> 
+ <w id="w11.11.13" pos="DET:ART" lem="le">à</w> 
+ <w id="w11.11.14" pos="DET:ART" lem="un">l'</w>
+ <w id="w11.11.15" pos="KON" lem="ni">une</w> 
+ <w id="w11.11.16" pos="PRP" lem="à">ni</w> 
+ <w id="w11.11.17" pos="DET:ART" lem="le">à</w> 
+ <w id="w11.11.18" pos="ADJ" lem="autre">l'</w>
+ <w id="w11.11.19" pos="PRP" lem="de">autre</w> 
+ <w id="w11.11.20" pos="PRO:DEM" lem="ce">de</w> 
+ <w id="w11.11.21" pos="NOM" lem="question">ces</w> 
+ <w id="w11.11.22" pos="PUN" lem=",">questions</w>
+ <w id="w11.11.23" pos="ADV" lem="peu">,</w> 
+ <w id="w11.11.24" pos="VER:impf" lem="importer">peu</w> 
+ <w id="w11.11.25" pos="DET:ART" lem="le">importait</w> 
+ <w id="w11.11.26" pos="NOM" lem="manière">la</w> 
+ <w id="w11.11.27" pos="PRP" lem="de">manière</w> 
+ <w id="w11.11.28" pos="DET:ART" lem="le">de</w> 
+ <w id="w11.11.29" pos="NOM" lem="poser">les</w> 
+ <w id="w11.11.30" pos="SENT" lem=".">poser</w>
+ <w id="w11.11.31" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s11.12">
+ <w id="w11.12.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w11.12.2" pos="PRO:PER" lem="se">s'</w>
+ <w id="w11.12.3" pos="VER:impf" lem="assoupir">assoupissait</w> 
+ <w id="w11.12.4" pos="KON" lem="et">et</w> 
+ <w id="w11.12.5" pos="VER:impf" lem="commencer">commençait</w> 
+ <w id="w11.12.6" pos="PRP" lem="à">à</w> 
+ <w id="w11.12.7" pos="VER:infi" lem="rêver">rêver</w> 
+ <w id="w11.12.8" pos="KON" lem="que">qu'</w>
+ <w id="w11.12.9" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w11.12.10" pos="PRO:PER" lem="se">se</w> 
+ <w id="w11.12.11" pos="VER:impf" lem="promener">promenait</w> 
+ <w id="w11.12.12" pos="NOM" lem="tenant">tenant</w> 
+ <w id="w11.12.13" pos="NAM" lem="Dinah">Dinah</w> 
+ <w id="w11.12.14" pos="PRP" lem="par">par</w> 
+ <w id="w11.12.15" pos="DET:ART" lem="le">la</w> 
+ <w id="w11.12.16" pos="NOM" lem="main">main</w>
+ <w id="w11.12.17" pos="PUN" lem=",">,</w> 
+ <w id="w11.12.18" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w11.12.19" pos="VER:ppre" lem="dire">disant</w> 
+ <w id="w11.12.20" pos="NOM" lem="très-sérieusement">très-sérieusement</w>
+ <w id="w11.12.21" pos="PUN" lem=":">:</w> 
+ <w id="w11.12.22" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w11.12.23" pos="VER:pres" lem="voir">Voyons</w>
+ <w id="w11.12.24" pos="PUN" lem=",">,</w> 
+ <w id="w11.12.25" pos="NAM" lem="Dinah">Dinah</w>
+ <w id="w11.12.26" pos="PUN" lem=",">,</w> 
+ <w id="w11.12.27" pos="VER:pres" lem="dire">dis-moi</w> 
+ <w id="w11.12.28" pos="DET:ART" lem="le">la</w> 
+ <w id="w11.12.29" pos="NOM" lem="vérité">vérité</w>
+ <w id="w11.12.30" pos="PUN" lem=",">,</w> 
+ <w id="w11.12.31" pos="VER:pres" lem="avoir">as-tu</w> 
+ <w id="w11.12.32" pos="ADV" lem="jamais">jamais</w> 
+ <w id="w11.12.33" pos="VER:pper" lem="manger">mangé</w> 
+ <w id="w11.12.34" pos="PRP:det" lem="du">des</w> 
+ <w id="w11.12.35" pos="NOM" lem="chauves-souris">chauves-souris</w>
+ <w id="w11.12.36" pos="SENT" lem="?">?</w>
+ <w id="w11.12.37" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s11.13">
+ <w id="w11.13.1" pos="KON" lem="quand">Quand</w> 
+ <w id="w11.13.2" pos="ADV" lem="tout">tout</w> 
+ <w id="w11.13.3" pos="PRP" lem="à">à</w> 
+ <w id="w11.13.4" pos="NOM" lem="coup">coup</w>
+ <w id="w11.13.5" pos="PUN" lem=",">,</w> 
+ <w id="w11.13.6" pos="INT" lem="pouf">pouf</w>
+ <w id="w11.13.7" pos="SENT" lem="!">!</w> 
+ <w id="w11.13.8" pos="DET:ART" lem="le">la</w> 
+ <w id="w11.13.9" pos="ADV" lem="voilà">voilà</w> 
+ <w id="w11.13.10" pos="VER:pper" lem="étendre">étendue</w> 
+ <w id="w11.13.11" pos="PRP" lem="sur">sur</w> 
+ <w id="w11.13.12" pos="DET:ART" lem="un">un</w> 
+ <w id="w11.13.13" pos="NOM" lem="tas">tas</w> 
+ <w id="w11.13.14" pos="PRP" lem="de">de</w> 
+ <w id="w11.13.15" pos="NOM" lem="fagot">fagots</w> 
+ <w id="w11.13.16" pos="KON" lem="et">et</w> 
+ <w id="w11.13.17" pos="PRP" lem="de">de</w> 
+ <w id="w11.13.18" pos="NOM" lem="feuille">feuilles</w> 
+ <w id="w11.13.19" pos="ADJ" lem="sèche">sèches</w>
+ <w id="w11.13.20" pos="PUN" lem=",">,</w>
+ <w id="w11.13.21" pos="ADJ" lem="--et">--et</w> 
+ <w id="w11.13.22" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w11.13.23" pos="VER:pres" lem="avoir">a</w> 
+ <w id="w11.13.24" pos="VER:pper" lem="finir">fini</w> 
+ <w id="w11.13.25" pos="PRP" lem="de">de</w> 
+ <w id="w11.13.26" pos="VER:infi" lem="tomber">tomber</w>
+ <w id="w11.13.27" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="12">
+<s id="s12.1">
+ <w id="w12.1.1" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w12.1.2" pos="ADV" lem="ne">ne</w> 
+ <w id="w12.1.3" pos="PRO:PER" lem="se">s'</w>
+ <w id="w12.1.4" pos="VER:impf" lem="être">était</w> 
+ <w id="w12.1.5" pos="ADV" lem="pas">pas</w> 
+ <w id="w12.1.6" pos="VER:pper" lem="faire">fait</w> 
+ <w id="w12.1.7" pos="DET:ART" lem="le">le</w> 
+ <w id="w12.1.8" pos="ADJ" lem="moindre">moindre</w> 
+ <w id="w12.1.9" pos="NOM" lem="mal">mal</w>
+ <w id="w12.1.10" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s12.2">
+ <w id="w12.2.1" pos="ADV" lem="vite">Vite</w> 
+ <w id="w12.2.2" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w12.2.3" pos="PRO:PER" lem="se">se</w> 
+ <w id="w12.2.4" pos="VER:pres" lem="remettre">remet</w> 
+ <w id="w12.2.5" pos="PRP" lem="sur">sur</w> 
+ <w id="w12.2.6" pos="DET:POS" lem="son">ses</w> 
+ <w id="w12.2.7" pos="NOM" lem="pied">pieds</w> 
+ <w id="w12.2.8" pos="KON" lem="et">et</w> 
+ <w id="w12.2.9" pos="VER:pres" lem="regarder">regarde</w> 
+ <w id="w12.2.10" pos="PRP" lem="en">en</w> 
+ <w id="w12.2.11" pos="DET:ART" lem="le">l'</w>
+ <w id="w12.2.12" pos="NOM" lem="air">air</w>
+ <w id="w12.2.13" pos="PUN" lem=";">;</w> 
+ <w id="w12.2.14" pos="KON" lem="mais">mais</w> 
+ <w id="w12.2.15" pos="PRO:IND" lem="tout">tout</w> 
+ <w id="w12.2.16" pos="VER:pres" lem="être">est</w> 
+ <w id="w12.2.17" pos="ADJ" lem="noir">noir</w> 
+ <w id="w12.2.18" pos="ADV" lem="là-haut">là-haut</w>
+ <w id="w12.2.19" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s12.3">
+ <w id="w12.3.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w12.3.2" pos="VER:pres" lem="voir">voit</w> 
+ <w id="w12.3.3" pos="PRP" lem="devant">devant</w> 
+ <w id="w12.3.4" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w12.3.5" pos="DET:ART" lem="un">un</w> 
+ <w id="w12.3.6" pos="ADJ" lem="long">long</w> 
+ <w id="w12.3.7" pos="NOM" lem="passage">passage</w> 
+ <w id="w12.3.8" pos="KON" lem="et">et</w> 
+ <w id="w12.3.9" pos="DET:ART" lem="le">le</w> 
+ <w id="w12.3.10" pos="NAM" lem="Lapin">Lapin</w> 
+ <w id="w12.3.11" pos="NAM" lem="Blanc">Blanc</w> 
+ <w id="w12.3.12" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w12.3.13" pos="VER:pres" lem="courir">court</w> 
+ <w id="w12.3.14" pos="PRP" lem="à">à</w> 
+ <w id="w12.3.15" pos="PRO:IND" lem="tout">toutes</w> 
+ <w id="w12.3.16" pos="NOM" lem="jambe">jambes</w>
+ <w id="w12.3.17" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s12.4">
+ <w id="w12.4.1" pos="PRO:PER" lem="il">Il</w> 
+ <w id="w12.4.2" pos="ADV" lem="ne">n'</w>
+ <w id="w12.4.3" pos="PRO:PER" lem="y">y</w> 
+ <w id="w12.4.4" pos="VER:pres" lem="avoir">a</w> 
+ <w id="w12.4.5" pos="ADV" lem="pas">pas</w> 
+ <w id="w12.4.6" pos="DET:ART" lem="un">un</w> 
+ <w id="w12.4.7" pos="NOM" lem="instant">instant</w> 
+ <w id="w12.4.8" pos="PRP" lem="à">à</w> 
+ <w id="w12.4.9" pos="VER:infi" lem="perdre">perdre</w>
+ <w id="w12.4.10" pos="PUN" lem=";">;</w> 
+ <w id="w12.4.11" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w12.4.12" pos="VER:pres" lem="partir">part</w> 
+ <w id="w12.4.13" pos="ADV" lem="comme">comme</w> 
+ <w id="w12.4.14" pos="DET:ART" lem="le">le</w> 
+ <w id="w12.4.15" pos="NOM" lem="vent">vent</w> 
+ <w id="w12.4.16" pos="KON" lem="et">et</w> 
+ <w id="w12.4.17" pos="VER:pres" lem="arriver">arrive</w> 
+ <w id="w12.4.18" pos="ADV" lem="tout">tout</w> 
+ <w id="w12.4.19" pos="ADJ" lem="juste">juste</w> 
+ <w id="w12.4.20" pos="PRP" lem="à">à</w> 
+ <w id="w12.4.21" pos="NOM" lem="temps">temps</w> 
+ <w id="w12.4.22" pos="PRP" lem="pour">pour</w> 
+ <w id="w12.4.23" pos="VER:infi" lem="entendre">entendre</w> 
+ <w id="w12.4.24" pos="DET:ART" lem="le">le</w> 
+ <w id="w12.4.25" pos="NAM" lem="Lapin">Lapin</w> 
+ <w id="w12.4.26" pos="NOM" lem="dire">dire</w>
+ <w id="w12.4.27" pos="PUN" lem=",">,</w> 
+ <w id="w12.4.28" pos="KON" lem="tandis">tandis</w> 
+ <w id="w12.4.29" pos="PRO:REL" lem="que">qu'</w>
+ <w id="w12.4.30" pos="PRO:PER" lem="il">il</w> 
+ <w id="w12.4.31" pos="VER:pres" lem="tourner">tourne</w> 
+ <w id="w12.4.32" pos="DET:ART" lem="le">le</w> 
+ <w id="w12.4.33" pos="NOM" lem="coin">coin</w>
+ <w id="w12.4.34" pos="PUN" lem=":">:</w> 
+ <w id="w12.4.35" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w12.4.36" pos="PRP" lem="par">Par</w> 
+ <w id="w12.4.37" pos="DET:POS" lem="mon">ma</w> 
+ <w id="w12.4.38" pos="NOM" lem="moustache">moustache</w> 
+ <w id="w12.4.39" pos="KON" lem="et">et</w> 
+ <w id="w12.4.40" pos="DET:POS" lem="mon">mes</w> 
+ <w id="w12.4.41" pos="NOM" lem="oreille">oreilles</w>
+ <w id="w12.4.42" pos="PUN" lem=",">,</w> 
+ <w id="w12.4.43" pos="KON" lem="comme">comme</w> 
+ <w id="w12.4.44" pos="PRO:PER" lem="il">il</w> 
+ <w id="w12.4.45" pos="PRO:PER" lem="se">se</w> 
+ <w id="w12.4.46" pos="VER:pres" lem="faire">fait</w> 
+ <w id="w12.4.47" pos="ADV" lem="tard">tard</w>
+ <w id="w12.4.48" pos="SENT" lem="!">!</w>
+ <w id="w12.4.49" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s12.5">
+ <w id="w12.5.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w12.5.2" pos="ADV" lem="ne">n'</w>
+ <w id="w12.5.3" pos="PRO:PER" lem="en">en</w> 
+ <w id="w12.5.4" pos="VER:impf" lem="être">était</w> 
+ <w id="w12.5.5" pos="ADV" lem="plus">plus</w> 
+ <w id="w12.5.6" pos="KON" lem="que">qu'</w>
+ <w id="w12.5.7" pos="PRP" lem="à">à</w> 
+ <w id="w12.5.8" pos="NUM" lem="deux">deux</w> 
+ <w id="w12.5.9" pos="NOM" lem="pas">pas</w>
+ <w id="w12.5.10" pos="PUN" lem=":">:</w> 
+ <w id="w12.5.11" pos="KON" lem="mais">mais</w> 
+ <w id="w12.5.12" pos="DET:ART" lem="le">le</w> 
+ <w id="w12.5.13" pos="NOM" lem="coin">coin</w> 
+ <w id="w12.5.14" pos="ADJ" lem="tourné">tourné</w>
+ <w id="w12.5.15" pos="PUN" lem=",">,</w> 
+ <w id="w12.5.16" pos="DET:ART" lem="le">le</w> 
+ <w id="w12.5.17" pos="NAM" lem="Lapin">Lapin</w> 
+ <w id="w12.5.18" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w12.5.19" pos="VER:pper" lem="disparaître">disparu</w>
+ <w id="w12.5.20" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s12.6">
+ <w id="w12.6.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w12.6.2" pos="PRO:PER" lem="se">se</w> 
+ <w id="w12.6.3" pos="VER:simp" lem="trouver">trouva</w> 
+ <w id="w12.6.4" pos="ADV" lem="alors">alors</w> 
+ <w id="w12.6.5" pos="PRP" lem="dans">dans</w> 
+ <w id="w12.6.6" pos="DET:ART" lem="un">une</w> 
+ <w id="w12.6.7" pos="NOM" lem="salle">salle</w> 
+ <w id="w12.6.8" pos="ADJ" lem="longue">longue</w> 
+ <w id="w12.6.9" pos="KON" lem="et">et</w> 
+ <w id="w12.6.10" pos="ADJ" lem="bas">basse</w>
+ <w id="w12.6.11" pos="PUN" lem=",">,</w> 
+ <w id="w12.6.12" pos="VER:pper" lem="éclairer">éclairée</w> 
+ <w id="w12.6.13" pos="PRP" lem="par">par</w> 
+ <w id="w12.6.14" pos="DET:ART" lem="un">une</w> 
+ <w id="w12.6.15" pos="NOM" lem="rangée">rangée</w> 
+ <w id="w12.6.16" pos="PRP" lem="de">de</w> 
+ <w id="w12.6.17" pos="NOM" lem="lampe">lampes</w> 
+ <w id="w12.6.18" pos="VER:pper" lem="pendre">pendues</w> 
+ <w id="w12.6.19" pos="PRP:det" lem="au">au</w> 
+ <w id="w12.6.20" pos="NOM" lem="plafond">plafond</w>
+ <w id="w12.6.21" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="13">
+<s id="s13.1">
+ <w id="w13.1.1" pos="PRO:PER" lem="il">Il</w> 
+ <w id="w13.1.2" pos="PRO:PER" lem="y">y</w> 
+ <w id="w13.1.3" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w13.1.4" pos="PRP:det" lem="du">des</w> 
+ <w id="w13.1.5" pos="NOM" lem="porte">portes</w> 
+ <w id="w13.1.6" pos="ADV" lem="tout">tout</w> 
+ <w id="w13.1.7" pos="ADV" lem="autour">autour</w> 
+ <w id="w13.1.8" pos="PRP" lem="de">de</w> 
+ <w id="w13.1.9" pos="DET:ART" lem="le">la</w> 
+ <w id="w13.1.10" pos="NOM" lem="salle">salle</w>
+ <w id="w13.1.11" pos="PUN" lem=":">:</w> 
+ <w id="w13.1.12" pos="PRO:DEM" lem="ce">ces</w> 
+ <w id="w13.1.13" pos="NOM" lem="porte">portes</w> 
+ <w id="w13.1.14" pos="VER:impf" lem="être">étaient</w> 
+ <w id="w13.1.15" pos="PRO:IND" lem="tout">toutes</w> 
+ <w id="w13.1.16" pos="VER:pper" lem="fermer">fermées</w>
+ <w id="w13.1.17" pos="PUN" lem=",">,</w> 
+ <w id="w13.1.18" pos="KON" lem="et">et</w>
+ <w id="w13.1.19" pos="PUN" lem=",">,</w> 
+ <w id="w13.1.20" pos="PRP" lem="après">après</w> 
+ <w id="w13.1.21" pos="VER:infi" lem="avoir">avoir</w> 
+ <w id="w13.1.22" pos="ADV" lem="vainement">vainement</w> 
+ <w id="w13.1.23" pos="VER:pper" lem="tenter">tenté</w> 
+ <w id="w13.1.24" pos="PRP" lem="de">d'</w>
+ <w id="w13.1.25" pos="VER:infi" lem="ouvrir">ouvrir</w> 
+ <w id="w13.1.26" pos="PRO:DEM" lem="celui">celles</w> 
+ <w id="w13.1.27" pos="PRP:det" lem="du">du</w> 
+ <w id="w13.1.28" pos="NOM" lem="côté">côté</w> 
+ <w id="w13.1.29" pos="ADJ" lem="droit">droit</w>
+ <w id="w13.1.30" pos="PUN" lem=",">,</w> 
+ <w id="w13.1.31" pos="ADV" lem="puis">puis</w> 
+ <w id="w13.1.32" pos="PRO:DEM" lem="celui">celles</w> 
+ <w id="w13.1.33" pos="PRP:det" lem="du">du</w> 
+ <w id="w13.1.34" pos="NOM" lem="côté">côté</w> 
+ <w id="w13.1.35" pos="ADJ" lem="gauche">gauche</w>
+ <w id="w13.1.36" pos="PUN" lem=",">,</w> 
+ <w id="w13.1.37" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w13.1.38" pos="PRO:PER" lem="se">se</w> 
+ <w id="w13.1.39" pos="VER:simp" lem="promener">promena</w> 
+ <w id="w13.1.40" pos="ADV" lem="tristement">tristement</w> 
+ <w id="w13.1.41" pos="PRP:det" lem="au">au</w> 
+ <w id="w13.1.42" pos="ADJ" lem="beau">beau</w> 
+ <w id="w13.1.43" pos="NOM" lem="milieu">milieu</w> 
+ <w id="w13.1.44" pos="PRP" lem="de">de</w> 
+ <w id="w13.1.45" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w13.1.46" pos="NOM" lem="salle">salle</w>
+ <w id="w13.1.47" pos="PUN" lem=",">,</w> 
+ <w id="w13.1.48" pos="PRO:PER" lem="se">se</w> 
+ <w id="w13.1.49" pos="VER:ppre" lem="demander">demandant</w> 
+ <w id="w13.1.50" pos="ADV" lem="comment">comment</w> 
+ <w id="w13.1.51" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w13.1.52" pos="PRO:PER" lem="en">en</w> 
+ <w id="w13.1.53" pos="VER:cond" lem="sortir">sortirait</w>
+ <w id="w13.1.54" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="14">
+<s id="s14.1">
+ <w id="w14.1.1" pos="ADV" lem="tout">Tout</w> 
+ <w id="w14.1.2" pos="PRP" lem="à">à</w> 
+ <w id="w14.1.3" pos="NOM" lem="coup">coup</w> 
+ <w id="w14.1.4" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w14.1.5" pos="VER:simp" lem="rencontrer">rencontra</w> 
+ <w id="w14.1.6" pos="PRP" lem="sur">sur</w> 
+ <w id="w14.1.7" pos="DET:POS" lem="son">son</w> 
+ <w id="w14.1.8" pos="NOM" lem="passage">passage</w> 
+ <w id="w14.1.9" pos="DET:ART" lem="un">une</w> 
+ <w id="w14.1.10" pos="ADJ" lem="petit">petite</w> 
+ <w id="w14.1.11" pos="NOM" lem="table">table</w> 
+ <w id="w14.1.12" pos="PRP" lem="à">à</w> 
+ <w id="w14.1.13" pos="NUM" lem="trois">trois</w> 
+ <w id="w14.1.14" pos="NOM" lem="pied">pieds</w>
+ <w id="w14.1.15" pos="PUN" lem=",">,</w> 
+ <w id="w14.1.16" pos="PRP" lem="en">en</w> 
+ <w id="w14.1.17" pos="NOM" lem="verre">verre</w> 
+ <w id="w14.1.18" pos="ADJ" lem="massif">massif</w>
+ <w id="w14.1.19" pos="PUN" lem=",">,</w> 
+ <w id="w14.1.20" pos="KON" lem="et">et</w> 
+ <w id="w14.1.21" pos="ADV" lem="rien">rien</w> 
+ <w id="w14.1.22" pos="ADV" lem="dessus">dessus</w> 
+ <w id="w14.1.23" pos="KON" lem="que">qu'</w>
+ <w id="w14.1.24" pos="DET:ART" lem="un">une</w> 
+ <w id="w14.1.25" pos="PRO:IND" lem="tout">toute</w> 
+ <w id="w14.1.26" pos="ADJ" lem="petit">petite</w> 
+ <w id="w14.1.27" pos="NOM" lem="clef">clef</w> 
+ <w id="w14.1.28" pos="PRP" lem="de">d'</w>
+ <w id="w14.1.29" pos="NOM" lem="or">or</w>
+ <w id="w14.1.30" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s14.2">
+ <w id="w14.2.1" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w14.2.2" pos="VER:simp" lem="penser">pensa</w> 
+ <w id="w14.2.3" pos="ADV" lem="aussitôt">aussitôt</w> 
+ <w id="w14.2.4" pos="KON" lem="que">que</w> 
+ <w id="w14.2.5" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w14.2.6" pos="VER:impf" lem="pouvoir">pouvait</w> 
+ <w id="w14.2.7" pos="VER:infi" lem="être">être</w> 
+ <w id="w14.2.8" pos="PRO:DEM" lem="celui">celle</w> 
+ <w id="w14.2.9" pos="PRP" lem="de">d'</w>
+ <w id="w14.2.10" pos="NUM" lem="un">une</w> 
+ <w id="w14.2.11" pos="PRP:det" lem="du">des</w> 
+ <w id="w14.2.12" pos="NOM" lem="porte">portes</w>
+ <w id="w14.2.13" pos="PUN" lem=";">;</w> 
+ <w id="w14.2.14" pos="KON" lem="mais">mais</w> 
+ <w id="w14.2.15" pos="INT" lem="hélas">hélas</w>
+ <w id="w14.2.16" pos="SENT" lem="!">!</w> 
+ <w id="w14.2.17" pos="KON" lem="soit">soit</w> 
+ <w id="w14.2.18" pos="KON" lem="que">que</w> 
+ <w id="w14.2.19" pos="DET:ART" lem="le">les</w> 
+ <w id="w14.2.20" pos="NOM" lem="serrure">serrures</w> 
+ <w id="w14.2.21" pos="VER:subi" lem="être">fussent</w> 
+ <w id="w14.2.22" pos="ADV" lem="trop">trop</w> 
+ <w id="w14.2.23" pos="ADJ" lem="grand">grandes</w>
+ <w id="w14.2.24" pos="PUN" lem=",">,</w> 
+ <w id="w14.2.25" pos="KON" lem="soit">soit</w> 
+ <w id="w14.2.26" pos="KON" lem="que">que</w> 
+ <w id="w14.2.27" pos="DET:ART" lem="le">la</w> 
+ <w id="w14.2.28" pos="NOM" lem="clef">clef</w> 
+ <w id="w14.2.29" pos="VER:subi" lem="être">fût</w> 
+ <w id="w14.2.30" pos="ADV" lem="trop">trop</w> 
+ <w id="w14.2.31" pos="ADJ" lem="petit">petite</w>
+ <w id="w14.2.32" pos="PUN" lem=",">,</w> 
+ <w id="w14.2.33" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w14.2.34" pos="ADV" lem="ne">ne</w> 
+ <w id="w14.2.35" pos="VER:simp" lem="pouvoir">put</w> 
+ <w id="w14.2.36" pos="ADV" lem="toujours">toujours</w> 
+ <w id="w14.2.37" pos="PRP" lem="en">en</w> 
+ <w id="w14.2.38" pos="VER:infi" lem="ouvrir">ouvrir</w> 
+ <w id="w14.2.39" pos="PRO:IND" lem="aucun">aucune</w>
+ <w id="w14.2.40" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s14.3">
+ <w id="w14.3.1" pos="ADV" lem="cependant">Cependant</w>
+ <w id="w14.3.2" pos="PUN" lem=",">,</w> 
+ <w id="w14.3.3" pos="VER:ppre" lem="avoir">ayant</w> 
+ <w id="w14.3.4" pos="NOM" lem="fait">fait</w> 
+ <w id="w14.3.5" pos="DET:ART" lem="un">un</w> 
+ <w id="w14.3.6" pos="NUM" lem="second">second</w> 
+ <w id="w14.3.7" pos="NOM" lem="tour">tour</w>
+ <w id="w14.3.8" pos="PUN" lem=",">,</w> 
+ <w id="w14.3.9" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w14.3.10" pos="VER:simp" lem="apercevoir">aperçut</w> 
+ <w id="w14.3.11" pos="DET:ART" lem="un">un</w> 
+ <w id="w14.3.12" pos="NOM" lem="rideau">rideau</w> 
+ <w id="w14.3.13" pos="VER:pper" lem="placer">placé</w> 
+ <w id="w14.3.14" pos="NOM" lem="très-bas">très-bas</w> 
+ <w id="w14.3.15" pos="KON" lem="et">et</w> 
+ <w id="w14.3.16" pos="KON" lem="que">qu'</w>
+ <w id="w14.3.17" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w14.3.18" pos="ADV" lem="ne">n'</w>
+ <w id="w14.3.19" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w14.3.20" pos="ADV" lem="pas">pas</w> 
+ <w id="w14.3.21" pos="VER:pper" lem="voir">vu</w> 
+ <w id="w14.3.22" pos="PRP" lem="de">d'</w>
+ <w id="w14.3.23" pos="NOM" lem="abord">abord</w>
+ <w id="w14.3.24" pos="PUN" lem=";">;</w> 
+ <w id="w14.3.25" pos="PRP" lem="par">par</w> 
+ <w id="w14.3.26" pos="ADV" lem="derrière">derrière</w> 
+ <w id="w14.3.27" pos="PRO:PER" lem="se">se</w> 
+ <w id="w14.3.28" pos="VER:impf" lem="trouver">trouvait</w> 
+ <w id="w14.3.29" pos="ADV" lem="encore">encore</w> 
+ <w id="w14.3.30" pos="DET:ART" lem="un">une</w> 
+ <w id="w14.3.31" pos="ADJ" lem="petit">petite</w> 
+ <w id="w14.3.32" pos="VER:pres" lem="porter">porte</w> 
+ <w id="w14.3.33" pos="PRP" lem="à">à</w> 
+ <w id="w14.3.34" pos="ADV" lem="peu">peu</w> 
+ <w id="w14.3.35" pos="ADV" lem="près">près</w> 
+ <w id="w14.3.36" pos="NUM" lem="quinze">quinze</w> 
+ <w id="w14.3.37" pos="NOM" lem="pouce">pouces</w> 
+ <w id="w14.3.38" pos="PRP" lem="de">de</w> 
+ <w id="w14.3.39" pos="NOM" lem="haut">haut</w>
+ <w id="w14.3.40" pos="PUN" lem=";">;</w> 
+ <w id="w14.3.41" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w14.3.42" pos="VER:simp" lem="essayer|essayer">essaya</w> 
+ <w id="w14.3.43" pos="DET:ART" lem="le">la</w> 
+ <w id="w14.3.44" pos="ADJ" lem="petit">petite</w> 
+ <w id="w14.3.45" pos="NOM" lem="clef">clef</w> 
+ <w id="w14.3.46" pos="PRP" lem="de">d'</w>
+ <w id="w14.3.47" pos="NOM" lem="or">or</w> 
+ <w id="w14.3.48" pos="PRP" lem="à">à</w> 
+ <w id="w14.3.49" pos="DET:ART" lem="le">la</w> 
+ <w id="w14.3.50" pos="NOM" lem="serrure">serrure</w>
+ <w id="w14.3.51" pos="PUN" lem=",">,</w> 
+ <w id="w14.3.52" pos="KON" lem="et">et</w>
+ <w id="w14.3.53" pos="PUN" lem=",">,</w> 
+ <w id="w14.3.54" pos="PRP" lem="à">à</w> 
+ <w id="w14.3.55" pos="DET:POS" lem="son">sa</w> 
+ <w id="w14.3.56" pos="ADJ" lem="grand">grande</w> 
+ <w id="w14.3.57" pos="NOM" lem="joie">joie</w>
+ <w id="w14.3.58" pos="PUN" lem=",">,</w> 
+ <w id="w14.3.59" pos="PRO:PER" lem="il">il</w> 
+ <w id="w14.3.60" pos="PRO:PER" lem="se">se</w> 
+ <w id="w14.3.61" pos="VER:simp" lem="trouver">trouva</w> 
+ <w id="w14.3.62" pos="KON" lem="que">qu'</w>
+ <w id="w14.3.63" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w14.3.64" pos="PRO:PER" lem="y">y</w> 
+ <w id="w14.3.65" pos="VER:impf" lem="aller">allait</w> 
+ <w id="w14.3.66" pos="PRP" lem="à">à</w> 
+ <w id="w14.3.67" pos="NOM" lem="merveille">merveille</w>
+ <w id="w14.3.68" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="15">
+<s id="s15.1">
+ <w id="w15.1.1" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w15.1.2" pos="VER:simp" lem="ouvrir">ouvrit</w> 
+ <w id="w15.1.3" pos="DET:ART" lem="le">la</w> 
+ <w id="w15.1.4" pos="NOM" lem="porte">porte</w>
+ <w id="w15.1.5" pos="PUN" lem=",">,</w> 
+ <w id="w15.1.6" pos="KON" lem="et">et</w> 
+ <w id="w15.1.7" pos="VER:pres" lem="vivre">vit</w> 
+ <w id="w15.1.8" pos="KON" lem="que">qu'</w>
+ <w id="w15.1.9" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w15.1.10" pos="VER:impf" lem="conduire">conduisait</w> 
+ <w id="w15.1.11" pos="PRP" lem="dans">dans</w> 
+ <w id="w15.1.12" pos="DET:ART" lem="un">un</w> 
+ <w id="w15.1.13" pos="ADJ" lem="étroit">étroit</w> 
+ <w id="w15.1.14" pos="NOM" lem="passage">passage</w> 
+ <w id="w15.1.15" pos="PRP" lem="à">à</w> 
+ <w id="w15.1.16" pos="NOM" lem="peine">peine</w> 
+ <w id="w15.1.17" pos="ADV" lem="plus">plus</w> 
+ <w id="w15.1.18" pos="ADJ" lem="large">large</w> 
+ <w id="w15.1.19" pos="KON" lem="que">qu'</w>
+ <w id="w15.1.20" pos="DET:ART" lem="un">un</w> 
+ <w id="w15.1.21" pos="NOM" lem="trou">trou</w> 
+ <w id="w15.1.22" pos="PRP" lem="à">à</w> 
+ <w id="w15.1.23" pos="NOM" lem="rat">rat</w>
+ <w id="w15.1.24" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s15.2">
+ <w id="w15.2.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w15.2.2" pos="PRO:PER" lem="se">s'</w>
+ <w id="w15.2.3" pos="VER:simp" lem="agenouiller">agenouilla</w>
+ <w id="w15.2.4" pos="PUN" lem=",">,</w> 
+ <w id="w15.2.5" pos="KON" lem="et">et</w>
+ <w id="w15.2.6" pos="PUN" lem=",">,</w> 
+ <w id="w15.2.7" pos="VER:ppre" lem="jeter">jetant</w> 
+ <w id="w15.2.8" pos="DET:ART" lem="le">les</w> 
+ <w id="w15.2.9" pos="NOM" lem="œil">yeux</w> 
+ <w id="w15.2.10" pos="DET:ART" lem="le">le</w> 
+ <w id="w15.2.11" pos="NOM" lem="long">long</w> 
+ <w id="w15.2.12" pos="PRP:det" lem="du">du</w> 
+ <w id="w15.2.13" pos="NOM" lem="passage">passage</w>
+ <w id="w15.2.14" pos="PUN" lem=",">,</w> 
+ <w id="w15.2.15" pos="VER:simp" lem="découvrir">découvrit</w> 
+ <w id="w15.2.16" pos="DET:ART" lem="le">le</w> 
+ <w id="w15.2.17" pos="ADV" lem="plus">plus</w> 
+ <w id="w15.2.18" pos="ADJ" lem="ravissant">ravissant</w> 
+ <w id="w15.2.19" pos="NOM" lem="jardin">jardin</w> 
+ <w id="w15.2.20" pos="PRP:det" lem="du">du</w> 
+ <w id="w15.2.21" pos="NOM" lem="monde">monde</w>
+ <w id="w15.2.22" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s15.3">
+ <w id="w15.3.1" pos="INT" lem="oh">Oh</w>
+ <w id="w15.3.2" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s15.4">
+ <w id="w15.4.1" pos="KON" lem="que">Qu'</w>
+ <w id="w15.4.2" pos="PRO:PER" lem="il">il</w> 
+ <w id="w15.4.3" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w15.4.4" pos="VER:impf" lem="tarder">tardait</w> 
+ <w id="w15.4.5" pos="PRP" lem="de">de</w> 
+ <w id="w15.4.6" pos="VER:infi" lem="sortir">sortir</w> 
+ <w id="w15.4.7" pos="PRP" lem="de">de</w> 
+ <w id="w15.4.8" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w15.4.9" pos="NOM" lem="salle">salle</w> 
+ <w id="w15.4.10" pos="ADJ" lem="ténébreux">ténébreuse</w> 
+ <w id="w15.4.11" pos="KON" lem="et">et</w> 
+ <w id="w15.4.12" pos="PRP" lem="de">d'</w>
+ <w id="w15.4.13" pos="VER:infi" lem="errer">errer</w> 
+ <w id="w15.4.14" pos="PRP:det" lem="au">au</w> 
+ <w id="w15.4.15" pos="NOM" lem="milieu">milieu</w> 
+ <w id="w15.4.16" pos="PRP" lem="de">de</w> 
+ <w id="w15.4.17" pos="PRO:DEM" lem="ce">ces</w> 
+ <w id="w15.4.18" pos="NOM" lem="carré">carrés</w> 
+ <w id="w15.4.19" pos="PRP" lem="de">de</w> 
+ <w id="w15.4.20" pos="NOM" lem="fleur">fleurs</w> 
+ <w id="w15.4.21" pos="ADJ" lem="brillant">brillantes</w>
+ <w id="w15.4.22" pos="PUN" lem=",">,</w> 
+ <w id="w15.4.23" pos="PRP" lem="de">de</w> 
+ <w id="w15.4.24" pos="PRO:DEM" lem="ce">ces</w> 
+ <w id="w15.4.25" pos="ADJ" lem="frais">fraîches</w> 
+ <w id="w15.4.26" pos="NOM" lem="fontaine">fontaines</w>
+ <w id="w15.4.27" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s15.5">
+ <w id="w15.5.1" pos="KON" lem="mais">Mais</w> 
+ <w id="w15.5.2" pos="DET:POS" lem="son">sa</w> 
+ <w id="w15.5.3" pos="NOM" lem="tête">tête</w> 
+ <w id="w15.5.4" pos="ADV" lem="ne">ne</w> 
+ <w id="w15.5.5" pos="VER:impf" lem="pouvoir">pouvait</w> 
+ <w id="w15.5.6" pos="ADV" lem="même">même</w> 
+ <w id="w15.5.7" pos="ADV" lem="pas">pas</w> 
+ <w id="w15.5.8" pos="VER:infi" lem="passer">passer</w> 
+ <w id="w15.5.9" pos="PRP" lem="par">par</w> 
+ <w id="w15.5.10" pos="DET:ART" lem="le">la</w> 
+ <w id="w15.5.11" pos="NOM" lem="porte">porte</w>
+ <w id="w15.5.12" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s15.6">
+ <w id="w15.6.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w15.6.2" pos="KON" lem="et">Et</w> 
+ <w id="w15.6.3" pos="KON" lem="quand">quand</w> 
+ <w id="w15.6.4" pos="ADV" lem="même">même</w> 
+ <w id="w15.6.5" pos="DET:POS" lem="mon">ma</w> 
+ <w id="w15.6.6" pos="NOM" lem="tête">tête</w> 
+ <w id="w15.6.7" pos="PRO:PER" lem="y">y</w> 
+ <w id="w15.6.8" pos="VER:cond" lem="passer">passerait</w>
+ <w id="w15.6.9" pos="PUN" lem=",">,</w>
+ <w id="w15.6.10" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w15.6.11" pos="VER:impf" lem="penser">pensait</w> 
+ <w id="w15.6.12" pos="NAM" lem="Alice">Alice</w>
+ <w id="w15.6.13" pos="PUN" lem=",">,</w> 
+ <w id="w15.6.14" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w15.6.15" pos="PRP" lem="à">à</w> 
+ <w id="w15.6.16" pos="PRO" lem="quoi">quoi</w> 
+ <w id="w15.6.17" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w15.6.18" pos="VER:cond" lem="servir">servirait-il</w> 
+ <w id="w15.6.19" pos="PRP" lem="sans">sans</w> 
+ <w id="w15.6.20" pos="DET:POS" lem="mon">mes</w> 
+ <w id="w15.6.21" pos="NOM" lem="épaule">épaules</w>
+ <w id="w15.6.22" pos="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s15.7">
+ <w id="w15.7.1" pos="INT" lem="oh">Oh</w>
+ <w id="w15.7.2" pos="SENT" lem="!">!</w> 
+ <w id="w15.7.3" pos="KON" lem="que">que</w> 
+ <w id="w15.7.4" pos="PRO:PER" lem="je">je</w> 
+ <w id="w15.7.5" pos="VER:cond" lem="vouloir">voudrais</w> 
+ <w id="w15.7.6" pos="ADV" lem="donc">donc</w> 
+ <w id="w15.7.7" pos="VER:infi" lem="avoir">avoir</w> 
+ <w id="w15.7.8" pos="DET:ART" lem="le">la</w> 
+ <w id="w15.7.9" pos="NOM" lem="faculté">faculté</w> 
+ <w id="w15.7.10" pos="PRP" lem="de">de</w> 
+ <w id="w15.7.11" pos="PRO:PER" lem="me">me</w> 
+ <w id="w15.7.12" pos="VER:infi" lem="fermer">fermer</w> 
+ <w id="w15.7.13" pos="ADV" lem="comme">comme</w> 
+ <w id="w15.7.14" pos="DET:ART" lem="un">un</w> 
+ <w id="w15.7.15" pos="NOM" lem="télescope">télescope</w>
+ <w id="w15.7.16" pos="SENT" lem="!">!</w>
+</s> 
+ 
+<s id="s15.8">
+ <w id="w15.8.1" pos="PRO:DEM" lem="cela">Ça</w> 
+ <w id="w15.8.2" pos="PRO:PER" lem="se">se</w> 
+ <w id="w15.8.3" pos="VER:cond" lem="pouvoir">pourrait</w> 
+ <w id="w15.8.4" pos="ADV" lem="peut-être">peut-être</w>
+ <w id="w15.8.5" pos="PUN" lem=",">,</w> 
+ <w id="w15.8.6" pos="KON" lem="si">si</w> 
+ <w id="w15.8.7" pos="PRO:PER" lem="je">je</w> 
+ <w id="w15.8.8" pos="VER:impf" lem="savoir">savais</w> 
+ <w id="w15.8.9" pos="ADV" lem="comment">comment</w> 
+ <w id="w15.8.10" pos="PRO:PER" lem="me">m'</w>
+ <w id="w15.8.11" pos="PRO:PER" lem="y">y</w> 
+ <w id="w15.8.12" pos="VER:infi" lem="prendre">prendre</w>
+ <w id="w15.8.13" pos="SENT" lem=".">.</w>
+ <w id="w15.8.14" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s15.9">
+ <w id="w15.9.1" pos="PRO:PER" lem="il">Il</w> 
+ <w id="w15.9.2" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w15.9.3" pos="VER:impf" lem="être">était</w> 
+ <w id="w15.9.4" pos="ADV" lem="déjà">déjà</w> 
+ <w id="w15.9.5" pos="VER:pper" lem="arriver">arrivé</w> 
+ <w id="w15.9.6" pos="ADV" lem="tant">tant</w> 
+ <w id="w15.9.7" pos="PRP" lem="de">de</w> 
+ <w id="w15.9.8" pos="NOM" lem="chose">choses</w> 
+ <w id="w15.9.9" pos="ADJ" lem="extraordinaire">extraordinaires</w>
+ <w id="w15.9.10" pos="PUN" lem=",">,</w> 
+ <w id="w15.9.11" pos="KON" lem="que">qu'</w>
+ <w id="w15.9.12" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w15.9.13" pos="VER:impf" lem="commencer">commençait</w> 
+ <w id="w15.9.14" pos="PRP" lem="à">à</w> 
+ <w id="w15.9.15" pos="VER:infi" lem="croire">croire</w> 
+ <w id="w15.9.16" pos="KON" lem="que">qu'</w>
+ <w id="w15.9.17" pos="PRO:PER" lem="il">il</w> 
+ <w id="w15.9.18" pos="ADV" lem="ne">n'</w>
+ <w id="w15.9.19" pos="PRO:PER" lem="y">y</w> 
+ <w id="w15.9.20" pos="PRO:PER" lem="en">en</w> 
+ <w id="w15.9.21" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w15.9.22" pos="ADV" lem="guère">guère</w> 
+ <w id="w15.9.23" pos="PRP" lem="de">d'</w>
+ <w id="w15.9.24" pos="NOM" lem="impossible">impossibles</w>
+ <w id="w15.9.25" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="16">
+<s id="s16.1">
+ <w id="w16.1.1" pos="KON" lem="comme">Comme</w> 
+ <w id="w16.1.2" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w16.1.3" pos="ADV" lem="ne">n'</w>
+ <w id="w16.1.4" pos="VER:impf" lem="avancer">avançait</w> 
+ <w id="w16.1.5" pos="PRP" lem="à">à</w> 
+ <w id="w16.1.6" pos="NOM" lem="rien">rien</w> 
+ <w id="w16.1.7" pos="PRP" lem="de">de</w> 
+ <w id="w16.1.8" pos="VER:infi" lem="passer">passer</w> 
+ <w id="w16.1.9" pos="DET:POS" lem="son">son</w> 
+ <w id="w16.1.10" pos="NOM" lem="temps">temps</w> 
+ <w id="w16.1.11" pos="PRP" lem="à">à</w> 
+ <w id="w16.1.12" pos="VER:infi" lem="attendre">attendre</w> 
+ <w id="w16.1.13" pos="PRP" lem="à">à</w> 
+ <w id="w16.1.14" pos="DET:ART" lem="le">la</w> 
+ <w id="w16.1.15" pos="ADJ" lem="petit">petite</w> 
+ <w id="w16.1.16" pos="NOM" lem="porte">porte</w>
+ <w id="w16.1.17" pos="PUN" lem=",">,</w> 
+ <w id="w16.1.18" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w16.1.19" pos="VER:simp" lem="retourner">retourna</w> 
+ <w id="w16.1.20" pos="PRP" lem="vers">vers</w> 
+ <w id="w16.1.21" pos="DET:ART" lem="le">la</w> 
+ <w id="w16.1.22" pos="NOM" lem="table">table</w>
+ <w id="w16.1.23" pos="PUN" lem=",">,</w> 
+ <w id="w16.1.24" pos="VER:ppre" lem="espérer">espérant</w> 
+ <w id="w16.1.25" pos="ADV" lem="presque">presque</w> 
+ <w id="w16.1.26" pos="PRO:PER" lem="y">y</w> 
+ <w id="w16.1.27" pos="VER:infi" lem="trouver">trouver</w> 
+ <w id="w16.1.28" pos="DET:ART" lem="un">une</w> 
+ <w id="w16.1.29" pos="ADJ" lem="autre">autre</w> 
+ <w id="w16.1.30" pos="NOM" lem="clef">clef</w>
+ <w id="w16.1.31" pos="PUN" lem=",">,</w> 
+ <w id="w16.1.32" pos="KON" lem="ou">ou</w> 
+ <w id="w16.1.33" pos="ADV" lem="tout">tout</w> 
+ <w id="w16.1.34" pos="PRP:det" lem="au">au</w> 
+ <w id="w16.1.35" pos="ADV" lem="moins">moins</w> 
+ <w id="w16.1.36" pos="PRO:IND" lem="quelque">quelque</w> 
+ <w id="w16.1.37" pos="NOM" lem="grimoire">grimoire</w> 
+ <w id="w16.1.38" pos="VER:ppre" lem="donner">donnant</w> 
+ <w id="w16.1.39" pos="DET:ART" lem="le">les</w> 
+ <w id="w16.1.40" pos="NOM" lem="règle|règles">règles</w> 
+ <w id="w16.1.41" pos="PRP" lem="à">à</w> 
+ <w id="w16.1.42" pos="VER:infi" lem="suivre">suivre</w> 
+ <w id="w16.1.43" pos="PRP" lem="pour">pour</w> 
+ <w id="w16.1.44" pos="PRO:PER" lem="se">se</w> 
+ <w id="w16.1.45" pos="VER:infi" lem="fermer">fermer</w> 
+ <w id="w16.1.46" pos="ADV" lem="comme">comme</w> 
+ <w id="w16.1.47" pos="DET:ART" lem="un">un</w> 
+ <w id="w16.1.48" pos="NOM" lem="télescope">télescope</w>
+ <w id="w16.1.49" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s16.2">
+ <w id="w16.2.1" pos="PRO:DEM" lem="ce">Cette</w> 
+ <w id="w16.2.2" pos="NOM" lem="foi|fois">fois</w> 
+ <w id="w16.2.3" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w16.2.4" pos="VER:simp" lem="trouver">trouva</w> 
+ <w id="w16.2.5" pos="PRP" lem="sur">sur</w> 
+ <w id="w16.2.6" pos="DET:ART" lem="le">la</w> 
+ <w id="w16.2.7" pos="NOM" lem="table">table</w> 
+ <w id="w16.2.8" pos="DET:ART" lem="un">une</w> 
+ <w id="w16.2.9" pos="ADJ" lem="petit">petite</w> 
+ <w id="w16.2.10" pos="NOM" lem="bouteille">bouteille</w> 
+ <w id="w16.2.11" pos="PUN" lem="(">(</w>
+ <w id="w16.2.12" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w16.2.13" pos="ADV" lem="certes">certes</w> 
+ <w id="w16.2.14" pos="ADV" lem="ne">n'</w>
+ <w id="w16.2.15" pos="VER:impf" lem="être">était</w> 
+ <w id="w16.2.16" pos="ADV" lem="pas">pas</w> 
+ <w id="w16.2.17" pos="ADV" lem="là">là</w> 
+ <w id="w16.2.18" pos="ADV" lem="tout">tout</w> 
+ <w id="w16.2.19" pos="PRP" lem="à">à</w> 
+ <w id="w16.2.20" pos="DET:ART" lem="le">l'</w>
+ <w id="w16.2.21" pos="NOM" lem="heure">heure</w>
+ <w id="w16.2.22" pos="PUN" lem=")">)</w>
+ <w id="w16.2.23" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s16.3">
+ <w id="w16.3.1" pos="PRP:det" lem="au">Au</w> 
+ <w id="w16.3.2" pos="NOM" lem="cou">cou</w> 
+ <w id="w16.3.3" pos="PRP" lem="de">de</w> 
+ <w id="w16.3.4" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w16.3.5" pos="ADJ" lem="petit">petite</w> 
+ <w id="w16.3.6" pos="NOM" lem="bouteille">bouteille</w> 
+ <w id="w16.3.7" pos="VER:impf" lem="être">était</w> 
+ <w id="w16.3.8" pos="VER:pper" lem="attacher">attachée</w> 
+ <w id="w16.3.9" pos="DET:ART" lem="un">une</w> 
+ <w id="w16.3.10" pos="NOM" lem="étiquette">étiquette</w> 
+ <w id="w16.3.11" pos="PRP" lem="en">en</w> 
+ <w id="w16.3.12" pos="NOM" lem="papier">papier</w>
+ <w id="w16.3.13" pos="PUN" lem=",">,</w> 
+ <w id="w16.3.14" pos="PRP" lem="avec">avec</w> 
+ <w id="w16.3.15" pos="PRO:DEM" lem="ce">ces</w> 
+ <w id="w16.3.16" pos="NOM" lem="mot">mots</w> 
+ <w id="w16.3.17" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w16.3.18" pos="NAM" lem="BUVEZ">BUVEZ-MOI</w>
+ <w id="w16.3.19" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w16.3.20" pos="ADV" lem="admirablement">admirablement</w> 
+ <w id="w16.3.21" pos="VER:pper" lem="imprimer">imprimés</w> 
+ <w id="w16.3.22" pos="PRP" lem="en">en</w> 
+ <w id="w16.3.23" pos="ADJ" lem="gros">grosses</w> 
+ <w id="w16.3.24" pos="NOM" lem="lettre">lettres</w>
+ <w id="w16.3.25" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="17">
+<s id="s17.1">
+ <w id="w17.1.1" pos="PRO:DEM" lem="ce">C'</w>
+ <w id="w17.1.2" pos="VER:pres" lem="être">est</w> 
+ <w id="w17.1.3" pos="ADV" lem="bien">bien</w> 
+ <w id="w17.1.4" pos="ADJ" lem="facile">facile</w> 
+ <w id="w17.1.5" pos="PRP" lem="à">à</w> 
+ <w id="w17.1.6" pos="VER:infi" lem="dire">dire</w> 
+ <w id="w17.1.7" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w17.1.8" pos="NOM" lem="_">_</w>
+ <w id="w17.1.9" pos="NAM" lem="Buvez">Buvez-moi</w>
+ <w id="w17.1.10" pos="ABR" lem="_">_</w>
+ <w id="w17.1.11" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w17.1.12" pos="KON" lem="mais">mais</w> 
+ <w id="w17.1.13" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w17.1.14" pos="VER:impf" lem="être">était</w> 
+ <w id="w17.1.15" pos="ADV" lem="trop">trop</w> 
+ <w id="w17.1.16" pos="ADJ" lem="fin">fine</w> 
+ <w id="w17.1.17" pos="PRP" lem="pour">pour</w> 
+ <w id="w17.1.18" pos="VER:infi" lem="obéir">obéir</w> 
+ <w id="w17.1.19" pos="PRP" lem="à">à</w> 
+ <w id="w17.1.20" pos="DET:ART" lem="le">l'</w>
+ <w id="w17.1.21" pos="ADV" lem="aveuglette">aveuglette</w>
+ <w id="w17.1.22" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s17.2">
+ <w id="w17.2.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w17.2.2" pos="VER:pres" lem="examiner">Examinons</w> 
+ <w id="w17.2.3" pos="PRP" lem="de">d'</w>
+ <w id="w17.2.4" pos="NOM" lem="abord">abord</w>
+ <w id="w17.2.5" pos="PUN" lem=",">,</w>
+ <w id="w17.2.6" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w17.2.7" pos="NOM" lem="dit-elle">dit-elle</w>
+ <w id="w17.2.8" pos="PUN" lem=",">,</w> 
+ <w id="w17.2.9" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w17.2.10" pos="KON" lem="et">et</w> 
+ <w id="w17.2.11" pos="VER:pres" lem="voir">voyons</w> 
+ <w id="w17.2.12" pos="KON" lem="si">s'</w>
+ <w id="w17.2.13" pos="PRO:PER" lem="il">il</w> 
+ <w id="w17.2.14" pos="PRO:PER" lem="y">y</w> 
+ <w id="w17.2.15" pos="VER:pres" lem="avoir">a</w> 
+ <w id="w17.2.16" pos="VER:pper" lem="écrire">écrit</w> 
+ <w id="w17.2.17" pos="ADV" lem="dessus">dessus</w>
+ <w id="w17.2.18" pos="PUN" lem="'">'</w>
+ <w id="w17.2.19" pos="ADJ" lem="_">_</w>
+ <w id="w17.2.20" pos="NOM" lem="poison">Poison</w>
+ <w id="w17.2.21" pos="ADJ" lem="_">_</w>
+ <w id="w17.2.22" pos="PUN" lem="'">'</w> 
+ <w id="w17.2.23" pos="KON" lem="ou">ou</w> 
+ <w id="w17.2.24" pos="ADV" lem="non">non</w>
+ <w id="w17.2.25" pos="SENT" lem=".">.</w>
+ <w id="w17.2.26" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s17.3">
+ <w id="w17.3.1" pos="KON" lem="car">Car</w> 
+ <w id="w17.3.2" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w17.3.3" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w17.3.4" pos="VER:pper" lem="lire">lu</w> 
+ <w id="w17.3.5" pos="PRP" lem="dans">dans</w> 
+ <w id="w17.3.6" pos="PRP" lem="de">de</w> 
+ <w id="w17.3.7" pos="ADJ" lem="joli">jolis</w> 
+ <w id="w17.3.8" pos="ADJ" lem="petit">petits</w> 
+ <w id="w17.3.9" pos="NOM" lem="conte">contes</w>
+ <w id="w17.3.10" pos="PUN" lem=",">,</w> 
+ <w id="w17.3.11" pos="KON" lem="que">que</w> 
+ <w id="w17.3.12" pos="PRP:det" lem="du">des</w> 
+ <w id="w17.3.13" pos="NOM" lem="enfant">enfants</w> 
+ <w id="w17.3.14" pos="VER:impf" lem="avoir">avaient</w> 
+ <w id="w17.3.15" pos="VER:pper" lem="être">été</w> 
+ <w id="w17.3.16" pos="VER:pper" lem="brûler">brûlés</w>
+ <w id="w17.3.17" pos="PUN" lem=",">,</w> 
+ <w id="w17.3.18" pos="VER:pper" lem="dévorer">dévorés</w> 
+ <w id="w17.3.19" pos="PRP" lem="par">par</w> 
+ <w id="w17.3.20" pos="PRP:det" lem="du">des</w> 
+ <w id="w17.3.21" pos="NOM" lem="bête">bêtes</w> 
+ <w id="w17.3.22" pos="ADJ" lem="féroce">féroces</w>
+ <w id="w17.3.23" pos="PUN" lem=",">,</w> 
+ <w id="w17.3.24" pos="KON" lem="et">et</w> 
+ <w id="w17.3.25" pos="KON" lem="que">qu'</w>
+ <w id="w17.3.26" pos="PRO:PER" lem="il">il</w> 
+ <w id="w17.3.27" pos="PRO:PER" lem="lui">leur</w> 
+ <w id="w17.3.28" pos="VER:impf" lem="être">était</w> 
+ <w id="w17.3.29" pos="VER:pper" lem="arriver">arrivé</w> 
+ <w id="w17.3.30" pos="PRP" lem="de">d'</w>
+ <w id="w17.3.31" pos="ADJ" lem="autre">autres</w> 
+ <w id="w17.3.32" pos="NOM" lem="chose">choses</w> 
+ <w id="w17.3.33" pos="ADJ" lem="très-désagréables">très-désagréables</w>
+ <w id="w17.3.34" pos="PUN" lem=",">,</w> 
+ <w id="w17.3.35" pos="PRO:IND" lem="tout">tout</w> 
+ <w id="w17.3.36" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w17.3.37" pos="PRP" lem="pour">pour</w> 
+ <w id="w17.3.38" pos="ADV" lem="ne">ne</w> 
+ <w id="w17.3.39" pos="PRO:PER" lem="se">s'</w>
+ <w id="w17.3.40" pos="VER:infi" lem="être">être</w> 
+ <w id="w17.3.41" pos="ADV" lem="pas">pas</w> 
+ <w id="w17.3.42" pos="VER:pper" lem="souvenir">souvenus</w> 
+ <w id="w17.3.43" pos="PRP:det" lem="du">des</w> 
+ <w id="w17.3.44" pos="NOM" lem="instruction">instructions</w> 
+ <w id="w17.3.45" pos="ADV" lem="bien">bien</w> 
+ <w id="w17.3.46" pos="ADJ" lem="simple">simples</w> 
+ <w id="w17.3.47" pos="KON" lem="que">que</w> 
+ <w id="w17.3.48" pos="PRO:PER" lem="lui">leur</w> 
+ <w id="w17.3.49" pos="VER:impf" lem="donner">donnaient</w> 
+ <w id="w17.3.50" pos="DET:POS" lem="leur">leurs</w> 
+ <w id="w17.3.51" pos="NOM" lem="parent|parents">parents</w>
+ <w id="w17.3.52" pos="PUN" lem=":">:</w> 
+ <w id="w17.3.53" pos="PRP" lem="par">par</w> 
+ <w id="w17.3.54" pos="NOM" lem="exemple">exemple</w>
+ <w id="w17.3.55" pos="PUN" lem=",">,</w> 
+ <w id="w17.3.56" pos="KON" lem="que">que</w> 
+ <w id="w17.3.57" pos="DET:ART" lem="le">le</w> 
+ <w id="w17.3.58" pos="NOM" lem="tisonnier">tisonnier</w> 
+ <w id="w17.3.59" pos="VER:pper" lem="chauffer">chauffé</w> 
+ <w id="w17.3.60" pos="PRP" lem="à">à</w> 
+ <w id="w17.3.61" pos="ADJ" lem="blanc">blanc</w> 
+ <w id="w17.3.62" pos="VER:pres" lem="brûler">brûle</w> 
+ <w id="w17.3.63" pos="DET:ART" lem="le">les</w> 
+ <w id="w17.3.64" pos="NOM" lem="main">mains</w> 
+ <w id="w17.3.65" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w17.3.66" pos="PRO:PER" lem="le">le</w> 
+ <w id="w17.3.67" pos="VER:pres" lem="tenir">tiennent</w> 
+ <w id="w17.3.68" pos="ADV" lem="trop">trop</w> 
+ <w id="w17.3.69" pos="ADV" lem="longtemps">longtemps</w>
+ <w id="w17.3.70" pos="PUN" lem=";">;</w> 
+ <w id="w17.3.71" pos="KON" lem="que">que</w> 
+ <w id="w17.3.72" pos="KON" lem="si">si</w> 
+ <w id="w17.3.73" pos="PRO:PER" lem="on">on</w> 
+ <w id="w17.3.74" pos="PRO:PER" lem="se">se</w> 
+ <w id="w17.3.75" pos="VER:pres" lem="faire">fait</w> 
+ <w id="w17.3.76" pos="PRP:det" lem="au">au</w> 
+ <w id="w17.3.77" pos="NOM" lem="doigt">doigt</w> 
+ <w id="w17.3.78" pos="DET:ART" lem="un">une</w> 
+ <w id="w17.3.79" pos="NOM" lem="coupure">coupure</w> 
+ <w id="w17.3.80" pos="ADJ" lem="profond">profonde</w>
+ <w id="w17.3.81" pos="PUN" lem=",">,</w> 
+ <w id="w17.3.82" pos="PRO:PER" lem="il">il</w> 
+ <w id="w17.3.83" pos="VER:pres" lem="saigner">saigne</w> 
+ <w id="w17.3.84" pos="PRP" lem="de">d'</w>
+ <w id="w17.3.85" pos="NOM" lem="ordinaire">ordinaire</w>
+ <w id="w17.3.86" pos="PUN" lem=";">;</w> 
+ <w id="w17.3.87" pos="KON" lem="et">et</w> 
+ <w id="w17.3.88" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w17.3.89" pos="ADV" lem="ne">n'</w>
+ <w id="w17.3.90" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w17.3.91" pos="ADV" lem="point">point</w> 
+ <w id="w17.3.92" pos="VER:pper" lem="oublier">oublié</w> 
+ <w id="w17.3.93" pos="KON" lem="que">que</w> 
+ <w id="w17.3.94" pos="KON" lem="si">si</w> 
+ <w id="w17.3.95" pos="PRO:PER" lem="la|le">l'</w>
+ <w id="w17.3.96" pos="PRO:PER" lem="on">on</w> 
+ <w id="w17.3.97" pos="VER:pres" lem="boire">boit</w> 
+ <w id="w17.3.98" pos="ADV" lem="immodérément">immodérément</w> 
+ <w id="w17.3.99" pos="PRP" lem="de">d'</w>
+ <w id="w17.3.100" pos="DET:ART" lem="un">une</w> 
+ <w id="w17.3.101" pos="NOM" lem="bouteille">bouteille</w> 
+ <w id="w17.3.102" pos="VER:pper" lem="marquer">marquée</w> 
+ <w id="w17.3.103" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w17.3.104" pos="ADJ" lem="_">_</w>
+ <w id="w17.3.105" pos="NOM" lem="poison">Poison</w>
+ <w id="w17.3.106" pos="ADJ" lem="_">_</w>
+ <w id="w17.3.107" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w17.3.108" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w17.3.109" pos="ADV" lem="ne">ne</w> 
+ <w id="w17.3.110" pos="VER:pres" lem="manquer">manque</w> 
+ <w id="w17.3.111" pos="ADV" lem="pas">pas</w> 
+ <w id="w17.3.112" pos="PRP" lem="de">de</w> 
+ <w id="w17.3.113" pos="VER:infi" lem="brouiller">brouiller</w> 
+ <w id="w17.3.114" pos="DET:ART" lem="le">le</w> 
+ <w id="w17.3.115" pos="NOM" lem="cœur">cœur</w> 
+ <w id="w17.3.116" pos="ADV" lem="tôt">tôt</w> 
+ <w id="w17.3.117" pos="KON" lem="ou">ou</w> 
+ <w id="w17.3.118" pos="ADV" lem="tard">tard</w>
+ <w id="w17.3.119" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="18">
+<s id="s18.1">
+ <w id="w18.1.1" pos="ADV" lem="cependant">Cependant</w>
+ <w id="w18.1.2" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.3" pos="KON" lem="comme">comme</w> 
+ <w id="w18.1.4" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w18.1.5" pos="NOM" lem="bouteille">bouteille</w> 
+ <w id="w18.1.6" pos="ADV" lem="ne">n'</w>
+ <w id="w18.1.7" pos="VER:impf" lem="être">était</w> 
+ <w id="w18.1.8" pos="ADV" lem="pas">pas</w> 
+ <w id="w18.1.9" pos="VER:pper" lem="marquer">marquée</w> 
+ <w id="w18.1.10" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w18.1.11" pos="ADJ" lem="_">_</w>
+ <w id="w18.1.12" pos="NOM" lem="poison">Poison</w>
+ <w id="w18.1.13" pos="ADJ" lem="_">_</w>
+ <w id="w18.1.14" pos="PUN" lem=",">,</w>
+ <w id="w18.1.15" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w18.1.16" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w18.1.17" pos="PRO:PER" lem="se">se</w> 
+ <w id="w18.1.18" pos="VER:simp" lem="hasarder">hasarda</w> 
+ <w id="w18.1.19" pos="PRP" lem="à">à</w> 
+ <w id="w18.1.20" pos="PRO:PER" lem="en">en</w> 
+ <w id="w18.1.21" pos="VER:infi" lem="goûter">goûter</w> 
+ <w id="w18.1.22" pos="DET:ART" lem="le">le</w> 
+ <w id="w18.1.23" pos="NOM" lem="contenu">contenu</w>
+ <w id="w18.1.24" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.25" pos="KON" lem="et">et</w> 
+ <w id="w18.1.26" pos="PRO:PER" lem="le">le</w> 
+ <w id="w18.1.27" pos="VER:ppre" lem="trouver">trouvant</w> 
+ <w id="w18.1.28" pos="ADV" lem="fort">fort</w> 
+ <w id="w18.1.29" pos="ADJ" lem="bon">bon</w>
+ <w id="w18.1.30" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.31" pos="PUN" lem="(">(</w>
+ <w id="w18.1.32" pos="PRP:det" lem="au">au</w> 
+ <w id="w18.1.33" pos="VER:pper" lem="faire">fait</w> 
+ <w id="w18.1.34" pos="PRO:DEM" lem="ce">c'</w>
+ <w id="w18.1.35" pos="VER:impf" lem="être">était</w> 
+ <w id="w18.1.36" pos="ADV" lem="comme">comme</w> 
+ <w id="w18.1.37" pos="DET:ART" lem="un">un</w> 
+ <w id="w18.1.38" pos="NOM" lem="mélange">mélange</w> 
+ <w id="w18.1.39" pos="PRP" lem="de">de</w> 
+ <w id="w18.1.40" pos="NOM" lem="tarte">tarte</w> 
+ <w id="w18.1.41" pos="PRP:det" lem="au">aux</w> 
+ <w id="w18.1.42" pos="NOM" lem="cerise">cerises</w>
+ <w id="w18.1.43" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.44" pos="PRP" lem="de">de</w> 
+ <w id="w18.1.45" pos="NOM" lem="crème">crème</w>
+ <w id="w18.1.46" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.47" pos="PRP" lem="de">d'</w>
+ <w id="w18.1.48" pos="NOM" lem="ananas">ananas</w>
+ <w id="w18.1.49" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.50" pos="PRP" lem="de">de</w> 
+ <w id="w18.1.51" pos="NOM" lem="dinde">dinde</w> 
+ <w id="w18.1.52" pos="VER:pper" lem="truffer">truffée</w>
+ <w id="w18.1.53" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.54" pos="PRP" lem="de">de</w> 
+ <w id="w18.1.55" pos="NOM" lem="nougat">nougat</w>
+ <w id="w18.1.56" pos="PUN" lem=",">,</w> 
+ <w id="w18.1.57" pos="KON" lem="et">et</w> 
+ <w id="w18.1.58" pos="PRP" lem="de">de</w> 
+ <w id="w18.1.59" pos="NOM" lem="rôtie">rôties</w> 
+ <w id="w18.1.60" pos="PRP:det" lem="au">au</w> 
+ <w id="w18.1.61" pos="NOM" lem="beurre">beurre</w>
+ <w id="w18.1.62" pos="PUN" lem=",">,</w>
+ <w id="w18.1.63" pos="PUN" lem=")">)</w> 
+ <w id="w18.1.64" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w18.1.65" pos="VER:simp" lem="avoir">eut</w> 
+ <w id="w18.1.66" pos="ADV" lem="bientôt">bientôt</w> 
+ <w id="w18.1.67" pos="ADV" lem="tout">tout</w> 
+ <w id="w18.1.68" pos="VER:pper" lem="avaler">avalé</w>
+ <w id="w18.1.69" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="19">
+<s id="s19.1">
+ <w id="w19.1.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w19.1.2" pos="PRO:PER" lem="je">Je</w> 
+ <w id="w19.1.3" pos="PRO:PER" lem="me">me</w> 
+ <w id="w19.1.4" pos="VER:pres" lem="sentir">sens</w> 
+ <w id="w19.1.5" pos="PRO:IND" lem="tout">toute</w> 
+ <w id="w19.1.6" pos="ADJ" lem="drôle">drôle</w>
+ <w id="w19.1.7" pos="PUN" lem=",">,</w>
+ <w id="w19.1.8" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w19.1.9" pos="VER:pres" lem="dire">dit</w> 
+ <w id="w19.1.10" pos="NAM" lem="Alice">Alice</w>
+ <w id="w19.1.11" pos="PUN" lem=",">,</w> 
+ <w id="w19.1.12" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w19.1.13" pos="PRO:PER" lem="on">on</w> 
+ <w id="w19.1.14" pos="VER:cond" lem="dire">dirait</w> 
+ <w id="w19.1.15" pos="KON" lem="que">que</w> 
+ <w id="w19.1.16" pos="PRO:PER" lem="je">je</w> 
+ <w id="w19.1.17" pos="VER:pres" lem="rentrer">rentre</w> 
+ <w id="w19.1.18" pos="PRP" lem="en">en</w> 
+ <w id="w19.1.19" pos="PRO:PER" lem="moi">moi-même</w> 
+ <w id="w19.1.20" pos="KON" lem="et">et</w> 
+ <w id="w19.1.21" pos="KON" lem="que">que</w> 
+ <w id="w19.1.22" pos="PRO:PER" lem="je">je</w> 
+ <w id="w19.1.23" pos="PRO:PER" lem="me">me</w> 
+ <w id="w19.1.24" pos="VER:subp" lem="fermer">ferme</w> 
+ <w id="w19.1.25" pos="ADV" lem="comme">comme</w> 
+ <w id="w19.1.26" pos="DET:ART" lem="un">un</w> 
+ <w id="w19.1.27" pos="NOM" lem="télescope">télescope</w>
+ <w id="w19.1.28" pos="SENT" lem=".">.</w>
+ <w id="w19.1.29" pos="PUN:cit" lem="&quot;">"</w>
+</s></p>
+
+<p id="20">
+<s id="s20.1">
+ <w id="w20.1.1" pos="PRO:DEM" lem="ce">C'</w>
+ <w id="w20.1.2" pos="VER:pres" lem="être">est</w> 
+ <w id="w20.1.3" pos="ADV" lem="bien">bien</w> 
+ <w id="w20.1.4" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w20.1.5" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w20.1.6" pos="VER:impf" lem="arriver">arrivait</w> 
+ <w id="w20.1.7" pos="PRP" lem="en">en</w> 
+ <w id="w20.1.8" pos="NOM" lem="effet">effet</w>
+ <w id="w20.1.9" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s20.2">
+ <w id="w20.2.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w20.2.2" pos="ADV" lem="ne">n'</w>
+ <w id="w20.2.3" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w20.2.4" pos="ADV" lem="plus">plus</w> 
+ <w id="w20.2.5" pos="KON" lem="que">que</w> 
+ <w id="w20.2.6" pos="NUM" lem="dix">dix</w> 
+ <w id="w20.2.7" pos="NOM" lem="pouce">pouces</w> 
+ <w id="w20.2.8" pos="PRP" lem="de">de</w> 
+ <w id="w20.2.9" pos="NOM" lem="haut">haut</w>
+ <w id="w20.2.10" pos="PUN" lem=",">,</w> 
+ <w id="w20.2.11" pos="KON" lem="et">et</w> 
+ <w id="w20.2.12" pos="DET:ART" lem="un">un</w> 
+ <w id="w20.2.13" pos="NOM" lem="éclair">éclair</w> 
+ <w id="w20.2.14" pos="PRP" lem="de">de</w> 
+ <w id="w20.2.15" pos="NOM" lem="joie">joie</w> 
+ <w id="w20.2.16" pos="VER:simp" lem="passer">passa</w> 
+ <w id="w20.2.17" pos="PRP" lem="sur">sur</w> 
+ <w id="w20.2.18" pos="DET:POS" lem="son">son</w> 
+ <w id="w20.2.19" pos="NOM" lem="visage">visage</w> 
+ <w id="w20.2.20" pos="PRP" lem="à">à</w> 
+ <w id="w20.2.21" pos="DET:ART" lem="le">la</w> 
+ <w id="w20.2.22" pos="NOM" lem="pensée">pensée</w> 
+ <w id="w20.2.23" pos="PRO:REL" lem="que">qu'</w>
+ <w id="w20.2.24" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w20.2.25" pos="VER:impf" lem="être">était</w> 
+ <w id="w20.2.26" pos="ADV" lem="maintenant">maintenant</w> 
+ <w id="w20.2.27" pos="PRP" lem="de">de</w> 
+ <w id="w20.2.28" pos="DET:ART" lem="le">la</w> 
+ <w id="w20.2.29" pos="NOM" lem="grandeur">grandeur</w> 
+ <w id="w20.2.30" pos="VER:pper" lem="vouloir">voulue</w> 
+ <w id="w20.2.31" pos="PRP" lem="pour">pour</w> 
+ <w id="w20.2.32" pos="VER:infi" lem="pénétrer">pénétrer</w> 
+ <w id="w20.2.33" pos="PRP" lem="par">par</w> 
+ <w id="w20.2.34" pos="DET:ART" lem="le">la</w> 
+ <w id="w20.2.35" pos="ADJ" lem="petit">petite</w> 
+ <w id="w20.2.36" pos="NOM" lem="porte">porte</w> 
+ <w id="w20.2.37" pos="PRP" lem="dans">dans</w> 
+ <w id="w20.2.38" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w20.2.39" pos="ADJ" lem="beau">beau</w> 
+ <w id="w20.2.40" pos="NOM" lem="jardin">jardin</w>
+ <w id="w20.2.41" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s20.3">
+ <w id="w20.3.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w20.3.2" pos="VER:simp" lem="attendre">attendit</w> 
+ <w id="w20.3.3" pos="ADV" lem="pourtant">pourtant</w> 
+ <w id="w20.3.4" pos="PRO:IND" lem="quelque">quelques</w> 
+ <w id="w20.3.5" pos="NOM" lem="minute">minutes</w>
+ <w id="w20.3.6" pos="PUN" lem=",">,</w> 
+ <w id="w20.3.7" pos="PRP" lem="pour">pour</w> 
+ <w id="w20.3.8" pos="VER:infi" lem="voir">voir</w> 
+ <w id="w20.3.9" pos="KON" lem="si">si</w> 
+ <w id="w20.3.10" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w20.3.11" pos="VER:impf" lem="aller">allait</w> 
+ <w id="w20.3.12" pos="VER:infi" lem="rapetisser">rapetisser</w> 
+ <w id="w20.3.13" pos="ADV" lem="encore">encore</w>
+ <w id="w20.3.14" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s20.4">
+ <w id="w20.4.1" pos="PRO:DEM" lem="cela">Cela</w> 
+ <w id="w20.4.2" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w20.4.3" pos="VER:impf" lem="faire">faisait</w> 
+ <w id="w20.4.4" pos="ADV" lem="bien">bien</w> 
+ <w id="w20.4.5" pos="DET:ART" lem="un">un</w> 
+ <w id="w20.4.6" pos="ADV" lem="peu">peu</w> 
+ <w id="w20.4.7" pos="NOM" lem="peur">peur</w>
+ <w id="w20.4.8" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s20.5">
+ <w id="w20.5.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w20.5.2" pos="VER:pres" lem="songer">Songez</w> 
+ <w id="w20.5.3" pos="ADV" lem="donc">donc</w>
+ <w id="w20.5.4" pos="PUN" lem=",">,</w>
+ <w id="w20.5.5" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w20.5.6" pos="PRO:PER" lem="se">se</w> 
+ <w id="w20.5.7" pos="VER:impf" lem="dire">disait</w> 
+ <w id="w20.5.8" pos="NAM" lem="Alice">Alice</w>
+ <w id="w20.5.9" pos="PUN" lem=",">,</w> 
+ <w id="w20.5.10" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w20.5.11" pos="PRO:PER" lem="je">je</w> 
+ <w id="w20.5.12" pos="VER:cond" lem="pouvoir">pourrais</w> 
+ <w id="w20.5.13" pos="ADV" lem="bien">bien</w> 
+ <w id="w20.5.14" pos="VER:infi" lem="finir">finir</w> 
+ <w id="w20.5.15" pos="PRP" lem="par">par</w> 
+ <w id="w20.5.16" pos="PRO:PER" lem="me">m'</w>
+ <w id="w20.5.17" pos="VER:infi" lem="éteindre">éteindre</w> 
+ <w id="w20.5.18" pos="ADV" lem="comme">comme</w> 
+ <w id="w20.5.19" pos="DET:ART" lem="un">une</w> 
+ <w id="w20.5.20" pos="NOM" lem="chandelle">chandelle</w>
+ <w id="w20.5.21" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s20.6">
+ <w id="w20.6.1" pos="PRO:REL" lem="que">Que</w> 
+ <w id="w20.6.2" pos="VER:cond" lem="devenir">deviendrais-je</w> 
+ <w id="w20.6.3" pos="ADV" lem="alors">alors</w>
+ <w id="w20.6.4" pos="SENT" lem="?">?</w>
+ <w id="w20.6.5" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s20.7">
+ <w id="w20.7.1" pos="KON" lem="et">Et</w> 
+ <w id="w20.7.2" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w20.7.3" pos="VER:impf" lem="chercher">cherchait</w> 
+ <w id="w20.7.4" pos="PRP" lem="à">à</w> 
+ <w id="w20.7.5" pos="PRO:PER" lem="se">s'</w>
+ <w id="w20.7.6" pos="VER:infi" lem="imaginer">imaginer</w> 
+ <w id="w20.7.7" pos="DET:ART" lem="le">l'</w>
+ <w id="w20.7.8" pos="NOM" lem="air">air</w> 
+ <w id="w20.7.9" pos="PRO:REL" lem="que">que</w> 
+ <w id="w20.7.10" pos="VER:impf" lem="pouvoir">pouvait</w> 
+ <w id="w20.7.11" pos="VER:infi" lem="avoir">avoir</w> 
+ <w id="w20.7.12" pos="DET:ART" lem="le">la</w> 
+ <w id="w20.7.13" pos="NOM" lem="flamme">flamme</w> 
+ <w id="w20.7.14" pos="PRP" lem="de">d'</w>
+ <w id="w20.7.15" pos="DET:ART" lem="un">une</w> 
+ <w id="w20.7.16" pos="NOM" lem="chandelle">chandelle</w> 
+ <w id="w20.7.17" pos="VER:pper" lem="éteindre">éteinte</w>
+ <w id="w20.7.18" pos="PUN" lem=",">,</w> 
+ <w id="w20.7.19" pos="KON" lem="car">car</w> 
+ <w id="w20.7.20" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w20.7.21" pos="ADV" lem="ne">ne</w> 
+ <w id="w20.7.22" pos="PRO:PER" lem="se">se</w> 
+ <w id="w20.7.23" pos="VER:impf" lem="rappeler">rappelait</w> 
+ <w id="w20.7.24" pos="ADV" lem="pas">pas</w> 
+ <w id="w20.7.25" pos="VER:infi" lem="avoir">avoir</w> 
+ <w id="w20.7.26" pos="ADV" lem="jamais">jamais</w> 
+ <w id="w20.7.27" pos="ADV" lem="rien">rien</w> 
+ <w id="w20.7.28" pos="VER:pper" lem="voir">vu</w> 
+ <w id="w20.7.29" pos="PRP" lem="de">de</w> 
+ <w id="w20.7.30" pos="DET:ART" lem="le">la</w> 
+ <w id="w20.7.31" pos="NOM" lem="sorte">sorte</w>
+ <w id="w20.7.32" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="21">
+<s id="s21.1">
+ <w id="w21.1.1" pos="DET:ART" lem="un">Un</w> 
+ <w id="w21.1.2" pos="NOM" lem="moment">moment</w> 
+ <w id="w21.1.3" pos="KON" lem="après">après</w>
+ <w id="w21.1.4" pos="PUN" lem=",">,</w> 
+ <w id="w21.1.5" pos="VER:ppre" lem="voir">voyant</w> 
+ <w id="w21.1.6" pos="KON" lem="que">qu'</w>
+ <w id="w21.1.7" pos="PRO:PER" lem="il">il</w> 
+ <w id="w21.1.8" pos="ADV" lem="ne">ne</w> 
+ <w id="w21.1.9" pos="PRO:PER" lem="se">se</w> 
+ <w id="w21.1.10" pos="VER:impf" lem="passer">passait</w> 
+ <w id="w21.1.11" pos="ADV" lem="plus">plus</w> 
+ <w id="w21.1.12" pos="ADV" lem="rien">rien</w>
+ <w id="w21.1.13" pos="PUN" lem=",">,</w> 
+ <w id="w21.1.14" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w21.1.15" pos="PRO:PER" lem="se">se</w> 
+ <w id="w21.1.16" pos="VER:simp" lem="décider">décida</w> 
+ <w id="w21.1.17" pos="PRP" lem="à">à</w> 
+ <w id="w21.1.18" pos="VER:infi" lem="aller">aller</w> 
+ <w id="w21.1.19" pos="PRP" lem="de">de</w> 
+ <w id="w21.1.20" pos="NOM" lem="suite">suite</w> 
+ <w id="w21.1.21" pos="PRP:det" lem="au">au</w> 
+ <w id="w21.1.22" pos="NOM" lem="jardin">jardin</w>
+ <w id="w21.1.23" pos="PUN" lem=";">;</w> 
+ <w id="w21.1.24" pos="KON" lem="mais">mais</w> 
+ <w id="w21.1.25" pos="INT" lem="hélas">hélas</w>
+ <w id="w21.1.26" pos="PUN" lem=",">,</w> 
+ <w id="w21.1.27" pos="NOM" lem="pauvre">pauvre</w> 
+ <w id="w21.1.28" pos="NAM" lem="Alice">Alice</w>
+ <w id="w21.1.29" pos="SENT" lem="!">!</w> 
+ <w id="w21.1.30" pos="PRO:PER" lem="en">en</w> 
+ <w id="w21.1.31" pos="VER:ppre" lem="arriver">arrivant</w> 
+ <w id="w21.1.32" pos="PRP" lem="à">à</w> 
+ <w id="w21.1.33" pos="DET:ART" lem="le">la</w> 
+ <w id="w21.1.34" pos="NOM" lem="porte">porte</w>
+ <w id="w21.1.35" pos="PUN" lem=",">,</w> 
+ <w id="w21.1.36" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w21.1.37" pos="PRO:PER" lem="se">s'</w>
+ <w id="w21.1.38" pos="VER:simp" lem="apercevoir">aperçut</w> 
+ <w id="w21.1.39" pos="KON" lem="que">qu'</w>
+ <w id="w21.1.40" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w21.1.41" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w21.1.42" pos="VER:pper" lem="oublier">oublié</w> 
+ <w id="w21.1.43" pos="DET:ART" lem="le">la</w> 
+ <w id="w21.1.44" pos="ADJ" lem="petit">petite</w> 
+ <w id="w21.1.45" pos="NOM" lem="clef">clef</w> 
+ <w id="w21.1.46" pos="PRP" lem="de">d'</w>
+ <w id="w21.1.47" pos="NOM" lem="or">or</w>
+ <w id="w21.1.48" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s21.2">
+ <w id="w21.2.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w21.2.2" pos="VER:simp" lem="revenir">revint</w> 
+ <w id="w21.2.3" pos="PRP" lem="sur">sur</w> 
+ <w id="w21.2.4" pos="DET:POS" lem="son">ses</w> 
+ <w id="w21.2.5" pos="NOM" lem="pas">pas</w> 
+ <w id="w21.2.6" pos="PRP" lem="pour">pour</w> 
+ <w id="w21.2.7" pos="PRO:PER" lem="la">la</w> 
+ <w id="w21.2.8" pos="VER:infi" lem="prendre">prendre</w> 
+ <w id="w21.2.9" pos="PRP" lem="sur">sur</w> 
+ <w id="w21.2.10" pos="DET:ART" lem="le">la</w> 
+ <w id="w21.2.11" pos="NOM" lem="table">table</w>
+ <w id="w21.2.12" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s21.3">
+ <w id="w21.3.1" pos="INT" lem="bah">Bah</w>
+ <w id="w21.3.2" pos="SENT" lem="!">!</w> 
+ <w id="w21.3.3" pos="ADJ" lem="impossible">impossible</w> 
+ <w id="w21.3.4" pos="PRP" lem="de">d'</w>
+ <w id="w21.3.5" pos="VER:infi" lem="atteindre">atteindre</w> 
+ <w id="w21.3.6" pos="PRP" lem="à">à</w> 
+ <w id="w21.3.7" pos="DET:ART" lem="le">la</w> 
+ <w id="w21.3.8" pos="NOM" lem="clef">clef</w> 
+ <w id="w21.3.9" pos="PRO:REL" lem="que">qu'</w>
+ <w id="w21.3.10" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w21.3.11" pos="VER:impf" lem="voir">voyait</w> 
+ <w id="w21.3.12" pos="ADV" lem="bien">bien</w> 
+ <w id="w21.3.13" pos="ADV" lem="clairement">clairement</w> 
+ <w id="w21.3.14" pos="PRP" lem="à">à</w> 
+ <w id="w21.3.15" pos="NOM" lem="travers">travers</w> 
+ <w id="w21.3.16" pos="DET:ART" lem="le">le</w> 
+ <w id="w21.3.17" pos="NOM" lem="verre">verre</w>
+ <w id="w21.3.18" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s21.4">
+ <w id="w21.4.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w21.4.2" pos="VER:simp" lem="faire">fit</w> 
+ <w id="w21.4.3" pos="ADV" lem="alors">alors</w> 
+ <w id="w21.4.4" pos="PRO:IND" lem="tout">tout</w> 
+ <w id="w21.4.5" pos="DET:POS" lem="son">son</w> 
+ <w id="w21.4.6" pos="NOM" lem="possible">possible</w> 
+ <w id="w21.4.7" pos="PRP" lem="pour">pour</w> 
+ <w id="w21.4.8" pos="VER:infi" lem="grimper">grimper</w> 
+ <w id="w21.4.9" pos="DET:ART" lem="le">le</w> 
+ <w id="w21.4.10" pos="NOM" lem="long">long</w> 
+ <w id="w21.4.11" pos="PRP" lem="de">d'</w>
+ <w id="w21.4.12" pos="NOM" lem="un">un</w> 
+ <w id="w21.4.13" pos="PRP:det" lem="du">des</w> 
+ <w id="w21.4.14" pos="NOM" lem="pied">pieds</w> 
+ <w id="w21.4.15" pos="PRP" lem="de">de</w> 
+ <w id="w21.4.16" pos="DET:ART" lem="le">la</w> 
+ <w id="w21.4.17" pos="NOM" lem="table">table</w>
+ <w id="w21.4.18" pos="PUN" lem=",">,</w> 
+ <w id="w21.4.19" pos="KON" lem="mais">mais</w> 
+ <w id="w21.4.20" pos="PRO:PER" lem="il">il</w> 
+ <w id="w21.4.21" pos="VER:impf" lem="être">était</w> 
+ <w id="w21.4.22" pos="ADV" lem="trop">trop</w> 
+ <w id="w21.4.23" pos="ADJ" lem="glissant">glissant</w>
+ <w id="w21.4.24" pos="PUN" lem=";">;</w> 
+ <w id="w21.4.25" pos="KON" lem="et">et</w> 
+ <w id="w21.4.26" pos="ADV" lem="enfin">enfin</w>
+ <w id="w21.4.27" pos="PUN" lem=",">,</w> 
+ <w id="w21.4.28" pos="VER:pper" lem="épuiser">épuisée</w> 
+ <w id="w21.4.29" pos="PRP" lem="de">de</w> 
+ <w id="w21.4.30" pos="NOM" lem="fatigue">fatigue</w>
+ <w id="w21.4.31" pos="PUN" lem=",">,</w> 
+ <w id="w21.4.32" pos="DET:ART" lem="le">la</w> 
+ <w id="w21.4.33" pos="ADJ" lem="pauvre">pauvre</w> 
+ <w id="w21.4.34" pos="NOM" lem="enfant">enfant</w> 
+ <w id="w21.4.35" pos="PRO:PER" lem="se">s'</w>
+ <w id="w21.4.36" pos="VER:simp" lem="asseoir">assit</w> 
+ <w id="w21.4.37" pos="KON" lem="et">et</w> 
+ <w id="w21.4.38" pos="VER:simp" lem="pleurer">pleura</w>
+ <w id="w21.4.39" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="22">
+<s id="s22.1">
+ <w id="w22.1.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w22.1.2" pos="VER:pres" lem="aller">Allons</w>
+ <w id="w22.1.3" pos="PUN" lem=",">,</w> 
+ <w id="w22.1.4" pos="PRP" lem="à">à</w> 
+ <w id="w22.1.5" pos="PRO" lem="quoi">quoi</w> 
+ <w id="w22.1.6" pos="ADV" lem="bon">bon</w> 
+ <w id="w22.1.7" pos="VER:infi" lem="pleurer">pleurer</w> 
+ <w id="w22.1.8" pos="ADV" lem="ainsi">ainsi</w>
+ <w id="w22.1.9" pos="PUN" lem=",">,</w>
+ <w id="w22.1.10" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w22.1.11" pos="PRO:PER" lem="se">se</w> 
+ <w id="w22.1.12" pos="VER:pres" lem="dire">dit</w> 
+ <w id="w22.1.13" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w22.1.14" pos="ADV" lem="vivement">vivement</w>
+ <w id="w22.1.15" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s22.2">
+ <w id="w22.2.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w22.2.2" pos="PRO:PER" lem="je">Je</w> 
+ <w id="w22.2.3" pos="PRO:PER" lem="vous">vous</w> 
+ <w id="w22.2.4" pos="VER:pres" lem="conseiller">conseille</w>
+ <w id="w22.2.5" pos="PUN" lem=",">,</w> 
+ <w id="w22.2.6" pos="NAM" lem="Mademoiselle">Mademoiselle</w>
+ <w id="w22.2.7" pos="PUN" lem=",">,</w> 
+ <w id="w22.2.8" pos="PRP" lem="de">de</w> 
+ <w id="w22.2.9" pos="VER:infi" lem="cesser">cesser</w> 
+ <w id="w22.2.10" pos="ADV" lem="tout">tout</w> 
+ <w id="w22.2.11" pos="PRP" lem="de">de</w> 
+ <w id="w22.2.12" pos="NOM" lem="suite">suite</w>
+ <w id="w22.2.13" pos="SENT" lem="!">!</w>
+ <w id="w22.2.14" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s22.3">
+ <w id="w22.3.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w22.3.2" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w22.3.3" pos="PRP" lem="pour">pour</w> 
+ <w id="w22.3.4" pos="NOM" lem="habitude">habitude</w> 
+ <w id="w22.3.5" pos="PRP" lem="de">de</w> 
+ <w id="w22.3.6" pos="PRO:PER" lem="se">se</w> 
+ <w id="w22.3.7" pos="VER:infi" lem="donner">donner</w> 
+ <w id="w22.3.8" pos="PRP" lem="de">de</w> 
+ <w id="w22.3.9" pos="NOM" lem="très-bons">très-bons</w> 
+ <w id="w22.3.10" pos="NOM" lem="conseil">conseils</w> 
+ <w id="w22.3.11" pos="PUN" lem="(">(</w>
+ <w id="w22.3.12" pos="ADV" lem="bien">bien</w> 
+ <w id="w22.3.13" pos="KON" lem="que">qu'</w>
+ <w id="w22.3.14" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w22.3.15" pos="PRO:PER" lem="la|le">les</w> 
+ <w id="w22.3.16" pos="VER:subi" lem="suivre">suivît</w> 
+ <w id="w22.3.17" pos="ADV" lem="rarement">rarement</w>
+ <w id="w22.3.18" pos="PUN" lem=")">)</w>
+ <w id="w22.3.19" pos="PUN" lem=",">,</w> 
+ <w id="w22.3.20" pos="KON" lem="et">et</w> 
+ <w id="w22.3.21" pos="ADV" lem="quelquefois">quelquefois</w> 
+ <w id="w22.3.22" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w22.3.23" pos="PRO:PER" lem="se">se</w> 
+ <w id="w22.3.24" pos="VER:impf" lem="gronder">grondait</w> 
+ <w id="w22.3.25" pos="ADV" lem="si">si</w> 
+ <w id="w22.3.26" pos="ADJ" lem="fort">fort</w> 
+ <w id="w22.3.27" pos="KON" lem="que">que</w> 
+ <w id="w22.3.28" pos="DET:ART" lem="le">les</w> 
+ <w id="w22.3.29" pos="NOM" lem="larme">larmes</w> 
+ <w id="w22.3.30" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w22.3.31" pos="PRO:PER" lem="en">en</w> 
+ <w id="w22.3.32" pos="VER:impf" lem="venir">venaient</w> 
+ <w id="w22.3.33" pos="PRP:det" lem="au">aux</w> 
+ <w id="w22.3.34" pos="NOM" lem="œil">yeux</w>
+ <w id="w22.3.35" pos="PUN" lem=";">;</w> 
+ <w id="w22.3.36" pos="DET:ART" lem="un">une</w> 
+ <w id="w22.3.37" pos="NOM" lem="foi|fois">fois</w> 
+ <w id="w22.3.38" pos="ADJ" lem="même">même</w> 
+ <w id="w22.3.39" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w22.3.40" pos="PRO:PER" lem="se">s'</w>
+ <w id="w22.3.41" pos="VER:impf" lem="être">était</w> 
+ <w id="w22.3.42" pos="VER:pper" lem="donner">donné</w> 
+ <w id="w22.3.43" pos="PRP:det" lem="du">des</w> 
+ <w id="w22.3.44" pos="NOM" lem="tape">tapes</w> 
+ <w id="w22.3.45" pos="PRP" lem="pour">pour</w> 
+ <w id="w22.3.46" pos="VER:infi" lem="avoir">avoir</w> 
+ <w id="w22.3.47" pos="VER:pper" lem="tricher">triché</w> 
+ <w id="w22.3.48" pos="PRP" lem="dans">dans</w> 
+ <w id="w22.3.49" pos="DET:ART" lem="un">une</w> 
+ <w id="w22.3.50" pos="NOM" lem="partie">partie</w> 
+ <w id="w22.3.51" pos="PRP" lem="de">de</w> 
+ <w id="w22.3.52" pos="NOM" lem="croquet">croquet</w> 
+ <w id="w22.3.53" pos="PRO:REL" lem="que">qu'</w>
+ <w id="w22.3.54" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w22.3.55" pos="VER:impf" lem="jouer">jouait</w> 
+ <w id="w22.3.56" pos="PRO:IND" lem="tout">toute</w> 
+ <w id="w22.3.57" pos="ADJ" lem="seul">seule</w>
+ <w id="w22.3.58" pos="PUN" lem=";">;</w> 
+ <w id="w22.3.59" pos="KON" lem="car">car</w> 
+ <w id="w22.3.60" pos="PRO:DEM" lem="ce">cette</w> 
+ <w id="w22.3.61" pos="ADJ" lem="étrange">étrange</w> 
+ <w id="w22.3.62" pos="NOM" lem="enfant">enfant</w> 
+ <w id="w22.3.63" pos="VER:impf" lem="aimer">aimait</w> 
+ <w id="w22.3.64" pos="ADV" lem="beaucoup">beaucoup</w> 
+ <w id="w22.3.65" pos="PRP" lem="à">à</w> 
+ <w id="w22.3.66" pos="VER:infi" lem="faire">faire</w> 
+ <w id="w22.3.67" pos="NUM" lem="deux">deux</w> 
+ <w id="w22.3.68" pos="NOM" lem="personnage">personnages</w>
+ <w id="w22.3.69" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s22.4">
+ <w id="w22.4.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w22.4.2" pos="KON" lem="mais">Mais</w>
+ <w id="w22.4.3" pos="PUN" lem=",">,</w>
+ <w id="w22.4.4" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w22.4.5" pos="VER:simp" lem="penser">pensa</w> 
+ <w id="w22.4.6" pos="DET:ART" lem="le">la</w> 
+ <w id="w22.4.7" pos="ADJ" lem="pauvre">pauvre</w> 
+ <w id="w22.4.8" pos="NAM" lem="Alice">Alice</w>
+ <w id="w22.4.9" pos="PUN" lem=",">,</w> 
+ <w id="w22.4.10" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w22.4.11" pos="PRO:PER" lem="il">il</w> 
+ <w id="w22.4.12" pos="ADV" lem="ne">n'</w>
+ <w id="w22.4.13" pos="PRO:PER" lem="y">y</w> 
+ <w id="w22.4.14" pos="VER:pres" lem="avoir">a</w> 
+ <w id="w22.4.15" pos="ADV" lem="plus">plus</w> 
+ <w id="w22.4.16" pos="ADJ" lem="moyen">moyen</w> 
+ <w id="w22.4.17" pos="PRP" lem="de">de</w> 
+ <w id="w22.4.18" pos="VER:infi" lem="faire">faire</w> 
+ <w id="w22.4.19" pos="NUM" lem="deux">deux</w> 
+ <w id="w22.4.20" pos="NOM" lem="personnage">personnages</w>
+ <w id="w22.4.21" pos="PUN" lem=",">,</w> 
+ <w id="w22.4.22" pos="PRP" lem="à">à</w> 
+ <w id="w22.4.23" pos="ADJ" lem="présent">présent</w> 
+ <w id="w22.4.24" pos="KON" lem="que">qu'</w>
+ <w id="w22.4.25" pos="PRO:PER" lem="il">il</w> 
+ <w id="w22.4.26" pos="PRO:PER" lem="me">me</w> 
+ <w id="w22.4.27" pos="VER:pres" lem="rester">reste</w> 
+ <w id="w22.4.28" pos="PRP" lem="à">à</w> 
+ <w id="w22.4.29" pos="NOM" lem="peine">peine</w> 
+ <w id="w22.4.30" pos="PRP" lem="de">de</w> 
+ <w id="w22.4.31" pos="PRO:REL" lem="quoi">quoi</w> 
+ <w id="w22.4.32" pos="PRP" lem="en">en</w> 
+ <w id="w22.4.33" pos="VER:infi" lem="faire">faire</w> 
+ <w id="w22.4.34" pos="NUM" lem="un">un</w>
+ <w id="w22.4.35" pos="SENT" lem=".">.</w>
+ <w id="w22.4.36" pos="PUN:cit" lem="&quot;">"</w>
+</s></p>
+
+<p id="23">
+<s id="s23.1">
+ <w id="w23.1.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w23.1.2" pos="VER:simp" lem="apercevoir">aperçut</w> 
+ <w id="w23.1.3" pos="ADV" lem="alors">alors</w> 
+ <w id="w23.1.4" pos="DET:ART" lem="un">une</w> 
+ <w id="w23.1.5" pos="ADJ" lem="petit">petite</w> 
+ <w id="w23.1.6" pos="NOM" lem="boîte">boîte</w> 
+ <w id="w23.1.7" pos="PRP" lem="en">en</w> 
+ <w id="w23.1.8" pos="NOM" lem="verre">verre</w> 
+ <w id="w23.1.9" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w23.1.10" pos="VER:impf" lem="être">était</w> 
+ <w id="w23.1.11" pos="PRP" lem="sous">sous</w> 
+ <w id="w23.1.12" pos="DET:ART" lem="le">la</w> 
+ <w id="w23.1.13" pos="NOM" lem="table">table</w>
+ <w id="w23.1.14" pos="PUN" lem=",">,</w> 
+ <w id="w23.1.15" pos="PRO:PER" lem="la|le">l'</w>
+ <w id="w23.1.16" pos="VER:simp" lem="ouvrir">ouvrit</w> 
+ <w id="w23.1.17" pos="KON" lem="et">et</w> 
+ <w id="w23.1.18" pos="PRO:PER" lem="y">y</w> 
+ <w id="w23.1.19" pos="VER:simp" lem="trouver">trouva</w> 
+ <w id="w23.1.20" pos="DET:ART" lem="un">un</w> 
+ <w id="w23.1.21" pos="ADV" lem="tout">tout</w> 
+ <w id="w23.1.22" pos="ADJ" lem="petit">petit</w> 
+ <w id="w23.1.23" pos="NOM" lem="gâteau">gâteau</w> 
+ <w id="w23.1.24" pos="PRP" lem="sur">sur</w> 
+ <w id="w23.1.25" pos="PRO:REL" lem="lequel">lequel</w> 
+ <w id="w23.1.26" pos="DET:ART" lem="le">les</w> 
+ <w id="w23.1.27" pos="NOM" lem="mot">mots</w> 
+ <w id="w23.1.28" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w23.1.29" pos="NAM" lem="MANGEZ">MANGEZ-MOI</w>
+ <w id="w23.1.30" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w23.1.31" pos="VER:impf" lem="être">étaient</w> 
+ <w id="w23.1.32" pos="ADV" lem="admirablement">admirablement</w> 
+ <w id="w23.1.33" pos="VER:pper" lem="tracer">tracés</w> 
+ <w id="w23.1.34" pos="PRP" lem="avec">avec</w> 
+ <w id="w23.1.35" pos="PRP:det" lem="du">des</w> 
+ <w id="w23.1.36" pos="NOM" lem="raisin">raisins</w> 
+ <w id="w23.1.37" pos="PRP" lem="de">de</w> 
+ <w id="w23.1.38" pos="NAM" lem="Corinthe">Corinthe</w>
+ <w id="w23.1.39" pos="SENT" lem=".">.</w>
+</s> 
+ 
+<s id="s23.2">
+ <w id="w23.2.1" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w23.2.2" pos="VER:pres" lem="tenir">Tiens</w>
+ <w id="w23.2.3" pos="PUN" lem=",">,</w> 
+ <w id="w23.2.4" pos="PRO:PER" lem="je">je</w> 
+ <w id="w23.2.5" pos="VER:pres" lem="aller">vais</w> 
+ <w id="w23.2.6" pos="DET:ART" lem="le">le</w> 
+ <w id="w23.2.7" pos="NOM" lem="manger">manger</w>
+ <w id="w23.2.8" pos="PUN" lem=",">,</w>
+ <w id="w23.2.9" pos="PUN:cit" lem="&quot;">"</w> 
+ <w id="w23.2.10" pos="VER:pres" lem="dire">dit</w> 
+ <w id="w23.2.11" pos="NAM" lem="Alice">Alice</w>
+ <w id="w23.2.12" pos="PUN" lem=":">:</w> 
+ <w id="w23.2.13" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w23.2.14" pos="KON" lem="si">si</w> 
+ <w id="w23.2.15" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w23.2.16" pos="PRO:PER" lem="me">me</w> 
+ <w id="w23.2.17" pos="VER:pres" lem="faire">fait</w> 
+ <w id="w23.2.18" pos="VER:infi" lem="grandir">grandir</w>
+ <w id="w23.2.19" pos="PUN" lem=",">,</w> 
+ <w id="w23.2.20" pos="PRO:PER" lem="je">je</w> 
+ <w id="w23.2.21" pos="VER:futu" lem="pouvoir">pourrai</w> 
+ <w id="w23.2.22" pos="VER:infi" lem="atteindre">atteindre</w> 
+ <w id="w23.2.23" pos="PRP" lem="à">à</w> 
+ <w id="w23.2.24" pos="DET:ART" lem="le">la</w> 
+ <w id="w23.2.25" pos="NOM" lem="clef">clef</w>
+ <w id="w23.2.26" pos="PUN" lem=";">;</w> 
+ <w id="w23.2.27" pos="KON" lem="si">si</w> 
+ <w id="w23.2.28" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w23.2.29" pos="PRO:PER" lem="me">me</w> 
+ <w id="w23.2.30" pos="VER:pres" lem="faire">fait</w> 
+ <w id="w23.2.31" pos="VER:infi" lem="rapetisser">rapetisser</w>
+ <w id="w23.2.32" pos="PUN" lem=",">,</w> 
+ <w id="w23.2.33" pos="PRO:PER" lem="je">je</w> 
+ <w id="w23.2.34" pos="VER:futu" lem="pouvoir">pourrai</w> 
+ <w id="w23.2.35" pos="VER:infi" lem="ramper">ramper</w> 
+ <w id="w23.2.36" pos="PRP" lem="sous">sous</w> 
+ <w id="w23.2.37" pos="DET:ART" lem="le">la</w> 
+ <w id="w23.2.38" pos="NOM" lem="porte">porte</w>
+ <w id="w23.2.39" pos="PUN" lem=";">;</w> 
+ <w id="w23.2.40" pos="PRP" lem="de">d'</w>
+ <w id="w23.2.41" pos="DET:ART" lem="un">une</w> 
+ <w id="w23.2.42" pos="NOM" lem="façon">façon</w> 
+ <w id="w23.2.43" pos="KON" lem="ou">ou</w> 
+ <w id="w23.2.44" pos="PRP" lem="de">de</w> 
+ <w id="w23.2.45" pos="DET:ART" lem="le">l'</w>
+ <w id="w23.2.46" pos="ADJ" lem="autre">autre</w>
+ <w id="w23.2.47" pos="PUN" lem=",">,</w> 
+ <w id="w23.2.48" pos="PRO:PER" lem="je">je</w> 
+ <w id="w23.2.49" pos="VER:futu" lem="pénétrer">pénétrerai</w> 
+ <w id="w23.2.50" pos="PRP" lem="dans">dans</w> 
+ <w id="w23.2.51" pos="DET:ART" lem="le">le</w> 
+ <w id="w23.2.52" pos="NOM" lem="jardin">jardin</w>
+ <w id="w23.2.53" pos="PUN" lem=",">,</w> 
+ <w id="w23.2.54" pos="KON" lem="et">et</w> 
+ <w id="w23.2.55" pos="ADV" lem="alors">alors</w>
+ <w id="w23.2.56" pos="PUN" lem=",">,</w> 
+ <w id="w23.2.57" pos="VER:pres" lem="arriver">arrive</w> 
+ <w id="w23.2.58" pos="KON" lem="que">que</w> 
+ <w id="w23.2.59" pos="VER:futu" lem="pouvoir">pourra</w>
+ <w id="w23.2.60" pos="SENT" lem="!">!</w>
+ <w id="w23.2.61" pos="PUN:cit" lem="&quot;">"</w>
+</s></p>
+
+<p id="24">
+<s id="s24.1">
+ <w id="w24.1.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w24.1.2" pos="VER:simp" lem="manger">mangea</w> 
+ <w id="w24.1.3" pos="ADV" lem="donc">donc</w> 
+ <w id="w24.1.4" pos="DET:ART" lem="un">un</w> 
+ <w id="w24.1.5" pos="ADJ" lem="petit">petit</w> 
+ <w id="w24.1.6" pos="NOM" lem="morceau">morceau</w> 
+ <w id="w24.1.7" pos="PRP:det" lem="du">du</w> 
+ <w id="w24.1.8" pos="NOM" lem="gâteau">gâteau</w>
+ <w id="w24.1.9" pos="PUN" lem=",">,</w> 
+ <w id="w24.1.10" pos="KON" lem="et">et</w>
+ <w id="w24.1.11" pos="PUN" lem=",">,</w> 
+ <w id="w24.1.12" pos="VER:ppre" lem="porter">portant</w> 
+ <w id="w24.1.13" pos="DET:POS" lem="son">sa</w> 
+ <w id="w24.1.14" pos="NOM" lem="main">main</w> 
+ <w id="w24.1.15" pos="PRP" lem="sur">sur</w> 
+ <w id="w24.1.16" pos="DET:POS" lem="son">sa</w> 
+ <w id="w24.1.17" pos="NOM" lem="tête">tête</w>
+ <w id="w24.1.18" pos="PUN" lem=",">,</w> 
+ <w id="w24.1.19" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w24.1.20" pos="PRO:PER" lem="se">se</w> 
+ <w id="w24.1.21" pos="VER:pres" lem="dire">dit</w> 
+ <w id="w24.1.22" pos="ADV" lem="tout">tout</w> 
+ <w id="w24.1.23" pos="ADJ" lem="inquiet">inquiète</w>
+ <w id="w24.1.24" pos="PUN" lem=":">:</w> 
+ <w id="w24.1.25" pos="PUN:cit" lem="&quot;">"</w>
+ <w id="w24.1.26" pos="PRO:REL" lem="lequel">Lequel</w> 
+ <w id="w24.1.27" pos="VER:pres" lem="être">est-ce</w>
+ <w id="w24.1.28" pos="SENT" lem="?">?</w>
+</s> 
+ 
+<s id="s24.2">
+ <w id="w24.2.1" pos="PRO:REL" lem="lequel">Lequel</w> 
+ <w id="w24.2.2" pos="VER:pres" lem="être">est-ce</w>
+ <w id="w24.2.3" pos="SENT" lem="?">?</w>
+ <w id="w24.2.4" pos="PUN:cit" lem="&quot;">"</w>
+</s> 
+ 
+<s id="s24.3">
+ <w id="w24.3.1" pos="PRO:PER" lem="elle">Elle</w> 
+ <w id="w24.3.2" pos="VER:impf" lem="vouloir">voulait</w> 
+ <w id="w24.3.3" pos="VER:infi" lem="savoir">savoir</w> 
+ <w id="w24.3.4" pos="KON" lem="si">si</w> 
+ <w id="w24.3.5" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w24.3.6" pos="VER:impf" lem="grandir">grandissait</w> 
+ <w id="w24.3.7" pos="KON" lem="ou">ou</w> 
+ <w id="w24.3.8" pos="VER:impf" lem="rapetisser">rapetissait</w>
+ <w id="w24.3.9" pos="PUN" lem=",">,</w> 
+ <w id="w24.3.10" pos="KON" lem="et">et</w> 
+ <w id="w24.3.11" pos="VER:simp" lem="être">fut</w> 
+ <w id="w24.3.12" pos="ADV" lem="tout">tout</w> 
+ <w id="w24.3.13" pos="VER:pper" lem="étonner">étonnée</w> 
+ <w id="w24.3.14" pos="PRP" lem="de">de</w> 
+ <w id="w24.3.15" pos="VER:infi" lem="rester">rester</w> 
+ <w id="w24.3.16" pos="DET:ART" lem="le">la</w> 
+ <w id="w24.3.17" pos="ADJ" lem="même">même</w>
+ <w id="w24.3.18" pos="PUN" lem=";">;</w> 
+ <w id="w24.3.19" pos="ADV" lem="franchement">franchement</w>
+ <w id="w24.3.20" pos="PUN" lem=",">,</w> 
+ <w id="w24.3.21" pos="PRO:DEM" lem="ce">c'</w>
+ <w id="w24.3.22" pos="VER:pres" lem="être">est</w> 
+ <w id="w24.3.23" pos="PRO:DEM" lem="ce">ce</w> 
+ <w id="w24.3.24" pos="PRO:REL" lem="qui">qui</w> 
+ <w id="w24.3.25" pos="VER:pres" lem="arriver">arrive</w> 
+ <w id="w24.3.26" pos="DET:ART" lem="le">le</w> 
+ <w id="w24.3.27" pos="ADV" lem="plus">plus</w> 
+ <w id="w24.3.28" pos="ADV" lem="souvent">souvent</w> 
+ <w id="w24.3.29" pos="KON" lem="lorsque">lorsqu'</w>
+ <w id="w24.3.30" pos="PRO:PER" lem="on">on</w> 
+ <w id="w24.3.31" pos="VER:pres" lem="manger">mange</w> 
+ <w id="w24.3.32" pos="PRP:det" lem="du">du</w> 
+ <w id="w24.3.33" pos="NOM" lem="gâteau">gâteau</w>
+ <w id="w24.3.34" pos="PUN" lem=";">;</w> 
+ <w id="w24.3.35" pos="KON" lem="mais">mais</w> 
+ <w id="w24.3.36" pos="NAM" lem="Alice">Alice</w> 
+ <w id="w24.3.37" pos="VER:impf" lem="avoir">avait</w> 
+ <w id="w24.3.38" pos="ADV" lem="tellement">tellement</w> 
+ <w id="w24.3.39" pos="VER:pper" lem="prendre">pris</w> 
+ <w id="w24.3.40" pos="DET:ART" lem="le">l'</w>
+ <w id="w24.3.41" pos="NOM" lem="habitude">habitude</w> 
+ <w id="w24.3.42" pos="PRP" lem="de">de</w> 
+ <w id="w24.3.43" pos="PRO:PER" lem="se">s'</w>
+ <w id="w24.3.44" pos="VER:infi" lem="attendre">attendre</w> 
+ <w id="w24.3.45" pos="PRP" lem="à">à</w> 
+ <w id="w24.3.46" pos="PRP:det" lem="du">des</w> 
+ <w id="w24.3.47" pos="NOM" lem="chose">choses</w> 
+ <w id="w24.3.48" pos="ADJ" lem="extraordinaire">extraordinaires</w>
+ <w id="w24.3.49" pos="PUN" lem=",">,</w> 
+ <w id="w24.3.50" pos="KON" lem="que">que</w> 
+ <w id="w24.3.51" pos="PRO:DEM" lem="cela">cela</w> 
+ <w id="w24.3.52" pos="PRO:PER" lem="lui">lui</w> 
+ <w id="w24.3.53" pos="VER:impf" lem="paraître">paraissait</w> 
+ <w id="w24.3.54" pos="ADJ" lem="ennuyeux">ennuyeux</w> 
+ <w id="w24.3.55" pos="KON" lem="et">et</w> 
+ <w id="w24.3.56" pos="ADJ" lem="stupide">stupide</w> 
+ <w id="w24.3.57" pos="PRP" lem="de">de</w> 
+ <w id="w24.3.58" pos="VER:infi" lem="vivre">vivre</w> 
+ <w id="w24.3.59" pos="ADV" lem="comme">comme</w> 
+ <w id="w24.3.60" pos="ADV" lem="tout">tout</w> 
+ <w id="w24.3.61" pos="DET:ART" lem="le">le</w> 
+ <w id="w24.3.62" pos="NOM" lem="monde">monde</w>
+ <w id="w24.3.63" pos="SENT" lem=".">.</w>
+</s></p>
+
+<p id="25">
+<s id="s25.1">
+ <w id="w25.1.1" pos="ADV" lem="aussi">Aussi</w> 
+ <w id="w25.1.2" pos="PRO:PER" lem="elle">elle</w> 
+ <w id="w25.1.3" pos="PRO:PER" lem="se">se</w> 
+ <w id="w25.1.4" pos="VER:simp" lem="remettre">remit</w> 
+ <w id="w25.1.5" pos="PRP" lem="à">à</w> 
+ <w id="w25.1.6" pos="DET:ART" lem="le">l'</w>
+ <w id="w25.1.7" pos="NOM" lem="œuvre">œuvre</w>
+ <w id="w25.1.8" pos="PUN" lem=",">,</w> 
+ <w id="w25.1.9" pos="KON" lem="et">et</w> 
+ <w id="w25.1.10" pos="VER:simp" lem="avoir">eut</w> 
+ <w id="w25.1.11" pos="ADV" lem="bien">bien</w> 
+ <w id="w25.1.12" pos="ADV" lem="vite">vite</w> 
+ <w id="w25.1.13" pos="VER:pres" lem="faire">fait</w> 
+ <w id="w25.1.14" pos="VER:infi" lem="disparaître">disparaître</w> 
+ <w id="w25.1.15" pos="DET:ART" lem="le">le</w> 
+ <w id="w25.1.16" pos="NOM" lem="gâteau">gâteau</w>
+ <w id="w25.1.17" pos="SENT" lem=".">.</w>
+</s></p></text>
