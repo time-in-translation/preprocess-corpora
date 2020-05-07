@@ -1,6 +1,7 @@
 import glob
 import itertools
 import os
+import shutil
 import subprocess
 
 import click
@@ -45,6 +46,10 @@ def sentence_align(working_dir, languages):
         alignments = glob.glob('{sl}-{tl}-*.xml'.format(sl=sl, tl=tl))
         merged_file = '{sl}-{tl}.xml'.format(sl=sl, tl=tl)
         merge(alignments, merged_file, delete_files_in=True)
+
+    # Remove artefacts created by hunalign
+    shutil.rmtree(os.path.join(working_dir, 'data'))
+    os.remove(os.path.join(working_dir, 'translate.txt'))
 
 
 if __name__ == "__main__":
