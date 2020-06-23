@@ -15,6 +15,7 @@ def normalize_apostrophes(line):
 
 def remove_soft_hyphens(line):
     """Removes any soft hyphens or middle dots"""
+    line = line.replace(u'\u00AC', '')  # not sign (Word's soft hyphen)
     line = line.replace(u'\u00AD', '')  # soft hyphen
     line = line.replace(u'\u00B7', '')  # middle dot
     return line
@@ -82,7 +83,9 @@ def replace_common_errors(language, line):
     line = re.sub(r'\s?\u2013\s?', ' - ', line)  # en dash
     line = re.sub(r'\s?\u2014\s?', ' - ', line)  # em dash
 
-    line = line.replace(u'…', '...')
+    line = line.replace(u'，', ', ')  # u2063, invisible separator
+    line = line.replace(u'：', ':')  # uFF1A, fullwidth colon
+    line = line.replace(u'…', '...')  # ellipsis
     if language == ITALIAN:
         line = line.replace('E\'', u'È')
         line = line.replace('Be\'', u'Bè')

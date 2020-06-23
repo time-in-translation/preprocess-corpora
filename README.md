@@ -55,6 +55,7 @@ Usage:
 - Portuguese (pt)
 
 #### Limited support
+- Breton (br) [not supported in Uplug/TreeTagger]
 - Catalan (ca) [not supported in Uplug/TreeTagger]
 - Swedish (sv) [not supported in Uplug/TreeTagger]
 
