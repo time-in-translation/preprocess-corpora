@@ -8,7 +8,7 @@ def readme():
 
 setuptools.setup(
     name='preprocess-corpora',
-    version='0.1',
+    version='0.1.1',
     author='Martijn van der Klis',
     author_email='m.h.vanderklis@uu.nl',
     description='Preprocessing and sentence-aligning for parallel corpora',
@@ -24,7 +24,7 @@ setuptools.setup(
     url='https://github.com/time-in-translation/preprocess-corpora',
     license='MIT',
     packages=setuptools.find_packages(),
-    python_requires='>=3.6',
+    python_requires='>=3.5',
     install_requires=[
         'click',
         'python-docx',
