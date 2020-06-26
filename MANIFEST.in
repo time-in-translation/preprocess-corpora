@@ -1,0 +1,6 @@
+include *.in
+include *.txt
+include LICENSE
+recursive-include preprocess_corpora *.tok
+recursive-include preprocess_corpora *.txt
+recursive-include preprocess_corpora *.xml
