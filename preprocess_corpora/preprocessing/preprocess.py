@@ -73,6 +73,8 @@ def replace_quotes(language, line):
         line = re.sub(r'(^\")\s', r'\1', line)  # Replace superfluous spaces at the start of the line
     if language == CATALAN:
         line = re.sub(r'"\.', '."', line)  # Move dots after quotation marks
+        line = re.sub(r'^-(\S)', r'- \1', line)  # Add spaces to dashes at start of line
+        line = re.sub(r'\s-\s?([.,?!])\s?', r'\1 - ', line)  # Switch (or create) spacing between quotation and hyphens
     return line
 
 
@@ -82,15 +84,30 @@ def replace_common_errors(language, line):
     line = re.sub(r'\s?\u2012\s?', ' - ', line)  # figure dash
     line = re.sub(r'\s?\u2013\s?', ' - ', line)  # en dash
     line = re.sub(r'\s?\u2014\s?', ' - ', line)  # em dash
+    line = re.sub(r'\s?\u2015\s?', ' - ', line)  # horizontal bar
+    line = re.sub(r'\s?\u4E00\s?', ' - ', line)  # Chinese character for one (resembles dash)
 
+    # Replace Chinese characters
+    line = re.sub(u'。\s?', '. ', line)  # full stop
+    line = re.sub(u'，\s?', ', ', line)  # comma
+    line = re.sub(u'！\s?', '! ', line)  # exclamation mark
+    line = re.sub(u'？\s?', '? ', line)  # question mark
+    line = re.sub(u'；\s?', '; ', line)  # semicolon
+    line = re.sub(u'：\s?', ': ', line)  # colon
+    line = line.replace(u'（', '(')  # left parenthesis
+    line = line.replace(u'）', ')')  # right parenthesis
+
+    # Some other replacements
     line = line.replace(u'，', ', ')  # u2063, invisible separator
-    line = line.replace(u'：', ':')  # uFF1A, fullwidth colon
     line = line.replace(u'…', '...')  # ellipsis
+
+    # Replacements specifically for Italian
     if language == ITALIAN:
         line = line.replace('E\'', u'È')
         line = line.replace('Be\'', u'Bè')
         line = line.replace('be\'', u'bè')
         line = line.replace('po\'', u'pò')
+
     return line
 
 
