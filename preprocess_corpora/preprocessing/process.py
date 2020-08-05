@@ -37,7 +37,7 @@ def process_folder(folder_in, folder_out, language, from_word=False, tokenize=Fa
             tokenize_single(file_out, file_xml, language)
 
             if tag:
-                treetag_single(file_xml, language)
+                treetag_single(file_out, file_xml, language)
 
 
 if __name__ == "__main__":

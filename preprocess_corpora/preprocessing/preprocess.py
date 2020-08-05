@@ -72,7 +72,7 @@ def replace_quotes(language, line):
         line = re.sub(r'([.,?!])\s?(\")-', r'\1\2 -', line)  # Switch (or create) spacing between quotation and hyphens
         line = re.sub(r'(^\")\s', r'\1', line)  # Replace superfluous spaces at the start of the line
     if language == CATALAN:
-        line = re.sub(r'"\.', '."', line)  # Move dots after quotation marks
+        line = re.sub(r'"\.[^\.]', '."', line)  # Move dots after quotation marks
         line = re.sub(r'^-(\S)', r'- \1', line)  # Add spaces to dashes at start of line
         line = re.sub(r'\s-\s?([.,?!])\s?', r'\1 - ', line)  # Switch (or create) spacing between quotation and hyphens
     return line
