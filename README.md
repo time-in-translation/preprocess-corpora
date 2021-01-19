@@ -25,7 +25,7 @@ Run `preprocess` to process all unformatted .txt-files in a folder.
 
 Usage:
 
-`process [OPTIONS] FOLDER_IN FOLDER_OUT [de|en|es|fr|it|nl|ru|ca|sv|pt]`
+`preprocess [OPTIONS] FOLDER_IN FOLDER_OUT [de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]`
 
 Options:
 
@@ -40,7 +40,7 @@ Run `align` to sentence-align .xml-files in a working directory. Requires instal
 
 Usage:
 
-`align [OPTIONS] WORKING_DIR [[de|en|es|fr|it|nl|ru|ca|sv|pt]]...`
+`align [OPTIONS] WORKING_DIR [[de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]]...`
 
 ### Supported languages
 
@@ -55,6 +55,7 @@ Usage:
 - Portuguese (pt)
 
 #### Limited support
+- Bulgarian (bg) [not supported in Uplug/TreeTagger]
 - Breton (br) [not supported in Uplug/TreeTagger]
 - Catalan (ca) [not supported in Uplug/TreeTagger]
 - Swedish (sv) [not supported in Uplug/TreeTagger]

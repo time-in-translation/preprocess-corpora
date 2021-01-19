@@ -5,7 +5,7 @@ import re
 
 from docx import Document
 
-from ..core.constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN, SWEDISH
+from ..core.constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, BULGARIAN, CATALAN, SWEDISH
 
 
 def normalize_apostrophes(line):
@@ -71,6 +71,9 @@ def replace_quotes(language, line):
         line = re.sub(r'([.,?!])\s(\"(?:\s|$))', r'\1\2', line)  # Remove spaces between punctuation and quotation mark
         line = re.sub(r'([.,?!])\s?(\")-', r'\1\2 -', line)  # Switch (or create) spacing between quotation and hyphens
         line = re.sub(r'(^\")\s', r'\1', line)  # Replace superfluous spaces at the start of the line
+    if language == BULGARIAN:
+        line = line.replace(u'\u201E', '"')  # double low-9 quotation mark (replace with quotation mark)
+        line = line.replace(u'\u201C', '"')  # left double quotation mark (replace with quotation mark)
     if language == CATALAN:
         line = re.sub(r'"\.[^\.]', '."', line)  # Move dots after quotation marks
         line = re.sub(r'^-(\S)', r'- \1', line)  # Add spaces to dashes at start of line
