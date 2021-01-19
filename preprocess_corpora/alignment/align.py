@@ -29,6 +29,9 @@ def sentence_align(working_dir, languages):
     """
     os.chdir(working_dir)
 
+    if len(languages) < 2:
+        raise click.ClickException('Please supply at least two languages')
+
     comb_ls = itertools.combinations(sorted(languages), 2)
     for sl, tl in comb_ls:
         for src in glob.glob(os.path.join(sl, '*.xml')):
