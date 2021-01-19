@@ -15,13 +15,13 @@ def merge(files_in, file_out, delete_files_in=False):
     """
     root = etree.Element('cesAlign', attrib={'version': '1.0'})
 
-    for file_in in files_in:
+    for file_in in sorted(files_in):
         # Skip empty files
         if os.path.getsize(file_in) == 0:
             continue
 
-        parser = etree.XMLParser(remove_blank_text=True)
-        in_tree = etree.parse(file_in, parser)
+        xml_parser = etree.XMLParser(remove_blank_text=True)
+        in_tree = etree.parse(file_in, xml_parser)
 
         for linkGrp in in_tree.xpath('//linkGrp'):
             root.set('fromDoc', linkGrp.get('fromDoc').split('/')[0])
