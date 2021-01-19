@@ -4,9 +4,17 @@
 #
 #    pip-compile requirements.in
 #
-click==7.1.2              # via -r requirements.in
-lxml==4.6.2               # via python-docx, treetagger-xml
-python-docx==0.8.10       # via -r requirements.in
-six==1.15.0               # via treetagger-xml
-treetagger-xml==0.1.6     # via -r requirements.in
-treetaggerwrapper==2.3    # via treetagger-xml
+click==7.1.2
+    # via -r requirements.in
+lxml==4.6.2
+    # via
+    #   python-docx
+    #   treetagger-xml
+python-docx==0.8.10
+    # via -r requirements.in
+six==1.15.0
+    # via treetagger-xml
+treetagger-xml==0.1.6
+    # via -r requirements.in
+treetaggerwrapper==2.3
+    # via treetagger-xml
