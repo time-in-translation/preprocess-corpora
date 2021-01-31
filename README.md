@@ -7,7 +7,12 @@ The repository heavily relies upon [Uplug](https://bitbucket.org/tiedemann/uplug
 
 First, make sure to have installed [Uplug](https://bitbucket.org/tiedemann/uplug/src/master/) and [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/).
 
-Then, install the requirements via:
+Then, create a [virtual environment](https://docs.python.org/3/library/venv.html) and activate it:
+
+    $ python -m venv venv
+    $ source venv/bin/activate
+
+Then, install the requirements in this virtual environment via:
 
     $ pip install -r requirements.txt
 
@@ -25,7 +30,7 @@ Run `preprocess` to process all unformatted .txt-files in a folder.
 
 Usage:
 
-`preprocess [OPTIONS] FOLDER_IN FOLDER_OUT [de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]`
+    $ preprocess [OPTIONS] FOLDER_IN FOLDER_OUT [de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]
 
 Options:
 
@@ -40,7 +45,7 @@ Run `align` to sentence-align .xml-files in a working directory. Requires instal
 
 Usage:
 
-`align [OPTIONS] WORKING_DIR [[de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]]...`
+    $ align [OPTIONS] WORKING_DIR [[de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]]...
 
 ### Supported languages
 
