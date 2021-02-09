@@ -1,7 +1,7 @@
 # preprocess-corpora
 
 This repository contains Python scripts to preprocess and sentence-align parallel (or monolingual) corpora. 
-The repository heavily relies upon [Uplug](https://bitbucket.org/tiedemann/uplug/src/master/) and (in lesser respect) [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) to work. 
+The repository heavily relies upon the software applications [Uplug](https://bitbucket.org/tiedemann/uplug/src/master/) and (in lesser respect) [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) to work.
 
 ## Installation
 
@@ -20,6 +20,12 @@ Finally, create the executables `preprocess` and `align` via:
  
     $ pip install --editable .
 
+If you intend to use [NLTK](https://www.nltk.org/) for tokenization, be sure to download the [Punkt models](https://www.nltk.org/api/nltk.tokenize.html?highlight=punkt#module-nltk.tokenize.punkt):
+
+    $ python
+    >>> import nltk
+    >>> nltk.download('punkt')
+
 ## Usage
 
 ### Preprocessing
@@ -35,7 +41,10 @@ Usage:
 Options:
 
 - `--from_word` to use .docx-files as input, rather than .txt-files.
-- `--tokenize` to tokenize the files (requires installation of Uplug (and language support in Uplug)).
+- `--tokenizer` to tokenize the files; choose either:
+    - `uplug` (requires installation of Uplug (and language support in Uplug)).
+    - `nltk` (requires installation of the Punkt models (and language support in Punkt))
+    - `treetagger` (use the very naive tokenization in the *treetagger-xml* package (not recommended!))
 - `--tag` to tag the files (requires installation of TreeTagger (and language support in TreeTagger))
 
 
@@ -49,27 +58,32 @@ Usage:
 
 ### Supported languages
 
-#### Full support
-- German (de)
-- English (en)
-- Spanish (es) (+ variants Rioplatense (ar) and Mexican (mx) Spanish)
-- French (fr)
-- Italian (it)
-- Dutch (nl)
-- Russian (ru)
-- Portuguese (pt)
+| Genus    | Language   | ISO | Preprocessing | Tokenization | Tagging |
+|----------|------------|-----|:-------------:|:------------:|:-------:|
+| Germanic | German     | de  |       ✔       |       ✔      |    ✔    |
+| Germanic | English    | en  |       ✔       |       ✔      |    ✔    |
+| Germanic | Dutch      | nl  |       ✔       |       ✔      |    ✔    |
+| Germanic | Swedish    | sv  |       ✔       |   ✔ (NLTK)   |    ✗    |
+| Romance  | Catalan    | ca  |       ✔       |       ✗      |    ✔    |
+| Romance  | Spanish    | es  |       ✔       |       ✔      |    ✔    |
+| Romance  | French     | fr  |       ✔       |       ✔      |    ✔    |
+| Romance  | Italian    | it  |       ✔       |       ✔      |    ✔    |
+| Romance  | Portuguese | pt  |       ✔       |   ✔ (Uplug)  |    ✔    |
+| Slavic   | Russian    | ru  |       ✔       |   ✔ (Uplug)  |    ✔    |
+| Slavic   | Bulgarian  | bg  |       ✔       |       ✗      |    ✔    |
+| Celtic   | Breton     | br  |       ✔       |       ✗      |    ✗    |
 
-#### Limited support
-- Bulgarian (bg) [not supported in Uplug/TreeTagger]
-- Breton (br) [not supported in Uplug/TreeTagger]
-- Catalan (ca) [not supported in Uplug/TreeTagger]
-- Swedish (sv) [not supported in Uplug/TreeTagger]
+Some comments:
+- For Dutch, for tokenization, Uplug can potentially use [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino/) (recommended)
+- For Swedish, consider using [Stagger](https://www.ling.su.se/english/nlp/tools/stagger) for part-of-speech tagging.
+- Spanish varieties (Mexican Spanish (mx) and Rioplatense Spanish (ar)) are supported by referring to the Spanish parameters.
+- Note that the Portuguese Punkt parameters are based upon Brazilian Portuguese.
 
 ## Tests
 
 Run the tests via
 
-`python -m unittest discover`
+    $ python -m unittest discover
 
 In `preprocess_corpora/tests/data/alice`, you can find the example corpus used in the tests.
 This corpus was compiled from Lewis Carroll's Alice in Wonderland and its translations into German, French, and Italian.

@@ -29,10 +29,24 @@ VARIETIES = {RIOPLATENSE: SPANISH, MEXICAN: SPANISH}
 
 LANGUAGES = GERMANIC + ROMANCE + SLAVIC + CELTIC + list(VARIETIES.keys())
 
-# No tokenization available
-NO_TOK = [BULGARIAN, CATALAN, SWEDISH, BRETON]
-
 # No TreeTagger available
 NO_TREETAG = [SWEDISH, BRETON]
 # TreeTagger directly on plain text
 TREETAG_TXT = [BULGARIAN, CATALAN]
+
+# Available tokenization models in NLTK (through punkt)
+NLTK_LANGUAGES = {
+    GERMAN: 'german',
+    ENGLISH: 'english',
+    DUTCH: 'dutch',
+    SWEDISH: 'swedish',
+    SPANISH: 'spanish',
+    FRENCH: 'french',
+    ITALIAN: 'italian',
+    PORTUGUESE: 'portuguese',
+}
+
+# Tokenizers
+NLTK = 'nltk'
+TREETAGGER = 'treetagger'
+UPLUG = 'uplug'

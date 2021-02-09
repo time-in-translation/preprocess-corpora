@@ -5,16 +5,26 @@
 #    pip-compile requirements.in
 #
 click==7.1.2
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   nltk
+joblib==1.0.0
+    # via nltk
 lxml==4.6.2
     # via
     #   python-docx
     #   treetagger-xml
+nltk==3.5
+    # via -r requirements.in
 python-docx==0.8.10
     # via -r requirements.in
+regex==2020.11.13
+    # via nltk
 six==1.15.0
     # via treetagger-xml
-treetagger-xml==0.1.8
+tqdm==4.56.0
+    # via nltk
+treetagger-xml==0.1.9
     # via -r requirements.in
 treetaggerwrapper==2.3
     # via treetagger-xml

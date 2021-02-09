@@ -4,7 +4,7 @@ import unittest
 from click.testing import CliRunner
 
 from ..preprocessing.process import process_folder
-from ..core.constants import ENGLISH, GERMAN, FRENCH, ITALIAN
+from ..core.constants import ENGLISH, GERMAN, FRENCH, ITALIAN, UPLUG
 
 
 class TestPreprocessing(unittest.TestCase):
@@ -42,7 +42,8 @@ class TestPreprocessing(unittest.TestCase):
         with self.runner.isolated_filesystem():
             os.makedirs(self.folder_out, exist_ok=True)
 
-            result = self.runner.invoke(process_folder, [self.folder_in, self.folder_out, language, '--tokenize'])
+            result = self.runner.invoke(process_folder, [self.folder_in, self.folder_out, language,
+                                                         '--tokenizer', UPLUG])
             assert result.exit_code == 0
 
             with open(os.path.join(self.folder_out, '1.xml'), 'r') as tmp:
@@ -61,7 +62,8 @@ class TestPreprocessing(unittest.TestCase):
         with self.runner.isolated_filesystem():
             os.makedirs(self.folder_out, exist_ok=True)
 
-            result = self.runner.invoke(process_folder, [self.folder_in, self.folder_out, language, '--tag'])
+            result = self.runner.invoke(process_folder, [self.folder_in, self.folder_out, language,
+                                                         '--tokenizer', UPLUG, '--tag'])
             assert result.exit_code == 0
 
             with open(os.path.join(self.folder_out, '1.xml'), 'r') as tmp:

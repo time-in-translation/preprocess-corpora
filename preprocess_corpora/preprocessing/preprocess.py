@@ -3,6 +3,7 @@ import glob
 import os
 import re
 
+import click
 from docx import Document
 
 from ..core.constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, BULGARIAN, CATALAN, SWEDISH
@@ -135,6 +136,8 @@ def preprocess_single(file_in, file_out, language):
             f_out.write(line)
             f_out.write('\n')
             f_out.write('\n')
+
+    click.echo('Finished preprocessing {}'.format(file_in))
 
 
 def word2txt(folder_in):
