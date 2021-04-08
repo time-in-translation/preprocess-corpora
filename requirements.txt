@@ -14,7 +14,7 @@ lxml==4.6.2
     # via
     #   python-docx
     #   treetagger-xml
-nltk==3.5
+nltk==3.6.1
     # via -r requirements.in
 python-docx==0.8.10
     # via -r requirements.in
