@@ -16,7 +16,7 @@ lxml==4.6.2
     #   treetagger-xml
 nltk==3.5
     # via -r requirements.in
-python-docx==0.8.10
+python-docx==0.8.11
     # via -r requirements.in
 regex==2020.11.13
     # via nltk
