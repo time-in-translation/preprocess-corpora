@@ -10,7 +10,7 @@ click==8.0.3
     #   nltk
 joblib==1.1.0
     # via nltk
-lxml==4.6.4
+lxml==4.6.5
     # via
     #   python-docx
     #   treetagger-xml
