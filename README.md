@@ -60,18 +60,19 @@ Usage:
 
 | Genus    | Language   | ISO | Preprocessing | Tokenization | Tagging |
 |----------|------------|-----|:-------------:|:------------:|:-------:|
-| Germanic | German     | de  |       ✔       |       ✔      |    ✔    |
-| Germanic | English    | en  |       ✔       |       ✔      |    ✔    |
-| Germanic | Dutch      | nl  |       ✔       |       ✔      |    ✔    |
+| Germanic | German     | de  |       ✔       |      ✔       |    ✔    |
+| Germanic | English    | en  |       ✔       |      ✔       |    ✔    |
+| Germanic | Dutch      | nl  |       ✔       |      ✔       |    ✔    |
 | Germanic | Swedish    | sv  |       ✔       |   ✔ (NLTK)   |    ✗    |
-| Romance  | Catalan    | ca  |       ✔       |       ✗      |    ✔    |
-| Romance  | Spanish    | es  |       ✔       |       ✔      |    ✔    |
-| Romance  | French     | fr  |       ✔       |       ✔      |    ✔    |
-| Romance  | Italian    | it  |       ✔       |       ✔      |    ✔    |
-| Romance  | Portuguese | pt  |       ✔       |   ✔ (Uplug)  |    ✔    |
-| Slavic   | Russian    | ru  |       ✔       |   ✔ (Uplug)  |    ✔    |
-| Slavic   | Bulgarian  | bg  |       ✔       |       ✗      |    ✔    |
-| Celtic   | Breton     | br  |       ✔       |       ✗      |    ✗    |
+| Romance  | Catalan    | ca  |       ✔       |      ✗       |    ✔    |
+| Romance  | Spanish    | es  |       ✔       |      ✔       |    ✔    |
+| Romance  | French     | fr  |       ✔       |      ✔       |    ✔    |
+| Romance  | Italian    | it  |       ✔       |      ✔       |    ✔    |
+| Romance  | Portuguese | pt  |       ✔       |  ✔ (Uplug)   |    ✔    |
+| Slavic   | Bulgarian  | bg  |       ✔       |      ✗       |    ✔    |
+| Slavic   | Polish     | pl  |       ✔       |      ✗       |    ✗    |
+| Slavic   | Russian    | ru  |       ✔       |  ✔ (Uplug)   |    ✔    |
+| Celtic   | Breton     | br  |       ✔       |      ✗       |    ✗    |
 
 Some comments:
 - For Dutch, for tokenization, Uplug can potentially use [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino/) (recommended)
