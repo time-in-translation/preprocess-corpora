@@ -69,6 +69,7 @@ Usage:
 | Romance  | French     | fr  |       ✔       |      ✔       |    ✔    |
 | Romance  | Italian    | it  |       ✔       |      ✔       |    ✔    |
 | Romance  | Portuguese | pt  |       ✔       |  ✔ (Uplug)   |    ✔    |
+| Romance  | Romanian   | ro  |       ✔       |      ✗       |    ✔    |
 | Slavic   | Bulgarian  | bg  |       ✔       |      ✗       |    ✔    |
 | Slavic   | Polish     | pl  |       ✔       |      ✗       |    ✗    |
 | Slavic   | Russian    | ru  |       ✔       |  ✔ (Uplug)   |    ✔    |
