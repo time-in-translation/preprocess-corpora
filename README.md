@@ -36,7 +36,7 @@ Run `preprocess` to process all unformatted .txt-files in a folder.
 
 Usage:
 
-    $ preprocess [OPTIONS] FOLDER_IN FOLDER_OUT [de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]
+    $ preprocess [OPTIONS] FOLDER_IN FOLDER_OUT {de|en|nl|sv|ca|es|fr|it|pt|ro|bg|pl|ru|br|hi|ar|mx}
 
 Options:
 
@@ -54,26 +54,27 @@ Run `align` to sentence-align .xml-files in a working directory. Requires instal
 
 Usage:
 
-    $ align [OPTIONS] WORKING_DIR [[de|en|nl|sv|ca|es|fr|it|pt|bg|ru|br|ar|mx]]...
+    $ align [OPTIONS] WORKING_DIR [[de|en|nl|sv|ca|es|fr|it|pt|ro|bg|pl|ru|br|hi|ar|mx]]...
 
 ### Supported languages
 
-| Genus    | Language   | ISO | Preprocessing | Tokenization | Tagging |
-|----------|------------|-----|:-------------:|:------------:|:-------:|
-| Germanic | German     | de  |       ✔       |      ✔       |    ✔    |
-| Germanic | English    | en  |       ✔       |      ✔       |    ✔    |
-| Germanic | Dutch      | nl  |       ✔       |      ✔       |    ✔    |
-| Germanic | Swedish    | sv  |       ✔       |   ✔ (NLTK)   |    ✗    |
-| Romance  | Catalan    | ca  |       ✔       |      ✗       |    ✔    |
-| Romance  | Spanish    | es  |       ✔       |      ✔       |    ✔    |
-| Romance  | French     | fr  |       ✔       |      ✔       |    ✔    |
-| Romance  | Italian    | it  |       ✔       |      ✔       |    ✔    |
-| Romance  | Portuguese | pt  |       ✔       |  ✔ (Uplug)   |    ✔    |
-| Romance  | Romanian   | ro  |       ✔       |      ✗       |    ✔    |
-| Slavic   | Bulgarian  | bg  |       ✔       |      ✗       |    ✔    |
-| Slavic   | Polish     | pl  |       ✔       |      ✗       |    ✗    |
-| Slavic   | Russian    | ru  |       ✔       |  ✔ (Uplug)   |    ✔    |
-| Celtic   | Breton     | br  |       ✔       |      ✗       |    ✗    |
+| Genus      | Language   | ISO | Preprocessing | Tokenization | Tagging |
+|------------|------------|-----|:-------------:|:------------:|:-------:|
+| Germanic   | German     | de  |       ✔       |      ✔       |    ✔    |
+| Germanic   | English    | en  |       ✔       |      ✔       |    ✔    |
+| Germanic   | Dutch      | nl  |       ✔       |      ✔       |    ✔    |
+| Germanic   | Swedish    | sv  |       ✔       |   ✔ (NLTK)   |    ✗    |
+| Romance    | Catalan    | ca  |       ✔       |      ✗       |    ✔    |
+| Romance    | Spanish    | es  |       ✔       |      ✔       |    ✔    |
+| Romance    | French     | fr  |       ✔       |      ✔       |    ✔    |
+| Romance    | Italian    | it  |       ✔       |      ✔       |    ✔    |
+| Romance    | Portuguese | pt  |       ✔       |  ✔ (Uplug)   |    ✔    |
+| Romance    | Romanian   | ro  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Bulgarian  | bg  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Polish     | pl  |       ✔       |      ✗       |    ✗    |
+| Slavic     | Russian    | ru  |       ✔       |  ✔ (Uplug)   |    ✔    |
+| Celtic     | Breton     | br  |       ✔       |      ✗       |    ✗    |
+| Indo-Aryan | Hindi      | hi  |       ✔       |      ✗       |    ✗    |
 
 Some comments:
 - For Dutch, for tokenization, Uplug can potentially use [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino/) (recommended)
