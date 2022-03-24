@@ -1,5 +1,6 @@
 import codecs
 import os
+import subprocess
 
 import click
 
@@ -9,6 +10,8 @@ from treetagger_xml.utils import instantiate_tagger
 from treetagger_xml.treetagger2opus import process as tag2xml
 
 from ..core.constants import TREETAG_TXT, NO_TREETAG, TREETAGGER, HINDI
+
+RNN_TAGGER = '../RNNTagger/'  # YMMV
 
 
 def treetag_single(file_in_txt, file_in_xml, language, tokenizer):
@@ -23,27 +26,21 @@ def treetag_single(file_in_txt, file_in_xml, language, tokenizer):
         click.echo('TreeTagger not available for language {}'.format(language))
         return
 
-    tagger = instantiate_tagger(language)
-
     if language in TREETAG_TXT or tokenizer == TREETAGGER:
         click.echo('Tagging from text...')
         if language == HINDI:
             process_txt_hindi(language, file_in_txt, in_place=False, out_file=file_in_xml)
         else:
+            tagger = instantiate_tagger(language)
             process_txt(tagger, language, file_in_txt, in_place=False, out_file=file_in_xml)
     else:
         click.echo('Tagging from xml...')
+        tagger = instantiate_tagger(language)
         process_xml(tagger, language, file_in_xml, in_place=True)
 
 
 def process_txt_hindi(language, in_file, in_place=False, out_file=None):
-    with codecs.open(in_file, 'r', encoding='utf-8') as f:
-        lines = []
-        for line in f:
-            if line.strip():
-                lines.append('\n'.join(tag_line(line)))
-
-            lines.append('\n\n')
+    result = subprocess.run(['cmd/rnn-tagger-hindi.sh', in_file], cwd=RNN_TAGGER, stdout=subprocess.PIPE)
 
     if in_place:
         tag_file = in_file
@@ -51,14 +48,9 @@ def process_txt_hindi(language, in_file, in_place=False, out_file=None):
         tag_file = os.path.splitext(in_file)[0] + '.tag'
 
     with codecs.open(tag_file, 'w', encoding='utf-8') as g:
-        g.writelines(lines)
+        g.write(result.stdout.decode('utf-8'))
 
     if not out_file:
         out_file = os.path.splitext(tag_file)[0] + '.xml'
 
     tag2xml(language, tag_file, out_file)
-
-
-def tag_line(line):
-    # to be implemented
-    pass

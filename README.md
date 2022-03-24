@@ -74,13 +74,14 @@ Usage:
 | Slavic     | Polish     | pl  |       ✔       |      ✗       |    ✗    |
 | Slavic     | Russian    | ru  |       ✔       |  ✔ (Uplug)   |    ✔    |
 | Celtic     | Breton     | br  |       ✔       |      ✗       |    ✗    |
-| Indo-Aryan | Hindi      | hi  |       ✔       |      ✗       |    ✗    |
+| Indo-Aryan | Hindi      | hi  |       ✔       |      ✗       |    ✔    |
 
 Some comments:
 - For Dutch, for tokenization, Uplug can potentially use [Alpino](https://www.let.rug.nl/vannoord/alp/Alpino/) (recommended)
 - For Swedish, consider using [Stagger](https://www.ling.su.se/english/nlp/tools/stagger) for part-of-speech tagging.
 - Spanish varieties (Mexican Spanish (mx) and Rioplatense Spanish (ar)) are supported by referring to the Spanish parameters.
 - Note that the Portuguese Punkt parameters are based upon Brazilian Portuguese.
+- For Hindi, we use [RNNTagger](https://www.cis.uni-muenchen.de/~schmid/tools/RNNTagger/) instead of TreeTagger.
 
 ## Tests
 
