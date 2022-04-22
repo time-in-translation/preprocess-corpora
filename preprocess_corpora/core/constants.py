@@ -52,7 +52,23 @@ NLTK_LANGUAGES = {
     PORTUGUESE: 'portuguese',
 }
 
-# Tokenizers
+# Available models in Spacy
+SPACY_MODELS = {
+    GERMAN: 'de_core_news_sm',
+    ENGLISH: 'en_core_web_sm',
+    DUTCH: 'nl_core_news_sm',
+    CATALAN: 'ca_core_news_sm',
+    SPANISH: 'es_core_news_sm',
+    FRENCH: 'fr_core_news_sm',
+    ITALIAN: 'it_core_news_sm',
+    PORTUGUESE: 'pt_core_news_sm',
+    ROMANIAN: 'ro_core_news_sm',
+    POLISH: 'pl_core_news_sm',
+    RUSSIAN: 'ru_core_news_sm',
+}
+
+# Tokenizers and taggers
 NLTK = 'nltk'
+SPACY = 'spacy'
 TREETAGGER = 'treetagger'
 UPLUG = 'uplug'

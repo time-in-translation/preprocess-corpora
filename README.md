@@ -26,6 +26,10 @@ If you intend to use [NLTK](https://www.nltk.org/) for tokenization, be sure to 
     >>> import nltk
     >>> nltk.download('punkt')
 
+If you intend to use [Spacy](https://spacy.io/) for tokenization and tagging, be sure to download the language models (small models suffice, be sure to replace `en` with your requested language):
+
+    $ python -m spacy download en_core_web_sm
+
 ## Usage
 
 ### Preprocessing
@@ -44,8 +48,9 @@ Options:
 - `--tokenizer` to tokenize the files; choose either:
     - `uplug` (requires installation of Uplug (and language support in Uplug)).
     - `nltk` (requires installation of the Punkt models (and language support in Punkt))
+    - `spacy` (requires installation of the Spacy models (and language support in Spacy))
     - `treetagger` (use the very naive tokenization in the *treetagger-xml* package (not recommended!))
-- `--tag` to tag the files (requires installation of TreeTagger (and language support in TreeTagger))
+- `--tag` to tag the files (requires installation of Spacy or TreeTagger (and language support))
 
 
 ### Alignment

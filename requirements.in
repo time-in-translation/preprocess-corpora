@@ -1,4 +1,5 @@
 click
 nltk
 python-docx
+spacy
 treetagger-xml

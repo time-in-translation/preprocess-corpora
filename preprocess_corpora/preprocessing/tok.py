@@ -5,8 +5,9 @@ import subprocess
 import click
 from lxml import etree
 from nltk.tokenize import sent_tokenize, word_tokenize
+import spacy
 
-from ..core.constants import UPLUG, NLTK, TREETAGGER, NLTK_LANGUAGES
+from ..core.constants import UPLUG, NLTK, SPACY, TREETAGGER, NLTK_LANGUAGES, SPACY_MODELS
 
 
 def tokenize_single(file_in, file_out, language, tokenizer):
@@ -23,6 +24,9 @@ def tokenize_single(file_in, file_out, language, tokenizer):
     elif tokenizer == NLTK:
         click.echo('Using NLTK tokenization')
         nltk_tokenize(file_in, file_out, language)
+    elif tokenizer == SPACY:
+        click.echo('Using Spacy tokenization')
+        spacy_tokenize(file_in, file_out, language)
     elif tokenizer == TREETAGGER:
         # Use TreeTagger without tokenization, based on the preprocessed .txt-files
         click.echo('Using TreeTagger tokenization')
@@ -69,6 +73,43 @@ def nltk_tokenize(file_in, file_out, language):
                 paragraph = etree.SubElement(text, 'p')
                 paragraph.set('id', str(i))
                 j = 1
+
+    tree = etree.ElementTree(text)
+    tree.write(file_out, pretty_print=True, xml_declaration=True, encoding='utf-8')
+
+
+def spacy_tokenize(file_in, file_out, language):
+    spacy_model = SPACY_MODELS.get(language)
+    if not spacy_model:
+        raise click.ClickException('Tokenization in Spacy not available for language {}'.format(language))
+    nlp = spacy.load(spacy_model)
+
+    # Create counters for paragraphs
+    i = 1
+
+    # Start a text element and add a first paragraph
+    text = etree.Element('text')
+    paragraph = etree.SubElement(text, 'p')
+    paragraph.set('id', str(i))
+
+    with open(file_in, 'r') as f:
+        for line in f.readlines():
+            line = line.strip()
+            if line:
+                doc = nlp(line)
+                for j, sent in enumerate(doc.sents, start=1):
+                    sentence = etree.SubElement(paragraph, 's')
+                    sentence.set('id', 's{}.{}'.format(i, j))
+                    for k, token in enumerate(sent, start=1):
+                        word = etree.SubElement(sentence, 'w')
+                        word.set('id', 'w{}.{}.{}'.format(i, j, k))
+                        word.text = token.text
+                        word.set('tree', token.tag_)
+                        word.set('lem', token.lemma_)
+            else:
+                i += 1
+                paragraph = etree.SubElement(text, 'p')
+                paragraph.set('id', str(i))
 
     tree = etree.ElementTree(text)
     tree.write(file_out, pretty_print=True, xml_declaration=True, encoding='utf-8')

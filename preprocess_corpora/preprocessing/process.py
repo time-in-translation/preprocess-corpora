@@ -5,7 +5,7 @@ import os
 
 import click
 
-from ..core.constants import LANGUAGES, VARIETIES, UPLUG, NLTK, TREETAGGER
+from ..core.constants import LANGUAGES, VARIETIES, UPLUG, NLTK, SPACY, TREETAGGER
 from .preprocess import preprocess_single, word2txt
 from .tag import treetag_single
 from .tok import tokenize_single
@@ -16,7 +16,7 @@ from .tok import tokenize_single
 @click.argument('folder_out', type=click.Path(exists=True))
 @click.argument('language', type=click.Choice(LANGUAGES))
 @click.option('--from_word', is_flag=True)
-@click.option('--tokenizer', type=click.Choice([UPLUG, NLTK, TREETAGGER]))
+@click.option('--tokenizer', type=click.Choice([UPLUG, NLTK, SPACY, TREETAGGER]))
 @click.option('--tag', is_flag=True)
 def process_folder(folder_in, folder_out, language, from_word=False, tokenizer=UPLUG, tag=False):
     if from_word:
@@ -37,7 +37,11 @@ def process_folder(folder_in, folder_out, language, from_word=False, tokenizer=U
             tokenize_single(file_out, file_xml, language, tokenizer)
 
             if tag:
-                treetag_single(file_out, file_xml, language, tokenizer)
+                # For Spacy, tagging is done during tokenization, so no need to tag again! :-)
+                if tokenizer == SPACY:
+                    pass
+                else:
+                    treetag_single(file_out, file_xml, language, tokenizer)
 
 
 if __name__ == "__main__":
