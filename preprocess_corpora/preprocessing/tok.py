@@ -82,7 +82,10 @@ def spacy_tokenize(file_in, file_out, language):
     spacy_model = SPACY_MODELS.get(language)
     if not spacy_model:
         raise click.ClickException('Tokenization in Spacy not available for language {}'.format(language))
-    nlp = spacy.load(spacy_model)
+    # We use the statistical sentence segmenter rather than the parser,
+    # because we are (mainly) interested in sentence boundaries.
+    nlp = spacy.load(spacy_model, exclude=["parser"])
+    nlp.enable_pipe("senter")
 
     # Create counters for paragraphs
     i = 1
@@ -97,15 +100,23 @@ def spacy_tokenize(file_in, file_out, language):
             line = line.strip()
             if line:
                 doc = nlp(line)
-                for j, sent in enumerate(doc.sents, start=1):
-                    sentence = etree.SubElement(paragraph, 's')
-                    sentence.set('id', 's{}.{}'.format(i, j))
+                start_new = True
+                j = 0
+                for sent in doc.sents:
+                    if start_new:
+                        j += 1
+                        sentence = etree.SubElement(paragraph, 's')
+                        sentence.set('id', 's{}.{}'.format(i, j))
+
                     for k, token in enumerate(sent, start=1):
                         word = etree.SubElement(sentence, 'w')
                         word.set('id', 'w{}.{}.{}'.format(i, j, k))
                         word.text = token.text
                         word.set('tree', token.tag_)
                         word.set('lem', token.lemma_)
+
+                    # Do not start a new sentence for single-token sentences -- most likely an issue with the segmenter
+                    start_new = len(sent) != 1
             else:
                 i += 1
                 paragraph = etree.SubElement(text, 'p')

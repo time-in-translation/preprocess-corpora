@@ -76,6 +76,7 @@ Usage:
 | Romance    | Portuguese | pt  |       ✔       |  ✔ (Uplug)   |    ✔    |
 | Romance    | Romanian   | ro  |       ✔       |      ✗       |    ✔    |
 | Slavic     | Bulgarian  | bg  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Macedonian | mk  |       ✔       |  ✔ (Spacy)   |    ✔    |
 | Slavic     | Polish     | pl  |       ✔       |      ✗       |    ✗    |
 | Slavic     | Russian    | ru  |       ✔       |  ✔ (Uplug)   |    ✔    |
 | Celtic     | Breton     | br  |       ✔       |      ✗       |    ✗    |

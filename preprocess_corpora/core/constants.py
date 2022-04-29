@@ -16,9 +16,10 @@ ROMANCE = [CATALAN, SPANISH, FRENCH, ITALIAN, PORTUGUESE, ROMANIAN]
 
 # Slavic
 BULGARIAN = 'bg'
+MACEDONIAN = 'mk'
 POLISH = 'pl'
 RUSSIAN = 'ru'
-SLAVIC = [BULGARIAN, POLISH, RUSSIAN]
+SLAVIC = [BULGARIAN, MACEDONIAN, POLISH, RUSSIAN]
 
 # Celtic
 BRETON = 'br'
@@ -63,6 +64,7 @@ SPACY_MODELS = {
     ITALIAN: 'it_core_news_sm',
     PORTUGUESE: 'pt_core_news_sm',
     ROMANIAN: 'ro_core_news_sm',
+    MACEDONIAN: 'mk_core_news_sm',
     POLISH: 'pl_core_news_sm',
     RUSSIAN: 'ru_core_news_sm',
 }
