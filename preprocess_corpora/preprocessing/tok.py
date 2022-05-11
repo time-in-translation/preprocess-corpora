@@ -82,10 +82,10 @@ def spacy_tokenize(file_in, file_out, language):
     spacy_model = SPACY_MODELS.get(language)
     if not spacy_model:
         raise click.ClickException('Tokenization in Spacy not available for language {}'.format(language))
-    # We use the statistical sentence segmenter rather than the parser,
+    # For sentence boundaries, we use a simple model, rather than the dependency parser,
     # because we are (mainly) interested in sentence boundaries.
     nlp = spacy.load(spacy_model, exclude=["parser"])
-    nlp.enable_pipe("senter")
+    nlp.add_pipe("sentencizer")
 
     # Create counters for paragraphs
     i = 1
@@ -115,7 +115,7 @@ def spacy_tokenize(file_in, file_out, language):
                         word.set('tree', token.tag_)
                         word.set('lem', token.lemma_)
 
-                    # Do not start a new sentence for single-token sentences -- most likely an issue with the segmenter
+                    # Safeguard to not start a new sentence for single-token sentences
                     start_new = len(sent) != 1
             else:
                 i += 1
