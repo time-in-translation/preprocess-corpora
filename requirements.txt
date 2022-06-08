@@ -21,7 +21,6 @@ click==8.0.4
     # via
     #   -r requirements.in
     #   nltk
-    #   spacy
     #   typer
 cymem==2.0.6
     # via
@@ -78,7 +77,7 @@ six==1.16.0
     # via treetagger-xml
 smart-open==5.2.1
     # via pathy
-spacy==3.2.4
+spacy==3.3.1
     # via -r requirements.in
 spacy-legacy==3.0.9
     # via spacy
