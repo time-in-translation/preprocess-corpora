@@ -4,10 +4,8 @@
 #
 #    pip-compile requirements.in
 #
-blis==0.7.7
-    # via
-    #   spacy
-    #   thinc
+blis==0.7.8
+    # via thinc
 catalogue==2.0.7
     # via
     #   spacy
@@ -21,7 +19,6 @@ click==8.0.4
     # via
     #   -r requirements.in
     #   nltk
-    #   spacy
     #   typer
 cymem==2.0.6
     # via
@@ -51,7 +48,6 @@ nltk==3.7
     # via -r requirements.in
 numpy==1.22.3
     # via
-    #   blis
     #   spacy
     #   thinc
 packaging==21.3
@@ -78,7 +74,7 @@ six==1.16.0
     # via treetagger-xml
 smart-open==5.2.1
     # via pathy
-spacy==3.2.4
+spacy==3.4.0
     # via -r requirements.in
 spacy-legacy==3.0.9
     # via spacy
@@ -88,7 +84,7 @@ srsly==2.4.3
     # via
     #   spacy
     #   thinc
-thinc==8.0.15
+thinc==8.1.0
     # via spacy
 tqdm==4.64.0
     # via
