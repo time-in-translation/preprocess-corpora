@@ -51,6 +51,7 @@ Options:
     - `spacy` (requires installation of the Spacy models (and language support in Spacy))
     - `treetagger` (use the very naive tokenization in the *treetagger-xml* package (not recommended!))
 - `--tag` to tag the files (requires installation of Spacy or TreeTagger (and language support))
+- `--dialog` to detect dialogs in the generated .xml-files.
 
 
 ### Alignment
