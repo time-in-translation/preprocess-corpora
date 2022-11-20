@@ -76,6 +76,7 @@ Usage:
 | Romance    | Italian    | it  |       ✔       |      ✔       |    ✔    |
 | Romance    | Portuguese | pt  |       ✔       |  ✔ (Uplug)   |    ✔    |
 | Romance    | Romanian   | ro  |       ✔       |      ✗       |    ✔    |
+| Hellenic   | Greek      | el  |       ✔       |      ✗       |    ✔    |
 | Slavic     | Bulgarian  | bg  |       ✔       |      ✗       |    ✔    |
 | Slavic     | Macedonian | mk  |       ✔       |  ✔ (Spacy)   |    ✔    |
 | Slavic     | Polish     | pl  |       ✔       |      ✗       |    ✗    |
