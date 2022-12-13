@@ -46,7 +46,7 @@ murmurhash==1.0.9
     #   preshed
     #   spacy
     #   thinc
-nltk==3.7
+nltk==3.8
     # via -r requirements.in
 numpy==1.23.5
     # via
