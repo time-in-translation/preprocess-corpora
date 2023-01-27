@@ -54,7 +54,7 @@ numpy==1.23.5
     #   thinc
 packaging==21.3
     # via spacy
-pathy==0.8.1
+pathy==0.10.1
     # via spacy
 preshed==3.0.8
     # via
@@ -75,10 +75,12 @@ requests==2.28.1
 six==1.16.0
     # via treetagger-xml
 smart-open==5.2.1
-    # via pathy
-spacy==3.4.3
+    # via
+    #   pathy
+    #   spacy
+spacy==3.5.0
     # via -r requirements.in
-spacy-legacy==3.0.10
+spacy-legacy==3.0.12
     # via spacy
 spacy-loggers==1.0.3
     # via spacy
