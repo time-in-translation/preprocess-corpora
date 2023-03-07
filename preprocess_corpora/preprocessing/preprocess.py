@@ -6,8 +6,7 @@ import re
 import click
 from docx import Document
 
-from ..core.constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, \
-    RUSSIAN, BULGARIAN, CATALAN, SWEDISH, ROMANIAN, MACEDONIAN
+from ..core.constants import GERMAN, ENGLISH, FRENCH, ITALIAN, DUTCH, RUSSIAN, CATALAN
 
 
 def normalize_apostrophes(line):
@@ -47,6 +46,14 @@ def fix_hyphenization(language, line):
 
 def replace_quotes(language, line):
     """Replaces quote symbols with the ones suited for parsing"""
+    # Generic rules
+    line = line.replace(u'\u201C', '"')  # left double quotation mark (replace with quotation mark)
+    line = line.replace(u'\u201D', '"')  # right double quotation mark (replace with quotation mark)
+    line = line.replace(u'\u201E', '"')  # double low-9 quotation mark (replace with quotation mark)
+    line = line.replace(u'\u2018', '\'')  # left single quotation mark (replace with apostrophe)
+    line = line.replace(u'\u2019', '\'')  # right single quotation mark (replace with apostrophe)
+
+    # Language-specific rules
     if language in [GERMAN, CATALAN]:
         line = line.replace(u'\u00AB', '"')  # left-pointing double guillemet (replace with quotation mark)
         line = line.replace(u'\u00BB', '"')  # right-pointing double guillemet (replace with quotation mark)
@@ -54,11 +61,6 @@ def replace_quotes(language, line):
         line = line.replace(u'\u203A', '\'')  # right-pointing single guillemet (replace with apostrophe)
         line = line.replace('<', '\'')  # less-than sign (replace with apostrophe)
         line = line.replace('>', '\'')  # greater-than sign (replace with apostrophe)
-    if language in [DUTCH, FRENCH, CATALAN, SWEDISH]:
-        line = line.replace(u'\u201C', '"')  # left double quotation mark (replace with quotation mark)
-        line = line.replace(u'\u201D', '"')  # right double quotation mark (replace with quotation mark)
-        line = line.replace(u'\u2018', '\'')  # left single quotation mark (replace with apostrophe)
-        line = line.replace(u'\u2019', '\'')  # right single quotation mark (replace with apostrophe)
     if language == FRENCH:
         line = re.sub(r'\s\'', '\'', line)  # Remove superfluous spacing before apostrophes
     if language == DUTCH:
@@ -73,10 +75,6 @@ def replace_quotes(language, line):
         line = re.sub(r'([.,?!])\s(\"(?:\s|$))', r'\1\2', line)  # Remove spaces between punctuation and quotation mark
         line = re.sub(r'([.,?!])\s?(\")-', r'\1\2 -', line)  # Switch (or create) spacing between quotation and hyphens
         line = re.sub(r'(^\")\s', r'\1', line)  # Replace superfluous spaces at the start of the line
-    if language in [BULGARIAN, MACEDONIAN, ROMANIAN]:
-        line = line.replace(u'\u201C', '"')  # left double quotation mark (replace with quotation mark)
-        line = line.replace(u'\u201D', '"')  # right double quotation mark (replace with quotation mark)
-        line = line.replace(u'\u201E', '"')  # double low-9 quotation mark (replace with quotation mark)
     if language == CATALAN:
         line = re.sub(r'"\.[^\.]', '."', line)  # Move dots after quotation marks
         line = re.sub(r'^-(\S)', r'- \1', line)  # Add spaces to dashes at start of line

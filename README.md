@@ -2,10 +2,12 @@
 
 This repository contains Python scripts to preprocess and sentence-align parallel (or monolingual) corpora. 
 The repository heavily relies upon the software applications [Uplug](https://bitbucket.org/tiedemann/uplug/src/master/) and (in lesser respect) [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) to work.
+We are also working on adding support for [NLTK](https://www.nltk.org/) and [Spacy](https://spacy.io/). 
 
 ## Installation
 
 First, make sure to have installed [Uplug](https://bitbucket.org/tiedemann/uplug/src/master/) and [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/).
+Users intending to use [NLTK](https://www.nltk.org/) and/or [Spacy](https://spacy.io/) can skip this step.
 
 Then, create a [virtual environment](https://docs.python.org/3/library/venv.html) and activate it:
 
@@ -26,7 +28,7 @@ If you intend to use [NLTK](https://www.nltk.org/) for tokenization, be sure to 
     >>> import nltk
     >>> nltk.download('punkt')
 
-If you intend to use [Spacy](https://spacy.io/) for tokenization and tagging, be sure to download the language models (small models suffice, be sure to replace `en` with your requested language):
+If you intend to use [Spacy](https://spacy.io/) for tokenization and tagging, be sure to download the language models (small models suffice, be sure to replace `en_core_web_sm` with the model for your language):
 
     $ python -m spacy download en_core_web_sm
 
@@ -34,7 +36,7 @@ If you intend to use [Spacy](https://spacy.io/) for tokenization and tagging, be
 
 ### Preprocessing
 
-The `preprocess` script allows to preprocess raw text and then to tokenize and tag the text in the [XML format used in OPUS](http://opus.nlpl.eu/).
+The `preprocess` script allows preprocessing raw text and then to tokenize and tag the text in the [XML format used in OPUS](http://opus.nlpl.eu/).
 
 Run `preprocess` to process all unformatted .txt-files in a folder. 
 
@@ -77,10 +79,19 @@ Usage:
 | Romance    | Portuguese | pt  |       ✔       |  ✔ (Uplug)   |    ✔    |
 | Romance    | Romanian   | ro  |       ✔       |      ✗       |    ✔    |
 | Hellenic   | Greek      | el  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Belarusian | be  |       ✔       |      ✗       |    ✔    |
 | Slavic     | Bulgarian  | bg  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Czech      | cs  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Croatian   | hr  |       ✔       |  ✔ (Spacy)   |    ✔    |
+| Slavic     | Lithuanian | lt  |       ✔       |  ✔ (Spacy)   |    ✔    |
+| Slavic     | Latvian    | lv  |       ✔       |      ✗       |    ✔    |
 | Slavic     | Macedonian | mk  |       ✔       |  ✔ (Spacy)   |    ✔    |
-| Slavic     | Polish     | pl  |       ✔       |      ✗       |    ✗    |
+| Slavic     | Polish     | pl  |       ✔       |  ✔ (Spacy)   |    ✔    |
 | Slavic     | Russian    | ru  |       ✔       |  ✔ (Uplug)   |    ✔    |
+| Slavic     | Slovak     | sk  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Slovenian  | sl  |       ✔       |      ✗       |    ✔    |
+| Slavic     | Serbian    | sr  |       ✔       |      ✗       |    ✗    |
+| Slavic     | Ukrainian  | uk  |       ✔       |  ✔ (Spacy)   |    ✔    |
 | Celtic     | Breton     | br  |       ✔       |      ✗       |    ✗    |
 | Indo-Aryan | Hindi      | hi  |       ✔       |      ✗       |    ✔    |
 

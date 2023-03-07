@@ -19,11 +19,21 @@ GREEK = 'el'
 HELLENIC = [GREEK]
 
 # Slavic
+BELARUSIAN = 'be'
 BULGARIAN = 'bg'
+CZECH = 'cs'
+CROATIAN = 'hr'
+LITHUANIAN = 'lt'
+LATVIAN = 'lv'
 MACEDONIAN = 'mk'
 POLISH = 'pl'
 RUSSIAN = 'ru'
-SLAVIC = [BULGARIAN, MACEDONIAN, POLISH, RUSSIAN]
+SLOVAK = 'sk'
+SLOVENIAN = 'sl'
+SERBIAN = 'sr'
+UKRAINIAN = 'uk'
+SLAVIC = [BELARUSIAN, BULGARIAN, CZECH, CROATIAN, LITHUANIAN, LATVIAN, MACEDONIAN,
+          POLISH, RUSSIAN, SLOVAK, SLOVENIAN, SERBIAN, UKRAINIAN]
 
 # Celtic
 BRETON = 'br'
@@ -71,6 +81,9 @@ SPACY_MODELS = {
     MACEDONIAN: 'mk_core_news_sm',
     POLISH: 'pl_core_news_sm',
     RUSSIAN: 'ru_core_news_sm',
+    CROATIAN: 'hr_core_news_sm',
+    LITHUANIAN: 'lt_core_news_sm',
+    UKRAINIAN: 'uk_core_news_sm',
 }
 
 # Tokenizers and taggers
