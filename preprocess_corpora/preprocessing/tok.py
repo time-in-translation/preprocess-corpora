@@ -54,7 +54,7 @@ def nltk_tokenize(file_in, file_out, language):
     paragraph = etree.SubElement(text, 'p')
     paragraph.set('id', str(i))
 
-    with open(file_in, 'r') as f:
+    with open(file_in, 'r', encoding='utf8') as f:
         for line in f.readlines():
             line = line.strip()
             if line:
@@ -95,7 +95,7 @@ def spacy_tokenize(file_in, file_out, language):
     paragraph = etree.SubElement(text, 'p')
     paragraph.set('id', str(i))
 
-    with open(file_in, 'r') as f:
+    with open(file_in, 'r', encoding='utf8') as f:
         for line in f.readlines():
             line = line.strip()
             if line:
