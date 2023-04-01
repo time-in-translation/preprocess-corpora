@@ -89,5 +89,6 @@ SPACY_MODELS = {
 # Tokenizers and taggers
 NLTK = 'nltk'
 SPACY = 'spacy'
+STANZA = 'stanza'
 TREETAGGER = 'treetagger'
 UPLUG = 'uplug'

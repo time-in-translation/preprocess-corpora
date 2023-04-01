@@ -2,4 +2,5 @@ click
 nltk
 python-docx
 spacy
+spacy-stanza
 treetagger-xml

@@ -6,8 +6,10 @@ import click
 from lxml import etree
 from nltk.tokenize import sent_tokenize, word_tokenize
 import spacy
+import stanza
+import spacy_stanza
 
-from ..core.constants import UPLUG, NLTK, SPACY, TREETAGGER, NLTK_LANGUAGES, SPACY_MODELS
+from ..core.constants import UPLUG, NLTK, SPACY, STANZA, TREETAGGER, NLTK_LANGUAGES, SPACY_MODELS
 
 
 def tokenize_single(file_in, file_out, language, tokenizer):
@@ -27,6 +29,9 @@ def tokenize_single(file_in, file_out, language, tokenizer):
     elif tokenizer == SPACY:
         click.echo('Using Spacy tokenization')
         spacy_tokenize(file_in, file_out, language)
+    elif tokenizer == STANZA:
+        click.echo('Using Stanza tokenization')
+        stanza_tokenize(file_in, file_out, language)
     elif tokenizer == TREETAGGER:
         # Use TreeTagger without tokenization, based on the preprocessed .txt-files
         click.echo('Using TreeTagger tokenization')
@@ -84,9 +89,30 @@ def spacy_tokenize(file_in, file_out, language):
         raise click.ClickException('Tokenization in Spacy not available for language {}'.format(language))
     # For sentence boundaries, we use a simple model, rather than the dependency parser,
     # because we are (mainly) interested in sentence boundaries.
-    nlp = spacy.load(spacy_model, exclude=["parser"])
-    nlp.add_pipe("sentencizer")
+    try:
+        nlp = spacy.load(spacy_model, exclude=["parser"])
+        nlp.add_pipe("sentencizer")
+    except OSError:
+        raise click.ClickException(
+            'Spacy model for language {} not available: '
+            'please download it first with the command `python -m spacy download {}`'.format(language, spacy_model))
 
+    nlp_process(nlp, file_in, file_out)
+
+
+def stanza_tokenize(file_in, file_out, language):
+    # Download the stanza model (if necessary).
+    try:
+        stanza.download(language)
+    except ValueError:
+        raise click.ClickException('Tokenization in Stanza not available for language {}'.format(language))
+
+    nlp = spacy_stanza.load_pipeline(language, processors='tokenize,pos,lemma')
+    nlp.add_pipe('sentencizer')
+    nlp_process(nlp, file_in, file_out)
+
+
+def nlp_process(nlp, file_in, file_out):
     # Create counters for paragraphs
     i = 1
 
