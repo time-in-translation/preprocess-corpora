@@ -106,13 +106,18 @@ def stanza_tokenize(file_in, file_out, language):
         stanza.download(language)
     except ValueError:
         raise click.ClickException('Tokenization in Stanza not available for language {}'.format(language))
+    
+    try:  # this will fail if the language in question is not in SpaCy, since it's trying to use SpaCy + Stanza
+        nlp = spacy_stanza.load_pipeline(language, processors='tokenize,pos,lemma')
+        nlp.add_pipe('sentencizer')
+        nlp_process(nlp, file_in, file_out)
+    except ImportError:
+        nlp = stanza.Pipeline(lang=language, processors="tokenize,pos,lemma")
+        nlp_process(nlp, file_in, file_out, stanza_unique=True)
 
-    nlp = spacy_stanza.load_pipeline(language, processors='tokenize,pos,lemma')
-    nlp.add_pipe('sentencizer')
-    nlp_process(nlp, file_in, file_out)
 
 
-def nlp_process(nlp, file_in, file_out):
+def nlp_process(nlp, file_in, file_out, stanza_unique=False):
     # Create counters for paragraphs
     i = 1
 
@@ -128,21 +133,35 @@ def nlp_process(nlp, file_in, file_out):
                 doc = nlp(line)
                 start_new = True
                 j = 0
-                for sent in doc.sents:
-                    if start_new:
-                        j += 1
-                        sentence = etree.SubElement(paragraph, 's')
-                        sentence.set('id', 's{}.{}'.format(i, j))
 
-                    for k, token in enumerate(sent, start=1):
-                        word = etree.SubElement(sentence, 'w')
-                        word.set('id', 'w{}.{}.{}'.format(i, j, k))
-                        word.text = token.text
-                        word.set('tree', token.tag_)
-                        word.set('lem', token.lemma_)
+                for sent in doc.to_dict():
+                        if start_new:
+                            j += 1
+                            sentence = etree.SubElement(paragraph, 's')
+                            sentence.set('id', 's{}.{}'.format(i, j))
 
-                    # Safeguard to not start a new sentence for single-token sentences
-                    start_new = len(sent) != 1
+                        if stanza_unique == True:
+                            for k, token in enumerate(sent, start=1):
+                                    word = etree.SubElement(sentence, 'w')
+                                    word.set('id', 'w{}.{}.{}'.format(i, j, k))
+                                    word.text = token['text']
+                                    word.set('tree', token['upos'])  # if you want XPOS, change the text in square brackets to 'xpos'
+                                    word.set('lem', token['lemma'])
+
+                            # Safeguard to not start a new sentence for single-token sentences
+                            start_new = len(sent) != 1
+
+                        else:
+                            for k, token in enumerate(sent, start=1):
+                                word = etree.SubElement(sentence, 'w')
+                                word.set('id', 'w{}.{}.{}'.format(i, j, k))
+                                word.text = token.text
+                                word.set('tree', token.tag_)
+                                word.set('lem', token.lemma_)
+
+                            # Safeguard to not start a new sentence for single-token sentences
+                            start_new = len(sent) != 1
+
             else:
                 i += 1
                 paragraph = etree.SubElement(text, 'p')
