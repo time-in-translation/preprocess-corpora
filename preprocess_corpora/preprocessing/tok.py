@@ -106,7 +106,7 @@ def stanza_tokenize(file_in, file_out, language):
         stanza.download(language)
     except ValueError:
         raise click.ClickException('Tokenization in Stanza not available for language {}'.format(language))
-    
+
     try:  # this will fail if the language in question is not in SpaCy, since it's trying to use SpaCy + Stanza
         nlp = spacy_stanza.load_pipeline(language, processors='tokenize,pos,lemma')
         nlp.add_pipe('sentencizer')
